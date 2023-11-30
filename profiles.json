@@ -1225,6 +1225,20 @@
     "organization_id": null
   },
   {
+    "id": "f80e0b61-5382-4bcd-848a-17f6c177539d",
+    "updated_at": "2023-11-30T23:03:15.635045+00:00",
+    "username": "MortenC",
+    "valid_from": "2023-11-30T23:02:42.364+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "5f0da20e-fd0b-41e2-b4a1-2c4d92cef3b3",
+    "updated_at": "2023-11-30T23:03:40.479575+00:00",
+    "username": "Blixat",
+    "valid_from": "2023-11-30T23:05:31.633+00:00",
+    "organization_id": null
+  },
+  {
     "id": "39bb28d1-102d-46c4-9a47-2629de04de9e",
     "updated_at": "2023-11-30T20:50:31.492834+00:00",
     "username": "SY Diplomatix",
@@ -1253,6 +1267,13 @@
     "organization_id": null
   },
   {
+    "id": "8b202321-23b1-4693-9848-fe2d37346852",
+    "updated_at": "2023-11-30T23:07:03.952204+00:00",
+    "username": "d4ss",
+    "valid_from": "2023-11-30T23:07:21.364+00:00",
+    "organization_id": null
+  },
+  {
     "id": "19c6f945-1526-45f9-ba8a-d5df5eebf347",
     "updated_at": "2023-11-30T20:55:03.780046+00:00",
     "username": "IngenElskerNissegutt",
@@ -1271,6 +1292,13 @@
     "updated_at": "2023-11-30T20:58:16.3486+00:00",
     "username": "bitBug",
     "valid_from": "2023-11-30T20:58:32.538+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "be13608c-248d-4c26-b8e7-005efa955f3e",
+    "updated_at": "2023-11-30T23:08:57.723131+00:00",
+    "username": "Nibrobb",
+    "valid_from": "2023-11-30T23:09:08.222+00:00",
     "organization_id": null
   },
   {
