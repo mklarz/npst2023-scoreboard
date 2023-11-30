@@ -1,5 +1,6 @@
 import json
 import bleach
+import collections
 from datetime import datetime, timezone
 from git import Repo
 
@@ -92,8 +93,33 @@ for index, scoreboard_user in enumerate(last_scoreboard[:LIMIT]):
     } 
     series["users"].append({**base, **{"data": user["score"]}});
 
+# Extract users from profiles
+info = {
+    "registered_users": 0,
+    "hidden_users": 0,
+    "organizations": collections.defaultdict(int),
+    "users": [],
+}
+with open("profiles.min.json") as fd:
+    profiles = json.load(fd)
+    info["registered_users"] = len(profiles)
+    for profile in profiles:
+        profile["username"] = bleach.clean(profile["username"]) if profile["username"] else None
+        if not profile["username"]:
+            info["hidden_users"] += 1
+        if profile["organization_id"] is not None:
+            info["organizations"][profile["organization_id"]] += 1
+        info["users"].append(profile)
+info["users"] = sorted(info["users"], key=lambda d: d["valid_from"]) 
+
+with open("info.json", "w") as fd:
+    json.dump(info, fd)
+
 with open("series.json", "w") as fd:
     json.dump(series, fd)
+
+with open("users.json", "w") as fd:
+    json.dump(users, fd)
 
 with open("currently_maxed_users.json", "w") as fd:
     json.dump(users_currently_maxed_count_series, fd)

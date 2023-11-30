@@ -5,28 +5,139 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <!-- https://github.com/mklarz/npst2023-scoreboard -->
 <title>NPST2023 - Scoreboard</title>
+<link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet'>
 <style>
 html, body {
   margin: 0;
   background: #100C2A;
+  color: white;
+  font-family: 'Roboto';
 }
 #topUsers, #maxedUsers {
   width: 100%;
   height: 40vh;
-  padding-top: 20px;
+  padding-top: 30px;
 }
 #maxedUsers {
   padding-top: 50px;
+  padding-bottom: 30px;
+}
+#title {
+  padding: 2rem;
+  font-size: 5rem;
+  text-align: center;
+}
+#infoContainer {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding-bottom: 30px;
+}
+#info {
+  width: 50%;
+  display: flex;
+  justify-content: space-around;
+}
+.infoItem {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  --padding: 2rem;
+}
+.infoTitle {
+  font-weight: bold;
+  font-size: 2.5rem;
+}
+.infoValue {
+  --padding: 2rem;
+  font-size: 2rem;
+}
+#usersContainer {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding-bottom: 30px;
+}
+#users {
+  width: 80%;
+  display: flex;
+  justify-content: center;
+}
+table {
+  width: 100%;
+  text-align: left;
+  border-collapse: collapse;
+}
+tr {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+  border-collapse: collapse;
+}
+th, td {
+  padding: 20px;
+}
+th {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+tr:hover {
+  background-color: rgba(255, 255, 255, 0.1);
 }
 </style>
 </head>
 <body>
+<div id="title">NPST2023</div>
+<div id="infoContainer">
+  <div id="info">
+    <div class="infoItem">
+      <div class="infoTitle">Registered users</div>
+      <div class="infoValue" id="registeredUsers">?</div>
+    </div>
+    <div class="infoItem">
+      <div class="infoTitle">Hidden users</div>
+      <div class="infoValue" id="hiddenUsers">?</div>
+    </div>
+  </div>
+</div>
+<hr>
 <div id="topUsers"></div>
 <div id="maxedUsers"></div>
+<hr>
+<div id="usersContainer">
+  <div id="users">
+    <table id="usersTable">
+      <thead>
+        <tr>
+          <th>ID</th>
+          <th>Valid from</th>
+          <th>Org. ID</th>
+          <th>Username</th>
+        </tr>
+      </thead>
+      <tbody>
+      </tbody>
+    </table>
+  </div>
+</div>
 <script src="./static/echarts-5.2.2.min.js" integrity="sha512-ivdGNkeO+FTZH5ZoVC4gS4ovGSiWc+6v60/hvHkccaMN2BXchfKdvEZtviy5L4xSpF8NPsfS0EVNSGf+EsUdxA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script src="./static/jquery-3.6.0.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script src="./static/theme.js" integirty="sha512-e5yUjHlsMcLwsXP8QBpfUofcbF3vG5oEbSiqvkTM/ShCzG7R9+HWBmQhI22nBXIq" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script>
+function addInfoData(data) {
+  document.getElementById("registeredUsers").textContent = data["registered_users"];
+  document.getElementById("hiddenUsers").textContent = data["hidden_users"];
+  var usersTable = document.getElementById("usersTable");
+  data["users"].forEach((user) => {
+    var userRow = usersTable.insertRow(-1);
+    var id = userRow.insertCell(0);
+    var validFrom = userRow.insertCell(1);
+    var orgId = userRow.insertCell(2);
+    var username = userRow.insertCell(3);
+    id.innerText = user["id"];
+    validFrom.innerText = user["valid_from"];
+    orgId.innerText = user["organization_id"];
+    username.innerText = user["username"];
+  })
+}
 function addTopData(data) {
   var chart = echarts.init(document.getElementById('topUsers'), 'dark');
   chart.setOption({
@@ -165,6 +276,7 @@ function addMaxedData(data) {
   });
 }
 document.addEventListener('DOMContentLoaded', function () {
+  $.getJSON("./info.json", addInfoData);
   $.getJSON("./series.json", addTopData);
   $.getJSON("./currently_maxed_users.json", addMaxedData);
 });
