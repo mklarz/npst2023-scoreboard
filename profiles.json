@@ -446,5 +446,26 @@
     "username": "pettersmoen",
     "valid_from": "2023-11-30T13:29:56.897+00:00",
     "organization_id": null
+  },
+  {
+    "id": "c128a195-e338-4db5-b32c-a2834e42ec00",
+    "updated_at": "2023-11-30T13:36:50.930325+00:00",
+    "username": "Esiotrot",
+    "valid_from": "2023-11-30T13:37:05.938+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "d082fd0e-36a5-40e7-8109-d6025a3d17e1",
+    "updated_at": "2023-11-30T13:38:37.463179+00:00",
+    "username": "mbombastic",
+    "valid_from": "2023-11-30T13:39:04.901+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "9394378f-f68a-4e81-be10-5a53b47345cc",
+    "updated_at": "2023-11-30T13:39:58.201624+00:00",
+    "username": null,
+    "valid_from": "2023-11-30T13:39:58.201624+00:00",
+    "organization_id": null
   }
 ]
