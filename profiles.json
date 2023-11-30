@@ -1006,5 +1006,12 @@
     "username": "Kjetil",
     "valid_from": "2023-11-30T15:46:06.633+00:00",
     "organization_id": null
+  },
+  {
+    "id": "bc211e28-0a36-47ab-9f4b-6d62913889c1",
+    "updated_at": "2023-11-30T15:53:59.547979+00:00",
+    "username": null,
+    "valid_from": "2023-11-30T15:53:59.547979+00:00",
+    "organization_id": null
   }
 ]
