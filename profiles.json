@@ -1335,5 +1335,19 @@
     "username": "Aeolus",
     "valid_from": "2023-11-30T18:20:58.319+00:00",
     "organization_id": null
+  },
+  {
+    "id": "84895ee1-c839-46f3-b4a8-0919f19472f7",
+    "updated_at": "2023-11-30T18:25:08.114999+00:00",
+    "username": null,
+    "valid_from": "2023-11-30T18:25:08.114999+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "63c8ace6-9963-4316-aab6-1df7bfefaa2d",
+    "updated_at": "2023-11-30T18:26:31.782262+00:00",
+    "username": "kid",
+    "valid_from": "2023-11-30T18:28:36.914+00:00",
+    "organization_id": null
   }
 ]
