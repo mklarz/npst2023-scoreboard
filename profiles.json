@@ -894,5 +894,19 @@
     "username": "Fireholt",
     "valid_from": "2023-11-30T15:04:18.248+00:00",
     "organization_id": null
+  },
+  {
+    "id": "eb016b47-8ae1-4fc3-9fdc-6f56746f2581",
+    "updated_at": "2023-11-30T15:05:29.254009+00:00",
+    "username": "Krompel",
+    "valid_from": "2023-11-30T15:06:16.369+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "6f679f3a-d432-46c7-9037-2e96e61c79c5",
+    "updated_at": "2023-11-30T15:09:33.843452+00:00",
+    "username": "sofa_løser",
+    "valid_from": "2023-11-30T15:09:46.687+00:00",
+    "organization_id": null
   }
 ]
