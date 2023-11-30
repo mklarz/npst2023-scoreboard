@@ -1314,5 +1314,19 @@
     "username": "Laud Nøtteknekkere",
     "valid_from": "2023-11-30T18:14:21.079+00:00",
     "organization_id": null
+  },
+  {
+    "id": "65178d71-6308-4ea2-b447-ea5374b9ab56",
+    "updated_at": "2023-11-30T18:16:18.780214+00:00",
+    "username": "cer",
+    "valid_from": "2023-11-30T18:16:26.438+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "16f7ba70-24bd-4447-a584-2498608a0bc0",
+    "updated_at": "2023-11-30T18:18:08.789179+00:00",
+    "username": null,
+    "valid_from": "2023-11-30T18:18:52.236+00:00",
+    "organization_id": 3
   }
 ]
