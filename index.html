@@ -1,0 +1,173 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- https://github.com/mklarz/npst2023-scoreboard -->
+<title>NPST2023 - Scoreboard</title>
+<style>
+html, body {
+  margin: 0;
+  background: #100C2A;
+}
+#topUsers, #maxedUsers {
+  width: 100%;
+  height: 40vh;
+  padding-top: 20px;
+}
+#maxedUsers {
+  padding-top: 50px;
+}
+</style>
+</head>
+<body>
+<div id="topUsers"></div>
+<div id="maxedUsers"></div>
+<script src="./static/echarts-5.2.2.min.js" integrity="sha512-ivdGNkeO+FTZH5ZoVC4gS4ovGSiWc+6v60/hvHkccaMN2BXchfKdvEZtviy5L4xSpF8NPsfS0EVNSGf+EsUdxA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="./static/jquery-3.6.0.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="./static/theme.js" integirty="sha512-e5yUjHlsMcLwsXP8QBpfUofcbF3vG5oEbSiqvkTM/ShCzG7R9+HWBmQhI22nBXIq" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script>
+function addTopData(data) {
+  var chart = echarts.init(document.getElementById('topUsers'), 'dark');
+  chart.setOption({
+    title: {
+      left: 'center',
+        text: `NPST2023 - Top ${data.users.length} Users`
+    },
+    tooltip: {
+      order: 'valueDesc',
+      trigger: 'axis'
+    },
+    toolbox: {
+      feature: {
+        saveAsImage: {}
+      }
+    },
+    legend: {
+      bottom: 0,
+      show: true,
+      tooltip: {
+        show: true,
+        formatter: function(params) {
+          var user = data.users.find(user => user.name == params.name);
+          var last = user.data[user.data.length - 1][0]
+          return `<b>${params.name}</b><br>${last}`;
+        }
+      }
+    },
+    xAxis: {
+      type: 'time',
+    },
+    yAxis: {
+      type: 'value',
+      name: 'score'
+    },
+    series: data.users
+  });
+}
+function addMaxedData(data) {
+  var newChallengeDaysData = [];
+  var noChallengeDaysData = [];
+  for (var d = new Date(Date.UTC(2021, 11, 1, 17)); d < new Date(Date.UTC(2021, 11, 31)); d.setDate(d.getDate() + 1)) {
+    var nextDate = new Date(d);
+    nextDate.setDate(nextDate.getDate() + 1);
+    if (d.getDay() == 1) {
+      noChallengeDaysData.push([
+        {
+          name: 'No new challenge',
+          xAxis: d.toISOString()
+        },
+        {
+          xAxis: nextDate.toISOString()
+        }
+      ])
+    } else {
+      // Monday
+      newChallengeDaysData.push([
+        {
+          // name: 'New challenge',
+          xAxis: d.toISOString(),
+          yAxis: 0
+        },
+        {
+          xAxis: d.toISOString(),
+          yAxis: 'max'
+        }
+      ])
+    }
+  }
+
+  var chart = echarts.init(document.getElementById('maxedUsers'), 'dark');
+  chart.setOption({
+    title: {
+      left: 'center',
+        text: 'NPST2023 - Users Maxed'
+    },
+    tooltip: {
+      order: 'valueDesc',
+      trigger: 'axis',
+      axisPointer: {
+        show: true,
+        type: 'cross',
+        label: {
+          formatter: function (params) {
+            var label = "";
+            if (params.axisDimension == "y") {
+                label = Math.floor(params.value);
+            } else {
+              label = echarts.format.formatTime("yyyy-MM-dd hh:mm:ss", params.value);
+            }
+            return label;
+          }
+        }
+      }
+    },
+    dataZoom: [
+      {
+        type: 'inside'
+      },
+      {
+        type: 'slider'
+      }
+    ],
+    toolbox: {
+      feature: {
+        saveAsImage: {}
+      }
+    },
+    xAxis: {
+      type: 'time',
+    },
+    yAxis: {
+      type: 'value',
+      name: 'users',
+    },
+    series: [{
+      name: 'Users maxed',
+      type: 'line',
+      showSymbol: false,
+      data: data,
+      markLine: {
+        symbol: ['none', 'none'],
+        lineStyle: {
+          color: 'rgba(255, 255, 255, 0.3)'
+        },
+        animation: false,
+        data: newChallengeDaysData
+      },
+      markArea: {
+        itemStyle: {
+          color: 'rgba(73, 146, 255, 0.1)'
+        },
+        data: noChallengeDaysData
+      }
+    }]
+  });
+}
+document.addEventListener('DOMContentLoaded', function () {
+  $.getJSON("./series.json", addTopData);
+  $.getJSON("./currently_maxed_users.json", addMaxedData);
+});
+</script>
+</body>
+</html>
