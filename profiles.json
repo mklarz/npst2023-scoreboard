@@ -1134,6 +1134,13 @@
     "organization_id": null
   },
   {
+    "id": "76e55df6-36ad-4a87-9acc-789a732d752f",
+    "updated_at": "2023-11-30T17:35:38.104802+00:00",
+    "username": "NUB",
+    "valid_from": "2023-11-30T17:36:00.183+00:00",
+    "organization_id": null
+  },
+  {
     "id": "64d0bf74-1658-41c7-acbb-9a03c5fd38f8",
     "updated_at": "2023-11-30T15:25:29.030653+00:00",
     "username": "ZinoX",
@@ -1146,6 +1153,13 @@
     "username": null,
     "valid_from": "2023-11-30T15:26:53.452968+00:00",
     "organization_id": null
+  },
+  {
+    "id": "288b5bbb-c70a-4b32-b9a2-d77a37287bb4",
+    "updated_at": "2023-11-30T17:37:48.083545+00:00",
+    "username": null,
+    "valid_from": "2023-11-30T17:39:26.288+00:00",
+    "organization_id": 1
   },
   {
     "id": "6b34858b-ada8-464a-ac14-d288e1102d78",
