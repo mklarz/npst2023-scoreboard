@@ -1370,5 +1370,54 @@
     "username": "Loading...",
     "valid_from": "2023-11-30T18:43:59.452+00:00",
     "organization_id": null
+  },
+  {
+    "id": "23a96100-ca4d-42c3-984f-7caeb4d7afd3",
+    "updated_at": "2023-11-30T18:45:15.184441+00:00",
+    "username": null,
+    "valid_from": "2023-11-30T18:45:15.184441+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "98c07b26-c7d5-4059-b335-55e9bc022107",
+    "updated_at": "2023-11-30T18:45:12.664165+00:00",
+    "username": "Villdyr",
+    "valid_from": "2023-11-30T18:45:26.325+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "626bc78e-17ba-40c1-ad46-102ff0436cf2",
+    "updated_at": "2023-11-30T18:45:41.455402+00:00",
+    "username": "Overtenkern",
+    "valid_from": "2023-11-30T18:45:54.498+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "e1e3b421-685e-4283-a228-a2f926ac1d79",
+    "updated_at": "2023-11-30T18:47:04.170634+00:00",
+    "username": "sivert",
+    "valid_from": "2023-11-30T18:47:14.737+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "0543208f-b0d7-4eac-acb6-af2eef413b93",
+    "updated_at": "2023-11-30T18:47:56.894455+00:00",
+    "username": null,
+    "valid_from": "2023-11-30T18:47:56.894455+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "4dcaf859-ca7a-4641-9602-0d5113a3cabe",
+    "updated_at": "2023-11-30T18:47:05.993206+00:00",
+    "username": "Dirk Pitt",
+    "valid_from": "2023-11-30T18:48:05.575+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "0d0df28f-557b-4269-835c-f0a9e65a9b14",
+    "updated_at": "2023-11-30T18:48:17.684235+00:00",
+    "username": "Æ KAN ITJ Å LÆS",
+    "valid_from": "2023-11-30T18:48:32.766+00:00",
+    "organization_id": null
   }
 ]
