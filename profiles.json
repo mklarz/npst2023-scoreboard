@@ -1043,6 +1043,20 @@
     "organization_id": null
   },
   {
+    "id": "51061eab-5807-4dba-a45d-f14da494fc19",
+    "updated_at": "2023-11-30T20:20:24.325818+00:00",
+    "username": null,
+    "valid_from": "2023-11-30T20:24:09.138+00:00",
+    "organization_id": 1
+  },
+  {
+    "id": "be78fbb2-d420-411e-8be2-90f74a7f3b46",
+    "updated_at": "2023-11-30T20:24:17.549923+00:00",
+    "username": "kristians",
+    "valid_from": "2023-11-30T20:24:30.634+00:00",
+    "organization_id": null
+  },
+  {
     "id": "bc211e28-0a36-47ab-9f4b-6d62913889c1",
     "updated_at": "2023-11-30T15:53:59.547979+00:00",
     "username": "yolo",
