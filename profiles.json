@@ -1211,6 +1211,13 @@
     "organization_id": null
   },
   {
+    "id": "ee03d771-7aaf-4335-a9be-26fafd4b4af3",
+    "updated_at": "2023-11-30T17:51:37.309232+00:00",
+    "username": "johems",
+    "valid_from": "2023-11-30T17:52:00.367+00:00",
+    "organization_id": null
+  },
+  {
     "id": "fe8f37b5-dfb5-4da0-89de-edae7a9f6a8e",
     "updated_at": "2023-11-30T15:45:57.78061+00:00",
     "username": "Kjetil",
@@ -1232,10 +1239,24 @@
     "organization_id": null
   },
   {
+    "id": "7e65a435-8a84-434f-a385-8d35dae41cb4",
+    "updated_at": "2023-11-30T17:52:22.21184+00:00",
+    "username": "Ole",
+    "valid_from": "2023-11-30T17:52:29.815+00:00",
+    "organization_id": null
+  },
+  {
     "id": "edbeaa0a-d222-4336-aa34-874646703628",
     "updated_at": "2023-11-30T16:05:29.177107+00:00",
     "username": "TrossAlt",
     "valid_from": "2023-11-30T16:05:40.925+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "06bedf82-4235-43f6-bc18-623737df7274",
+    "updated_at": "2023-11-30T17:52:29.477218+00:00",
+    "username": "Guitaristotle",
+    "valid_from": "2023-11-30T17:53:25.088+00:00",
     "organization_id": null
   },
   {
