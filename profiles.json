@@ -1057,6 +1057,13 @@
     "organization_id": null
   },
   {
+    "id": "77c78bbe-6aec-466d-a8cb-5172857ea309",
+    "updated_at": "2023-11-30T17:26:58.178383+00:00",
+    "username": "steff2401",
+    "valid_from": "2023-11-30T17:27:16.639+00:00",
+    "organization_id": null
+  },
+  {
     "id": "6f679f3a-d432-46c7-9037-2e96e61c79c5",
     "updated_at": "2023-11-30T15:09:33.843452+00:00",
     "username": "sofa_løser",
@@ -1064,10 +1071,24 @@
     "organization_id": null
   },
   {
+    "id": "e07cbf6c-a7e9-4d4a-be5d-ff5dc5f88429",
+    "updated_at": "2023-11-30T17:27:12.844749+00:00",
+    "username": "Jeanette",
+    "valid_from": "2023-11-30T17:27:45.636+00:00",
+    "organization_id": null
+  },
+  {
     "id": "8d773501-4caa-4288-b98e-88207a5591b3",
     "updated_at": "2023-11-30T15:10:22.997394+00:00",
     "username": "brudvik",
     "valid_from": "2023-11-30T15:10:41.927+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "d0667172-fcde-4b52-b4e1-5e8f54fe4925",
+    "updated_at": "2023-11-30T17:29:19.829407+00:00",
+    "username": null,
+    "valid_from": "2023-11-30T17:29:19.829407+00:00",
     "organization_id": null
   },
   {
