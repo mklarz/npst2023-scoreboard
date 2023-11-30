@@ -917,6 +917,13 @@
     "organization_id": null
   },
   {
+    "id": "7c2f173e-e977-4053-83f1-fdddb4c705f3",
+    "updated_at": "2023-11-30T17:05:10.657192+00:00",
+    "username": "Vinkel",
+    "valid_from": "2023-11-30T17:06:33.122+00:00",
+    "organization_id": null
+  },
+  {
     "id": "bc211e28-0a36-47ab-9f4b-6d62913889c1",
     "updated_at": "2023-11-30T15:53:59.547979+00:00",
     "username": "yolo",
@@ -977,6 +984,13 @@
     "updated_at": "2023-11-30T14:53:21.589119+00:00",
     "username": null,
     "valid_from": "2023-11-30T14:53:21.589119+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "dcc9a877-2813-41d4-9dc0-fce564f8343e",
+    "updated_at": "2023-11-30T17:07:31.276223+00:00",
+    "username": "solli",
+    "valid_from": "2023-11-30T17:07:39.227+00:00",
     "organization_id": null
   },
   {
