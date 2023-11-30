@@ -838,5 +838,26 @@
     "username": "tronderhack",
     "valid_from": "2023-11-30T14:49:18.81+00:00",
     "organization_id": null
+  },
+  {
+    "id": "c5784a05-3f9a-4604-abc0-ef05925f373d",
+    "updated_at": "2023-11-30T14:50:53.403091+00:00",
+    "username": "kameratsky",
+    "valid_from": "2023-11-30T14:52:01.12+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "02c05646-9a93-44f1-a421-0fc20e02d361",
+    "updated_at": "2023-11-30T14:53:21.589119+00:00",
+    "username": null,
+    "valid_from": "2023-11-30T14:53:21.589119+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "27fd74cc-51a6-4e38-8d3b-ac9b7b209f18",
+    "updated_at": "2023-11-30T14:54:28.667868+00:00",
+    "username": "snek",
+    "valid_from": "2023-11-30T14:54:41.493+00:00",
+    "organization_id": null
   }
 ]
