@@ -833,13 +833,6 @@
     "organization_id": null
   },
   {
-    "id": "f492f39f-1481-4c2d-815b-b7019c6a3c24",
-    "updated_at": "2023-11-30T16:27:03.966122+00:00",
-    "username": "Scalpel",
-    "valid_from": "2023-11-30T16:27:18.423+00:00",
-    "organization_id": null
-  },
-  {
     "id": "e94d4f0b-ecb5-4d58-ae11-b1eba3af0b27",
     "updated_at": "2023-11-30T16:27:31.88104+00:00",
     "username": "Puddelmamsen",
@@ -886,6 +879,20 @@
     "updated_at": "2023-11-30T16:39:38.132156+00:00",
     "username": null,
     "valid_from": "2023-11-30T16:39:38.132156+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "76b3c880-8d07-4479-93ee-6ce8bd5c60f9",
+    "updated_at": "2023-11-30T16:40:02.418283+00:00",
+    "username": null,
+    "valid_from": "2023-11-30T16:40:15.617+00:00",
+    "organization_id": 2
+  },
+  {
+    "id": "f492f39f-1481-4c2d-815b-b7019c6a3c24",
+    "updated_at": "2023-11-30T16:27:03.966122+00:00",
+    "username": "Scalpel🎅🍷",
+    "valid_from": "2023-11-30T16:44:32.567+00:00",
     "organization_id": null
   },
   {
