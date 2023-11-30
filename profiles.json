@@ -28,6 +28,13 @@
     "organization_id": null
   },
   {
+    "id": "ae1fb7da-7b62-4a63-9345-12631eb402cf",
+    "updated_at": "2023-11-30T21:50:58.541354+00:00",
+    "username": null,
+    "valid_from": "2023-11-30T21:50:58.541354+00:00",
+    "organization_id": null
+  },
+  {
     "id": "27603dca-8b8c-4dd2-91f3-9fe365c684ee",
     "updated_at": "2023-11-09T09:07:41.521856+00:00",
     "username": null,
@@ -826,10 +833,24 @@
     "organization_id": null
   },
   {
+    "id": "5353dcdf-5ef7-4b2e-8429-eb53f9789afe",
+    "updated_at": "2023-11-30T21:57:08.138576+00:00",
+    "username": "Tentom",
+    "valid_from": "2023-11-30T21:57:34.589+00:00",
+    "organization_id": null
+  },
+  {
     "id": "87eb87d2-400e-4de9-95c0-8c42f2f90ee7",
     "updated_at": "2023-11-30T16:26:17.389259+00:00",
     "username": "Tjollabing",
     "valid_from": "2023-11-30T16:26:28.597+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "69d32ab6-bc72-4fd1-99ae-da603463112a",
+    "updated_at": "2023-11-30T21:59:04.463152+00:00",
+    "username": "TxBerg",
+    "valid_from": "2023-11-30T21:59:41.808+00:00",
     "organization_id": null
   },
   {
