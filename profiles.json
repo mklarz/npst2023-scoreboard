@@ -2604,6 +2604,13 @@
     "organization_id": null
   },
   {
+    "id": "c64974d9-6a0a-4836-bc48-d7fd5453b5bb",
+    "updated_at": "2023-12-01T08:10:41.98202+00:00",
+    "username": "MarkyMark",
+    "valid_from": "2023-12-01T15:16:15.064+00:00",
+    "organization_id": null
+  },
+  {
     "id": "00ec6f29-8575-4d78-9e8e-207f754db841",
     "updated_at": "2023-12-01T07:53:28.686177+00:00",
     "username": "Aimes",
@@ -2678,13 +2685,6 @@
     "updated_at": "2023-12-01T08:10:19.410697+00:00",
     "username": "TPU",
     "valid_from": "2023-12-01T08:10:25.988+00:00",
-    "organization_id": null
-  },
-  {
-    "id": "c64974d9-6a0a-4836-bc48-d7fd5453b5bb",
-    "updated_at": "2023-12-01T08:10:41.98202+00:00",
-    "username": null,
-    "valid_from": "2023-12-01T08:10:41.98202+00:00",
     "organization_id": null
   },
   {
@@ -4886,13 +4886,6 @@
     "organization_id": null
   },
   {
-    "id": "a9168551-c71f-4e7f-ab91-247d1f0e9004",
-    "updated_at": "2023-11-30T23:21:26.557821+00:00",
-    "username": "nitrobit",
-    "valid_from": "2023-12-01T12:59:22.508+00:00",
-    "organization_id": null
-  },
-  {
     "id": "adc16197-8072-40d3-b8ce-3e705f7285a0",
     "updated_at": "2023-12-01T14:29:26.621367+00:00",
     "username": null,
@@ -5464,6 +5457,13 @@
     "updated_at": "2023-12-01T15:11:36.922655+00:00",
     "username": "Loki",
     "valid_from": "2023-12-01T15:11:56.172+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "29ab3e01-0c0c-480c-9d5b-d963eb2274b7",
+    "updated_at": "2023-12-01T15:16:26.112304+00:00",
+    "username": "Løiten",
+    "valid_from": "2023-12-01T15:16:41.831+00:00",
     "organization_id": null
   },
   {
@@ -6227,6 +6227,13 @@
     "updated_at": "2023-12-01T13:17:58.477154+00:00",
     "username": "varg",
     "valid_from": "2023-12-01T13:35:29.209+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "a9168551-c71f-4e7f-ab91-247d1f0e9004",
+    "updated_at": "2023-11-30T23:21:26.557821+00:00",
+    "username": "🏴‍☠️nitrobit",
+    "valid_from": "2023-12-01T15:16:26.604+00:00",
     "organization_id": null
   }
 ]
