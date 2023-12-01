@@ -24,12 +24,22 @@ last_users_currently_maxed_count = 0
 for commit in commits:
     commit_datetime = datetime.utcfromtimestamp(commit.committed_date).replace(tzinfo=timezone.utc)
     print("Parsing: {} - {}".format(commit.hexsha, commit_datetime))
-    content = repo.git.show('{}:{}'.format(commit.hexsha, "scoreboard_test.min.json")).strip()
     try:
-        scoreboard = json.loads(content)
-    except Exception as e:
-        # print(scoreboard)
-        # print("Error for scoreboard ", e)
+        content = repo.git.show('{}:{}'.format(commit.hexsha, "scoreboard_test.min.json")).strip()
+        try:
+            scoreboard = json.loads(content)
+        except Exception as e:
+            # print(scoreboard)
+            # print("Error for scoreboard ", e)
+            continue
+    except Exception as e2:
+        content = repo.git.show('{}:{}'.format(commit.hexsha, "scoreboard.min.json")).strip()
+        try:
+            scoreboard = json.loads(content)
+        except Exception as e:
+            # print(scoreboard)
+            # print("Error for scoreboard ", e)
+            continue
         continue
 
     # Which day in the calendar are we on?
