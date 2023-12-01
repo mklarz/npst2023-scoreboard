@@ -931,6 +931,13 @@
     "organization_id": null
   },
   {
+    "id": "e5b97909-0839-4f53-b34c-0cead408ba63",
+    "updated_at": "2023-12-01T22:00:48.476205+00:00",
+    "username": "Svampen",
+    "valid_from": "2023-12-01T22:01:20.822+00:00",
+    "organization_id": null
+  },
+  {
     "id": "76b3c880-8d07-4479-93ee-6ce8bd5c60f9",
     "updated_at": "2023-11-30T16:40:02.418283+00:00",
     "username": null,
@@ -3164,6 +3171,13 @@
     "organization_id": null
   },
   {
+    "id": "c80bfff8-c335-44f7-9acf-09c76ac8be1d",
+    "updated_at": "2023-12-01T11:20:09.956885+00:00",
+    "username": "carvyman",
+    "valid_from": "2023-12-01T22:02:47.596+00:00",
+    "organization_id": null
+  },
+  {
     "id": "d870a686-2021-471c-8a14-13c16d5b2b57",
     "updated_at": "2023-12-01T10:08:01.475944+00:00",
     "username": "dregen",
@@ -3441,13 +3455,6 @@
     "updated_at": "2023-12-01T11:17:30.80645+00:00",
     "username": "Atreides",
     "valid_from": "2023-12-01T11:19:00.698+00:00",
-    "organization_id": null
-  },
-  {
-    "id": "c80bfff8-c335-44f7-9acf-09c76ac8be1d",
-    "updated_at": "2023-12-01T11:20:09.956885+00:00",
-    "username": null,
-    "valid_from": "2023-12-01T11:20:09.956885+00:00",
     "organization_id": null
   },
   {
@@ -5481,6 +5488,13 @@
     "organization_id": null
   },
   {
+    "id": "aef1f917-0d62-4e4a-9b74-9dcfda43339e",
+    "updated_at": "2023-12-01T22:01:37.45463+00:00",
+    "username": "AndyN0m0",
+    "valid_from": "2023-12-01T22:02:12.538+00:00",
+    "organization_id": null
+  },
+  {
     "id": "a7324b7c-3866-456a-b544-e0751d7f27cb",
     "updated_at": "2023-12-01T12:19:16.967238+00:00",
     "username": "larsj",
@@ -6223,6 +6237,27 @@
     "organization_id": null
   },
   {
+    "id": "c563ad47-f3fb-4fa9-bd50-58086bb7d7d7",
+    "updated_at": "2023-12-01T22:03:41.128056+00:00",
+    "username": "AlidaDuval",
+    "valid_from": "2023-12-01T22:04:05.628+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "63686d39-cbd9-4b1d-9eaf-99302c1a617b",
+    "updated_at": "2023-12-01T22:08:22.966535+00:00",
+    "username": "Ewa",
+    "valid_from": "2023-12-01T22:08:41.351+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "43cfad0d-00b2-432a-b314-56bd2d1152bd",
+    "updated_at": "2023-12-01T22:10:54.679845+00:00",
+    "username": "Rexx",
+    "valid_from": "2023-12-01T22:10:58.818+00:00",
+    "organization_id": null
+  },
+  {
     "id": "20faeb30-ab4b-4a0e-b55e-5b61f2f46b9c",
     "updated_at": "2023-12-01T15:33:07.886379+00:00",
     "username": null,
@@ -6230,10 +6265,24 @@
     "organization_id": null
   },
   {
+    "id": "c9b2c169-5713-472d-80bd-dae0147668b3",
+    "updated_at": "2023-12-01T22:09:46.211849+00:00",
+    "username": "Safewood",
+    "valid_from": "2023-12-01T22:09:53.833+00:00",
+    "organization_id": null
+  },
+  {
     "id": "90d1157c-2ddd-4f15-b239-ed6ec9776623",
     "updated_at": "2023-12-01T15:35:56.611288+00:00",
     "username": "MightyPanda_",
     "valid_from": "2023-12-01T15:36:08.315+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "b89eafca-55b6-4b41-a0c9-dd7418171845",
+    "updated_at": "2023-12-01T22:12:02.788533+00:00",
+    "username": "Tobbe",
+    "valid_from": "2023-12-01T22:12:21.993+00:00",
     "organization_id": null
   },
   {
@@ -6276,6 +6325,13 @@
     "updated_at": "2023-12-01T15:47:11.804711+00:00",
     "username": null,
     "valid_from": "2023-12-01T15:47:11.804711+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "dd62e2a1-869c-40b6-9923-86fa5f1e1d01",
+    "updated_at": "2023-12-01T22:13:09.427804+00:00",
+    "username": null,
+    "valid_from": "2023-12-01T22:13:09.427804+00:00",
     "organization_id": null
   },
   {
@@ -7023,8 +7079,8 @@
   {
     "id": "7128567b-7e7b-4ff6-828d-7b4beefe80a4",
     "updated_at": "2023-12-01T20:52:35.176969+00:00",
-    "username": "knut-egil",
-    "valid_from": "2023-12-01T21:55:30.68+00:00",
+    "username": "linkedin.com/in/knut-egil",
+    "valid_from": "2023-12-01T22:13:17.677+00:00",
     "organization_id": null
   },
   {
