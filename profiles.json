@@ -2065,10 +2065,31 @@
     "organization_id": null
   },
   {
+    "id": "aa6aad4f-bb56-4780-995c-3fc08f358961",
+    "updated_at": "2023-12-01T06:24:35.630644+00:00",
+    "username": "opita",
+    "valid_from": "2023-12-01T06:24:50.816+00:00",
+    "organization_id": null
+  },
+  {
     "id": "88b86da2-4a5c-439f-8525-99632f8e408d",
     "updated_at": "2023-11-30T21:41:08.041401+00:00",
     "username": "zanmat0",
     "valid_from": "2023-11-30T21:41:32.175+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "1c95d75c-9a66-4276-bfab-034f3391e1df",
+    "updated_at": "2023-12-01T06:24:07.716388+00:00",
+    "username": "Stokk",
+    "valid_from": "2023-12-01T06:25:29.975+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "500228ea-4837-478f-9eae-c92838167784",
+    "updated_at": "2023-12-01T06:27:55.020163+00:00",
+    "username": "Skanin",
+    "valid_from": "2023-12-01T06:28:04.272+00:00",
     "organization_id": null
   }
 ]
