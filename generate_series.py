@@ -6,7 +6,7 @@ from git import Repo
 
 # Quick, dirty and very inefficent script to generate formatted data for the line graph
 LIMIT = 10
-START_DATETIME = datetime(2023, 3, 30, 1, tzinfo=timezone.utc)
+START_DATETIME = datetime(2023, 12, 1, 12, tzinfo=timezone.utc)
 START_TIMESTAMP = START_DATETIME.isoformat()
 
 def format_item(timestamp, value):
@@ -23,6 +23,10 @@ print("Parsing {} commits and creating series.json".format(len(commits)))
 last_users_currently_maxed_count = 0
 for commit in commits:
     commit_datetime = datetime.utcfromtimestamp(commit.committed_date).replace(tzinfo=timezone.utc)
+
+    if START_DATETIME > commit_datetime:
+        continue
+
     print("Parsing: {} - {}".format(commit.hexsha, commit_datetime))
     try:
         content = repo.git.show('{}:{}'.format(commit.hexsha, "scoreboard_test.min.json")).strip()
