@@ -2373,6 +2373,13 @@
     "organization_id": null
   },
   {
+    "id": "2df1b4da-81de-4f69-9983-7dc17b0b650c",
+    "updated_at": "2023-12-01T12:13:57.975122+00:00",
+    "username": "klorfrosken",
+    "valid_from": "2023-12-01T12:14:27.71+00:00",
+    "organization_id": null
+  },
+  {
     "id": "6bd65db8-9bb0-4e72-b745-7ba16f8232ef",
     "updated_at": "2023-12-01T07:32:37.456424+00:00",
     "username": "CyRanger1",
@@ -3962,6 +3969,13 @@
     "organization_id": null
   },
   {
+    "id": "d0e0d156-4248-482a-b542-bf723a6f5edb",
+    "updated_at": "2023-12-01T12:14:40.286608+00:00",
+    "username": "julegata.it",
+    "valid_from": "2023-12-01T12:14:57.052+00:00",
+    "organization_id": null
+  },
+  {
     "id": "e2e3b45f-440b-4311-ac84-516dbbb94ad4",
     "updated_at": "2023-12-01T09:01:07.033667+00:00",
     "username": "a9k1",
@@ -4683,6 +4697,13 @@
     "organization_id": null
   },
   {
+    "id": "e3f3da1c-f5a2-4b60-afef-671a21b9ba65",
+    "updated_at": "2023-12-01T12:14:44.420259+00:00",
+    "username": "JNET",
+    "valid_from": "2023-12-01T12:15:00.815+00:00",
+    "organization_id": null
+  },
+  {
     "id": "90ad3ee3-7601-48ee-9c5e-6750c963b33a",
     "updated_at": "2023-12-01T12:04:27.244153+00:00",
     "username": "1337_einar",
@@ -4760,24 +4781,24 @@
     "organization_id": null
   },
   {
-    "id": "44771df6-2be8-4649-b23c-22285a44ecc4",
-    "updated_at": "2023-12-01T12:08:44.918327+00:00",
-    "username": null,
-    "valid_from": "2023-12-01T12:08:44.918327+00:00",
+    "id": "bb0833ed-7d9b-48e6-a2dd-6069c35e0c49",
+    "updated_at": "2023-12-01T12:09:05.069739+00:00",
+    "username": "Attal.A",
+    "valid_from": "2023-12-01T12:09:26.681+00:00",
     "organization_id": null
   },
   {
-    "id": "bb0833ed-7d9b-48e6-a2dd-6069c35e0c49",
-    "updated_at": "2023-12-01T12:09:05.069739+00:00",
-    "username": null,
-    "valid_from": "2023-12-01T12:09:05.069739+00:00",
+    "id": "44771df6-2be8-4649-b23c-22285a44ecc4",
+    "updated_at": "2023-12-01T12:08:44.918327+00:00",
+    "username": "Janbanan",
+    "valid_from": "2023-12-01T12:09:34.59+00:00",
     "organization_id": null
   },
   {
     "id": "2128d2d6-9910-48e0-9614-2e4ed3693881",
     "updated_at": "2023-12-01T12:09:13.745633+00:00",
-    "username": null,
-    "valid_from": "2023-12-01T12:09:13.745633+00:00",
+    "username": "CISK 7714",
+    "valid_from": "2023-12-01T12:10:06.924+00:00",
     "organization_id": null
   }
 ]
