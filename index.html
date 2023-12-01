@@ -96,6 +96,10 @@ tr:hover {
       <div class="infoTitle">Hidden users</div>
       <div class="infoValue" id="hiddenUsers">?</div>
     </div>
+    <div class="infoItem">
+      <div class="infoTitle">>=1 solve</div>
+      <div class="infoValue" id="atLeastOneSolveUsers">?</div>
+    </div>
   </div>
 </div>
 <hr>
@@ -128,6 +132,7 @@ tr:hover {
 var users = null;
 
 function addScoreboardData(data) {
+  document.getElementById("atLeastOneSolveUsers").innerText = data.length;
   var userData = {};
   data.forEach((user) => {
     userData[user["user_id"]] = user;
@@ -207,9 +212,10 @@ function addTopData(data) {
   });
 }
 function addMaxedData(data) {
+  // document.getElementById("maxedUsersCount").innerText = data[data.length - 1][1];
   var newChallengeDaysData = [];
   var noChallengeDaysData = [];
-  for (var d = new Date(Date.UTC(2021, 11, 1, 17)); d < new Date(Date.UTC(2021, 11, 31)); d.setDate(d.getDate() + 1)) {
+  for (var d = new Date(Date.UTC(2023, 12, 1, 12)); d < new Date(Date.UTC(2023, 12, 25)); d.setDate(d.getDate() + 1)) {
     var nextDate = new Date(d);
     nextDate.setDate(nextDate.getDate() + 1);
     if (d.getDay() == 1) {
