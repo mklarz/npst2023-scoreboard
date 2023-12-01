@@ -7271,5 +7271,68 @@
     "username": "hashes",
     "valid_from": "2023-12-01T20:43:26.264+00:00",
     "organization_id": null
+  },
+  {
+    "id": "7b26b1d8-6a24-4623-b304-7708d8ae32dd",
+    "updated_at": "2023-12-01T20:49:34.09101+00:00",
+    "username": "Silinox",
+    "valid_from": "2023-12-01T20:49:49.083+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "783b6c40-e9d2-416a-af9b-190467124045",
+    "updated_at": "2023-12-01T20:49:40.336429+00:00",
+    "username": "for3vern00b",
+    "valid_from": "2023-12-01T20:49:55.437+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "7128567b-7e7b-4ff6-828d-7b4beefe80a4",
+    "updated_at": "2023-12-01T20:52:35.176969+00:00",
+    "username": null,
+    "valid_from": "2023-12-01T20:52:35.176969+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "4a86f2d1-affe-465e-896c-a0e43e1269c3",
+    "updated_at": "2023-12-01T20:52:50.897533+00:00",
+    "username": "jmyrvoll",
+    "valid_from": "2023-12-01T20:53:06.795+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "008ad2b1-0873-4677-bd34-5c10c7b6032b",
+    "updated_at": "2023-12-01T20:53:39.234703+00:00",
+    "username": "CISKERN",
+    "valid_from": "2023-12-01T20:54:23.204+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "04aba1e3-1fc4-442e-a754-0d4b0bf7ade5",
+    "updated_at": "2023-12-01T20:55:26.130629+00:00",
+    "username": "stian",
+    "valid_from": "2023-12-01T20:55:46.624+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "3049b7fc-62df-410b-bb3f-c6475289cde5",
+    "updated_at": "2023-12-01T20:57:33.488045+00:00",
+    "username": "userHonest",
+    "valid_from": "2023-12-01T20:57:54.943+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "38c1f19a-788c-43d1-8c07-8ee130c3eea1",
+    "updated_at": "2023-12-01T20:57:01.988487+00:00",
+    "username": "elisaPhys",
+    "valid_from": "2023-12-01T20:58:26.396+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "fb64c4f5-a3a3-40db-a363-e62022f8f70c",
+    "updated_at": "2023-12-01T20:59:50.420546+00:00",
+    "username": null,
+    "valid_from": "2023-12-01T20:59:50.420546+00:00",
+    "organization_id": null
   }
 ]
