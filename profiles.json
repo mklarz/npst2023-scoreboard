@@ -1379,13 +1379,6 @@
     "organization_id": null
   },
   {
-    "id": "5f24d959-3b20-4c01-a17c-ac3f64733c42",
-    "updated_at": "2023-12-01T07:05:28.528007+00:00",
-    "username": null,
-    "valid_from": "2023-12-01T07:05:28.528007+00:00",
-    "organization_id": null
-  },
-  {
     "id": "b56eee1b-77e8-4880-b306-cb895b349a1f",
     "updated_at": "2023-12-01T07:04:50.545623+00:00",
     "username": "burgerdude007",
@@ -1435,13 +1428,6 @@
     "organization_id": null
   },
   {
-    "id": "0a61ddc2-f392-40ba-abce-3234bf5433e2",
-    "updated_at": "2023-12-01T07:13:02.96733+00:00",
-    "username": null,
-    "valid_from": "2023-12-01T07:13:02.96733+00:00",
-    "organization_id": null
-  },
-  {
     "id": "47694313-bb85-4323-a38b-0aaca52b41f2",
     "updated_at": "2023-12-01T07:12:48.789221+00:00",
     "username": "tomla",
@@ -1463,10 +1449,101 @@
     "organization_id": null
   },
   {
+    "id": "8d61aaaa-d2b5-4e42-8464-c366241fe30a",
+    "updated_at": "2023-12-01T07:15:43.986225+00:00",
+    "username": "oddifant",
+    "valid_from": "2023-12-01T07:16:11.568+00:00",
+    "organization_id": null
+  },
+  {
     "id": "8fc4a6a6-5387-46f6-8c7c-63038da9a1d7",
     "updated_at": "2023-12-01T07:14:39.25038+00:00",
+    "username": "Isildur",
+    "valid_from": "2023-12-01T07:18:07.122+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "1989186a-b7ce-47d4-ba29-0d0757dac160",
+    "updated_at": "2023-12-01T07:18:46.315771+00:00",
+    "username": "Brunton",
+    "valid_from": "2023-12-01T07:19:09.879+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "8c9e8d00-13d6-466e-bfe1-4b73a6e6913f",
+    "updated_at": "2023-12-01T07:19:04.715878+00:00",
+    "username": "boom",
+    "valid_from": "2023-12-01T07:19:11.556+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "0a61ddc2-f392-40ba-abce-3234bf5433e2",
+    "updated_at": "2023-12-01T07:13:02.96733+00:00",
     "username": null,
-    "valid_from": "2023-12-01T07:14:39.25038+00:00",
+    "valid_from": "2023-12-01T07:15:06.477+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "39deff77-6c47-4900-a901-174bedbd9cf4",
+    "updated_at": "2023-12-01T07:19:07.584213+00:00",
+    "username": "CowardStrike",
+    "valid_from": "2023-12-01T07:20:13.148+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "0c042056-5d41-401a-ba3f-e4d2fceed782",
+    "updated_at": "2023-12-01T07:20:18.380624+00:00",
+    "username": "fremtidignaver",
+    "valid_from": "2023-12-01T07:20:24.665+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "302264ec-de74-42ea-b0a4-81c9ce876def",
+    "updated_at": "2023-12-01T07:22:09.878938+00:00",
+    "username": "jksolbakken",
+    "valid_from": "2023-12-01T07:23:09.462+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "2e5a07a8-73fe-4823-9ddb-382cc88b5f54",
+    "updated_at": "2023-12-01T07:23:07.699477+00:00",
+    "username": "lcfpdtht",
+    "valid_from": "2023-12-01T07:23:23.938+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "06e74273-c7b2-4cc6-a062-4fa66f24f3ae",
+    "updated_at": "2023-12-01T07:23:33.446668+00:00",
+    "username": null,
+    "valid_from": "2023-12-01T07:23:33.446668+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "0718e8d1-7728-489b-a802-ac5b39d016bb",
+    "updated_at": "2023-12-01T07:24:16.104025+00:00",
+    "username": "hagjan",
+    "valid_from": "2023-12-01T07:25:25.78+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "22923003-ad6a-412d-b15a-24cb21d4a77b",
+    "updated_at": "2023-12-01T07:28:17.489025+00:00",
+    "username": "2b*",
+    "valid_from": "2023-12-01T07:28:27.418+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "5f24d959-3b20-4c01-a17c-ac3f64733c42",
+    "updated_at": "2023-12-01T07:05:28.528007+00:00",
+    "username": "g0t_m1lk?",
+    "valid_from": "2023-12-01T07:29:21.309+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "b3fe9089-c65b-42ee-978c-213bc70afbad",
+    "updated_at": "2023-12-01T07:30:01.101471+00:00",
+    "username": null,
+    "valid_from": "2023-12-01T07:30:01.101471+00:00",
     "organization_id": null
   },
   {
