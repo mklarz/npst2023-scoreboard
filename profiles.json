@@ -6501,5 +6501,54 @@
     "username": "nesjen",
     "valid_from": "2023-12-01T16:41:16.274+00:00",
     "organization_id": null
+  },
+  {
+    "id": "7dd6a747-1417-4e8f-92b8-d213126480d7",
+    "updated_at": "2023-12-01T16:46:05.67772+00:00",
+    "username": null,
+    "valid_from": "2023-12-01T16:46:05.67772+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "55108f13-5c2b-439d-b3b5-a48baf8de1cf",
+    "updated_at": "2023-12-01T16:46:56.385127+00:00",
+    "username": "CopyCloud",
+    "valid_from": "2023-12-01T16:47:24.491+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "65cd3909-a37c-469f-8d47-9507f343e4a6",
+    "updated_at": "2023-12-01T16:50:45.53524+00:00",
+    "username": "Vidar H",
+    "valid_from": "2023-12-01T16:50:57.677+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "98068054-6fb9-4116-a956-a2130fe3be76",
+    "updated_at": "2023-12-01T16:52:08.127666+00:00",
+    "username": "Weckersspoekelsfraframtia",
+    "valid_from": "2023-12-01T16:53:47.869+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "416a9562-0b8d-4396-88ff-6bb2edc8a469",
+    "updated_at": "2023-12-01T16:54:03.948707+00:00",
+    "username": "theonionjr",
+    "valid_from": "2023-12-01T16:54:19.735+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "fbfb1882-a4de-4c3c-a6b7-26df7349e2b2",
+    "updated_at": "2023-12-01T16:54:44.710912+00:00",
+    "username": "gmd",
+    "valid_from": "2023-12-01T16:54:55.133+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "e4591a6c-fc57-47ce-b261-7394f1fb1878",
+    "updated_at": "2023-12-01T16:58:08.603459+00:00",
+    "username": null,
+    "valid_from": "2023-12-01T16:58:08.603459+00:00",
+    "organization_id": null
   }
 ]
