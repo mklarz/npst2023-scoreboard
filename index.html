@@ -109,7 +109,10 @@ tr:hover {
         <tr>
           <th>ID</th>
           <th>Valid from</th>
+          <th>Lasest solve</th>
           <th>Org. ID</th>
+          <th>Solves</th>
+          <th>Score</th>
           <th>Username</th>
         </tr>
       </thead>
@@ -122,21 +125,50 @@ tr:hover {
 <script src="./static/jquery-3.6.0.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script src="./static/theme.js" integirty="sha512-e5yUjHlsMcLwsXP8QBpfUofcbF3vG5oEbSiqvkTM/ShCzG7R9+HWBmQhI22nBXIq" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script>
+var users = null;
+
+function addScoreboardData(data) {
+  console.log(users);
+  console.log(data);
+  var userData = {};
+  data.forEach((user) => {
+    userData[user["user_id"]] = user;
+  })
+
+  var usersTable = document.getElementById("usersTable");
+  users.forEach((user) => {
+    var scoreboardUser = userData[user["id"]];
+    var latestSolve = "";
+    var solves = "";
+    var score = "";
+    if (scoreboardUser !== undefined) {
+      latestSolve = scoreboardUser["latest_solve_time"];
+      solves = scoreboardUser["num_solves"];
+      score = scoreboardUser["score"];
+    }
+
+    var userRow = usersTable.insertRow(-1);
+    var idCell = userRow.insertCell(0);
+    var validFromCell = userRow.insertCell(1);
+    var latestSolveCell = userRow.insertCell(2);
+    var usernameCell = userRow.insertCell(3);
+    var orgIdCell = userRow.insertCell(4);
+    var solvesCell = userRow.insertCell(5);
+    var scoreCell = userRow.insertCell(6);
+    idCell.innerText = user["id"];
+    validFromCell.innerText = user["valid_from"];
+    latestSolveCell.innerText = latestSolve;
+    orgIdCell.innerText = user["organization_id"];
+    solvesCell.innerText = solves;
+    scoreCell.innerText = score;
+    usernameCell.innerText = user["username"];
+  })
+}
+
 function addInfoData(data) {
   document.getElementById("registeredUsers").textContent = data["registered_users"];
   document.getElementById("hiddenUsers").textContent = data["hidden_users"];
-  var usersTable = document.getElementById("usersTable");
-  data["users"].forEach((user) => {
-    var userRow = usersTable.insertRow(-1);
-    var id = userRow.insertCell(0);
-    var validFrom = userRow.insertCell(1);
-    var orgId = userRow.insertCell(2);
-    var username = userRow.insertCell(3);
-    id.innerText = user["id"];
-    validFrom.innerText = user["valid_from"];
-    orgId.innerText = user["organization_id"];
-    username.innerText = user["username"];
-  })
+  users = data["users"];
 }
 function addTopData(data) {
   var chart = echarts.init(document.getElementById('topUsers'), 'dark');
@@ -276,9 +308,16 @@ function addMaxedData(data) {
   });
 }
 document.addEventListener('DOMContentLoaded', function () {
-  $.getJSON("./info.json", addInfoData);
   $.getJSON("./series.json", addTopData);
   $.getJSON("./currently_maxed_users.json", addMaxedData);
+  $.getJSON("./info.json", addInfoData);
+
+  const scoreboardInterval = setInterval(function () {
+    if (users !== null) {
+      $.getJSON("./scoreboard.min.json", addScoreboardData);
+      clearInterval(scoreboardInterval);
+    }
+  }, 100);
 });
 </script>
 </body>
