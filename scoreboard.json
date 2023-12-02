@@ -1380,7 +1380,7 @@
   },
   {
     "user_id": "62392b5e-330d-45df-a9a8-b916d615248b",
-    "username": "Nicolai Adil Øyen Aatif",
+    "username": "Nicad",
     "score": 20,
     "num_solves": 2,
     "latest_solve_time": "2023-12-02T22:44:20.313426+00:00"
@@ -1468,6 +1468,27 @@
     "score": 20,
     "num_solves": 2,
     "latest_solve_time": "2023-12-02T23:14:28.160991+00:00"
+  },
+  {
+    "user_id": "efa5311a-79d2-4a2d-9b45-089bb8dd3974",
+    "username": "Laud Nøtteknekkere",
+    "score": 20,
+    "num_solves": 2,
+    "latest_solve_time": "2023-12-02T23:20:00.166067+00:00"
+  },
+  {
+    "user_id": "f8ad6b35-7572-42e0-8b7c-98ab3997469b",
+    "username": "Nightwolf",
+    "score": 20,
+    "num_solves": 2,
+    "latest_solve_time": "2023-12-02T23:21:07.280805+00:00"
+  },
+  {
+    "user_id": "e1dec9b4-fa13-4c3f-9521-504a5e89ab6c",
+    "username": "IvrigUtvikler",
+    "score": 20,
+    "num_solves": 2,
+    "latest_solve_time": "2023-12-02T23:21:40.539115+00:00"
   },
   {
     "user_id": "1989186a-b7ce-47d4-ba29-0d0757dac160",
@@ -2560,13 +2581,6 @@
     "score": 10,
     "num_solves": 1,
     "latest_solve_time": "2023-12-01T12:15:14.18116+00:00"
-  },
-  {
-    "user_id": "efa5311a-79d2-4a2d-9b45-089bb8dd3974",
-    "username": "Laud Nøtteknekkere",
-    "score": 10,
-    "num_solves": 1,
-    "latest_solve_time": "2023-12-01T12:15:31.905802+00:00"
   },
   {
     "user_id": "62e5b3af-cec0-436f-a1e1-0279f9e1871b",
@@ -4809,13 +4823,6 @@
     "latest_solve_time": "2023-12-02T08:36:58.36666+00:00"
   },
   {
-    "user_id": "f8ad6b35-7572-42e0-8b7c-98ab3997469b",
-    "username": "Nightwolf",
-    "score": 10,
-    "num_solves": 1,
-    "latest_solve_time": "2023-12-02T09:12:39.371992+00:00"
-  },
-  {
     "user_id": "68ee64fc-6269-4aba-bbff-2ef7ce722c22",
     "username": "skomario",
     "score": 10,
@@ -4919,13 +4926,6 @@
     "score": 10,
     "num_solves": 1,
     "latest_solve_time": "2023-12-02T11:03:48.94745+00:00"
-  },
-  {
-    "user_id": "e1dec9b4-fa13-4c3f-9521-504a5e89ab6c",
-    "username": "IvrigUtvikler",
-    "score": 10,
-    "num_solves": 1,
-    "latest_solve_time": "2023-12-02T11:27:21.299255+00:00"
   },
   {
     "user_id": "f6df52a7-bb00-4adf-867d-3dff04e87ee0",
@@ -5318,5 +5318,12 @@
     "score": 10,
     "num_solves": 1,
     "latest_solve_time": "2023-12-02T23:08:52.499501+00:00"
+  },
+  {
+    "user_id": "197c4081-bb78-461d-9191-7700bef23155",
+    "username": "TurboT",
+    "score": 10,
+    "num_solves": 1,
+    "latest_solve_time": "2023-12-02T23:24:03.26729+00:00"
   }
 ]

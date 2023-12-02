@@ -7490,13 +7490,6 @@
     "organization_id": null
   },
   {
-    "id": "62392b5e-330d-45df-a9a8-b916d615248b",
-    "updated_at": "2023-12-02T21:40:24.022883+00:00",
-    "username": "Nicolai Adil Øyen Aatif",
-    "valid_from": "2023-12-02T21:40:43.383+00:00",
-    "organization_id": null
-  },
-  {
     "id": "5be6c64e-6170-420a-be3a-23b7b5776747",
     "updated_at": "2023-12-02T21:53:38.299071+00:00",
     "username": null,
@@ -7576,8 +7569,15 @@
   {
     "id": "197c4081-bb78-461d-9191-7700bef23155",
     "updated_at": "2023-12-02T23:03:47.194768+00:00",
-    "username": null,
-    "valid_from": "2023-12-02T23:03:47.194768+00:00",
+    "username": "TurboT",
+    "valid_from": "2023-12-02T23:24:32.865+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "62392b5e-330d-45df-a9a8-b916d615248b",
+    "updated_at": "2023-12-02T21:40:24.022883+00:00",
+    "username": "Nicad",
+    "valid_from": "2023-12-02T23:25:06.34+00:00",
     "organization_id": null
   },
   {
