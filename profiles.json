@@ -28,13 +28,6 @@
     "organization_id": null
   },
   {
-    "id": "ae1fb7da-7b62-4a63-9345-12631eb402cf",
-    "updated_at": "2023-11-30T21:50:58.541354+00:00",
-    "username": null,
-    "valid_from": "2023-11-30T21:50:58.541354+00:00",
-    "organization_id": null
-  },
-  {
     "id": "27603dca-8b8c-4dd2-91f3-9fe365c684ee",
     "updated_at": "2023-11-09T09:07:41.521856+00:00",
     "username": null,
@@ -403,6 +396,13 @@
     "updated_at": "2023-11-30T14:14:55.751993+00:00",
     "username": "N1553n",
     "valid_from": "2023-11-30T14:16:46.496+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "ae1fb7da-7b62-4a63-9345-12631eb402cf",
+    "updated_at": "2023-11-30T21:50:58.541354+00:00",
+    "username": "Georg",
+    "valid_from": "2023-12-02T15:01:42.929+00:00",
     "organization_id": null
   },
   {
@@ -1880,13 +1880,6 @@
     "updated_at": "2023-11-30T15:37:32.498695+00:00",
     "username": "waperon",
     "valid_from": "2023-11-30T15:37:47.758+00:00",
-    "organization_id": null
-  },
-  {
-    "id": "0d0df28f-557b-4269-835c-f0a9e65a9b14",
-    "updated_at": "2023-11-30T18:48:17.684235+00:00",
-    "username": "Æ KAN ITJ Å LÆS SJØ",
-    "valid_from": "2023-12-01T12:34:48.99+00:00",
     "organization_id": null
   },
   {
@@ -6804,6 +6797,13 @@
     "organization_id": null
   },
   {
+    "id": "e68ffa37-db00-4e8e-b3e9-0a0d5c603006",
+    "updated_at": "2023-12-02T15:13:16.059999+00:00",
+    "username": "mly",
+    "valid_from": "2023-12-02T15:13:29.331+00:00",
+    "organization_id": null
+  },
+  {
     "id": "20faeb30-ab4b-4a0e-b55e-5b61f2f46b9c",
     "updated_at": "2023-12-01T15:33:07.886379+00:00",
     "username": null,
@@ -8477,20 +8477,6 @@
     "organization_id": null
   },
   {
-    "id": "0f4c700b-062d-4e16-a209-47d916759d14",
-    "updated_at": "2023-12-02T14:30:56.100995+00:00",
-    "username": "eliasheimdal",
-    "valid_from": "2023-12-02T14:31:14.477+00:00",
-    "organization_id": null
-  },
-  {
-    "id": "b1e057a5-1dde-4906-88a9-3dce51447516",
-    "updated_at": "2023-12-02T14:36:57.653714+00:00",
-    "username": "skogensro",
-    "valid_from": "2023-12-02T14:37:35.928+00:00",
-    "organization_id": null
-  },
-  {
     "id": "124a78a8-d23b-4265-a2be-9f2d91ef5798",
     "updated_at": "2023-12-02T14:41:59.349771+00:00",
     "username": "squashd",
@@ -8530,6 +8516,48 @@
     "updated_at": "2023-12-01T21:50:30.071031+00:00",
     "username": "micronova 💥",
     "valid_from": "2023-12-02T14:53:37.179+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "0f4c700b-062d-4e16-a209-47d916759d14",
+    "updated_at": "2023-12-02T14:30:56.100995+00:00",
+    "username": "eliasheimdal",
+    "valid_from": "2023-12-02T15:02:10.891+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "c168aed4-6e51-4e05-9fd9-a995c554a4c4",
+    "updated_at": "2023-12-02T15:05:47.058726+00:00",
+    "username": "Heitmann",
+    "valid_from": "2023-12-02T15:05:58.698+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "b1e057a5-1dde-4906-88a9-3dce51447516",
+    "updated_at": "2023-12-02T14:36:57.653714+00:00",
+    "username": "[EFFERA] skogensro",
+    "valid_from": "2023-12-02T15:07:35.66+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "4b0fba03-bb9b-4c9c-b72b-91837ca715e2",
+    "updated_at": "2023-12-02T15:12:04.485232+00:00",
+    "username": null,
+    "valid_from": "2023-12-02T15:12:04.485232+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "0d0df28f-557b-4269-835c-f0a9e65a9b14",
+    "updated_at": "2023-11-30T18:48:17.684235+00:00",
+    "username": "Æ KANNJ ITJ Å LÆS SJØ",
+    "valid_from": "2023-12-02T15:12:36.858+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "807fc625-ecb3-452f-9ad4-cb30be54d34a",
+    "updated_at": "2023-12-02T15:12:53.638235+00:00",
+    "username": null,
+    "valid_from": "2023-12-02T15:12:53.638235+00:00",
     "organization_id": null
   }
 ]
