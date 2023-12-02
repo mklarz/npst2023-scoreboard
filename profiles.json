@@ -6958,6 +6958,20 @@
     "organization_id": null
   },
   {
+    "id": "808aac0f-ac16-4969-ac34-38fc1a4f35d4",
+    "updated_at": "2023-12-02T20:00:46.806353+00:00",
+    "username": null,
+    "valid_from": "2023-12-02T20:00:46.806353+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "c76a9a4c-15ea-44f4-8b05-d5469a745f62",
+    "updated_at": "2023-12-02T20:12:59.476541+00:00",
+    "username": null,
+    "valid_from": "2023-12-02T20:12:59.476541+00:00",
+    "organization_id": null
+  },
+  {
     "id": "20faeb30-ab4b-4a0e-b55e-5b61f2f46b9c",
     "updated_at": "2023-12-01T15:33:07.886379+00:00",
     "username": null,
@@ -8785,13 +8799,6 @@
     "organization_id": null
   },
   {
-    "id": "22430cff-06af-4359-af09-8824d11a84d9",
-    "updated_at": "2023-12-01T21:44:53.230586+00:00",
-    "username": null,
-    "valid_from": "2023-12-01T21:44:53.230586+00:00",
-    "organization_id": null
-  },
-  {
     "id": "6b166f44-42d9-44b2-a823-175a840278d5",
     "updated_at": "2023-12-01T21:17:01.201897+00:00",
     "username": "👑 .elf",
@@ -8908,6 +8915,13 @@
     "updated_at": "2023-11-30T18:48:17.684235+00:00",
     "username": "Æ KANNJ ITJ Å LÆS SJØ",
     "valid_from": "2023-12-02T15:12:36.858+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "22430cff-06af-4359-af09-8824d11a84d9",
+    "updated_at": "2023-12-01T21:44:53.230586+00:00",
+    "username": "Vero3",
+    "valid_from": "2023-12-02T20:05:38.083+00:00",
     "organization_id": null
   },
   {
