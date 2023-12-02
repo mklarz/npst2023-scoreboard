@@ -2065,6 +2065,13 @@
     "organization_id": null
   },
   {
+    "id": "65178d71-6308-4ea2-b447-ea5374b9ab56",
+    "updated_at": "2023-11-30T18:16:18.780214+00:00",
+    "username": "cer-asm",
+    "valid_from": "2023-12-02T20:59:06.845+00:00",
+    "organization_id": null
+  },
+  {
     "id": "efa5311a-79d2-4a2d-9b45-089bb8dd3974",
     "updated_at": "2023-11-30T18:13:59.389735+00:00",
     "username": "Laud Nøtteknekkere",
@@ -2076,13 +2083,6 @@
     "updated_at": "2023-12-01T04:15:40.69817+00:00",
     "username": "NightNDay",
     "valid_from": "2023-12-01T04:15:47.554+00:00",
-    "organization_id": null
-  },
-  {
-    "id": "65178d71-6308-4ea2-b447-ea5374b9ab56",
-    "updated_at": "2023-11-30T18:16:18.780214+00:00",
-    "username": "cer",
-    "valid_from": "2023-11-30T18:16:26.438+00:00",
     "organization_id": null
   },
   {
@@ -7424,6 +7424,13 @@
     "updated_at": "2023-12-02T20:36:31.83313+00:00",
     "username": "Stuart",
     "valid_from": "2023-12-02T20:38:56.221+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "8371dbb7-f1b5-4fd1-91b0-1d26403b9bac",
+    "updated_at": "2023-12-02T20:52:40.135954+00:00",
+    "username": null,
+    "valid_from": "2023-12-02T20:52:40.135954+00:00",
     "organization_id": null
   },
   {
