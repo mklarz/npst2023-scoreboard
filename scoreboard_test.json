@@ -1141,6 +1141,20 @@
     "latest_solve_time": "2023-12-02T19:54:16.547074+00:00"
   },
   {
+    "user_id": "a2f773b0-3a0f-419d-b601-9162159a9e34",
+    "username": "Josvik",
+    "score": 20,
+    "num_solves": 2,
+    "latest_solve_time": "2023-12-02T20:20:47.868404+00:00"
+  },
+  {
+    "user_id": "2e6c1d2b-e723-47ee-a18f-7c012840792e",
+    "username": "Olemag",
+    "score": 20,
+    "num_solves": 2,
+    "latest_solve_time": "2023-12-02T20:29:38.066683+00:00"
+  },
+  {
     "user_id": "1989186a-b7ce-47d4-ba29-0d0757dac160",
     "username": "Brunton",
     "score": 10,
@@ -2616,13 +2630,6 @@
     "score": 10,
     "num_solves": 1,
     "latest_solve_time": "2023-12-01T12:49:33.679284+00:00"
-  },
-  {
-    "user_id": "a2f773b0-3a0f-419d-b601-9162159a9e34",
-    "username": "Josvik",
-    "score": 10,
-    "num_solves": 1,
-    "latest_solve_time": "2023-12-01T12:50:42.806798+00:00"
   },
   {
     "user_id": "19a0ac7c-9504-48a1-9c17-60ec991f8b11",
@@ -4333,13 +4340,6 @@
     "latest_solve_time": "2023-12-01T20:32:50.462383+00:00"
   },
   {
-    "user_id": "2e6c1d2b-e723-47ee-a18f-7c012840792e",
-    "username": "Olemag",
-    "score": 10,
-    "num_solves": 1,
-    "latest_solve_time": "2023-12-01T20:38:34.727659+00:00"
-  },
-  {
     "user_id": "537a70ca-2c51-4d7b-a9e6-56a4b0573275",
     "username": "ben w00dburn",
     "score": 10,
@@ -5213,5 +5213,26 @@
     "score": 10,
     "num_solves": 1,
     "latest_solve_time": "2023-12-02T19:38:59.2894+00:00"
+  },
+  {
+    "user_id": "e8aec691-bf78-4608-aea0-dbc7ecc42e38",
+    "username": "Peat",
+    "score": 10,
+    "num_solves": 1,
+    "latest_solve_time": "2023-12-02T20:16:52.799108+00:00"
+  },
+  {
+    "user_id": "808aac0f-ac16-4969-ac34-38fc1a4f35d4",
+    "username": "assdasdasdasd",
+    "score": 10,
+    "num_solves": 1,
+    "latest_solve_time": "2023-12-02T20:18:48.114555+00:00"
+  },
+  {
+    "user_id": "6e7b0cef-fe98-430d-a6c8-63c33448d041",
+    "username": "pappabloggen",
+    "score": 10,
+    "num_solves": 1,
+    "latest_solve_time": "2023-12-02T20:29:21.175287+00:00"
   }
 ]
