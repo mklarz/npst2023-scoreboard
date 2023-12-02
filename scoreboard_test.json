@@ -1204,6 +1204,27 @@
     "latest_solve_time": "2023-12-02T20:55:59.612029+00:00"
   },
   {
+    "user_id": "d139ccd0-aaad-4af0-82f9-5f96412c2e43",
+    "username": "Ompax",
+    "score": 20,
+    "num_solves": 2,
+    "latest_solve_time": "2023-12-02T21:00:40.554459+00:00"
+  },
+  {
+    "user_id": "a3fdaf80-5cb9-4a06-843c-a20818b1de21",
+    "username": "Ojda",
+    "score": 20,
+    "num_solves": 2,
+    "latest_solve_time": "2023-12-02T21:09:08.127315+00:00"
+  },
+  {
+    "user_id": "9748c117-8b99-4888-8f9a-eb6c49e71eb3",
+    "username": "kvakk",
+    "score": 20,
+    "num_solves": 2,
+    "latest_solve_time": "2023-12-02T21:11:47.579713+00:00"
+  },
+  {
     "user_id": "1989186a-b7ce-47d4-ba29-0d0757dac160",
     "username": "Brunton",
     "score": 10,
@@ -1216,13 +1237,6 @@
     "score": 10,
     "num_solves": 1,
     "latest_solve_time": "2023-12-01T11:04:28.671025+00:00"
-  },
-  {
-    "user_id": "9748c117-8b99-4888-8f9a-eb6c49e71eb3",
-    "username": "kvakk",
-    "score": 10,
-    "num_solves": 1,
-    "latest_solve_time": "2023-12-01T11:05:38.107237+00:00"
   },
   {
     "user_id": "038d3802-8dbd-4ee7-b49d-4d39dfa25b20",
@@ -1293,13 +1307,6 @@
     "score": 10,
     "num_solves": 1,
     "latest_solve_time": "2023-12-01T11:07:06.357278+00:00"
-  },
-  {
-    "user_id": "a3fdaf80-5cb9-4a06-843c-a20818b1de21",
-    "username": "Ojda",
-    "score": 10,
-    "num_solves": 1,
-    "latest_solve_time": "2023-12-01T11:07:06.930159+00:00"
   },
   {
     "user_id": "4496c45c-43af-45ba-805f-51f17ba1d673",
@@ -3290,13 +3297,6 @@
     "latest_solve_time": "2023-12-01T13:54:19.693671+00:00"
   },
   {
-    "user_id": "d139ccd0-aaad-4af0-82f9-5f96412c2e43",
-    "username": "Ompax",
-    "score": 10,
-    "num_solves": 1,
-    "latest_solve_time": "2023-12-01T13:55:23.17864+00:00"
-  },
-  {
     "user_id": "bee407db-1d89-44f1-a517-dbfb4cc06e4a",
     "username": "Wintar",
     "score": 10,
@@ -5234,5 +5234,12 @@
     "score": 10,
     "num_solves": 1,
     "latest_solve_time": "2023-12-02T20:29:21.175287+00:00"
+  },
+  {
+    "user_id": "97c16178-79ce-41e6-9950-ff7575d5e5ec",
+    "username": "cyberleucocytes",
+    "score": 10,
+    "num_solves": 1,
+    "latest_solve_time": "2023-12-02T21:03:01.374846+00:00"
   }
 ]
