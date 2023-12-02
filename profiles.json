@@ -7079,8 +7079,22 @@
   {
     "id": "71d3399c-152d-4409-a33f-dd0b924f9b75",
     "updated_at": "2023-12-02T16:30:01.911608+00:00",
+    "username": "Misi",
+    "valid_from": "2023-12-02T16:30:23.859+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "c76d28df-1a73-4fc9-a605-0a86ebcc6e40",
+    "updated_at": "2023-12-02T16:31:04.972703+00:00",
+    "username": "Trønderbataljonen",
+    "valid_from": "2023-12-02T16:31:42.257+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "d1603751-73ba-47fc-b1c4-4d52c4e8d530",
+    "updated_at": "2023-12-02T16:44:41.773158+00:00",
     "username": null,
-    "valid_from": "2023-12-02T16:30:01.911608+00:00",
+    "valid_from": "2023-12-02T16:44:41.773158+00:00",
     "organization_id": null
   },
   {
