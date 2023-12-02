@@ -2534,13 +2534,6 @@
     "organization_id": null
   },
   {
-    "id": "a098c632-00f5-4bf6-b34b-66714f8773bc",
-    "updated_at": "2023-12-01T08:48:27.236812+00:00",
-    "username": null,
-    "valid_from": "2023-12-01T11:29:43.735+00:00",
-    "organization_id": null
-  },
-  {
     "id": "60ff8107-32d1-452f-b2f2-2cdd3c116df8",
     "updated_at": "2023-12-01T07:47:11.646498+00:00",
     "username": "djh",
@@ -2615,6 +2608,13 @@
     "updated_at": "2023-12-01T07:54:13.166939+00:00",
     "username": "eirikff",
     "valid_from": "2023-12-01T07:54:21.78+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "a098c632-00f5-4bf6-b34b-66714f8773bc",
+    "updated_at": "2023-12-01T08:48:27.236812+00:00",
+    "username": null,
+    "valid_from": "2023-12-02T17:41:35.134+00:00",
     "organization_id": null
   },
   {
@@ -4197,13 +4197,6 @@
     "updated_at": "2023-12-01T09:22:35.87464+00:00",
     "username": "Arnor",
     "valid_from": "2023-12-01T09:23:28.19+00:00",
-    "organization_id": null
-  },
-  {
-    "id": "16731957-df1f-4a2a-9c60-e3962fc1937a",
-    "updated_at": "2023-12-01T14:11:37.512653+00:00",
-    "username": "Al3x",
-    "valid_from": "2023-12-02T17:22:06.781+00:00",
     "organization_id": null
   },
   {
@@ -6825,6 +6818,13 @@
     "organization_id": null
   },
   {
+    "id": "16731957-df1f-4a2a-9c60-e3962fc1937a",
+    "updated_at": "2023-12-01T14:11:37.512653+00:00",
+    "username": "AL3x",
+    "valid_from": "2023-12-02T17:41:13.09+00:00",
+    "organization_id": null
+  },
+  {
     "id": "20faeb30-ab4b-4a0e-b55e-5b61f2f46b9c",
     "updated_at": "2023-12-01T15:33:07.886379+00:00",
     "username": null,
@@ -7144,6 +7144,27 @@
     "updated_at": "2023-12-02T17:29:27.61137+00:00",
     "username": "sk0dj3",
     "valid_from": "2023-12-02T17:29:49.031+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "ce0d7da2-8240-4da5-87f5-379b9c30687a",
+    "updated_at": "2023-12-02T17:31:38.050413+00:00",
+    "username": "pxcfbof",
+    "valid_from": "2023-12-02T17:32:02.458+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "39eb6470-aca3-4e44-8c0d-1bb65a0045e5",
+    "updated_at": "2023-12-02T17:40:26.453529+00:00",
+    "username": "AlvAlvesen",
+    "valid_from": "2023-12-02T17:40:48.505+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "9fbcfdf1-c2db-4a8c-b005-db363640e1b3",
+    "updated_at": "2023-12-02T17:41:21.707966+00:00",
+    "username": "***",
+    "valid_from": "2023-12-02T17:41:56.798+00:00",
     "organization_id": null
   },
   {
