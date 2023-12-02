@@ -1309,18 +1309,32 @@
     "latest_solve_time": "2023-12-02T21:42:14.170153+00:00"
   },
   {
+    "user_id": "6fae713d-80b1-4a22-855a-ca0e14755205",
+    "username": "FlittigOter",
+    "score": 20,
+    "num_solves": 2,
+    "latest_solve_time": "2023-12-02T21:46:10.42804+00:00"
+  },
+  {
+    "user_id": "00b37aa0-5c89-4e80-ad5e-b54a125e8e50",
+    "username": "jamjam",
+    "score": 20,
+    "num_solves": 2,
+    "latest_solve_time": "2023-12-02T21:49:04.877697+00:00"
+  },
+  {
+    "user_id": "a60311f2-6687-4972-b108-8ca8c82ff5b0",
+    "username": "Huh",
+    "score": 20,
+    "num_solves": 2,
+    "latest_solve_time": "2023-12-02T21:52:46.128742+00:00"
+  },
+  {
     "user_id": "1989186a-b7ce-47d4-ba29-0d0757dac160",
     "username": "Brunton",
     "score": 10,
     "num_solves": 1,
     "latest_solve_time": "2023-12-01T11:02:41.555539+00:00"
-  },
-  {
-    "user_id": "a60311f2-6687-4972-b108-8ca8c82ff5b0",
-    "username": "Huh",
-    "score": 10,
-    "num_solves": 1,
-    "latest_solve_time": "2023-12-01T11:04:28.671025+00:00"
   },
   {
     "user_id": "038d3802-8dbd-4ee7-b49d-4d39dfa25b20",
@@ -3283,13 +3297,6 @@
     "latest_solve_time": "2023-12-01T13:42:26.471056+00:00"
   },
   {
-    "user_id": "00b37aa0-5c89-4e80-ad5e-b54a125e8e50",
-    "username": "jamjam",
-    "score": 10,
-    "num_solves": 1,
-    "latest_solve_time": "2023-12-01T13:44:24.789017+00:00"
-  },
-  {
     "user_id": "e8b01143-79ab-4059-8dfe-892f440eb4c1",
     "username": "Lars",
     "score": 10,
@@ -5194,13 +5201,6 @@
     "latest_solve_time": "2023-12-02T19:11:52.963256+00:00"
   },
   {
-    "user_id": "6fae713d-80b1-4a22-855a-ca0e14755205",
-    "username": "FlittigOter",
-    "score": 10,
-    "num_solves": 1,
-    "latest_solve_time": "2023-12-02T19:14:38.183352+00:00"
-  },
-  {
     "user_id": "3fea78ce-0c2d-46e3-8d1a-3b202ebe06f9",
     "username": "frederic0",
     "score": 10,
@@ -5276,5 +5276,12 @@
     "score": 10,
     "num_solves": 1,
     "latest_solve_time": "2023-12-02T21:42:47.980221+00:00"
+  },
+  {
+    "user_id": "62392b5e-330d-45df-a9a8-b916d615248b",
+    "username": "Nicolai Adil Øyen Aatif",
+    "score": 10,
+    "num_solves": 1,
+    "latest_solve_time": "2023-12-02T21:53:46.288396+00:00"
   }
 ]
