@@ -8489,5 +8489,26 @@
     "username": null,
     "valid_from": "2023-12-02T14:27:31.134345+00:00",
     "organization_id": null
+  },
+  {
+    "id": "0f4c700b-062d-4e16-a209-47d916759d14",
+    "updated_at": "2023-12-02T14:30:56.100995+00:00",
+    "username": "eliasheimdal",
+    "valid_from": "2023-12-02T14:31:14.477+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "b1e057a5-1dde-4906-88a9-3dce51447516",
+    "updated_at": "2023-12-02T14:36:57.653714+00:00",
+    "username": "skogensro",
+    "valid_from": "2023-12-02T14:37:35.928+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "124a78a8-d23b-4265-a2be-9f2d91ef5798",
+    "updated_at": "2023-12-02T14:41:59.349771+00:00",
+    "username": "squashd",
+    "valid_from": "2023-12-02T14:42:09.222+00:00",
+    "organization_id": null
   }
 ]
