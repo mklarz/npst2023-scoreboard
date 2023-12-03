@@ -9651,5 +9651,19 @@
     "username": "Kenga",
     "valid_from": "2023-12-03T18:58:00.285+00:00",
     "organization_id": null
+  },
+  {
+    "id": "6db5e398-d3c0-4672-b604-74ce14bd19dc",
+    "updated_at": "2023-12-03T19:04:05.9774+00:00",
+    "username": "npstbot",
+    "valid_from": "2023-12-03T19:04:13.523+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "0599c1c3-8b00-4c9d-8fb8-98f1750dcfe6",
+    "updated_at": "2023-12-03T19:14:59.2143+00:00",
+    "username": null,
+    "valid_from": "2023-12-03T19:14:59.2143+00:00",
+    "organization_id": null
   }
 ]
