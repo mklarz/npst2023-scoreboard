@@ -9700,5 +9700,19 @@
     "username": "pilotgutt",
     "valid_from": "2023-12-03T20:10:25.132+00:00",
     "organization_id": null
+  },
+  {
+    "id": "ef16f717-c841-49ac-9c5c-813e56624e70",
+    "updated_at": "2023-12-03T20:24:36.119058+00:00",
+    "username": null,
+    "valid_from": "2023-12-03T20:24:36.119058+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "c05788dd-6f2f-414c-90f5-9c58abd3e89c",
+    "updated_at": "2023-12-03T20:29:25.513941+00:00",
+    "username": "Aksel",
+    "valid_from": "2023-12-03T20:29:41.702+00:00",
+    "organization_id": null
   }
 ]
