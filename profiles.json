@@ -9567,5 +9567,19 @@
     "username": "eplekake",
     "valid_from": "2023-12-03T15:59:26.758+00:00",
     "organization_id": null
+  },
+  {
+    "id": "7d2c2ca2-4b6e-44f6-a982-7255193cb901",
+    "updated_at": "2023-12-03T16:22:55.371749+00:00",
+    "username": null,
+    "valid_from": "2023-12-03T16:22:55.371749+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "2f0ec577-9bc6-48bd-ab78-6c292943216c",
+    "updated_at": "2023-12-03T16:24:55.760906+00:00",
+    "username": "felkro",
+    "valid_from": "2023-12-03T16:25:16.366+00:00",
+    "organization_id": null
   }
 ]
