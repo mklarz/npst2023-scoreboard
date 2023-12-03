@@ -7455,13 +7455,6 @@
     "organization_id": null
   },
   {
-    "id": "8371dbb7-f1b5-4fd1-91b0-1d26403b9bac",
-    "updated_at": "2023-12-02T20:52:40.135954+00:00",
-    "username": null,
-    "valid_from": "2023-12-02T20:52:40.135954+00:00",
-    "organization_id": null
-  },
-  {
     "id": "7b23af37-697e-4854-866f-76cb25b2174a",
     "updated_at": "2023-12-02T21:03:20.88609+00:00",
     "username": "p26e",
@@ -9450,6 +9443,41 @@
     "organization_id": null
   },
   {
+    "id": "9473916b-c2e6-4aaa-96d4-b13b273464e3",
+    "updated_at": "2023-12-03T21:15:25.118792+00:00",
+    "username": "Glein",
+    "valid_from": "2023-12-03T21:15:39.094+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "21b5f272-9b70-46a1-b443-63d6f087e74a",
+    "updated_at": "2023-12-03T21:15:32.624462+00:00",
+    "username": "pewpew",
+    "valid_from": "2023-12-03T21:15:53.966+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "00c080f0-b9ae-49a5-b454-7bc30e0cdc22",
+    "updated_at": "2023-12-03T21:16:11.139174+00:00",
+    "username": "marty",
+    "valid_from": "2023-12-03T21:17:06.552+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "0c69cba9-3b74-4a05-a6cd-2c46fc60f43b",
+    "updated_at": "2023-12-03T21:28:08.128603+00:00",
+    "username": "Mads",
+    "valid_from": "2023-12-03T21:28:16.823+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "49ecdcb6-063c-44bf-9de0-01aeba9c0a7c",
+    "updated_at": "2023-12-03T21:29:27.931626+00:00",
+    "username": "eirikfjellgaard",
+    "valid_from": "2023-12-03T21:29:42.139+00:00",
+    "organization_id": null
+  },
+  {
     "id": "856dd610-cc5a-45f6-8cb1-61141293dc1d",
     "updated_at": "2023-12-03T13:27:21.260139+00:00",
     "username": null,
@@ -9783,6 +9811,13 @@
     "updated_at": "2023-12-03T21:06:05.454896+00:00",
     "username": "Aurora",
     "valid_from": "2023-12-03T21:06:27.682+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "8371dbb7-f1b5-4fd1-91b0-1d26403b9bac",
+    "updated_at": "2023-12-02T20:52:40.135954+00:00",
+    "username": "Kjartis",
+    "valid_from": "2023-12-03T21:21:53.021+00:00",
     "organization_id": null
   }
 ]
