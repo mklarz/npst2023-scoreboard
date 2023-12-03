@@ -4298,13 +4298,6 @@
     "organization_id": null
   },
   {
-    "id": "6af43731-b246-48e9-8857-cb4d5a68c930",
-    "updated_at": "2023-12-01T09:35:25.192073+00:00",
-    "username": null,
-    "valid_from": "2023-12-01T09:35:25.192073+00:00",
-    "organization_id": null
-  },
-  {
     "id": "75e982f3-3e6d-4658-b4d6-2ca10b8db9a1",
     "updated_at": "2023-12-01T09:35:18.13206+00:00",
     "username": "Shinnio",
@@ -7697,6 +7690,27 @@
     "updated_at": "2023-12-03T09:03:23.46055+00:00",
     "username": "Kristoffer",
     "valid_from": "2023-12-03T09:03:44.434+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "f968b740-2aa9-4a86-9713-f43eb1e7ad2d",
+    "updated_at": "2023-12-03T09:19:27.243905+00:00",
+    "username": "SantaIng",
+    "valid_from": "2023-12-03T09:19:53.197+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "421f9708-1619-4f02-bd1d-f09c7db96056",
+    "updated_at": "2023-12-03T09:20:33.884553+00:00",
+    "username": "updht",
+    "valid_from": "2023-12-03T09:22:40.156+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "6af43731-b246-48e9-8857-cb4d5a68c930",
+    "updated_at": "2023-12-01T09:35:25.192073+00:00",
+    "username": "orchid",
+    "valid_from": "2023-12-03T09:23:48.073+00:00",
     "organization_id": null
   },
   {
