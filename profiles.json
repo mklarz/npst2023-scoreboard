@@ -4277,6 +4277,13 @@
     "organization_id": null
   },
   {
+    "id": "e167d21f-1f3e-4a52-9430-7580857ef1fe",
+    "updated_at": "2023-12-01T11:15:01.134439+00:00",
+    "username": "JonasAas",
+    "valid_from": "2023-12-03T11:38:11.793+00:00",
+    "organization_id": null
+  },
+  {
     "id": "5932fc79-6eea-4710-9509-e7f91d231cc2",
     "updated_at": "2023-12-01T09:31:56.493778+00:00",
     "username": "cmd",
@@ -4610,13 +4617,6 @@
     "updated_at": "2023-12-01T11:14:05.342211+00:00",
     "username": "repeat7",
     "valid_from": "2023-12-01T11:14:19.621+00:00",
-    "organization_id": null
-  },
-  {
-    "id": "e167d21f-1f3e-4a52-9430-7580857ef1fe",
-    "updated_at": "2023-12-01T11:15:01.134439+00:00",
-    "username": null,
-    "valid_from": "2023-12-01T11:15:01.134439+00:00",
     "organization_id": null
   },
   {
@@ -7483,13 +7483,6 @@
     "organization_id": null
   },
   {
-    "id": "5be6c64e-6170-420a-be3a-23b7b5776747",
-    "updated_at": "2023-12-02T21:53:38.299071+00:00",
-    "username": null,
-    "valid_from": "2023-12-02T21:53:38.299071+00:00",
-    "organization_id": null
-  },
-  {
     "id": "7efdfe9d-f643-4d07-a3fd-3881c4f35c2b",
     "updated_at": "2023-12-02T21:58:45.659172+00:00",
     "username": "vegardlokas",
@@ -7725,6 +7718,13 @@
     "updated_at": "2023-12-03T09:52:52.405988+00:00",
     "username": "Rumpesvette",
     "valid_from": "2023-12-03T09:53:25.93+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "5be6c64e-6170-420a-be3a-23b7b5776747",
+    "updated_at": "2023-12-02T21:53:38.299071+00:00",
+    "username": "kanitj",
+    "valid_from": "2023-12-03T11:39:54.095+00:00",
     "organization_id": null
   },
   {
@@ -9342,6 +9342,13 @@
     "updated_at": "2023-12-03T11:04:53.278572+00:00",
     "username": "uvucabice",
     "valid_from": "2023-12-03T11:28:26.817+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "66548438-9f1d-4a0c-8673-2dd01546c8ae",
+    "updated_at": "2023-12-03T11:35:23.738793+00:00",
+    "username": "roryf",
+    "valid_from": "2023-12-03T11:35:43.79+00:00",
     "organization_id": null
   },
   {
