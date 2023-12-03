@@ -911,7 +911,7 @@
   },
   {
     "user_id": "3d104300-0ffc-4b0a-9532-bfb81b561028",
-    "username": "Ylva",
+    "username": "Accalia",
     "score": 20,
     "num_solves": 2,
     "latest_solve_time": "2023-12-02T16:47:19.908681+00:00"
@@ -5479,5 +5479,12 @@
     "score": 10,
     "num_solves": 1,
     "latest_solve_time": "2023-12-03T10:13:21.943904+00:00"
+  },
+  {
+    "user_id": "27ae31c1-cc32-4ae1-8287-ca81e030455d",
+    "username": "soya",
+    "score": 10,
+    "num_solves": 1,
+    "latest_solve_time": "2023-12-03T10:18:01.272119+00:00"
   }
 ]
