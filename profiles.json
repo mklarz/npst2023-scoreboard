@@ -84,6 +84,13 @@
     "organization_id": null
   },
   {
+    "id": "fdb3ee3a-dc70-414b-9ae5-68bc9e26206c",
+    "updated_at": "2023-12-03T12:28:32.010358+00:00",
+    "username": null,
+    "valid_from": "2023-12-03T12:28:32.010358+00:00",
+    "organization_id": null
+  },
+  {
     "id": "64a7ee37-1327-4524-89b9-5932cbdd966b",
     "updated_at": "2023-11-09T09:07:41.521856+00:00",
     "username": null,
@@ -886,6 +893,13 @@
     "updated_at": "2023-11-30T16:34:05.126717+00:00",
     "username": "StateOfLimbo",
     "valid_from": "2023-11-30T16:34:27.889+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "5d498c25-6b82-4174-ad00-8449bfbf5e24",
+    "updated_at": "2023-12-03T12:25:14.836198+00:00",
+    "username": "Vegarbass",
+    "valid_from": "2023-12-03T12:25:44.642+00:00",
     "organization_id": null
   },
   {
