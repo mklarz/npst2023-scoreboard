@@ -9478,13 +9478,6 @@
     "organization_id": null
   },
   {
-    "id": "9895fa25-34e0-4e7d-8bc6-d1ba90189003",
-    "updated_at": "2023-12-03T14:27:44.884043+00:00",
-    "username": null,
-    "valid_from": "2023-12-03T14:27:44.884043+00:00",
-    "organization_id": null
-  },
-  {
     "id": "dc0a74cf-8a03-4d78-8875-ef627da2cb83",
     "updated_at": "2023-12-03T14:31:56.335352+00:00",
     "username": "Reganam",
@@ -9524,6 +9517,55 @@
     "updated_at": "2023-12-03T15:00:50.642658+00:00",
     "username": "betjent1",
     "valid_from": "2023-12-03T15:37:59.587+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "e4597fe2-b8f8-41a0-afd9-b4c067800c0c",
+    "updated_at": "2023-12-03T15:46:37.782425+00:00",
+    "username": "per.martin",
+    "valid_from": "2023-12-03T15:46:58.565+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "9895fa25-34e0-4e7d-8bc6-d1ba90189003",
+    "updated_at": "2023-12-03T14:27:44.884043+00:00",
+    "username": "Junta",
+    "valid_from": "2023-12-03T15:52:12.41+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "d47ef9f3-6d1e-45aa-a9f1-877285ac2328",
+    "updated_at": "2023-12-03T15:51:55.115915+00:00",
+    "username": "HanDerreHalvorPrøverIgjen",
+    "valid_from": "2023-12-03T15:52:18.377+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "7c8789c6-cbee-4b93-994f-0b2744387d15",
+    "updated_at": "2023-12-03T15:52:04.379166+00:00",
+    "username": "hepp",
+    "valid_from": "2023-12-03T15:52:27.315+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "eccf5b03-1190-4886-a682-1a1753880c56",
+    "updated_at": "2023-12-03T15:52:24.522806+00:00",
+    "username": "erblinium",
+    "valid_from": "2023-12-03T15:52:38.561+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "42b41e31-060b-4fbf-a892-95c409cbb4b2",
+    "updated_at": "2023-12-03T15:57:02.693429+00:00",
+    "username": "f3l1x",
+    "valid_from": "2023-12-03T15:57:28.699+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "5f215f8a-9072-402a-835c-948aeaad5fd1",
+    "updated_at": "2023-12-03T15:58:27.499433+00:00",
+    "username": "eplekake",
+    "valid_from": "2023-12-03T15:59:26.758+00:00",
     "organization_id": null
   }
 ]
