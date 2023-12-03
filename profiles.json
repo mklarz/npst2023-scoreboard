@@ -1729,6 +1729,13 @@
     "organization_id": null
   },
   {
+    "id": "e167d21f-1f3e-4a52-9430-7580857ef1fe",
+    "updated_at": "2023-12-01T11:15:01.134439+00:00",
+    "username": "EDB er vanskelig",
+    "valid_from": "2023-12-03T14:04:25.485+00:00",
+    "organization_id": null
+  },
+  {
     "id": "eb016b47-8ae1-4fc3-9fdc-6f56746f2581",
     "updated_at": "2023-11-30T15:05:29.254009+00:00",
     "username": "Krompel",
@@ -4295,13 +4302,6 @@
     "updated_at": "2023-12-01T09:31:18.869861+00:00",
     "username": "melle",
     "valid_from": "2023-12-01T09:31:29.133+00:00",
-    "organization_id": null
-  },
-  {
-    "id": "e167d21f-1f3e-4a52-9430-7580857ef1fe",
-    "updated_at": "2023-12-01T11:15:01.134439+00:00",
-    "username": "JonasAas",
-    "valid_from": "2023-12-03T11:38:11.793+00:00",
     "organization_id": null
   },
   {
@@ -9468,6 +9468,13 @@
     "updated_at": "2023-12-03T10:34:37.728564+00:00",
     "username": "Langtnavn",
     "valid_from": "2023-12-03T10:41:48.975+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "9c91bf14-901b-4ad1-b6dd-6aefc9e2b83e",
+    "updated_at": "2023-12-03T14:02:53.9311+00:00",
+    "username": "sulu404",
+    "valid_from": "2023-12-03T14:03:04.262+00:00",
     "organization_id": null
   }
 ]
