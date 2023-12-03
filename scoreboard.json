@@ -1708,6 +1708,13 @@
     "latest_solve_time": "2023-12-03T09:43:25.91048+00:00"
   },
   {
+    "user_id": "e2015b67-3dd4-45eb-85b8-d80b381e76d3",
+    "username": "studyBitcoin",
+    "score": 20,
+    "num_solves": 2,
+    "latest_solve_time": "2023-12-03T09:45:09.188261+00:00"
+  },
+  {
     "user_id": "1989186a-b7ce-47d4-ba29-0d0757dac160",
     "username": "Brunton",
     "score": 10,
@@ -2952,13 +2959,6 @@
     "score": 10,
     "num_solves": 1,
     "latest_solve_time": "2023-12-01T12:41:02.312373+00:00"
-  },
-  {
-    "user_id": "e2015b67-3dd4-45eb-85b8-d80b381e76d3",
-    "username": "studyBitcoin",
-    "score": 10,
-    "num_solves": 1,
-    "latest_solve_time": "2023-12-01T12:42:15.716672+00:00"
   },
   {
     "user_id": "87f58bff-b059-44dc-9a3c-8c385a8f5944",
@@ -5451,5 +5451,26 @@
     "score": 10,
     "num_solves": 1,
     "latest_solve_time": "2023-12-03T09:39:46.753759+00:00"
+  },
+  {
+    "user_id": "6af43731-b246-48e9-8857-cb4d5a68c930",
+    "username": "orchid",
+    "score": 10,
+    "num_solves": 1,
+    "latest_solve_time": "2023-12-03T09:52:45.07529+00:00"
+  },
+  {
+    "user_id": "100e770e-050e-4968-8a0d-ae981767cfa6",
+    "username": "Rumpesvette",
+    "score": 10,
+    "num_solves": 1,
+    "latest_solve_time": "2023-12-03T09:56:00.263447+00:00"
+  },
+  {
+    "user_id": "82dcf380-dfa4-48a2-a6f3-f10b40c2e320",
+    "username": "polizei",
+    "score": 10,
+    "num_solves": 1,
+    "latest_solve_time": "2023-12-03T09:56:25.467855+00:00"
   }
 ]
