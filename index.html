@@ -185,6 +185,7 @@ function addScoreboardData(data) {
         const img = document.createElement("img");
         img.src = organizations[user["organization_id"]].imagePath;
         img.width = 40;
+        img.title = organizations[user["organization_id"]].name;
         img.alt = organizations[user["organization_id"]].name;
         organizationCell.appendChild(img);
         organizationCell.className = "userRowWithOrganization"; 
