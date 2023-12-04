@@ -82,6 +82,9 @@ th {
 tr:hover {
   background-color: rgba(255, 255, 255, 0.1);
 }
+.userRowWithOrganization {
+  padding: 0px;
+}
 </style>
 </head>
 <body>
@@ -115,7 +118,7 @@ tr:hover {
           <th>Valid from</th>
           <th>Lasest solve</th>
           <th>Username</th>
-          <th>Org. ID</th>
+          <th>Org.</th>
           <th>Solves</th>
           <th>Score</th>
         </tr>
@@ -132,6 +135,21 @@ tr:hover {
 var users = null;
 
 function addScoreboardData(data) {
+  var organizations = {
+    1: {
+      name: "NPST",
+      imagePath: "static/npst.png",
+    },
+    2: {
+      name: "NISM",
+      imagePath: "static/nism.png",
+    },
+    3: {
+      name: "KRIAPOS",
+      imagePath: "static/kriapos.png",
+    },
+  }
+
   document.getElementById("atLeastOneSolveUsers").innerText = data.length;
   var userData = {};
   data.forEach((user) => {
@@ -155,13 +173,26 @@ function addScoreboardData(data) {
     var validFromCell = userRow.insertCell(1);
     var latestSolveCell = userRow.insertCell(2);
     var usernameCell = userRow.insertCell(3);
-    var orgIdCell = userRow.insertCell(4);
+    var organizationCell = userRow.insertCell(4);
     var solvesCell = userRow.insertCell(5);
     var scoreCell = userRow.insertCell(6);
     idCell.innerText = user["id"];
     validFromCell.innerText = user["valid_from"];
     latestSolveCell.innerText = latestSolve;
-    orgIdCell.innerText = user["organization_id"];
+
+    if (user["organization_id"] !== null) {
+      if (user["organization_id"] in organizations) {
+        const img = document.createElement("img");
+        img.src = organizations[user["organization_id"]].imagePath;
+        img.width = 40;
+        img.alt = organizations[user["organization_id"]].name;
+        organizationCell.appendChild(img);
+        organizationCell.className = "userRowWithOrganization"; 
+      } else {
+        organizationCell.innerText = user["organization_id"];
+      }
+    }
+
     solvesCell.innerText = solves;
     scoreCell.innerText = score;
     usernameCell.innerText = user["username"];
