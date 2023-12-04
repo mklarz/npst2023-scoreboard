@@ -2674,6 +2674,27 @@
     "latest_solve_time": "2023-12-04T07:17:28.989698+00:00"
   },
   {
+    "user_id": "a592dd36-a79e-41c3-9193-247103d19e8d",
+    "username": "kjolern",
+    "score": 20,
+    "num_solves": 2,
+    "latest_solve_time": "2023-12-04T07:30:09.009239+00:00"
+  },
+  {
+    "user_id": "898f7b5e-59d3-473a-9d91-d8942878ac2d",
+    "username": "joulenaisen",
+    "score": 20,
+    "num_solves": 2,
+    "latest_solve_time": "2023-12-04T07:35:26.274731+00:00"
+  },
+  {
+    "user_id": "1d94d5d3-c33d-4bf1-a445-ab31a9712060",
+    "username": "NstlgcRVN",
+    "score": 20,
+    "num_solves": 2,
+    "latest_solve_time": "2023-12-04T07:37:01.056237+00:00"
+  },
+  {
     "user_id": "1989186a-b7ce-47d4-ba29-0d0757dac160",
     "username": "Brunton",
     "score": 10,
@@ -2742,13 +2763,6 @@
     "score": 10,
     "num_solves": 1,
     "latest_solve_time": "2023-12-01T11:09:06.103293+00:00"
-  },
-  {
-    "user_id": "1d94d5d3-c33d-4bf1-a445-ab31a9712060",
-    "username": "NstlgcRVN",
-    "score": 10,
-    "num_solves": 1,
-    "latest_solve_time": "2023-12-01T11:09:09.955524+00:00"
   },
   {
     "user_id": "4f69590e-2d2f-4467-a74d-c146321f9c73",
@@ -4058,13 +4072,6 @@
     "score": 10,
     "num_solves": 1,
     "latest_solve_time": "2023-12-01T13:38:02.799783+00:00"
-  },
-  {
-    "user_id": "a592dd36-a79e-41c3-9193-247103d19e8d",
-    "username": "kjolern",
-    "score": 10,
-    "num_solves": 1,
-    "latest_solve_time": "2023-12-01T13:38:11.414841+00:00"
   },
   {
     "user_id": "d795e734-0c40-44d2-929c-9b4cbc57cc7b",
@@ -5808,5 +5815,19 @@
     "score": 10,
     "num_solves": 1,
     "latest_solve_time": "2023-12-04T07:27:52.723636+00:00"
+  },
+  {
+    "user_id": "02c90f21-3f5f-4367-8831-a35d8828e7b0",
+    "username": "koala2",
+    "score": 10,
+    "num_solves": 1,
+    "latest_solve_time": "2023-12-04T07:34:42.104342+00:00"
+  },
+  {
+    "user_id": "7fe32267-37f8-453a-9361-b79d824b109a",
+    "username": "Blem126",
+    "score": 10,
+    "num_solves": 1,
+    "latest_solve_time": "2023-12-04T07:43:15.914546+00:00"
   }
 ]
