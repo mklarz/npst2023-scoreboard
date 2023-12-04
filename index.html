@@ -27,13 +27,14 @@ html, body {
   font-size: 5rem;
   text-align: center;
 }
-#infoContainer {
+.infoContainer {
   width: 100%;
   display: flex;
-  justify-content: center;
+  flex-direction: column;
+  align-items: center;
   padding-bottom: 30px;
 }
-#info {
+.info {
   width: 50%;
   display: flex;
   justify-content: space-around;
@@ -85,12 +86,15 @@ tr:hover {
 .userRowWithOrganization {
   padding: 0px;
 }
+.organizationImage {
+  width: 140px;
+}
 </style>
 </head>
 <body>
 <div id="title">NPST2023</div>
-<div id="infoContainer">
-  <div id="info">
+<div class="infoContainer">
+  <div class="info">
     <div class="infoItem">
       <div class="infoTitle">Registered users</div>
       <div class="infoValue" id="registeredUsers">?</div>
@@ -102,6 +106,23 @@ tr:hover {
     <div class="infoItem">
       <div class="infoTitle">>=1 solve</div>
       <div class="infoValue" id="atLeastOneSolveUsers">?</div>
+    </div>
+  </div>
+</div>
+<hr>
+<div class="infoContainer">
+  <div class="info" style="padding-top: 30px;">
+    <div class="infoItem">
+      <div class="infoTitle"><img class="organizationImage" src="static/npst_280px.png" /></div>
+      <div class="infoValue" id="npstUsers">?</div>
+    </div>
+    <div class="infoItem">
+      <div class="infoTitle"><img class="organizationImage" src="static/nism_280px.png" /></div>
+      <div class="infoValue" id="nismUsers">?</div>
+    </div>
+    <div class="infoItem">
+      <div class="infoTitle"><img class="organizationImage" src="static/kriapos_280px.png" /></div>
+      <div class="infoValue" id="kriaposUsers">?</div>
     </div>
   </div>
 </div>
@@ -132,24 +153,25 @@ tr:hover {
 <script src="./static/jquery-3.6.0.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script src="./static/theme.js" integirty="sha512-e5yUjHlsMcLwsXP8QBpfUofcbF3vG5oEbSiqvkTM/ShCzG7R9+HWBmQhI22nBXIq" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script>
-var users = null;
+const ORGANIZATIONS = {
+  1: {
+    name: "NPST",
+    imagePath: "static/npst.png",
+  },
+  2: {
+    name: "NISM",
+    imagePath: "static/nism.png",
+  },
+  3: {
+    name: "KRIAPOS",
+    imagePath: "static/kriapos.png",
+  },
+}
+</script>
+<script>
+var USERS = null;
 
 function addScoreboardData(data) {
-  var organizations = {
-    1: {
-      name: "NPST",
-      imagePath: "static/npst.png",
-    },
-    2: {
-      name: "NISM",
-      imagePath: "static/nism.png",
-    },
-    3: {
-      name: "KRIAPOS",
-      imagePath: "static/kriapos.png",
-    },
-  }
-
   document.getElementById("atLeastOneSolveUsers").innerText = data.length;
   var userData = {};
   data.forEach((user) => {
@@ -157,7 +179,7 @@ function addScoreboardData(data) {
   })
 
   var usersTable = document.getElementById("usersTable");
-  users.forEach((user) => {
+  USERS.forEach((user) => {
     var scoreboardUser = userData[user["id"]];
     var latestSolve = "";
     var solves = "";
@@ -181,12 +203,12 @@ function addScoreboardData(data) {
     latestSolveCell.innerText = latestSolve;
 
     if (user["organization_id"] !== null) {
-      if (user["organization_id"] in organizations) {
+      if (user["organization_id"] in ORGANIZATIONS) {
         const img = document.createElement("img");
-        img.src = organizations[user["organization_id"]].imagePath;
+        img.src = ORGANIZATIONS[user["organization_id"]].imagePath;
         img.width = 40;
-        img.title = organizations[user["organization_id"]].name;
-        img.alt = organizations[user["organization_id"]].name;
+        img.title = ORGANIZATIONS[user["organization_id"]].name;
+        img.alt = ORGANIZATIONS[user["organization_id"]].name;
         organizationCell.appendChild(img);
         organizationCell.className = "userRowWithOrganization"; 
       } else {
@@ -203,7 +225,13 @@ function addScoreboardData(data) {
 function addInfoData(data) {
   document.getElementById("registeredUsers").textContent = data["registered_users"];
   document.getElementById("hiddenUsers").textContent = data["hidden_users"];
-  users = data["users"];
+
+  
+  for (const [organizationId, userCount] of Object.entries(data["organizations"])) {
+    document.getElementById(`${ORGANIZATIONS[organizationId].name.toLowerCase()}Users`).textContent = userCount;
+  }
+
+  USERS = data["users"];
 }
 function addTopData(data) {
   var chart = echarts.init(document.getElementById('topUsers'), 'dark');
@@ -349,7 +377,7 @@ document.addEventListener('DOMContentLoaded', function () {
   $.getJSON("./info.json", addInfoData);
 
   const scoreboardInterval = setInterval(function () {
-    if (users !== null) {
+    if (USERS !== null) {
       $.getJSON("./scoreboard.min.json", addScoreboardData);
       clearInterval(scoreboardInterval);
     }
