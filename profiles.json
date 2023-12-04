@@ -6489,13 +6489,6 @@
     "organization_id": null
   },
   {
-    "id": "d94bbfbe-5fd1-48a0-9833-818c837b5227",
-    "updated_at": "2023-12-02T07:27:48.864535+00:00",
-    "username": null,
-    "valid_from": "2023-12-02T07:27:48.864535+00:00",
-    "organization_id": null
-  },
-  {
     "id": "e734193e-af47-45da-9ae1-76741f70d639",
     "updated_at": "2023-12-02T07:28:42.080769+00:00",
     "username": null,
@@ -10175,6 +10168,34 @@
     "updated_at": "2023-12-01T10:51:21.439708+00:00",
     "username": "Betjent Simen 👮🏻‍♂️🚓",
     "valid_from": "2023-12-04T08:29:09.03+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "0b9d32ff-e8c6-488e-9318-34e36f5c6b50",
+    "updated_at": "2023-12-04T08:31:40.424491+00:00",
+    "username": "Glæd_dæd1990",
+    "valid_from": "2023-12-04T08:32:24.211+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "75149cb5-74a5-4651-bc3f-1f9eb55193bc",
+    "updated_at": "2023-12-04T08:37:45.978719+00:00",
+    "username": "ola2",
+    "valid_from": "2023-12-04T08:38:10.002+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "b4d6b133-1962-495d-a51f-2bb9c66ba142",
+    "updated_at": "2023-12-04T08:40:46.058949+00:00",
+    "username": "Toffy",
+    "valid_from": "2023-12-04T08:40:58.433+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "f7fd2865-23f4-4707-8d61-d880fe1c06fc",
+    "updated_at": "2023-12-04T08:44:47.898606+00:00",
+    "username": null,
+    "valid_from": "2023-12-04T08:44:47.898606+00:00",
     "organization_id": null
   }
 ]
