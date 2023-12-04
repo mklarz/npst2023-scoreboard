@@ -168,13 +168,6 @@
     "organization_id": null
   },
   {
-    "id": "f3f9318b-7135-45d8-a46b-6336a1450db5",
-    "updated_at": "2023-11-30T13:41:31.883752+00:00",
-    "username": "støtende",
-    "valid_from": "2023-12-01T11:03:44.414+00:00",
-    "organization_id": null
-  },
-  {
     "id": "c587790c-e770-4623-a6d1-048701d3c658",
     "updated_at": "2023-11-30T13:29:27.086408+00:00",
     "username": "bambam70",
@@ -424,6 +417,13 @@
     "updated_at": "2023-11-30T13:17:55.057532+00:00",
     "username": "brattis",
     "valid_from": "2023-11-30T13:18:16.373+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "f3f9318b-7135-45d8-a46b-6336a1450db5",
+    "updated_at": "2023-11-30T13:41:31.883752+00:00",
+    "username": "unblvr",
+    "valid_from": "2023-12-04T10:58:39.344+00:00",
     "organization_id": null
   },
   {
@@ -9275,13 +9275,6 @@
     "organization_id": null
   },
   {
-    "id": "0038ffdd-15df-431b-9499-423dbebe2d6a",
-    "updated_at": "2023-12-03T18:13:53.763986+00:00",
-    "username": "vicpeder",
-    "valid_from": "2023-12-03T18:14:10.155+00:00",
-    "organization_id": null
-  },
-  {
     "id": "e4a4343d-00b1-4458-a7c6-80062447cbdc",
     "updated_at": "2023-12-03T10:23:16.047258+00:00",
     "username": "arve",
@@ -9916,6 +9909,27 @@
     "updated_at": "2023-12-04T10:43:56.384578+00:00",
     "username": "n33",
     "valid_from": "2023-12-04T10:44:28.598+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "0038ffdd-15df-431b-9499-423dbebe2d6a",
+    "updated_at": "2023-12-03T18:13:53.763986+00:00",
+    "username": "vicdog",
+    "valid_from": "2023-12-04T10:46:27.618+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "801353a3-1a1c-43af-b84c-d765d405d759",
+    "updated_at": "2023-12-04T10:47:56.589749+00:00",
+    "username": "Ikkekoder",
+    "valid_from": "2023-12-04T10:48:11.963+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "8aa38c96-e6b3-442d-86bc-924d5e3a4f08",
+    "updated_at": "2023-12-04T10:58:34.896482+00:00",
+    "username": "cornyhenrik",
+    "valid_from": "2023-12-04T10:58:49.233+00:00",
     "organization_id": null
   },
   {
