@@ -10554,5 +10554,40 @@
     "username": "havregrot_8",
     "valid_from": "2023-12-04T11:16:57.082+00:00",
     "organization_id": null
+  },
+  {
+    "id": "f1368937-c2a4-42ec-8ed8-075fdc425654",
+    "updated_at": "2023-12-04T11:30:16.378207+00:00",
+    "username": null,
+    "valid_from": "2023-12-04T11:30:16.378207+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "357c2207-9468-498e-b6ba-51fc579bbcf2",
+    "updated_at": "2023-12-04T11:35:53.08552+00:00",
+    "username": null,
+    "valid_from": "2023-12-04T11:35:53.08552+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "3c484659-3062-4e20-8770-d14aea20f537",
+    "updated_at": "2023-12-04T11:35:54.182248+00:00",
+    "username": "hatlen",
+    "valid_from": "2023-12-04T11:36:20.128+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "56577d34-48ac-4f4a-8e08-8cd51bb3f94d",
+    "updated_at": "2023-12-04T11:36:44.885954+00:00",
+    "username": "lektorstai",
+    "valid_from": "2023-12-04T11:37:02.129+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "c3219276-6aac-40b2-9d82-b3f0f0926058",
+    "updated_at": "2023-12-04T11:44:15.83323+00:00",
+    "username": "ArcticAussie",
+    "valid_from": "2023-12-04T11:44:44.246+00:00",
+    "organization_id": null
   }
 ]
