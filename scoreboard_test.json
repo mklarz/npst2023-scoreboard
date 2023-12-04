@@ -1414,6 +1414,13 @@
     "latest_solve_time": "2023-12-04T06:57:08.78883+00:00"
   },
   {
+    "user_id": "43642bbb-1e30-4bbd-9284-928c1a8ffd35",
+    "username": "AnimatedKiwi",
+    "score": 30,
+    "num_solves": 3,
+    "latest_solve_time": "2023-12-04T07:07:39.516094+00:00"
+  },
+  {
     "user_id": "c9ee7e53-8343-4d3a-9e87-fb41ef318221",
     "username": "Pippen",
     "score": 20,
@@ -2653,6 +2660,13 @@
     "latest_solve_time": "2023-12-04T04:45:49.016081+00:00"
   },
   {
+    "user_id": "a1fe8e6a-98ca-4795-ae40-5d2bd60d18b1",
+    "username": "Ares",
+    "score": 20,
+    "num_solves": 2,
+    "latest_solve_time": "2023-12-04T07:05:35.018052+00:00"
+  },
+  {
     "user_id": "1989186a-b7ce-47d4-ba29-0d0757dac160",
     "username": "Brunton",
     "score": 10,
@@ -3708,13 +3722,6 @@
     "score": 10,
     "num_solves": 1,
     "latest_solve_time": "2023-12-01T12:55:19.082755+00:00"
-  },
-  {
-    "user_id": "43642bbb-1e30-4bbd-9284-928c1a8ffd35",
-    "username": "AnimatedKiwi",
-    "score": 10,
-    "num_solves": 1,
-    "latest_solve_time": "2023-12-01T12:56:14.270603+00:00"
   },
   {
     "user_id": "685af5db-8861-4a0c-94c8-751ac823ec58",
@@ -4816,13 +4823,6 @@
     "latest_solve_time": "2023-12-01T20:06:08.129839+00:00"
   },
   {
-    "user_id": "a1fe8e6a-98ca-4795-ae40-5d2bd60d18b1",
-    "username": "Ares",
-    "score": 10,
-    "num_solves": 1,
-    "latest_solve_time": "2023-12-01T20:08:48.78644+00:00"
-  },
-  {
     "user_id": "8532c436-814b-4c9e-8c74-2b832c283f13",
     "username": "Dilbar",
     "score": 10,
@@ -5787,5 +5787,19 @@
     "score": 10,
     "num_solves": 1,
     "latest_solve_time": "2023-12-04T00:41:34.034651+00:00"
+  },
+  {
+    "user_id": "9972a4e8-8e7b-4a4c-afc9-2c37b38e6c1c",
+    "username": "vebjorn111",
+    "score": 10,
+    "num_solves": 1,
+    "latest_solve_time": "2023-12-04T07:10:33.245886+00:00"
+  },
+  {
+    "user_id": "39a11bf9-c0a6-49c4-a3e6-86b305a1df04",
+    "username": "Anders",
+    "score": 10,
+    "num_solves": 1,
+    "latest_solve_time": "2023-12-04T07:13:39.483056+00:00"
   }
 ]

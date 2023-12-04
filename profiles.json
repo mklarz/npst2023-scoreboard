@@ -4795,6 +4795,13 @@
     "organization_id": null
   },
   {
+    "id": "73314fb8-b6e7-4379-a485-47247a472ac0",
+    "updated_at": "2023-12-01T14:12:13.48146+00:00",
+    "username": "overstadtrond@gmail.com",
+    "valid_from": "2023-12-04T07:08:42.038+00:00",
+    "organization_id": null
+  },
+  {
     "id": "3f479af2-a18c-4a40-a1f8-36716208f6ce",
     "updated_at": "2023-12-01T12:30:12.50542+00:00",
     "username": "Anne123",
@@ -5338,13 +5345,6 @@
     "updated_at": "2023-12-01T14:11:31.627831+00:00",
     "username": "Ulexitt",
     "valid_from": "2023-12-01T14:11:48.357+00:00",
-    "organization_id": null
-  },
-  {
-    "id": "73314fb8-b6e7-4379-a485-47247a472ac0",
-    "updated_at": "2023-12-01T14:12:13.48146+00:00",
-    "username": null,
-    "valid_from": "2023-12-01T14:12:13.48146+00:00",
     "organization_id": null
   },
   {
@@ -9552,6 +9552,41 @@
     "updated_at": "2023-12-04T06:58:40.303113+00:00",
     "username": "Anders",
     "valid_from": "2023-12-04T06:59:08.334+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "06103c6f-7e0e-4b64-aea7-b96b1b5e890e",
+    "updated_at": "2023-12-04T07:02:07.161839+00:00",
+    "username": "Aeriks1",
+    "valid_from": "2023-12-04T07:02:34.806+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "bcbe1ef3-8775-48d5-9b78-1fc275caf0a7",
+    "updated_at": "2023-12-04T07:03:33.280324+00:00",
+    "username": "M4rtyMcF1y",
+    "valid_from": "2023-12-04T07:03:49.233+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "15fa1cdd-c0df-47c1-be7d-7cec7d0cdc51",
+    "updated_at": "2023-12-04T07:07:53.79965+00:00",
+    "username": "tpaulsen",
+    "valid_from": "2023-12-04T07:08:14.049+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "19449ff7-e368-4f65-9ded-185dd79e00fb",
+    "updated_at": "2023-12-04T07:10:40.035238+00:00",
+    "username": null,
+    "valid_from": "2023-12-04T07:10:40.035238+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "20b3ad2b-5fbb-41bf-9815-0c3abf3134a8",
+    "updated_at": "2023-12-04T07:13:00.316652+00:00",
+    "username": "ultrapils",
+    "valid_from": "2023-12-04T07:13:14.196+00:00",
     "organization_id": null
   },
   {
