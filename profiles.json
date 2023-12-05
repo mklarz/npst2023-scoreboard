@@ -11963,6 +11963,20 @@
     "organization_id": 2
   },
   {
+    "id": "fb0a14d2-321a-4734-88fb-57e041fc0033",
+    "updated_at": "2023-12-05T19:28:52.386231+00:00",
+    "username": "Shuma",
+    "valid_from": "2023-12-05T19:29:43.15+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "31f99779-77f8-4b61-82a9-8c9e7383c0b1",
+    "updated_at": "2023-12-05T19:29:57.883162+00:00",
+    "username": null,
+    "valid_from": "2023-12-05T19:29:57.883162+00:00",
+    "organization_id": null
+  },
+  {
     "id": "c863f56a-adb1-417a-92d5-664fba7aad0c",
     "updated_at": "2023-12-01T12:06:50.499929+00:00",
     "username": "Stefflus",
