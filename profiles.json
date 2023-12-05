@@ -1834,6 +1834,13 @@
     "organization_id": 1
   },
   {
+    "id": "5753000f-22bf-4e4b-b062-1a93cb514e4d",
+    "updated_at": "2023-12-01T06:11:16.59263+00:00",
+    "username": "Sgbjrn",
+    "valid_from": "2023-12-05T06:00:36.29+00:00",
+    "organization_id": 2
+  },
+  {
     "id": "680e8b9f-7710-4769-a4be-50e02c2bfe05",
     "updated_at": "2023-12-01T04:15:40.69817+00:00",
     "username": "NightNDay",
@@ -2034,13 +2041,6 @@
     "updated_at": "2023-11-30T21:20:23.042635+00:00",
     "username": "st0ffern",
     "valid_from": "2023-11-30T21:20:35.178+00:00",
-    "organization_id": null
-  },
-  {
-    "id": "5753000f-22bf-4e4b-b062-1a93cb514e4d",
-    "updated_at": "2023-12-01T06:11:16.59263+00:00",
-    "username": "Sgbjrn",
-    "valid_from": "2023-12-01T06:14:44.023+00:00",
     "organization_id": null
   },
   {
