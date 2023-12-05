@@ -1274,13 +1274,6 @@
     "organization_id": 2
   },
   {
-    "id": "e1c8450d-3a7a-44f0-92de-93512cc192fb",
-    "updated_at": "2023-11-30T19:43:07.859126+00:00",
-    "username": null,
-    "valid_from": "2023-12-04T20:00:14.559+00:00",
-    "organization_id": 2
-  },
-  {
     "id": "d510a608-df83-4094-8c8f-91ab5b3d4b59",
     "updated_at": "2023-12-01T07:06:30.459715+00:00",
     "username": "rulp",
@@ -1477,6 +1470,13 @@
     "organization_id": null
   },
   {
+    "id": "e1c8450d-3a7a-44f0-92de-93512cc192fb",
+    "updated_at": "2023-11-30T19:43:07.859126+00:00",
+    "username": "nordbo",
+    "valid_from": "2023-12-05T18:03:04.69+00:00",
+    "organization_id": 2
+  },
+  {
     "id": "b3fe9089-c65b-42ee-978c-213bc70afbad",
     "updated_at": "2023-12-01T07:30:01.101471+00:00",
     "username": "larsw",
@@ -1580,13 +1580,6 @@
     "username": "Oda",
     "valid_from": "2023-12-04T12:36:06.356+00:00",
     "organization_id": 1
-  },
-  {
-    "id": "5ce1f9e4-59ec-4098-8ee8-79e25ecb3d2b",
-    "updated_at": "2023-11-30T17:31:59.482891+00:00",
-    "username": "arvink",
-    "valid_from": "2023-11-30T17:32:15.703+00:00",
-    "organization_id": null
   },
   {
     "id": "1efb93ab-b848-4b56-8c5a-ba6ebde5cea6",
@@ -2230,6 +2223,13 @@
     "updated_at": "2023-11-30T17:27:12.844749+00:00",
     "username": "Jeanette",
     "valid_from": "2023-12-05T15:39:13.237+00:00",
+    "organization_id": 3
+  },
+  {
+    "id": "5ce1f9e4-59ec-4098-8ee8-79e25ecb3d2b",
+    "updated_at": "2023-11-30T17:31:59.482891+00:00",
+    "username": "arvink",
+    "valid_from": "2023-12-05T18:05:17.349+00:00",
     "organization_id": 3
   },
   {
@@ -8393,13 +8393,6 @@
     "organization_id": null
   },
   {
-    "id": "cce50ab1-bcb5-4c6e-a4bd-0a411fa46e17",
-    "updated_at": "2023-12-01T20:21:13.956485+00:00",
-    "username": "zetici",
-    "valid_from": "2023-12-01T20:21:31.08+00:00",
-    "organization_id": null
-  },
-  {
     "id": "4bb24348-8044-4c2d-a086-8a49fe992a17",
     "updated_at": "2023-12-02T12:19:27.403888+00:00",
     "username": "danimo93",
@@ -8565,6 +8558,13 @@
     "updated_at": "2023-12-01T19:30:39.037379+00:00",
     "username": "Josch",
     "valid_from": "2023-12-04T19:14:15.671+00:00",
+    "organization_id": 2
+  },
+  {
+    "id": "cce50ab1-bcb5-4c6e-a4bd-0a411fa46e17",
+    "updated_at": "2023-12-01T20:21:13.956485+00:00",
+    "username": "zetici",
+    "valid_from": "2023-12-05T18:04:11.321+00:00",
     "organization_id": 2
   },
   {
