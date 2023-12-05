@@ -5628,6 +5628,13 @@
     "organization_id": null
   },
   {
+    "id": "6a80ea25-ec28-47b6-978c-b8e99109f436",
+    "updated_at": "2023-12-01T13:23:05.075741+00:00",
+    "username": "Uggiz",
+    "valid_from": "2023-12-05T14:34:38.001+00:00",
+    "organization_id": 1
+  },
+  {
     "id": "6fbfcff4-3134-4fc1-8c37-990f4f3d9282",
     "updated_at": "2023-12-01T12:50:53.396466+00:00",
     "username": "EridianGhost",
@@ -5828,13 +5835,6 @@
     "updated_at": "2023-12-01T13:22:40.952364+00:00",
     "username": "KimOBV",
     "valid_from": "2023-12-01T13:22:53.388+00:00",
-    "organization_id": null
-  },
-  {
-    "id": "6a80ea25-ec28-47b6-978c-b8e99109f436",
-    "updated_at": "2023-12-01T13:23:05.075741+00:00",
-    "username": "Uggiz",
-    "valid_from": "2023-12-01T13:23:14.348+00:00",
     "organization_id": null
   },
   {
@@ -10878,11 +10878,39 @@
     "organization_id": 3
   },
   {
+    "id": "c1f68825-204e-47d7-8b2b-78997d3f29a9",
+    "updated_at": "2023-12-05T14:31:19.039016+00:00",
+    "username": null,
+    "valid_from": "2023-12-05T14:32:40.414+00:00",
+    "organization_id": 1
+  },
+  {
+    "id": "fba58043-0c89-44cb-8e57-3eee9187e28f",
+    "updated_at": "2023-12-05T14:33:15.329065+00:00",
+    "username": "KvernerogAker",
+    "valid_from": "2023-12-05T14:33:59.654+00:00",
+    "organization_id": null
+  },
+  {
     "id": "b2db93ed-bacc-4bc2-b83e-bf38d6e2a9a7",
     "updated_at": "2023-12-05T14:28:52.008306+00:00",
     "username": null,
-    "valid_from": "2023-12-05T14:28:52.008306+00:00",
-    "organization_id": null
+    "valid_from": "2023-12-05T14:34:55.68+00:00",
+    "organization_id": 3
+  },
+  {
+    "id": "85295654-5e45-4504-8aeb-ae93ed316610",
+    "updated_at": "2023-12-05T14:30:37.925458+00:00",
+    "username": "Nikolai.ing",
+    "valid_from": "2023-12-05T14:35:17.891+00:00",
+    "organization_id": 2
+  },
+  {
+    "id": "930e7e02-6fe4-4b13-b079-e319257523f4",
+    "updated_at": "2023-12-05T14:38:00.204764+00:00",
+    "username": "steinar_",
+    "valid_from": "2023-12-05T14:38:58.443+00:00",
+    "organization_id": 1
   },
   {
     "id": "208422c7-cfe2-4afc-ad6d-db9551f412da",
