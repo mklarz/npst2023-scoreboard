@@ -4543,13 +4543,6 @@
     "organization_id": null
   },
   {
-    "id": "4dd3a910-c11d-45c5-b46b-d5e0430c5ec4",
-    "updated_at": "2023-12-01T12:21:43.379056+00:00",
-    "username": "Kine KE",
-    "valid_from": "2023-12-01T12:22:09.815+00:00",
-    "organization_id": null
-  },
-  {
     "id": "5e61be7a-4eb1-41be-b4d6-ed6ebc0eefd5",
     "updated_at": "2023-12-03T12:53:34.378672+00:00",
     "username": "espenhjelmeland",
@@ -4954,6 +4947,13 @@
     "username": "Sune",
     "valid_from": "2023-12-01T13:49:45.284+00:00",
     "organization_id": null
+  },
+  {
+    "id": "4dd3a910-c11d-45c5-b46b-d5e0430c5ec4",
+    "updated_at": "2023-12-01T12:21:43.379056+00:00",
+    "username": "Kine KE",
+    "valid_from": "2023-12-05T00:53:23.988+00:00",
+    "organization_id": 1
   },
   {
     "id": "3f2c073c-fa53-4e36-b04a-9820d4d919f8",
