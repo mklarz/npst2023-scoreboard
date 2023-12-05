@@ -1722,13 +1722,6 @@
     "organization_id": null
   },
   {
-    "id": "b07564e4-5236-4fe4-8f57-5b997c0eaca4",
-    "updated_at": "2023-11-30T15:15:44.400075+00:00",
-    "username": "runarmod",
-    "valid_from": "2023-12-01T13:32:42.629+00:00",
-    "organization_id": null
-  },
-  {
     "id": "be8bb84f-31a1-4e61-a96b-3d88ccee32a0",
     "updated_at": "2023-12-01T03:13:58.916999+00:00",
     "username": "serbiskløve",
@@ -2233,6 +2226,13 @@
     "organization_id": 3
   },
   {
+    "id": "b07564e4-5236-4fe4-8f57-5b997c0eaca4",
+    "updated_at": "2023-11-30T15:15:44.400075+00:00",
+    "username": "runarmod",
+    "valid_from": "2023-12-05T18:48:53.761+00:00",
+    "organization_id": 1
+  },
+  {
     "id": "2df1b4da-81de-4f69-9983-7dc17b0b650c",
     "updated_at": "2023-12-01T12:13:57.975122+00:00",
     "username": "klorfrosken",
@@ -2730,6 +2730,13 @@
     "organization_id": 3
   },
   {
+    "id": "28cf8b88-05ee-43c3-a40b-ded951f26e87",
+    "updated_at": "2023-12-01T08:36:51.518936+00:00",
+    "username": "criss",
+    "valid_from": "2023-12-05T18:53:58.629+00:00",
+    "organization_id": 1
+  },
+  {
     "id": "a921f8d3-582d-4e82-9ce2-c40c1f591892",
     "updated_at": "2023-12-01T08:18:37.679582+00:00",
     "username": null,
@@ -2860,13 +2867,6 @@
     "updated_at": "2023-12-01T08:33:34.749246+00:00",
     "username": "stian3555",
     "valid_from": "2023-12-01T08:33:48.74+00:00",
-    "organization_id": null
-  },
-  {
-    "id": "28cf8b88-05ee-43c3-a40b-ded951f26e87",
-    "updated_at": "2023-12-01T08:36:51.518936+00:00",
-    "username": "criss",
-    "valid_from": "2023-12-01T08:37:12.739+00:00",
     "organization_id": null
   },
   {
@@ -6069,6 +6069,13 @@
     "organization_id": 1
   },
   {
+    "id": "e6d132f0-1cd2-4268-9a08-9d954ab55ae1",
+    "updated_at": "2023-12-02T15:33:54.926007+00:00",
+    "username": "kabeljau",
+    "valid_from": "2023-12-05T18:57:08.279+00:00",
+    "organization_id": 1
+  },
+  {
     "id": "c45e0b17-87c9-4896-bb8a-57152cd8bdd4",
     "updated_at": "2023-12-01T23:18:23.657904+00:00",
     "username": "Archonin",
@@ -6507,13 +6514,6 @@
     "updated_at": "2023-12-02T15:23:11.999037+00:00",
     "username": "Noodlenish",
     "valid_from": "2023-12-02T15:23:29.513+00:00",
-    "organization_id": null
-  },
-  {
-    "id": "e6d132f0-1cd2-4268-9a08-9d954ab55ae1",
-    "updated_at": "2023-12-02T15:33:54.926007+00:00",
-    "username": "kabeljau",
-    "valid_from": "2023-12-02T15:34:24.859+00:00",
     "organization_id": null
   },
   {
@@ -8092,13 +8092,6 @@
     "organization_id": null
   },
   {
-    "id": "ef314a59-3286-403d-89a0-c16678a6b1ef",
-    "updated_at": "2023-12-01T09:13:50.618808+00:00",
-    "username": "olekekan",
-    "valid_from": "2023-12-01T19:26:56.174+00:00",
-    "organization_id": null
-  },
-  {
     "id": "4000a2c5-483a-4521-97bd-0594047360db",
     "updated_at": "2023-12-02T11:40:49.221627+00:00",
     "username": "Natthatten",
@@ -8678,6 +8671,13 @@
     "username": null,
     "valid_from": "2023-12-02T13:54:23.566926+00:00",
     "organization_id": null
+  },
+  {
+    "id": "ef314a59-3286-403d-89a0-c16678a6b1ef",
+    "updated_at": "2023-12-01T09:13:50.618808+00:00",
+    "username": "olekekan",
+    "valid_from": "2023-12-05T18:46:20.624+00:00",
+    "organization_id": 3
   },
   {
     "id": "969928ce-e66b-448e-96e9-f2ae735ced39",
@@ -11032,18 +11032,18 @@
     "organization_id": 2
   },
   {
-    "id": "9a8cb007-71b9-4bf6-9dc6-c802733057cd",
-    "updated_at": "2023-12-04T13:22:40.784212+00:00",
-    "username": "CISK reinsdyr",
-    "valid_from": "2023-12-05T16:33:37.131+00:00",
-    "organization_id": 2
-  },
-  {
     "id": "2c981395-a090-4033-a293-55c09201f829",
     "updated_at": "2023-12-04T17:47:46.202821+00:00",
     "username": "Jeppi",
     "valid_from": "2023-12-05T17:58:37.383+00:00",
     "organization_id": 1
+  },
+  {
+    "id": "9a8cb007-71b9-4bf6-9dc6-c802733057cd",
+    "updated_at": "2023-12-04T13:22:40.784212+00:00",
+    "username": "CISK HAPPY",
+    "valid_from": "2023-12-05T18:54:36.307+00:00",
+    "organization_id": 2
   },
   {
     "id": "c10ead93-0121-43be-b96e-9766881fa323",
