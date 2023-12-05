@@ -11424,6 +11424,13 @@
     "organization_id": 2
   },
   {
+    "id": "5b66cdc9-7bfd-4115-8769-5ea0316fe09b",
+    "updated_at": "2023-12-05T05:59:14.957927+00:00",
+    "username": "iiLuM1nAT1",
+    "valid_from": "2023-12-05T05:59:34.284+00:00",
+    "organization_id": null
+  },
+  {
     "id": "c863f56a-adb1-417a-92d5-664fba7aad0c",
     "updated_at": "2023-12-01T12:06:50.499929+00:00",
     "username": "Stefflus",
@@ -11506,5 +11513,12 @@
     "username": "pappabloggen",
     "valid_from": "2023-12-04T22:32:51.148+00:00",
     "organization_id": 1
+  },
+  {
+    "id": "35444b77-2500-4431-97cb-ebebddc258c6",
+    "updated_at": "2023-12-05T05:59:15.057466+00:00",
+    "username": null,
+    "valid_from": "2023-12-05T05:59:15.057466+00:00",
+    "organization_id": null
   }
 ]
