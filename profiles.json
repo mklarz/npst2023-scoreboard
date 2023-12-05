@@ -9688,6 +9688,13 @@
     "organization_id": null
   },
   {
+    "id": "2e4a9089-345a-4f07-8869-569a2b527f87",
+    "updated_at": "2023-12-04T09:21:19.238913+00:00",
+    "username": "Peppi",
+    "valid_from": "2023-12-05T16:30:21.943+00:00",
+    "organization_id": 3
+  },
+  {
     "id": "63b32a18-a950-4a04-89be-27574c548c7a",
     "updated_at": "2023-12-03T14:39:31.136835+00:00",
     "username": null,
@@ -10007,13 +10014,6 @@
     "updated_at": "2023-12-04T09:15:23.166263+00:00",
     "username": "Don doN",
     "valid_from": "2023-12-04T09:15:50.519+00:00",
-    "organization_id": null
-  },
-  {
-    "id": "2e4a9089-345a-4f07-8869-569a2b527f87",
-    "updated_at": "2023-12-04T09:21:19.238913+00:00",
-    "username": "Peppi",
-    "valid_from": "2023-12-04T09:22:37.209+00:00",
     "organization_id": null
   },
   {
@@ -11032,6 +11032,13 @@
     "organization_id": 2
   },
   {
+    "id": "9a8cb007-71b9-4bf6-9dc6-c802733057cd",
+    "updated_at": "2023-12-04T13:22:40.784212+00:00",
+    "username": "CISK reinsdyr",
+    "valid_from": "2023-12-05T16:33:37.131+00:00",
+    "organization_id": 2
+  },
+  {
     "id": "c10ead93-0121-43be-b96e-9766881fa323",
     "updated_at": "2023-11-30T18:08:49.509322+00:00",
     "username": "cinaed",
@@ -11121,13 +11128,6 @@
     "username": "InvalidNopCode",
     "valid_from": "2023-12-04T13:25:31.59+00:00",
     "organization_id": 1
-  },
-  {
-    "id": "9a8cb007-71b9-4bf6-9dc6-c802733057cd",
-    "updated_at": "2023-12-04T13:22:40.784212+00:00",
-    "username": "sebmax",
-    "valid_from": "2023-12-04T13:25:51.875+00:00",
-    "organization_id": 2
   },
   {
     "id": "b2647a8a-b820-47e0-852b-94471282c666",
@@ -11898,6 +11898,13 @@
     "username": null,
     "valid_from": "2023-12-05T16:11:31.154+00:00",
     "organization_id": 1
+  },
+  {
+    "id": "e29a35a8-3077-4266-bc1d-6a080e7bd0dd",
+    "updated_at": "2023-12-05T16:36:27.0888+00:00",
+    "username": null,
+    "valid_from": "2023-12-05T16:36:27.0888+00:00",
+    "organization_id": null
   },
   {
     "id": "c863f56a-adb1-417a-92d5-664fba7aad0c",
