@@ -385,13 +385,6 @@
     "organization_id": 1
   },
   {
-    "id": "9394378f-f68a-4e81-be10-5a53b47345cc",
-    "updated_at": "2023-11-30T13:39:58.201624+00:00",
-    "username": "roys",
-    "valid_from": "2023-12-04T12:36:43.329+00:00",
-    "organization_id": 2
-  },
-  {
     "id": "038d3802-8dbd-4ee7-b49d-4d39dfa25b20",
     "updated_at": "2023-11-30T13:28:32.002918+00:00",
     "username": "Bop",
@@ -760,6 +753,13 @@
     "updated_at": "2023-11-30T14:16:15.966765+00:00",
     "username": "TrashPersistentThreat",
     "valid_from": "2023-12-06T14:25:29.126+00:00",
+    "organization_id": 2
+  },
+  {
+    "id": "9394378f-f68a-4e81-be10-5a53b47345cc",
+    "updated_at": "2023-11-30T13:39:58.201624+00:00",
+    "username": "roys",
+    "valid_from": "2023-12-06T21:00:44.627+00:00",
     "organization_id": 2
   },
   {
@@ -8421,13 +8421,6 @@
     "organization_id": 3
   },
   {
-    "id": "8661101d-0ce3-4bff-b760-fe2493601b55",
-    "updated_at": "2023-12-02T12:45:31.918626+00:00",
-    "username": "nikko",
-    "valid_from": "2023-12-02T12:45:45.194+00:00",
-    "organization_id": null
-  },
-  {
     "id": "e1dec9b4-fa13-4c3f-9521-504a5e89ab6c",
     "updated_at": "2023-12-02T10:59:36.523176+00:00",
     "username": "IvrigUtvikler",
@@ -8698,6 +8691,13 @@
     "updated_at": "2023-12-01T20:52:50.897533+00:00",
     "username": "jmyrvoll",
     "valid_from": "2023-12-06T20:31:40.655+00:00",
+    "organization_id": 2
+  },
+  {
+    "id": "8661101d-0ce3-4bff-b760-fe2493601b55",
+    "updated_at": "2023-12-02T12:45:31.918626+00:00",
+    "username": "nikko",
+    "valid_from": "2023-12-06T21:04:08.136+00:00",
     "organization_id": 2
   },
   {
