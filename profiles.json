@@ -8806,13 +8806,6 @@
     "organization_id": null
   },
   {
-    "id": "27ae31c1-cc32-4ae1-8287-ca81e030455d",
-    "updated_at": "2023-12-03T10:04:27.317121+00:00",
-    "username": "soya",
-    "valid_from": "2023-12-03T10:04:46.551+00:00",
-    "organization_id": null
-  },
-  {
     "id": "c55d5c9f-ff2a-480f-a952-4a6722bb3426",
     "updated_at": "2023-12-03T10:04:02.611015+00:00",
     "username": "Grevling",
@@ -9098,6 +9091,13 @@
     "username": "[CISK] Kenguru",
     "valid_from": "2023-12-06T11:31:41.863+00:00",
     "organization_id": 2
+  },
+  {
+    "id": "27ae31c1-cc32-4ae1-8287-ca81e030455d",
+    "updated_at": "2023-12-03T10:04:27.317121+00:00",
+    "username": "soya",
+    "valid_from": "2023-12-06T15:46:55.699+00:00",
+    "organization_id": 1
   },
   {
     "id": "a05bb32b-ce42-4bb4-960e-d1e6af2b7719",
@@ -9695,13 +9695,6 @@
     "organization_id": null
   },
   {
-    "id": "357c2207-9468-498e-b6ba-51fc579bbcf2",
-    "updated_at": "2023-12-04T11:35:53.08552+00:00",
-    "username": null,
-    "valid_from": "2023-12-06T14:17:53.512+00:00",
-    "organization_id": 1
-  },
-  {
     "id": "7c8789c6-cbee-4b93-994f-0b2744387d15",
     "updated_at": "2023-12-03T15:52:04.379166+00:00",
     "username": "hepp",
@@ -9714,6 +9707,13 @@
     "username": "erblinium",
     "valid_from": "2023-12-03T15:52:38.561+00:00",
     "organization_id": null
+  },
+  {
+    "id": "357c2207-9468-498e-b6ba-51fc579bbcf2",
+    "updated_at": "2023-12-04T11:35:53.08552+00:00",
+    "username": "kremost",
+    "valid_from": "2023-12-06T15:51:18.031+00:00",
+    "organization_id": 1
   },
   {
     "id": "5f215f8a-9072-402a-835c-948aeaad5fd1",
@@ -12241,6 +12241,13 @@
     "username": "Jonas_Gøhr_Stare",
     "valid_from": "2023-12-06T15:38:32.03+00:00",
     "organization_id": null
+  },
+  {
+    "id": "8555e0da-130b-4b15-9ecd-23af546dbae1",
+    "updated_at": "2023-12-06T15:50:21.711435+00:00",
+    "username": "crusher",
+    "valid_from": "2023-12-06T15:51:10.379+00:00",
+    "organization_id": 1
   },
   {
     "id": "c863f56a-adb1-417a-92d5-664fba7aad0c",
