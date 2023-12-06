@@ -3094,13 +3094,6 @@
     "organization_id": 1
   },
   {
-    "id": "49f85cb8-4ce1-44a9-9366-b7b377864719",
-    "updated_at": "2023-12-01T10:21:53.50241+00:00",
-    "username": "mnymo",
-    "valid_from": "2023-12-01T10:22:12.87+00:00",
-    "organization_id": null
-  },
-  {
     "id": "ed2341d0-a2b0-437f-a77e-2b3406890522",
     "updated_at": "2023-12-01T10:21:45.285652+00:00",
     "username": "henrik",
@@ -6664,6 +6657,13 @@
     "organization_id": null
   },
   {
+    "id": "cb74d78d-0df6-4b0a-8659-86be3fce4beb",
+    "updated_at": "2023-12-03T05:13:39.488177+00:00",
+    "username": "MAGNUST",
+    "valid_from": "2023-12-06T15:03:07.6+00:00",
+    "organization_id": 2
+  },
+  {
     "id": "640871c4-6bc3-4d6a-b76d-5e524d0a6d6c",
     "updated_at": "2023-12-02T10:32:06.569389+00:00",
     "username": "Toggimannen",
@@ -7270,13 +7270,6 @@
     "updated_at": "2023-12-03T00:58:40.326036+00:00",
     "username": "snowdrift",
     "valid_from": "2023-12-03T01:01:39.491+00:00",
-    "organization_id": null
-  },
-  {
-    "id": "cb74d78d-0df6-4b0a-8659-86be3fce4beb",
-    "updated_at": "2023-12-03T05:13:39.488177+00:00",
-    "username": "MAGNUST",
-    "valid_from": "2023-12-03T05:14:15.144+00:00",
     "organization_id": null
   },
   {
@@ -8551,13 +8544,6 @@
     "updated_at": "2023-12-01T21:04:01.482306+00:00",
     "username": "Z1ggy",
     "valid_from": "2023-12-01T21:04:26.343+00:00",
-    "organization_id": null
-  },
-  {
-    "id": "e6e1d5f8-6022-44ca-92b7-b043850beb53",
-    "updated_at": "2023-12-02T13:37:14.905399+00:00",
-    "username": "Nordtorsken",
-    "valid_from": "2023-12-02T13:37:28.519+00:00",
     "organization_id": null
   },
   {
@@ -10416,6 +10402,13 @@
     "organization_id": 2
   },
   {
+    "id": "49f85cb8-4ce1-44a9-9366-b7b377864719",
+    "updated_at": "2023-12-01T10:21:53.50241+00:00",
+    "username": "mnymo",
+    "valid_from": "2023-12-06T15:09:55.899+00:00",
+    "organization_id": 1
+  },
+  {
     "id": "d6418d77-b056-407a-8524-1de4ac8344a2",
     "updated_at": "2023-11-30T16:37:47.562292+00:00",
     "username": "siddharth",
@@ -12220,6 +12213,13 @@
     "username": "[CISK]jony & ben10",
     "valid_from": "2023-12-06T14:17:13.44+00:00",
     "organization_id": 2
+  },
+  {
+    "id": "e6e1d5f8-6022-44ca-92b7-b043850beb53",
+    "updated_at": "2023-12-02T13:37:14.905399+00:00",
+    "username": "Nordtorsken",
+    "valid_from": "2023-12-06T15:04:41.85+00:00",
+    "organization_id": 1
   },
   {
     "id": "c863f56a-adb1-417a-92d5-664fba7aad0c",
