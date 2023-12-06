@@ -12395,5 +12395,12 @@
     "username": "tormodul",
     "valid_from": "2023-12-06T03:29:57.516+00:00",
     "organization_id": 2
+  },
+  {
+    "id": "bc2547e5-aa30-4cbf-bf3d-94c592fa1b42",
+    "updated_at": "2023-12-06T07:14:40.564048+00:00",
+    "username": null,
+    "valid_from": "2023-12-06T07:14:40.564048+00:00",
+    "organization_id": null
   }
 ]
