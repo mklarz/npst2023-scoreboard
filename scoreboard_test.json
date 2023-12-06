@@ -2079,6 +2079,13 @@
     "latest_solve_time": "2023-12-06T08:47:17.486274+00:00"
   },
   {
+    "user_id": "5ae0ec13-da06-43c0-8536-7256e0fa181a",
+    "username": "Leostat",
+    "score": 40,
+    "num_solves": 4,
+    "latest_solve_time": "2023-12-06T09:33:37.572107+00:00"
+  },
+  {
     "user_id": "54487d17-b8e2-4cfe-9d5f-31b1eef0b2b5",
     "username": "nermmaj",
     "score": 30,
@@ -2539,13 +2546,6 @@
     "score": 30,
     "num_solves": 3,
     "latest_solve_time": "2023-12-05T01:08:02.451489+00:00"
-  },
-  {
-    "user_id": "5ae0ec13-da06-43c0-8536-7256e0fa181a",
-    "username": "Leostat",
-    "score": 30,
-    "num_solves": 3,
-    "latest_solve_time": "2023-12-05T06:40:00.004346+00:00"
   },
   {
     "user_id": "104ccf78-86ed-477c-bea5-8a29d70b11e2",
@@ -3771,6 +3771,13 @@
     "score": 20,
     "num_solves": 2,
     "latest_solve_time": "2023-12-06T03:50:20.304811+00:00"
+  },
+  {
+    "user_id": "c87ba769-953e-4c4b-a192-d208a8feef7c",
+    "username": "amundf03",
+    "score": 20,
+    "num_solves": 2,
+    "latest_solve_time": "2023-12-06T09:35:33.835663+00:00"
   },
   {
     "user_id": "a83d5e00-3676-4c93-adbb-025e208698af",
@@ -6930,13 +6937,6 @@
     "latest_solve_time": "2023-12-06T08:06:35.352156+00:00"
   },
   {
-    "user_id": "c87ba769-953e-4c4b-a192-d208a8feef7c",
-    "username": "amundf03",
-    "score": 10,
-    "num_solves": 1,
-    "latest_solve_time": "2023-12-06T08:25:24.374691+00:00"
-  },
-  {
     "user_id": "d526bfe9-bcac-453b-b9ad-d0d8989c4de8",
     "username": "Shwaggalord",
     "score": 10,
@@ -6956,5 +6956,19 @@
     "score": 10,
     "num_solves": 1,
     "latest_solve_time": "2023-12-06T09:29:32.108029+00:00"
+  },
+  {
+    "user_id": "795af301-cd1d-4b14-b51a-ff78a7745a84",
+    "username": "Jahn",
+    "score": 10,
+    "num_solves": 1,
+    "latest_solve_time": "2023-12-06T09:30:35.273237+00:00"
+  },
+  {
+    "user_id": "d8082645-958f-48f1-a9b8-d4492325ac1a",
+    "username": "loguecow",
+    "score": 10,
+    "num_solves": 1,
+    "latest_solve_time": "2023-12-06T09:34:58.18515+00:00"
   }
 ]
