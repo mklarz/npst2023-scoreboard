@@ -8456,13 +8456,6 @@
     "organization_id": null
   },
   {
-    "id": "4a86f2d1-affe-465e-896c-a0e43e1269c3",
-    "updated_at": "2023-12-01T20:52:50.897533+00:00",
-    "username": "jmyrvoll",
-    "valid_from": "2023-12-01T20:53:06.795+00:00",
-    "organization_id": null
-  },
-  {
     "id": "a08957d0-2715-4163-89e1-aaee8a9a18aa",
     "updated_at": "2023-12-01T19:37:48.308034+00:00",
     "username": "bompi88",
@@ -8699,6 +8692,13 @@
     "username": "hsb",
     "valid_from": "2023-12-02T14:07:53.939+00:00",
     "organization_id": null
+  },
+  {
+    "id": "4a86f2d1-affe-465e-896c-a0e43e1269c3",
+    "updated_at": "2023-12-01T20:52:50.897533+00:00",
+    "username": "jmyrvoll",
+    "valid_from": "2023-12-06T20:31:40.655+00:00",
+    "organization_id": 2
   },
   {
     "id": "65d53d2c-714d-48b2-aec0-93fc7fe0fbe4",
@@ -12395,6 +12395,27 @@
     "username": "atnas_pog",
     "valid_from": "2023-12-06T20:29:07.919+00:00",
     "organization_id": 2
+  },
+  {
+    "id": "1ca54548-064c-4841-a982-b40607e41126",
+    "updated_at": "2023-12-06T20:36:35.997948+00:00",
+    "username": "katteskatten",
+    "valid_from": "2023-12-06T20:37:08.651+00:00",
+    "organization_id": 2
+  },
+  {
+    "id": "1c5a560d-a679-40b9-86cb-fd8a5fdbf7c7",
+    "updated_at": "2023-12-06T20:40:03.52028+00:00",
+    "username": "gucci",
+    "valid_from": "2023-12-06T20:40:46.837+00:00",
+    "organization_id": 1
+  },
+  {
+    "id": "9abb8c4d-83de-4ad5-a89f-b31b29df46b5",
+    "updated_at": "2023-12-06T20:40:22.415944+00:00",
+    "username": "Laksefar",
+    "valid_from": "2023-12-06T20:42:28.551+00:00",
+    "organization_id": 1
   },
   {
     "id": "c863f56a-adb1-417a-92d5-664fba7aad0c",
