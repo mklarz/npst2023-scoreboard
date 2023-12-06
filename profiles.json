@@ -7049,17 +7049,17 @@
     "organization_id": 3
   },
   {
-    "id": "1e9c512c-dbca-4074-9758-b8c0dd931eff",
-    "updated_at": "2023-12-02T17:29:27.61137+00:00",
-    "username": "sk0dj3",
-    "valid_from": "2023-12-02T17:29:49.031+00:00",
-    "organization_id": null
-  },
-  {
     "id": "b89eafca-55b6-4b41-a0c9-dd7418171845",
     "updated_at": "2023-12-01T22:12:02.788533+00:00",
     "username": "Tobbe",
     "valid_from": "2023-12-06T03:08:45.401+00:00",
+    "organization_id": 2
+  },
+  {
+    "id": "1e9c512c-dbca-4074-9758-b8c0dd931eff",
+    "updated_at": "2023-12-02T17:29:27.61137+00:00",
+    "username": "sk0dj3",
+    "valid_from": "2023-12-06T09:00:27.343+00:00",
     "organization_id": 2
   },
   {
@@ -8309,13 +8309,6 @@
     "organization_id": null
   },
   {
-    "id": "b0181d76-4c4f-4187-bd93-1454664c7aa8",
-    "updated_at": "2023-12-01T20:13:58.621735+00:00",
-    "username": "undr1c",
-    "valid_from": "2023-12-01T20:14:18.324+00:00",
-    "organization_id": null
-  },
-  {
     "id": "c223dd4a-004f-453e-a1ff-086fcc9ce589",
     "updated_at": "2023-12-01T20:20:21.820388+00:00",
     "username": null,
@@ -8677,6 +8670,13 @@
     "updated_at": "2023-12-02T12:11:59.145814+00:00",
     "username": "knukjo",
     "valid_from": "2023-12-06T08:35:38.788+00:00",
+    "organization_id": 1
+  },
+  {
+    "id": "b0181d76-4c4f-4187-bd93-1454664c7aa8",
+    "updated_at": "2023-12-01T20:13:58.621735+00:00",
+    "username": "undr1c",
+    "valid_from": "2023-12-06T09:00:55.885+00:00",
     "organization_id": 1
   },
   {
@@ -12472,5 +12472,26 @@
     "username": "isbjorn",
     "valid_from": "2023-12-06T08:49:28.961+00:00",
     "organization_id": 2
+  },
+  {
+    "id": "693df0ca-1c5f-4e3b-ba53-a7e1dc3342cd",
+    "updated_at": "2023-12-06T09:04:15.431533+00:00",
+    "username": null,
+    "valid_from": "2023-12-06T09:04:15.431533+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "29942030-d8f8-4162-839b-46bf61853210",
+    "updated_at": "2023-12-06T09:04:57.211754+00:00",
+    "username": null,
+    "valid_from": "2023-12-06T09:04:57.211754+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "88cd6f96-a586-4589-8e62-056a7eaa2c0b",
+    "updated_at": "2023-12-06T09:09:59.640639+00:00",
+    "username": "wikaa",
+    "valid_from": "2023-12-06T09:11:19.904+00:00",
+    "organization_id": 3
   }
 ]
