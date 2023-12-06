@@ -4368,6 +4368,13 @@
     "organization_id": 1
   },
   {
+    "id": "90b6b49d-3504-4bb3-a47e-383b0670e6f5",
+    "updated_at": "2023-12-01T11:12:06.403353+00:00",
+    "username": "mags",
+    "valid_from": "2023-12-06T10:00:02.958+00:00",
+    "organization_id": 2
+  },
+  {
     "id": "fd39e345-2367-4761-b727-6816762ccb3a",
     "updated_at": "2023-12-01T11:09:26.504529+00:00",
     "username": "kennytbone",
@@ -4379,13 +4386,6 @@
     "updated_at": "2023-12-01T11:12:36.629833+00:00",
     "username": "Nissen",
     "valid_from": "2023-12-01T11:12:54.067+00:00",
-    "organization_id": null
-  },
-  {
-    "id": "90b6b49d-3504-4bb3-a47e-383b0670e6f5",
-    "updated_at": "2023-12-01T11:12:06.403353+00:00",
-    "username": "mags",
-    "valid_from": "2023-12-01T11:13:36.105+00:00",
     "organization_id": null
   },
   {
@@ -7427,13 +7427,6 @@
     "organization_id": null
   },
   {
-    "id": "128cc021-04a6-41d5-82e2-eae7b180fc4d",
-    "updated_at": "2023-12-01T16:10:00.737157+00:00",
-    "username": "imsiddis",
-    "valid_from": "2023-12-01T16:10:10.762+00:00",
-    "organization_id": null
-  },
-  {
     "id": "249f9def-eebf-4f8a-a9b0-e526bd2723df",
     "updated_at": "2023-12-01T16:33:28.891105+00:00",
     "username": "husby",
@@ -7816,6 +7809,13 @@
     "updated_at": "2023-12-01T17:41:14.35339+00:00",
     "username": "dragen",
     "valid_from": "2023-12-05T19:46:41.543+00:00",
+    "organization_id": 1
+  },
+  {
+    "id": "128cc021-04a6-41d5-82e2-eae7b180fc4d",
+    "updated_at": "2023-12-01T16:10:00.737157+00:00",
+    "username": "imsiddis",
+    "valid_from": "2023-12-06T10:02:54.656+00:00",
     "organization_id": 1
   },
   {
@@ -10836,13 +10836,6 @@
     "organization_id": 1
   },
   {
-    "id": "fba58043-0c89-44cb-8e57-3eee9187e28f",
-    "updated_at": "2023-12-05T14:33:15.329065+00:00",
-    "username": "KvernerogAker",
-    "valid_from": "2023-12-05T14:33:59.654+00:00",
-    "organization_id": null
-  },
-  {
     "id": "b2db93ed-bacc-4bc2-b83e-bf38d6e2a9a7",
     "updated_at": "2023-12-05T14:28:52.008306+00:00",
     "username": null,
@@ -10945,6 +10938,13 @@
     "updated_at": "2023-12-04T12:28:06.533421+00:00",
     "username": "Piirkachu",
     "valid_from": "2023-12-05T23:35:34.572+00:00",
+    "organization_id": 2
+  },
+  {
+    "id": "fba58043-0c89-44cb-8e57-3eee9187e28f",
+    "updated_at": "2023-12-05T14:33:15.329065+00:00",
+    "username": "KvernerogAker",
+    "valid_from": "2023-12-06T10:06:12.113+00:00",
     "organization_id": 2
   },
   {
