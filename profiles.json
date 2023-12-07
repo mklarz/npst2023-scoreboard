@@ -5936,6 +5936,13 @@
     "organization_id": null
   },
   {
+    "id": "e22c627d-63f8-4861-914a-41aee0a4b806",
+    "updated_at": "2023-12-01T23:00:23.872737+00:00",
+    "username": "bolav",
+    "valid_from": "2023-12-07T17:56:11.507+00:00",
+    "organization_id": 1
+  },
+  {
     "id": "2c921da9-089f-4096-aef2-094358e0d227",
     "updated_at": "2023-12-01T22:49:53.013615+00:00",
     "username": "thrones",
@@ -5962,13 +5969,6 @@
     "username": "stubbe",
     "valid_from": "2023-12-04T14:09:57.48+00:00",
     "organization_id": 2
-  },
-  {
-    "id": "e22c627d-63f8-4861-914a-41aee0a4b806",
-    "updated_at": "2023-12-01T23:00:23.872737+00:00",
-    "username": "bolav",
-    "valid_from": "2023-12-01T23:00:33.853+00:00",
-    "organization_id": null
   },
   {
     "id": "274ac2dd-5296-42b4-baee-425c67f2cd2b",
