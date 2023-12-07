@@ -3976,13 +3976,6 @@
     "organization_id": null
   },
   {
-    "id": "072195fb-2c78-4cc8-91c6-072183d5b3da",
-    "updated_at": "2023-12-01T11:15:23.307942+00:00",
-    "username": "Ninja Turtle",
-    "valid_from": "2023-12-04T14:36:38.125+00:00",
-    "organization_id": 3
-  },
-  {
     "id": "d615c255-746a-4dac-8232-c3731ca457a9",
     "updated_at": "2023-12-01T09:36:30.816204+00:00",
     "username": "juleribbe",
@@ -4394,6 +4387,13 @@
     "username": "Agent1",
     "valid_from": "2023-12-07T19:09:13.011+00:00",
     "organization_id": 1
+  },
+  {
+    "id": "072195fb-2c78-4cc8-91c6-072183d5b3da",
+    "updated_at": "2023-12-01T11:15:23.307942+00:00",
+    "username": "Ninja Turtle &#129399;",
+    "valid_from": "2023-12-07T22:29:44.443+00:00",
+    "organization_id": 3
   },
   {
     "id": "350bdd36-1ddd-4fc5-9eb6-257ec118d63e",
