@@ -6643,13 +6643,6 @@
     "organization_id": null
   },
   {
-    "id": "07157e35-b249-4091-8363-bc0756318737",
-    "updated_at": "2023-11-30T22:20:42.905107+00:00",
-    "username": "Sithis",
-    "valid_from": "2023-12-01T16:06:56.991+00:00",
-    "organization_id": null
-  },
-  {
     "id": "9de718d2-c486-4362-ae2c-d22ec86fb43e",
     "updated_at": "2023-12-03T01:50:16.556883+00:00",
     "username": "anthorne",
@@ -7082,6 +7075,13 @@
     "username": "asleirdal",
     "valid_from": "2023-12-06T23:44:33.088+00:00",
     "organization_id": null
+  },
+  {
+    "id": "07157e35-b249-4091-8363-bc0756318737",
+    "updated_at": "2023-11-30T22:20:42.905107+00:00",
+    "username": "Sithis",
+    "valid_from": "2023-12-07T11:08:55.563+00:00",
+    "organization_id": 2
   },
   {
     "id": "1ebf9a9f-6e0f-4b41-9ac0-306cfc01635a",
@@ -10533,6 +10533,13 @@
     "username": "vilde",
     "valid_from": "2023-12-07T10:56:44.112+00:00",
     "organization_id": 3
+  },
+  {
+    "id": "b475af7f-a8e9-48cd-bd14-8d649cc52ede",
+    "updated_at": "2023-12-07T11:13:14.488584+00:00",
+    "username": "Imbah",
+    "valid_from": "2023-12-07T11:13:26.63+00:00",
+    "organization_id": null
   },
   {
     "id": "d6418d77-b056-407a-8524-1de4ac8344a2",
