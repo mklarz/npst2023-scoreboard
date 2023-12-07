@@ -3689,13 +3689,6 @@
     "organization_id": null
   },
   {
-    "id": "98b56f4d-d23c-44d5-acc0-42a4ddb3ad3b",
-    "updated_at": "2023-12-01T09:59:07.603136+00:00",
-    "username": "Agent1",
-    "valid_from": "2023-12-01T09:59:47.695+00:00",
-    "organization_id": null
-  },
-  {
     "id": "28d958cc-97a6-4778-8360-ad7a8a8f9c53",
     "updated_at": "2023-12-01T11:05:14.211977+00:00",
     "username": "Mehh",
@@ -4394,6 +4387,13 @@
     "username": null,
     "valid_from": "2023-12-01T11:15:08.92667+00:00",
     "organization_id": null
+  },
+  {
+    "id": "98b56f4d-d23c-44d5-acc0-42a4ddb3ad3b",
+    "updated_at": "2023-12-01T09:59:07.603136+00:00",
+    "username": "Agent1",
+    "valid_from": "2023-12-07T19:09:13.011+00:00",
+    "organization_id": 1
   },
   {
     "id": "350bdd36-1ddd-4fc5-9eb6-257ec118d63e",
@@ -7721,13 +7721,6 @@
     "organization_id": null
   },
   {
-    "id": "c9ab85ed-959d-4e61-8267-1df523df249a",
-    "updated_at": "2023-12-01T17:59:54.647377+00:00",
-    "username": "Ethicanol",
-    "valid_from": "2023-12-05T13:03:24.25+00:00",
-    "organization_id": 2
-  },
-  {
     "id": "e4591a6c-fc57-47ce-b261-7394f1fb1878",
     "updated_at": "2023-12-01T16:58:08.603459+00:00",
     "username": null,
@@ -7817,6 +7810,13 @@
     "username": "albatros",
     "valid_from": "2023-12-06T22:01:29.085+00:00",
     "organization_id": 1
+  },
+  {
+    "id": "c9ab85ed-959d-4e61-8267-1df523df249a",
+    "updated_at": "2023-12-01T17:59:54.647377+00:00",
+    "username": "👈Ethicanol",
+    "valid_from": "2023-12-07T19:09:48.074+00:00",
+    "organization_id": 2
   },
   {
     "id": "d14e6d5c-930e-4dc0-a087-1c5f076101fb",
@@ -10771,6 +10771,20 @@
     "username": "marcelwk",
     "valid_from": "2023-12-07T18:52:47.668+00:00",
     "organization_id": 3
+  },
+  {
+    "id": "2af9289d-1583-42d9-a50d-3fb94a9cfeb3",
+    "updated_at": "2023-12-07T19:02:31.915426+00:00",
+    "username": "AndersHoltan",
+    "valid_from": "2023-12-07T19:03:39.714+00:00",
+    "organization_id": 2
+  },
+  {
+    "id": "99499968-8fe7-4f8c-b922-afe8fd19b687",
+    "updated_at": "2023-12-07T19:05:57.952242+00:00",
+    "username": "tvisyn",
+    "valid_from": "2023-12-07T19:54:54.469+00:00",
+    "organization_id": 1
   },
   {
     "id": "d6418d77-b056-407a-8524-1de4ac8344a2",
