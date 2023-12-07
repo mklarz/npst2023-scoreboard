@@ -4389,13 +4389,6 @@
     "organization_id": 1
   },
   {
-    "id": "072195fb-2c78-4cc8-91c6-072183d5b3da",
-    "updated_at": "2023-12-01T11:15:23.307942+00:00",
-    "username": "Ninja Turtle &#129399;",
-    "valid_from": "2023-12-07T22:29:44.443+00:00",
-    "organization_id": 3
-  },
-  {
     "id": "350bdd36-1ddd-4fc5-9eb6-257ec118d63e",
     "updated_at": "2023-12-01T11:15:48.010882+00:00",
     "username": "Halviko",
@@ -10833,6 +10826,13 @@
     "updated_at": "2023-12-07T21:50:16.644051+00:00",
     "username": "Freddie",
     "valid_from": "2023-12-07T21:51:41.439+00:00",
+    "organization_id": 3
+  },
+  {
+    "id": "072195fb-2c78-4cc8-91c6-072183d5b3da",
+    "updated_at": "2023-12-01T11:15:23.307942+00:00",
+    "username": "Ninja Turtle (🥷🐢)",
+    "valid_from": "2023-12-07T22:31:51.966+00:00",
     "organization_id": 3
   },
   {
