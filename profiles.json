@@ -1288,13 +1288,6 @@
     "organization_id": 2
   },
   {
-    "id": "47694313-bb85-4323-a38b-0aaca52b41f2",
-    "updated_at": "2023-12-01T07:12:48.789221+00:00",
-    "username": "tomla",
-    "valid_from": "2023-12-01T07:13:04.692+00:00",
-    "organization_id": null
-  },
-  {
     "id": "8d61aaaa-d2b5-4e42-8464-c366241fe30a",
     "updated_at": "2023-12-01T07:15:43.986225+00:00",
     "username": "oddifant",
@@ -1468,6 +1461,13 @@
     "username": "larsw",
     "valid_from": "2023-12-01T07:30:08.753+00:00",
     "organization_id": null
+  },
+  {
+    "id": "47694313-bb85-4323-a38b-0aaca52b41f2",
+    "updated_at": "2023-12-01T07:12:48.789221+00:00",
+    "username": "tomla",
+    "valid_from": "2023-12-07T07:12:41.444+00:00",
+    "organization_id": 1
   },
   {
     "id": "41ef1ec3-d6d2-4955-bdec-dd31e9503917",
@@ -3441,13 +3441,6 @@
     "updated_at": "2023-12-01T11:28:30.131313+00:00",
     "username": "passordet mitt er \"a\"",
     "valid_from": "2023-12-01T11:28:48.137+00:00",
-    "organization_id": null
-  },
-  {
-    "id": "45722b86-06e8-4eec-8152-1e67179dfb54",
-    "updated_at": "2023-12-01T11:28:56.431559+00:00",
-    "username": null,
-    "valid_from": "2023-12-01T11:28:56.431559+00:00",
     "organization_id": null
   },
   {
@@ -9135,6 +9128,13 @@
     "organization_id": null
   },
   {
+    "id": "45722b86-06e8-4eec-8152-1e67179dfb54",
+    "updated_at": "2023-12-01T11:28:56.431559+00:00",
+    "username": null,
+    "valid_from": "2023-12-07T07:10:29.42+00:00",
+    "organization_id": 1
+  },
+  {
     "id": "19449ff7-e368-4f65-9ded-185dd79e00fb",
     "updated_at": "2023-12-04T07:10:40.035238+00:00",
     "username": null,
@@ -12458,6 +12458,13 @@
     "username": "Ceto",
     "valid_from": "2023-12-07T06:30:48.102+00:00",
     "organization_id": 2
+  },
+  {
+    "id": "f5c3d87e-076d-45cb-9c72-60d6371b8232",
+    "updated_at": "2023-12-07T07:13:13.123587+00:00",
+    "username": "Kåsa",
+    "valid_from": "2023-12-07T07:14:33.97+00:00",
+    "organization_id": 1
   },
   {
     "id": "c863f56a-adb1-417a-92d5-664fba7aad0c",
