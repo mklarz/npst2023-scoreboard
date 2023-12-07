@@ -2016,6 +2016,13 @@
     "latest_solve_time": "2023-12-07T07:13:53.550431+00:00"
   },
   {
+    "user_id": "3b8b3bfe-c1ae-482d-ae47-520ef6272d1d",
+    "username": "sentute",
+    "score": 50,
+    "num_solves": 5,
+    "latest_solve_time": "2023-12-07T08:00:42.40733+00:00"
+  },
+  {
     "user_id": "ebb7d211-10d9-4f8a-b4d8-85a7342849c2",
     "username": "enfo 👈",
     "score": 40,
@@ -2392,13 +2399,6 @@
     "score": 40,
     "num_solves": 4,
     "latest_solve_time": "2023-12-06T20:03:03.198372+00:00"
-  },
-  {
-    "user_id": "3b8b3bfe-c1ae-482d-ae47-520ef6272d1d",
-    "username": "sentute",
-    "score": 40,
-    "num_solves": 4,
-    "latest_solve_time": "2023-12-06T20:08:57.391909+00:00"
   },
   {
     "user_id": "086f97bf-6c83-4673-843d-18630d25bc09",
@@ -7243,5 +7243,12 @@
     "score": 10,
     "num_solves": 1,
     "latest_solve_time": "2023-12-07T06:57:09.598667+00:00"
+  },
+  {
+    "user_id": "68adf73a-e6cb-4b18-882f-f99681df5eb5",
+    "username": "longjohns",
+    "score": 10,
+    "num_solves": 1,
+    "latest_solve_time": "2023-12-07T08:04:24.153486+00:00"
   }
 ]
