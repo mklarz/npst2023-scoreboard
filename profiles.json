@@ -8694,6 +8694,13 @@
     "organization_id": null
   },
   {
+    "id": "b1e057a5-1dde-4906-88a9-3dce51447516",
+    "updated_at": "2023-12-02T14:36:57.653714+00:00",
+    "username": "[EFFERA] skogensro",
+    "valid_from": "2023-12-07T13:40:29.622+00:00",
+    "organization_id": 1
+  },
+  {
     "id": "edacc8ed-9f79-4a0b-9c71-6840b225266f",
     "updated_at": "2023-12-01T13:26:33.975183+00:00",
     "username": "Rudolf Reinsdyr",
@@ -8761,13 +8768,6 @@
     "updated_at": "2023-12-02T15:05:47.058726+00:00",
     "username": "Heitmann",
     "valid_from": "2023-12-02T15:05:58.698+00:00",
-    "organization_id": null
-  },
-  {
-    "id": "b1e057a5-1dde-4906-88a9-3dce51447516",
-    "updated_at": "2023-12-02T14:36:57.653714+00:00",
-    "username": "[EFFERA] skogensro",
-    "valid_from": "2023-12-02T15:07:35.66+00:00",
     "organization_id": null
   },
   {
@@ -10654,11 +10654,25 @@
     "organization_id": 1
   },
   {
+    "id": "7bc608fa-a81a-47a0-8f44-856300d4c1d7",
+    "updated_at": "2023-12-07T13:32:11.626782+00:00",
+    "username": "Mariner_13",
+    "valid_from": "2023-12-07T13:33:51.955+00:00",
+    "organization_id": 3
+  },
+  {
     "id": "03820d80-7456-4051-8206-2c052488d063",
     "updated_at": "2023-12-07T13:29:39.568469+00:00",
-    "username": null,
-    "valid_from": "2023-12-07T13:29:39.568469+00:00",
-    "organization_id": null
+    "username": "Miebk",
+    "valid_from": "2023-12-07T13:34:13.088+00:00",
+    "organization_id": 1
+  },
+  {
+    "id": "d6f8b3e3-cddb-442e-80e9-64c1ec623933",
+    "updated_at": "2023-12-07T13:40:48.924222+00:00",
+    "username": "nt-representin",
+    "valid_from": "2023-12-07T13:42:20.821+00:00",
+    "organization_id": 2
   },
   {
     "id": "d6418d77-b056-407a-8524-1de4ac8344a2",
