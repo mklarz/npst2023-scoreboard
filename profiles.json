@@ -9135,13 +9135,6 @@
     "organization_id": 1
   },
   {
-    "id": "2b25e025-eabb-495a-a9b8-f19681c4febe",
-    "updated_at": "2023-12-07T09:59:04.585878+00:00",
-    "username": null,
-    "valid_from": "2023-12-07T09:59:04.585878+00:00",
-    "organization_id": null
-  },
-  {
     "id": "19449ff7-e368-4f65-9ded-185dd79e00fb",
     "updated_at": "2023-12-04T07:10:40.035238+00:00",
     "username": null,
@@ -10504,6 +10497,20 @@
     "updated_at": "2023-12-07T09:58:54.617803+00:00",
     "username": "løvetam",
     "valid_from": "2023-12-07T09:59:04.374+00:00",
+    "organization_id": 2
+  },
+  {
+    "id": "ab25d607-d09e-4697-9cf4-961475be3ae8",
+    "updated_at": "2023-12-07T10:01:06.166312+00:00",
+    "username": null,
+    "valid_from": "2023-12-07T10:01:51.07+00:00",
+    "organization_id": 2
+  },
+  {
+    "id": "2b25e025-eabb-495a-a9b8-f19681c4febe",
+    "updated_at": "2023-12-07T09:59:04.585878+00:00",
+    "username": "Luringen",
+    "valid_from": "2023-12-07T10:04:18.136+00:00",
     "organization_id": 2
   },
   {
