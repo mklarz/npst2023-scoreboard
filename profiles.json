@@ -13669,5 +13669,19 @@
     "username": "CyberNissen",
     "valid_from": "2023-12-08T10:15:28.777+00:00",
     "organization_id": 2
+  },
+  {
+    "id": "b3e75dff-1242-4334-8b1e-662e8d2e655e",
+    "updated_at": "2023-12-08T10:44:45.982876+00:00",
+    "username": null,
+    "valid_from": "2023-12-08T10:44:45.982876+00:00",
+    "organization_id": null
+  },
+  {
+    "id": "dbeee628-e6da-4d18-86a7-6ca4cc1d00f4",
+    "updated_at": "2023-12-08T10:44:43.530111+00:00",
+    "username": "gjoglerfant",
+    "valid_from": "2023-12-08T10:44:58.332+00:00",
+    "organization_id": null
   }
 ]
