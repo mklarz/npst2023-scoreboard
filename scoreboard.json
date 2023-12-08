@@ -1540,6 +1540,20 @@
     "latest_solve_time": "2023-12-08T08:13:15.17127+00:00"
   },
   {
+    "user_id": "ac638322-35fc-4b86-9aeb-8d1817bc108e",
+    "username": "Ingebwi",
+    "score": 70,
+    "num_solves": 7,
+    "latest_solve_time": "2023-12-08T08:58:03.136777+00:00"
+  },
+  {
+    "user_id": "39a732c3-70fe-4020-9ded-130cf609843d",
+    "username": "LF!",
+    "score": 70,
+    "num_solves": 7,
+    "latest_solve_time": "2023-12-08T08:59:12.294193+00:00"
+  },
+  {
     "user_id": "b61420c7-1cb8-4833-90f3-cca4ce2b0133",
     "username": "root",
     "score": 60,
@@ -1589,13 +1603,6 @@
     "latest_solve_time": "2023-12-06T12:16:49.632192+00:00"
   },
   {
-    "user_id": "39a732c3-70fe-4020-9ded-130cf609843d",
-    "username": "LF!",
-    "score": 60,
-    "num_solves": 6,
-    "latest_solve_time": "2023-12-06T12:20:55.910071+00:00"
-  },
-  {
     "user_id": "e1c8450d-3a7a-44f0-92de-93512cc192fb",
     "username": "nordbo",
     "score": 60,
@@ -1629,13 +1636,6 @@
     "score": 60,
     "num_solves": 6,
     "latest_solve_time": "2023-12-06T14:19:54.971981+00:00"
-  },
-  {
-    "user_id": "ac638322-35fc-4b86-9aeb-8d1817bc108e",
-    "username": "Ingebwi",
-    "score": 60,
-    "num_solves": 6,
-    "latest_solve_time": "2023-12-06T14:30:47.65934+00:00"
   },
   {
     "user_id": "0b1ce7e6-e7a6-46e2-be75-8fdb10449108",
@@ -2030,6 +2030,13 @@
     "latest_solve_time": "2023-12-08T05:56:45.725613+00:00"
   },
   {
+    "user_id": "950e37f8-f121-4ad3-ad95-4310a99b1fce",
+    "username": "Mimieux",
+    "score": 60,
+    "num_solves": 6,
+    "latest_solve_time": "2023-12-08T08:58:13.008282+00:00"
+  },
+  {
     "user_id": "a1fe8e6a-98ca-4795-ae40-5d2bd60d18b1",
     "username": "Ares",
     "score": 50,
@@ -2070,13 +2077,6 @@
     "score": 50,
     "num_solves": 5,
     "latest_solve_time": "2023-12-06T13:49:27.699589+00:00"
-  },
-  {
-    "user_id": "950e37f8-f121-4ad3-ad95-4310a99b1fce",
-    "username": "Mimieux",
-    "score": 50,
-    "num_solves": 5,
-    "latest_solve_time": "2023-12-06T14:42:51.084846+00:00"
   },
   {
     "user_id": "c64974d9-6a0a-4836-bc48-d7fd5453b5bb",
