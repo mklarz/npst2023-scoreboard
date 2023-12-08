@@ -4403,13 +4403,6 @@
     "organization_id": null
   },
   {
-    "id": "6001ec02-1b40-4d53-9c46-8d9abdf077eb",
-    "updated_at": "2023-12-01T12:03:55.839881+00:00",
-    "username": "Einar",
-    "valid_from": "2023-12-01T12:04:28.726+00:00",
-    "organization_id": null
-  },
-  {
     "id": "5e61be7a-4eb1-41be-b4d6-ed6ebc0eefd5",
     "updated_at": "2023-12-03T12:53:34.378672+00:00",
     "username": "espenhjelmeland",
@@ -5122,6 +5115,13 @@
     "username": "alving",
     "valid_from": "2023-12-01T15:06:53.743+00:00",
     "organization_id": null
+  },
+  {
+    "id": "6001ec02-1b40-4d53-9c46-8d9abdf077eb",
+    "updated_at": "2023-12-01T12:03:55.839881+00:00",
+    "username": "Einar",
+    "valid_from": "2023-12-08T01:41:16.288+00:00",
+    "organization_id": 1
   },
   {
     "id": "3472eedd-6b70-415e-9e4e-25af014b85a6",
