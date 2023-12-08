@@ -13923,6 +13923,20 @@
     "organization_id": 1
   },
   {
+    "id": "52c12fe9-b599-4e71-8737-d857bc493a4f",
+    "updated_at": "2023-12-08T16:18:53.161531+00:00",
+    "username": null,
+    "valid_from": "2023-12-08T16:19:14.959+00:00",
+    "organization_id": 1
+  },
+  {
+    "id": "8f85b8f7-f44c-49db-9f32-7818d60dafbf",
+    "updated_at": "2023-12-08T16:26:12.502934+00:00",
+    "username": null,
+    "valid_from": "2023-12-08T16:26:12.502934+00:00",
+    "organization_id": null
+  },
+  {
     "id": "dbeee628-e6da-4d18-86a7-6ca4cc1d00f4",
     "updated_at": "2023-12-08T10:44:43.530111+00:00",
     "username": "gjoglerfant",
@@ -13984,19 +13998,5 @@
     "username": "CyberNissen",
     "valid_from": "2023-12-08T10:15:28.777+00:00",
     "organization_id": 2
-  },
-  {
-    "id": "03130f3c-854d-4eb6-b23a-7777380b00d4",
-    "updated_at": "2023-11-30T16:45:58.045241+00:00",
-    "username": "martcl",
-    "valid_from": "2023-12-08T13:50:10.525+00:00",
-    "organization_id": 1
-  },
-  {
-    "id": "d0e0d156-4248-482a-b542-bf723a6f5edb",
-    "updated_at": "2023-12-01T12:14:40.286608+00:00",
-    "username": "Julegata.IT",
-    "valid_from": "2023-12-08T15:20:10.079+00:00",
-    "organization_id": 1
   }
 ]
