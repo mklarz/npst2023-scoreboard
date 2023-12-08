@@ -1645,18 +1645,25 @@
     "latest_solve_time": "2023-12-08T18:02:26.017633+00:00"
   },
   {
+    "user_id": "287656a8-5d96-4f70-a794-ac12be3ae683",
+    "username": "Menomenta",
+    "score": 70,
+    "num_solves": 7,
+    "latest_solve_time": "2023-12-08T20:11:08.125865+00:00"
+  },
+  {
+    "user_id": "8eb3e2ca-0b36-422c-a861-02f265572138",
+    "username": "Gumbo",
+    "score": 70,
+    "num_solves": 7,
+    "latest_solve_time": "2023-12-08T20:14:53.245556+00:00"
+  },
+  {
     "user_id": "f7c518d0-9bc3-4080-89fb-86e28b7c1a6a",
     "username": "repeat7",
     "score": 60,
     "num_solves": 6,
     "latest_solve_time": "2023-12-06T11:17:57.092323+00:00"
-  },
-  {
-    "user_id": "8eb3e2ca-0b36-422c-a861-02f265572138",
-    "username": "Gumbo",
-    "score": 60,
-    "num_solves": 6,
-    "latest_solve_time": "2023-12-06T11:22:54.048486+00:00"
   },
   {
     "user_id": "66e367d3-81df-4d01-9680-495b4185a00d",
@@ -2098,13 +2105,6 @@
     "score": 60,
     "num_solves": 6,
     "latest_solve_time": "2023-12-08T17:01:30.223169+00:00"
-  },
-  {
-    "user_id": "287656a8-5d96-4f70-a794-ac12be3ae683",
-    "username": "Menomenta",
-    "score": 60,
-    "num_solves": 6,
-    "latest_solve_time": "2023-12-08T17:42:06.877984+00:00"
   },
   {
     "user_id": "fa2c2250-5b7a-46a1-b50e-49effaf06ac3",
@@ -3402,6 +3402,13 @@
     "latest_solve_time": "2023-12-08T14:52:03.133422+00:00"
   },
   {
+    "user_id": "bfbde210-23d4-42ae-baf3-d20cc6e83da4",
+    "username": "starak",
+    "score": 30,
+    "num_solves": 3,
+    "latest_solve_time": "2023-12-08T20:11:47.688193+00:00"
+  },
+  {
     "user_id": "3bf28fbc-2c20-4213-8c11-201b5805dc62",
     "username": "Endre",
     "score": 20,
@@ -4254,13 +4261,6 @@
     "score": 20,
     "num_solves": 2,
     "latest_solve_time": "2023-12-08T17:02:32.379063+00:00"
-  },
-  {
-    "user_id": "bfbde210-23d4-42ae-baf3-d20cc6e83da4",
-    "username": "starak",
-    "score": 20,
-    "num_solves": 2,
-    "latest_solve_time": "2023-12-08T18:19:46.882978+00:00"
   },
   {
     "user_id": "6ad3e48d-6c55-4c82-95c9-55826854881e",
