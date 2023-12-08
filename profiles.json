@@ -5894,6 +5894,13 @@
     "organization_id": 1
   },
   {
+    "id": "e12fe810-8e94-4de3-bdf5-2d6d629194bf",
+    "updated_at": "2023-12-02T19:10:45.364309+00:00",
+    "username": "Tingeling",
+    "valid_from": "2023-12-08T17:56:05.207+00:00",
+    "organization_id": 1
+  },
+  {
     "id": "3fea78ce-0c2d-46e3-8d1a-3b202ebe06f9",
     "updated_at": "2023-12-02T18:51:28.518805+00:00",
     "username": "frederic0",
@@ -6507,13 +6514,6 @@
     "updated_at": "2023-12-02T19:07:56.850044+00:00",
     "username": "lesta AI",
     "valid_from": "2023-12-02T19:08:14.441+00:00",
-    "organization_id": null
-  },
-  {
-    "id": "e12fe810-8e94-4de3-bdf5-2d6d629194bf",
-    "updated_at": "2023-12-02T19:10:45.364309+00:00",
-    "username": "Tingeling",
-    "valid_from": "2023-12-02T19:11:21.094+00:00",
     "organization_id": null
   },
   {
@@ -13960,9 +13960,9 @@
   {
     "id": "ada21957-f060-4719-b536-a486bdbc7da2",
     "updated_at": "2023-12-08T17:44:45.653562+00:00",
-    "username": null,
-    "valid_from": "2023-12-08T17:44:45.653562+00:00",
-    "organization_id": null
+    "username": "Stickyhand",
+    "valid_from": "2023-12-08T17:48:50.325+00:00",
+    "organization_id": 2
   },
   {
     "id": "dbeee628-e6da-4d18-86a7-6ca4cc1d00f4",
