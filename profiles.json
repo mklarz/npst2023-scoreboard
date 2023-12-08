@@ -13860,6 +13860,27 @@
     "organization_id": 2
   },
   {
+    "id": "8da37f10-bde8-4b43-a7e6-acee71f0210b",
+    "updated_at": "2023-12-08T14:31:20.187479+00:00",
+    "username": "igund",
+    "valid_from": "2023-12-08T14:32:10.338+00:00",
+    "organization_id": 1
+  },
+  {
+    "id": "140b3a2a-36c1-4174-8402-3ccb4e1387e7",
+    "updated_at": "2023-12-08T14:39:24.932715+00:00",
+    "username": null,
+    "valid_from": "2023-12-08T14:39:35.558+00:00",
+    "organization_id": 3
+  },
+  {
+    "id": "66e88038-d709-4406-8ee6-a0e253e6eeda",
+    "updated_at": "2023-12-08T14:43:03.398304+00:00",
+    "username": "martin_mus",
+    "valid_from": "2023-12-08T14:44:12.474+00:00",
+    "organization_id": null
+  },
+  {
     "id": "dbeee628-e6da-4d18-86a7-6ca4cc1d00f4",
     "updated_at": "2023-12-08T10:44:43.530111+00:00",
     "username": "gjoglerfant",
