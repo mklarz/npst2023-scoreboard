@@ -3066,17 +3066,17 @@
     "organization_id": null
   },
   {
-    "id": "e2d47217-ba63-4701-a0fe-41160231be74",
-    "updated_at": "2023-12-01T11:38:46.147973+00:00",
-    "username": "mpu",
-    "valid_from": "2023-12-01T14:13:43.404+00:00",
-    "organization_id": null
-  },
-  {
     "id": "53210b04-26e5-46a3-ab94-b3964ea45772",
     "updated_at": "2023-12-01T11:03:41.625434+00:00",
     "username": "Slede8Elsker",
     "valid_from": "2023-12-04T13:01:14.459+00:00",
+    "organization_id": 1
+  },
+  {
+    "id": "e2d47217-ba63-4701-a0fe-41160231be74",
+    "updated_at": "2023-12-01T11:38:46.147973+00:00",
+    "username": "mpu",
+    "valid_from": "2023-12-08T11:58:31.755+00:00",
     "organization_id": 1
   },
   {
@@ -8281,13 +8281,6 @@
     "organization_id": null
   },
   {
-    "id": "6a76b875-9f18-4a5e-b103-099f94eddfc3",
-    "updated_at": "2023-12-08T11:42:45.944135+00:00",
-    "username": "barebrukernavn",
-    "valid_from": "2023-12-08T11:43:25.129+00:00",
-    "organization_id": null
-  },
-  {
     "id": "c223dd4a-004f-453e-a1ff-086fcc9ce589",
     "updated_at": "2023-12-01T20:20:21.820388+00:00",
     "username": null,
@@ -9688,6 +9681,13 @@
     "organization_id": 2
   },
   {
+    "id": "6a76b875-9f18-4a5e-b103-099f94eddfc3",
+    "updated_at": "2023-12-08T11:42:45.944135+00:00",
+    "username": "barebrukernavn",
+    "valid_from": "2023-12-08T11:45:06.53+00:00",
+    "organization_id": 3
+  },
+  {
     "id": "2f0ec577-9bc6-48bd-ab78-6c292943216c",
     "updated_at": "2023-12-03T16:24:55.760906+00:00",
     "username": "felkro",
@@ -10343,6 +10343,13 @@
     "updated_at": "2023-12-07T12:50:22.771301+00:00",
     "username": "julemeze",
     "valid_from": "2023-12-07T12:54:12.912+00:00",
+    "organization_id": 3
+  },
+  {
+    "id": "8ba24a9f-c8be-496b-ae88-6bcd16a4e20c",
+    "updated_at": "2023-12-08T11:57:14.830897+00:00",
+    "username": null,
+    "valid_from": "2023-12-08T11:57:56.857+00:00",
     "organization_id": 3
   },
   {
