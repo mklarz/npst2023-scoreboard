@@ -406,13 +406,6 @@
     "organization_id": 1
   },
   {
-    "id": "56ee001b-8304-4ea9-91f7-07a6bcfb332b",
-    "updated_at": "2023-11-30T13:23:04.722738+00:00",
-    "username": "Earthround",
-    "valid_from": "2023-11-30T13:23:19.61+00:00",
-    "organization_id": null
-  },
-  {
     "id": "34eb5f87-c149-4b45-a36e-20465fd0a162",
     "updated_at": "2023-11-30T14:37:37.721363+00:00",
     "username": "Jonnebassen",
@@ -13717,6 +13710,13 @@
     "updated_at": "2023-12-01T17:21:08.996816+00:00",
     "username": "maurum",
     "valid_from": "2023-12-08T16:52:38.874+00:00",
+    "organization_id": 3
+  },
+  {
+    "id": "56ee001b-8304-4ea9-91f7-07a6bcfb332b",
+    "updated_at": "2023-11-30T13:23:04.722738+00:00",
+    "username": "Earthround",
+    "valid_from": "2023-12-08T19:10:24.554+00:00",
     "organization_id": 3
   },
   {
