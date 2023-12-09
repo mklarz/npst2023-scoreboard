@@ -3052,13 +3052,6 @@
     "organization_id": 2
   },
   {
-    "id": "7a845e55-968d-4d10-a41d-5c4608c96162",
-    "updated_at": "2023-12-01T11:33:58.673711+00:00",
-    "username": "KalleDeg",
-    "valid_from": "2023-12-01T14:04:03.907+00:00",
-    "organization_id": null
-  },
-  {
     "id": "d89c034f-d6fe-4cb1-8cff-a6fd9069c674",
     "updated_at": "2023-12-01T10:19:32.16646+00:00",
     "username": "lok",
@@ -3421,6 +3414,13 @@
     "username": "nullroute",
     "valid_from": "2023-12-01T11:28:28.994+00:00",
     "organization_id": null
+  },
+  {
+    "id": "7a845e55-968d-4d10-a41d-5c4608c96162",
+    "updated_at": "2023-12-01T11:33:58.673711+00:00",
+    "username": "KalleDeg",
+    "valid_from": "2023-12-09T15:21:46.53+00:00",
+    "organization_id": 2
   },
   {
     "id": "005c1992-6677-4b84-a1b1-63be4898ad97",
