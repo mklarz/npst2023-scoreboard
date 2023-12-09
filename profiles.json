@@ -1974,13 +1974,6 @@
     "organization_id": 2
   },
   {
-    "id": "91aefdd1-30d1-4d3d-bd4b-4769e833ad33",
-    "updated_at": "2023-12-01T06:31:54.991479+00:00",
-    "username": "guybrush",
-    "valid_from": "2023-12-01T06:33:13.665+00:00",
-    "organization_id": null
-  },
-  {
     "id": "23e67cc1-2aa1-4b9e-aabe-7e33086a599d",
     "updated_at": "2023-12-01T04:36:24.982078+00:00",
     "username": "Mista Dobalina",
@@ -2209,6 +2202,13 @@
     "updated_at": "2023-12-08T12:45:32.182312+00:00",
     "username": "MrMagu",
     "valid_from": "2023-12-09T13:55:31.095+00:00",
+    "organization_id": 2
+  },
+  {
+    "id": "91aefdd1-30d1-4d3d-bd4b-4769e833ad33",
+    "updated_at": "2023-12-01T06:31:54.991479+00:00",
+    "username": "guybrush",
+    "valid_from": "2023-12-09T20:55:28.639+00:00",
     "organization_id": 2
   },
   {
