@@ -188,6 +188,10 @@ for index, scoreboard_user in enumerate(last_scoreboard[:LIMIT]):
     user_id = scoreboard_user["user_id"]
     user = users[user_id]
     last_challenge = scoreboard_user["num_solves"]
+
+    if user["name"] is not None and user["name"] not in bleached_usernames:
+        bleached_usernames[user["name"]] = bleach.clean(user["name"])
+
     base = {
         "name": bleached_usernames[user["name"]], # there's a xss in the legend tooltip
         "type": "line",
@@ -211,7 +215,9 @@ with open("./data/profiles.min.json") as fd:
     profiles = json.load(fd)
     info["registered_users"] = len(profiles)
     for profile in profiles:
-        profile["username"] = bleached_usernames[profile["username"]] if profile["username"] else None
+        if profile["username"] is not None and profile["username"] not in bleached_usernames:
+            bleached_usernames[profile["username"]] = bleach.clean(profile["username"])
+        profile["username"] = bleached_usernames[profile["username"]] if profile["username"] is not None else None
         if not profile["username"]:
             info["hidden_users"] += 1
         if profile["organization_id"] is not None:
