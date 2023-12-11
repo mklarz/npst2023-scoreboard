@@ -1,0 +1,21 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-11 15:00:50+00:00",
+            "data": {
+                "id": "10c53071-27be-4ba2-8335-203e3923e44a",
+                "updated_at": "2023-12-11T14:56:00.812726+00:00",
+                "username": "odi",
+                "valid_from": "2023-12-11T14:57:23.206+00:00",
+                "organization_id": 3
+            }
+        }
+    ],
+    "scoreboard": [],
+    "current_info": {
+        "score": "?",
+        "num_solves": "?",
+        "username": "odi",
+        "organization_id": 3
+    }
+}
