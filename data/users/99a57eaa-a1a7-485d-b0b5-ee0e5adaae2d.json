@@ -1,0 +1,42 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "99a57eaa-a1a7-485d-b0b5-ee0e5adaae2d",
+                "updated_at": "2023-12-01T11:17:08.380831+00:00",
+                "username": "Silvercove",
+                "valid_from": "2023-12-01T11:17:37.076+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-08 07:30:09+00:00",
+            "data": {
+                "id": "99a57eaa-a1a7-485d-b0b5-ee0e5adaae2d",
+                "updated_at": "2023-12-01T11:17:08.380831+00:00",
+                "username": "Silvercove",
+                "valid_from": "2023-12-08T07:22:36.581+00:00",
+                "organization_id": 2
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "user_id": "99a57eaa-a1a7-485d-b0b5-ee0e5adaae2d",
+                "username": "Silvercove",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T11:37:32.288363+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 10,
+        "num_solves": 1,
+        "username": "Silvercove",
+        "organization_id": 2
+    }
+}

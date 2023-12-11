@@ -1,0 +1,42 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-04 21:45:06+00:00",
+            "data": {
+                "id": "02eec379-a82f-4f74-b2fc-f492998e8d2d",
+                "updated_at": "2023-12-04T21:34:43.907918+00:00",
+                "username": "AFM",
+                "valid_from": "2023-12-04T21:39:24.499+00:00",
+                "organization_id": 2
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-04 22:15:05+00:00",
+            "data": {
+                "user_id": "02eec379-a82f-4f74-b2fc-f492998e8d2d",
+                "username": "AFM",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-04T22:02:26.349403+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 00:15:06+00:00",
+            "data": {
+                "user_id": "02eec379-a82f-4f74-b2fc-f492998e8d2d",
+                "username": "AFM",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-05T00:10:22.820391+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 20,
+        "num_solves": 2,
+        "username": "AFM",
+        "organization_id": 2
+    }
+}

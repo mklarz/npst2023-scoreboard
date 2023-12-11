@@ -1,0 +1,32 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-06 03:30:06+00:00",
+            "data": {
+                "id": "b0325f72-32c4-43da-ad63-e97b07043729",
+                "updated_at": "2023-12-06T03:29:08.978313+00:00",
+                "username": "tormodul",
+                "valid_from": "2023-12-06T03:29:57.516+00:00",
+                "organization_id": 2
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-06 04:00:07+00:00",
+            "data": {
+                "user_id": "b0325f72-32c4-43da-ad63-e97b07043729",
+                "username": "tormodul",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-06T03:48:57.88256+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 10,
+        "num_solves": 1,
+        "username": "tormodul",
+        "organization_id": 2
+    }
+}

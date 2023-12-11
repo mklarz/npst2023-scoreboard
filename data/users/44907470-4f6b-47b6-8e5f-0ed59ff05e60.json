@@ -1,0 +1,62 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "44907470-4f6b-47b6-8e5f-0ed59ff05e60",
+                "updated_at": "2023-12-01T07:36:12.393462+00:00",
+                "username": "Mumlesnerk",
+                "valid_from": "2023-12-01T07:37:43.386+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-05 17:00:07+00:00",
+            "data": {
+                "id": "44907470-4f6b-47b6-8e5f-0ed59ff05e60",
+                "updated_at": "2023-12-01T07:36:12.393462+00:00",
+                "username": "Mumlesnerk",
+                "valid_from": "2023-12-05T16:49:44.808+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "user_id": "44907470-4f6b-47b6-8e5f-0ed59ff05e60",
+                "username": "Mumlesnerk",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T11:36:22.617371+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-09 14:45:10+00:00",
+            "data": {
+                "user_id": "44907470-4f6b-47b6-8e5f-0ed59ff05e60",
+                "username": "Mumlesnerk",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-09T14:38:57.519476+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-10 16:30:11+00:00",
+            "data": {
+                "user_id": "44907470-4f6b-47b6-8e5f-0ed59ff05e60",
+                "username": "Mumlesnerk",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-10T16:28:45.869492+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 30,
+        "num_solves": 3,
+        "username": "Mumlesnerk",
+        "organization_id": 1
+    }
+}

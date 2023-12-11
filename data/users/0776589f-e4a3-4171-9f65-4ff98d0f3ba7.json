@@ -1,0 +1,112 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-02 09:15:03+00:00",
+            "data": {
+                "id": "0776589f-e4a3-4171-9f65-4ff98d0f3ba7",
+                "updated_at": "2023-12-02T09:09:28.904963+00:00",
+                "username": null,
+                "valid_from": "2023-12-02T09:09:28.904963+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-02 09:45:03+00:00",
+            "data": {
+                "id": "0776589f-e4a3-4171-9f65-4ff98d0f3ba7",
+                "updated_at": "2023-12-02T09:09:28.904963+00:00",
+                "username": "nederst p\u00e5 leaderboard",
+                "valid_from": "2023-12-02T09:43:20.529+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 15:00:06+00:00",
+            "data": {
+                "id": "0776589f-e4a3-4171-9f65-4ff98d0f3ba7",
+                "updated_at": "2023-12-02T09:09:28.904963+00:00",
+                "username": "nederst p\u00e5 leaderboard",
+                "valid_from": "2023-12-04T14:50:27.254+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-02 09:45:03+00:00",
+            "data": {
+                "user_id": "0776589f-e4a3-4171-9f65-4ff98d0f3ba7",
+                "username": "nederst p\u00e5 leaderboard",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-02T09:23:58.5484+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-02 12:45:03+00:00",
+            "data": {
+                "user_id": "0776589f-e4a3-4171-9f65-4ff98d0f3ba7",
+                "username": "nederst p\u00e5 leaderboard",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-02T12:37:50.975086+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 11:45:05+00:00",
+            "data": {
+                "user_id": "0776589f-e4a3-4171-9f65-4ff98d0f3ba7",
+                "username": "nederst p\u00e5 leaderboard",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-04T11:35:28.545142+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 15:15:06+00:00",
+            "data": {
+                "user_id": "0776589f-e4a3-4171-9f65-4ff98d0f3ba7",
+                "username": "nederst p\u00e5 leaderboard",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-04T15:11:05.725715+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 12:15:07+00:00",
+            "data": {
+                "user_id": "0776589f-e4a3-4171-9f65-4ff98d0f3ba7",
+                "username": "nederst p\u00e5 leaderboard",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-05T12:07:00.077349+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 12:15:07+00:00",
+            "data": {
+                "user_id": "0776589f-e4a3-4171-9f65-4ff98d0f3ba7",
+                "username": "nederst p\u00e5 leaderboard",
+                "score": 60,
+                "num_solves": 6,
+                "latest_solve_time": "2023-12-06T12:09:47.329859+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 11:15:09+00:00",
+            "data": {
+                "user_id": "0776589f-e4a3-4171-9f65-4ff98d0f3ba7",
+                "username": "nederst p\u00e5 leaderboard",
+                "score": 70,
+                "num_solves": 7,
+                "latest_solve_time": "2023-12-07T11:09:11.617455+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 70,
+        "num_solves": 7,
+        "username": "nederst p\u00e5 leaderboard",
+        "organization_id": 1
+    }
+}

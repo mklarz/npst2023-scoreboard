@@ -1,0 +1,21 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-05 11:45:06+00:00",
+            "data": {
+                "id": "6e09affb-d9c3-401a-97c9-5e2911e9f9d6",
+                "updated_at": "2023-12-05T11:33:02.931864+00:00",
+                "username": "cmeb",
+                "valid_from": "2023-12-05T11:33:39.241+00:00",
+                "organization_id": 2
+            }
+        }
+    ],
+    "scoreboard": [],
+    "current_info": {
+        "score": "?",
+        "num_solves": "?",
+        "username": "cmeb",
+        "organization_id": 2
+    }
+}

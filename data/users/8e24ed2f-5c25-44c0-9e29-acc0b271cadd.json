@@ -1,0 +1,102 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "8e24ed2f-5c25-44c0-9e29-acc0b271cadd",
+                "updated_at": "2023-12-01T07:30:41.427473+00:00",
+                "username": "SlalomKvark",
+                "valid_from": "2023-12-01T07:30:57.406+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 13:15:05+00:00",
+            "data": {
+                "id": "8e24ed2f-5c25-44c0-9e29-acc0b271cadd",
+                "updated_at": "2023-12-01T07:30:41.427473+00:00",
+                "username": "SlalomKvark",
+                "valid_from": "2023-12-04T13:03:54.796+00:00",
+                "organization_id": 2
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 12:45:02+00:00",
+            "data": {
+                "user_id": "8e24ed2f-5c25-44c0-9e29-acc0b271cadd",
+                "username": "SlalomKvark",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T12:43:49.500022+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-02 23:15:04+00:00",
+            "data": {
+                "user_id": "8e24ed2f-5c25-44c0-9e29-acc0b271cadd",
+                "username": "SlalomKvark",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-02T23:08:32.21961+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 11:30:04+00:00",
+            "data": {
+                "user_id": "8e24ed2f-5c25-44c0-9e29-acc0b271cadd",
+                "username": "SlalomKvark",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-03T11:17:43.23874+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 13:30:05+00:00",
+            "data": {
+                "user_id": "8e24ed2f-5c25-44c0-9e29-acc0b271cadd",
+                "username": "SlalomKvark",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-04T13:23:40.154092+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 05:30:07+00:00",
+            "data": {
+                "user_id": "8e24ed2f-5c25-44c0-9e29-acc0b271cadd",
+                "username": "SlalomKvark",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-06T05:16:42.897622+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 12:45:08+00:00",
+            "data": {
+                "user_id": "8e24ed2f-5c25-44c0-9e29-acc0b271cadd",
+                "username": "SlalomKvark",
+                "score": 60,
+                "num_solves": 6,
+                "latest_solve_time": "2023-12-06T12:40:02.212179+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 13:45:08+00:00",
+            "data": {
+                "user_id": "8e24ed2f-5c25-44c0-9e29-acc0b271cadd",
+                "username": "SlalomKvark",
+                "score": 70,
+                "num_solves": 7,
+                "latest_solve_time": "2023-12-07T13:38:30.073223+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 70,
+        "num_solves": 7,
+        "username": "SlalomKvark",
+        "organization_id": 2
+    }
+}

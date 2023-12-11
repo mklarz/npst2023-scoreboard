@@ -1,0 +1,62 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-03 10:00:05+00:00",
+            "data": {
+                "id": "100e770e-050e-4968-8a0d-ae981767cfa6",
+                "updated_at": "2023-12-03T09:52:52.405988+00:00",
+                "username": "Rumpesvette",
+                "valid_from": "2023-12-03T09:53:25.93+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-06 23:00:09+00:00",
+            "data": {
+                "id": "100e770e-050e-4968-8a0d-ae981767cfa6",
+                "updated_at": "2023-12-03T09:52:52.405988+00:00",
+                "username": "Rumpesvette",
+                "valid_from": "2023-12-06T22:55:19.618+00:00",
+                "organization_id": 3
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-03 10:00:05+00:00",
+            "data": {
+                "user_id": "100e770e-050e-4968-8a0d-ae981767cfa6",
+                "username": "Rumpesvette",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-03T09:56:00.263447+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 23:15:08+00:00",
+            "data": {
+                "user_id": "100e770e-050e-4968-8a0d-ae981767cfa6",
+                "username": "Rumpesvette",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-06T23:08:43.384744+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 13:45:08+00:00",
+            "data": {
+                "user_id": "100e770e-050e-4968-8a0d-ae981767cfa6",
+                "username": "Rumpesvette",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-07T13:35:26.837127+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 30,
+        "num_solves": 3,
+        "username": "Rumpesvette",
+        "organization_id": 3
+    }
+}

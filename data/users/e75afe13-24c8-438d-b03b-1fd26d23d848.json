@@ -1,0 +1,62 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 18:45:03+00:00",
+            "data": {
+                "id": "e75afe13-24c8-438d-b03b-1fd26d23d848",
+                "updated_at": "2023-12-01T18:40:39.85334+00:00",
+                "username": "Zdenko",
+                "valid_from": "2023-12-01T18:40:07.175+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-05 22:45:07+00:00",
+            "data": {
+                "id": "e75afe13-24c8-438d-b03b-1fd26d23d848",
+                "updated_at": "2023-12-01T18:40:39.85334+00:00",
+                "username": "Zdenko",
+                "valid_from": "2023-12-05T22:40:43.926+00:00",
+                "organization_id": 3
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 18:45:03+00:00",
+            "data": {
+                "user_id": "e75afe13-24c8-438d-b03b-1fd26d23d848",
+                "username": "Zdenko",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T18:41:43.703771+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 00:30:04+00:00",
+            "data": {
+                "user_id": "e75afe13-24c8-438d-b03b-1fd26d23d848",
+                "username": "Zdenko",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-03T00:19:57.092543+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 00:15:07+00:00",
+            "data": {
+                "user_id": "e75afe13-24c8-438d-b03b-1fd26d23d848",
+                "username": "Zdenko",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-06T00:07:52.333969+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 30,
+        "num_solves": 3,
+        "username": "Zdenko",
+        "organization_id": 3
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-07 09:30:09+00:00",
+            "data": {
+                "id": "e2fb4202-2fd8-443b-a5b2-1746ff3e7cc3",
+                "updated_at": "2023-12-07T09:26:12.930644+00:00",
+                "username": "Lordzzooone",
+                "valid_from": "2023-12-07T09:26:32.034+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-07 12:15:08+00:00",
+            "data": {
+                "id": "e2fb4202-2fd8-443b-a5b2-1746ff3e7cc3",
+                "updated_at": "2023-12-07T09:26:12.930644+00:00",
+                "username": "Lordzzooone",
+                "valid_from": "2023-12-07T12:03:11.12+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-07 16:30:08+00:00",
+            "data": {
+                "id": "e2fb4202-2fd8-443b-a5b2-1746ff3e7cc3",
+                "updated_at": "2023-12-07T09:26:12.930644+00:00",
+                "username": "Lordzzooone",
+                "valid_from": "2023-12-07T16:15:50.723+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-07 16:30:08+00:00",
+            "data": {
+                "user_id": "e2fb4202-2fd8-443b-a5b2-1746ff3e7cc3",
+                "username": "Lordzzooone",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-07T16:24:22.868772+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 19:30:09+00:00",
+            "data": {
+                "user_id": "e2fb4202-2fd8-443b-a5b2-1746ff3e7cc3",
+                "username": "Lordzzooone",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-07T19:24:40.19297+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 20,
+        "num_solves": 2,
+        "username": "Lordzzooone",
+        "organization_id": 1
+    }
+}

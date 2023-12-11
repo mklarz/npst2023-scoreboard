@@ -1,0 +1,72 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-04 06:45:04+00:00",
+            "data": {
+                "id": "9972a4e8-8e7b-4a4c-afc9-2c37b38e6c1c",
+                "updated_at": "2023-12-04T06:38:35.703012+00:00",
+                "username": "vebjorn111",
+                "valid_from": "2023-12-04T06:38:52.054+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-05 21:15:07+00:00",
+            "data": {
+                "id": "9972a4e8-8e7b-4a4c-afc9-2c37b38e6c1c",
+                "updated_at": "2023-12-04T06:38:35.703012+00:00",
+                "username": "vebjorn111",
+                "valid_from": "2023-12-05T21:02:48.461+00:00",
+                "organization_id": 2
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-04 07:15:05+00:00",
+            "data": {
+                "user_id": "9972a4e8-8e7b-4a4c-afc9-2c37b38e6c1c",
+                "username": "vebjorn111",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-04T07:10:33.245886+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 07:30:04+00:00",
+            "data": {
+                "user_id": "9972a4e8-8e7b-4a4c-afc9-2c37b38e6c1c",
+                "username": "vebjorn111",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-04T07:17:28.989698+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 11:30:05+00:00",
+            "data": {
+                "user_id": "9972a4e8-8e7b-4a4c-afc9-2c37b38e6c1c",
+                "username": "vebjorn111",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-04T11:25:17.940187+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-08 06:15:09+00:00",
+            "data": {
+                "user_id": "9972a4e8-8e7b-4a4c-afc9-2c37b38e6c1c",
+                "username": "vebjorn111",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-08T06:10:39.396944+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 40,
+        "num_solves": 4,
+        "username": "vebjorn111",
+        "organization_id": 2
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "45e94f93-031d-445f-93ff-722bfa6ccdcc",
+                "updated_at": "2023-12-01T07:56:07.638609+00:00",
+                "username": "TigerSquad",
+                "valid_from": "2023-12-01T07:57:05.127+00:00",
+                "organization_id": null
+            }
+        }
+    ],
+    "scoreboard": [],
+    "current_info": {
+        "score": "?",
+        "num_solves": "?",
+        "username": "TigerSquad",
+        "organization_id": null
+    }
+}

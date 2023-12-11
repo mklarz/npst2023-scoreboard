@@ -1,0 +1,62 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 13:15:02+00:00",
+            "data": {
+                "id": "9e35ff15-3bc5-4c54-9c53-5da90d9ef1b9",
+                "updated_at": "2023-12-01T13:00:38.310738+00:00",
+                "username": "enebz",
+                "valid_from": "2023-12-01T13:00:44.28+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 13:15:05+00:00",
+            "data": {
+                "id": "9e35ff15-3bc5-4c54-9c53-5da90d9ef1b9",
+                "updated_at": "2023-12-01T13:00:38.310738+00:00",
+                "username": "enebz",
+                "valid_from": "2023-12-04T12:05:47.132+00:00",
+                "organization_id": 2
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 13:15:02+00:00",
+            "data": {
+                "user_id": "9e35ff15-3bc5-4c54-9c53-5da90d9ef1b9",
+                "username": "enebz",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T13:08:48.875259+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 14:00:05+00:00",
+            "data": {
+                "user_id": "9e35ff15-3bc5-4c54-9c53-5da90d9ef1b9",
+                "username": "enebz",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-04T13:47:44.835244+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 14:15:05+00:00",
+            "data": {
+                "user_id": "9e35ff15-3bc5-4c54-9c53-5da90d9ef1b9",
+                "username": "enebz",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-04T14:09:40.509431+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 30,
+        "num_solves": 3,
+        "username": "enebz",
+        "organization_id": 2
+    }
+}

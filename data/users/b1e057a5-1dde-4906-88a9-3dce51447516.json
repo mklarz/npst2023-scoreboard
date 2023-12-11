@@ -1,0 +1,112 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-02 14:45:03+00:00",
+            "data": {
+                "id": "b1e057a5-1dde-4906-88a9-3dce51447516",
+                "updated_at": "2023-12-02T14:36:57.653714+00:00",
+                "username": "skogensro",
+                "valid_from": "2023-12-02T14:37:35.928+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-02 15:15:04+00:00",
+            "data": {
+                "id": "b1e057a5-1dde-4906-88a9-3dce51447516",
+                "updated_at": "2023-12-02T14:36:57.653714+00:00",
+                "username": "[EFFERA] skogensro",
+                "valid_from": "2023-12-02T15:07:35.66+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-07 13:45:08+00:00",
+            "data": {
+                "id": "b1e057a5-1dde-4906-88a9-3dce51447516",
+                "updated_at": "2023-12-02T14:36:57.653714+00:00",
+                "username": "[EFFERA] skogensro",
+                "valid_from": "2023-12-07T13:40:29.622+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-02 15:00:04+00:00",
+            "data": {
+                "user_id": "b1e057a5-1dde-4906-88a9-3dce51447516",
+                "username": "skogensro",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-02T14:47:10.781648+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-02 15:15:04+00:00",
+            "data": {
+                "user_id": "b1e057a5-1dde-4906-88a9-3dce51447516",
+                "username": "[EFFERA] skogensro",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-02T14:47:10.781648+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 11:45:04+00:00",
+            "data": {
+                "user_id": "b1e057a5-1dde-4906-88a9-3dce51447516",
+                "username": "[EFFERA] skogensro",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-03T11:40:42.980148+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 15:15:05+00:00",
+            "data": {
+                "user_id": "b1e057a5-1dde-4906-88a9-3dce51447516",
+                "username": "[EFFERA] skogensro",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-03T15:00:22.393748+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 18:00:05+00:00",
+            "data": {
+                "user_id": "b1e057a5-1dde-4906-88a9-3dce51447516",
+                "username": "[EFFERA] skogensro",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-04T17:49:06.630475+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 21:00:07+00:00",
+            "data": {
+                "user_id": "b1e057a5-1dde-4906-88a9-3dce51447516",
+                "username": "[EFFERA] skogensro",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-05T20:58:03.446929+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 13:45:08+00:00",
+            "data": {
+                "user_id": "b1e057a5-1dde-4906-88a9-3dce51447516",
+                "username": "[EFFERA] skogensro",
+                "score": 60,
+                "num_solves": 6,
+                "latest_solve_time": "2023-12-07T13:31:14.750825+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 60,
+        "num_solves": 6,
+        "username": "[EFFERA] skogensro",
+        "organization_id": 1
+    }
+}

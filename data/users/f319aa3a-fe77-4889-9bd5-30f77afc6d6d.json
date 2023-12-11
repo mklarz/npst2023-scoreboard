@@ -1,0 +1,42 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-06 12:30:08+00:00",
+            "data": {
+                "id": "f319aa3a-fe77-4889-9bd5-30f77afc6d6d",
+                "updated_at": "2023-12-06T12:16:44.107299+00:00",
+                "username": "TinselSleuth",
+                "valid_from": "2023-12-06T12:29:33.759+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-06 12:45:08+00:00",
+            "data": {
+                "id": "f319aa3a-fe77-4889-9bd5-30f77afc6d6d",
+                "updated_at": "2023-12-06T12:16:44.107299+00:00",
+                "username": "TinselSleuth",
+                "valid_from": "2023-12-06T12:34:53.952+00:00",
+                "organization_id": 3
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-06 13:00:08+00:00",
+            "data": {
+                "user_id": "f319aa3a-fe77-4889-9bd5-30f77afc6d6d",
+                "username": "TinselSleuth",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-06T12:56:11.685283+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 10,
+        "num_solves": 1,
+        "username": "TinselSleuth",
+        "organization_id": 3
+    }
+}

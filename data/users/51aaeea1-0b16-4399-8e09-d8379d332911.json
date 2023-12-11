@@ -1,0 +1,32 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-07 23:15:08+00:00",
+            "data": {
+                "id": "51aaeea1-0b16-4399-8e09-d8379d332911",
+                "updated_at": "2023-12-07T23:05:39.790697+00:00",
+                "username": "Mawa",
+                "valid_from": "2023-12-07T23:06:18.262+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-07 23:15:08+00:00",
+            "data": {
+                "user_id": "51aaeea1-0b16-4399-8e09-d8379d332911",
+                "username": "Mawa",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-07T23:09:29.53124+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 10,
+        "num_solves": 1,
+        "username": "Mawa",
+        "organization_id": 1
+    }
+}

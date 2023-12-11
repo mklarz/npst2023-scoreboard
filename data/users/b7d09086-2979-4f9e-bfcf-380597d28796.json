@@ -1,0 +1,32 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:45:02+00:00",
+            "data": {
+                "id": "b7d09086-2979-4f9e-bfcf-380597d28796",
+                "updated_at": "2023-12-01T12:30:54.488508+00:00",
+                "username": "NissensUbrukeligeHjelper",
+                "valid_from": "2023-12-01T12:41:42.313+00:00",
+                "organization_id": null
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 12:45:02+00:00",
+            "data": {
+                "user_id": "b7d09086-2979-4f9e-bfcf-380597d28796",
+                "username": "NissensUbrukeligeHjelper",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T12:32:28.165561+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 10,
+        "num_solves": 1,
+        "username": "NissensUbrukeligeHjelper",
+        "organization_id": null
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "b07564e4-5236-4fe4-8f57-5b997c0eaca4",
+                "updated_at": "2023-11-30T15:15:44.400075+00:00",
+                "username": null,
+                "valid_from": "2023-11-30T15:15:44.400075+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-01 13:45:02+00:00",
+            "data": {
+                "id": "b07564e4-5236-4fe4-8f57-5b997c0eaca4",
+                "updated_at": "2023-11-30T15:15:44.400075+00:00",
+                "username": "runarmod",
+                "valid_from": "2023-12-01T13:32:42.629+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-05 19:00:07+00:00",
+            "data": {
+                "id": "b07564e4-5236-4fe4-8f57-5b997c0eaca4",
+                "updated_at": "2023-11-30T15:15:44.400075+00:00",
+                "username": "runarmod",
+                "valid_from": "2023-12-05T18:48:53.761+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 13:45:02+00:00",
+            "data": {
+                "user_id": "b07564e4-5236-4fe4-8f57-5b997c0eaca4",
+                "username": "runarmod",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T11:40:27.759345+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 15:00:05+00:00",
+            "data": {
+                "user_id": "b07564e4-5236-4fe4-8f57-5b997c0eaca4",
+                "username": "runarmod",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-03T14:54:58.244496+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 20,
+        "num_solves": 2,
+        "username": "runarmod",
+        "organization_id": 1
+    }
+}

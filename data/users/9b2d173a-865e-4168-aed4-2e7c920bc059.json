@@ -1,0 +1,132 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 21:15:03+00:00",
+            "data": {
+                "id": "9b2d173a-865e-4168-aed4-2e7c920bc059",
+                "updated_at": "2023-12-01T21:02:10.711181+00:00",
+                "username": null,
+                "valid_from": "2023-12-01T21:02:10.711181+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-01 21:45:03+00:00",
+            "data": {
+                "id": "9b2d173a-865e-4168-aed4-2e7c920bc059",
+                "updated_at": "2023-12-01T21:02:10.711181+00:00",
+                "username": "Moonstone7628",
+                "valid_from": "2023-12-01T21:33:24.808+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-02 21:45:04+00:00",
+            "data": {
+                "id": "9b2d173a-865e-4168-aed4-2e7c920bc059",
+                "updated_at": "2023-12-01T21:02:10.711181+00:00",
+                "username": "Oneight",
+                "valid_from": "2023-12-02T21:40:26.743+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 19:30:06+00:00",
+            "data": {
+                "id": "9b2d173a-865e-4168-aed4-2e7c920bc059",
+                "updated_at": "2023-12-01T21:02:10.711181+00:00",
+                "username": "Oneight",
+                "valid_from": "2023-12-04T19:21:03.805+00:00",
+                "organization_id": 1
+            }
+        },
+        {
+            "timestamp": "2023-12-05 16:00:07+00:00",
+            "data": {
+                "id": "9b2d173a-865e-4168-aed4-2e7c920bc059",
+                "updated_at": "2023-12-01T21:02:10.711181+00:00",
+                "username": "Krydderkake",
+                "valid_from": "2023-12-05T15:51:24.672+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 21:45:03+00:00",
+            "data": {
+                "user_id": "9b2d173a-865e-4168-aed4-2e7c920bc059",
+                "username": "Moonstone7628",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T21:14:29.866647+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-02 21:45:04+00:00",
+            "data": {
+                "user_id": "9b2d173a-865e-4168-aed4-2e7c920bc059",
+                "username": "Oneight",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-02T21:37:36.056959+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 19:30:06+00:00",
+            "data": {
+                "user_id": "9b2d173a-865e-4168-aed4-2e7c920bc059",
+                "username": "Oneight",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-04T19:23:06.701176+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 23:15:05+00:00",
+            "data": {
+                "user_id": "9b2d173a-865e-4168-aed4-2e7c920bc059",
+                "username": "Oneight",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-04T23:02:45.912823+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 16:00:07+00:00",
+            "data": {
+                "user_id": "9b2d173a-865e-4168-aed4-2e7c920bc059",
+                "username": "Krydderkake",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-05T15:49:53.395227+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 17:45:08+00:00",
+            "data": {
+                "user_id": "9b2d173a-865e-4168-aed4-2e7c920bc059",
+                "username": "Krydderkake",
+                "score": 60,
+                "num_solves": 6,
+                "latest_solve_time": "2023-12-06T17:39:44.665288+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 15:45:08+00:00",
+            "data": {
+                "user_id": "9b2d173a-865e-4168-aed4-2e7c920bc059",
+                "username": "Krydderkake",
+                "score": 70,
+                "num_solves": 7,
+                "latest_solve_time": "2023-12-07T15:40:37.319234+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 70,
+        "num_solves": 7,
+        "username": "Krydderkake",
+        "organization_id": 1
+    }
+}

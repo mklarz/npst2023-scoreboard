@@ -1,0 +1,52 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "56ee001b-8304-4ea9-91f7-07a6bcfb332b",
+                "updated_at": "2023-11-30T13:23:04.722738+00:00",
+                "username": "Earthround",
+                "valid_from": "2023-11-30T13:23:19.61+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-08 19:15:09+00:00",
+            "data": {
+                "id": "56ee001b-8304-4ea9-91f7-07a6bcfb332b",
+                "updated_at": "2023-11-30T13:23:04.722738+00:00",
+                "username": "Earthround",
+                "valid_from": "2023-12-08T19:10:24.554+00:00",
+                "organization_id": 3
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-08 19:30:09+00:00",
+            "data": {
+                "user_id": "56ee001b-8304-4ea9-91f7-07a6bcfb332b",
+                "username": "Earthround",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-08T19:15:34.222676+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-08 20:00:09+00:00",
+            "data": {
+                "user_id": "56ee001b-8304-4ea9-91f7-07a6bcfb332b",
+                "username": "Earthround",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-08T19:49:18.308874+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 20,
+        "num_solves": 2,
+        "username": "Earthround",
+        "organization_id": 3
+    }
+}

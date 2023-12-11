@@ -1,0 +1,32 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-04 15:45:05+00:00",
+            "data": {
+                "id": "f23ba8da-f12c-43de-b1a7-8b777d2ccbc6",
+                "updated_at": "2023-12-04T15:37:26.98608+00:00",
+                "username": "maritio_o",
+                "valid_from": "2023-12-04T15:38:55.119+00:00",
+                "organization_id": 3
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-04 16:00:05+00:00",
+            "data": {
+                "user_id": "f23ba8da-f12c-43de-b1a7-8b777d2ccbc6",
+                "username": "maritio_o",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-04T15:48:33.259432+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 10,
+        "num_solves": 1,
+        "username": "maritio_o",
+        "organization_id": 3
+    }
+}

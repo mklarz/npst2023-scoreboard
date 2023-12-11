@@ -1,0 +1,82 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 13:00:02+00:00",
+            "data": {
+                "id": "a1d47228-7bb2-4614-9e11-d50e299b8126",
+                "updated_at": "2023-12-01T12:57:51.540846+00:00",
+                "username": "Alvebetjent Vic",
+                "valid_from": "2023-12-01T12:58:15.134+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 13:30:05+00:00",
+            "data": {
+                "id": "a1d47228-7bb2-4614-9e11-d50e299b8126",
+                "updated_at": "2023-12-01T12:57:51.540846+00:00",
+                "username": "Alvebetjent Vic",
+                "valid_from": "2023-12-04T13:17:35.452+00:00",
+                "organization_id": 3
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 13:15:02+00:00",
+            "data": {
+                "user_id": "a1d47228-7bb2-4614-9e11-d50e299b8126",
+                "username": "Alvebetjent Vic",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T13:04:18.357186+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 11:00:08+00:00",
+            "data": {
+                "user_id": "a1d47228-7bb2-4614-9e11-d50e299b8126",
+                "username": "Alvebetjent Vic",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-06T10:55:27.688934+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 13:45:08+00:00",
+            "data": {
+                "user_id": "a1d47228-7bb2-4614-9e11-d50e299b8126",
+                "username": "Alvebetjent Vic",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-07T13:42:50.158854+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-08 14:15:09+00:00",
+            "data": {
+                "user_id": "a1d47228-7bb2-4614-9e11-d50e299b8126",
+                "username": "Alvebetjent Vic",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-08T14:12:18.553334+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-10 23:30:15+00:00",
+            "data": {
+                "user_id": "a1d47228-7bb2-4614-9e11-d50e299b8126",
+                "username": "Alvebetjent Vic",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-10T23:24:38.140573+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 50,
+        "num_solves": 5,
+        "username": "Alvebetjent Vic",
+        "organization_id": 3
+    }
+}

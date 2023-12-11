@@ -1,0 +1,72 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 15:00:03+00:00",
+            "data": {
+                "id": "77ba7895-7d5f-42af-b507-583b1d81df90",
+                "updated_at": "2023-12-01T14:56:10.82247+00:00",
+                "username": null,
+                "valid_from": "2023-12-01T14:56:10.82247+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-05 10:00:06+00:00",
+            "data": {
+                "id": "77ba7895-7d5f-42af-b507-583b1d81df90",
+                "updated_at": "2023-12-01T14:56:10.82247+00:00",
+                "username": "kristoffer934",
+                "valid_from": "2023-12-05T09:57:37.988+00:00",
+                "organization_id": 1
+            }
+        },
+        {
+            "timestamp": "2023-12-05 10:15:06+00:00",
+            "data": {
+                "id": "77ba7895-7d5f-42af-b507-583b1d81df90",
+                "updated_at": "2023-12-01T14:56:10.82247+00:00",
+                "username": "kristoffer934",
+                "valid_from": "2023-12-05T10:02:29.978+00:00",
+                "organization_id": 1
+            }
+        },
+        {
+            "timestamp": "2023-12-05 12:00:07+00:00",
+            "data": {
+                "id": "77ba7895-7d5f-42af-b507-583b1d81df90",
+                "updated_at": "2023-12-01T14:56:10.82247+00:00",
+                "username": "kristoffer934",
+                "valid_from": "2023-12-05T11:56:26.446+00:00",
+                "organization_id": 1
+            }
+        },
+        {
+            "timestamp": "2023-12-05 12:15:07+00:00",
+            "data": {
+                "id": "77ba7895-7d5f-42af-b507-583b1d81df90",
+                "updated_at": "2023-12-01T14:56:10.82247+00:00",
+                "username": "kristoffer934",
+                "valid_from": "2023-12-05T12:03:11.069+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-05 10:00:06+00:00",
+            "data": {
+                "user_id": "77ba7895-7d5f-42af-b507-583b1d81df90",
+                "username": "kristoffer934",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T15:37:43.8371+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 10,
+        "num_solves": 1,
+        "username": "kristoffer934",
+        "organization_id": 1
+    }
+}

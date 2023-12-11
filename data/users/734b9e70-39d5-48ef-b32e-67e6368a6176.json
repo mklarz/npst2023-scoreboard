@@ -1,0 +1,42 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "734b9e70-39d5-48ef-b32e-67e6368a6176",
+                "updated_at": "2023-12-01T11:02:17.692096+00:00",
+                "username": "kryptolord",
+                "valid_from": "2023-12-01T11:02:30.452+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-05 14:00:07+00:00",
+            "data": {
+                "id": "734b9e70-39d5-48ef-b32e-67e6368a6176",
+                "updated_at": "2023-12-01T11:02:17.692096+00:00",
+                "username": "kryptolord",
+                "valid_from": "2023-12-05T13:47:36.959+00:00",
+                "organization_id": 2
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "user_id": "734b9e70-39d5-48ef-b32e-67e6368a6176",
+                "username": "kryptolord",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T11:57:37.017634+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 10,
+        "num_solves": 1,
+        "username": "kryptolord",
+        "organization_id": 2
+    }
+}

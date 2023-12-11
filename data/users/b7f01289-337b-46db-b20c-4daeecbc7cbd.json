@@ -1,0 +1,32 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-03 06:30:04+00:00",
+            "data": {
+                "id": "b7f01289-337b-46db-b20c-4daeecbc7cbd",
+                "updated_at": "2023-12-03T06:24:19.436865+00:00",
+                "username": "hyperlemming",
+                "valid_from": "2023-12-03T06:24:42.075+00:00",
+                "organization_id": null
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-03 16:00:05+00:00",
+            "data": {
+                "user_id": "b7f01289-337b-46db-b20c-4daeecbc7cbd",
+                "username": "hyperlemming",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-03T15:52:34.435686+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 10,
+        "num_solves": 1,
+        "username": "hyperlemming",
+        "organization_id": null
+    }
+}

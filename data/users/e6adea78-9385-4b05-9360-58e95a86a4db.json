@@ -1,0 +1,72 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "e6adea78-9385-4b05-9360-58e95a86a4db",
+                "updated_at": "2023-12-01T08:11:39.582972+00:00",
+                "username": "Notrack",
+                "valid_from": "2023-12-01T08:11:52.278+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-05 13:15:07+00:00",
+            "data": {
+                "id": "e6adea78-9385-4b05-9360-58e95a86a4db",
+                "updated_at": "2023-12-01T08:11:39.582972+00:00",
+                "username": "Notrack",
+                "valid_from": "2023-12-05T13:03:32.149+00:00",
+                "organization_id": 2
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "user_id": "e6adea78-9385-4b05-9360-58e95a86a4db",
+                "username": "Notrack",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T11:15:34.522367+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 12:30:05+00:00",
+            "data": {
+                "user_id": "e6adea78-9385-4b05-9360-58e95a86a4db",
+                "username": "Notrack",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-04T12:16:26.422507+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 11:30:08+00:00",
+            "data": {
+                "user_id": "e6adea78-9385-4b05-9360-58e95a86a4db",
+                "username": "Notrack",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-06T11:17:00.901761+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 13:00:10+00:00",
+            "data": {
+                "user_id": "e6adea78-9385-4b05-9360-58e95a86a4db",
+                "username": "Notrack",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-07T12:46:29.673181+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 40,
+        "num_solves": 4,
+        "username": "Notrack",
+        "organization_id": 2
+    }
+}

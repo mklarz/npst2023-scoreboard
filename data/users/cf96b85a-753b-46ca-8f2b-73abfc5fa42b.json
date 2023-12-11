@@ -1,0 +1,42 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "cf96b85a-753b-46ca-8f2b-73abfc5fa42b",
+                "updated_at": "2023-12-01T11:35:34.241115+00:00",
+                "username": "Alveoverbetjent",
+                "valid_from": "2023-12-01T11:35:44.13+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-05 08:45:06+00:00",
+            "data": {
+                "id": "cf96b85a-753b-46ca-8f2b-73abfc5fa42b",
+                "updated_at": "2023-12-01T11:35:34.241115+00:00",
+                "username": "Alveoverbetjent",
+                "valid_from": "2023-12-05T08:32:03.847+00:00",
+                "organization_id": 3
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 13:15:02+00:00",
+            "data": {
+                "user_id": "cf96b85a-753b-46ca-8f2b-73abfc5fa42b",
+                "username": "Alveoverbetjent",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T13:14:37.249071+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 10,
+        "num_solves": 1,
+        "username": "Alveoverbetjent",
+        "organization_id": 3
+    }
+}

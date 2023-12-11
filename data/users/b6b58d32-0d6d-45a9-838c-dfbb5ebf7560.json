@@ -1,0 +1,82 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "b6b58d32-0d6d-45a9-838c-dfbb5ebf7560",
+                "updated_at": "2023-12-01T09:39:05.059339+00:00",
+                "username": "Hymiral",
+                "valid_from": "2023-12-01T09:39:05.544+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-05 12:00:07+00:00",
+            "data": {
+                "id": "b6b58d32-0d6d-45a9-838c-dfbb5ebf7560",
+                "updated_at": "2023-12-01T09:39:05.059339+00:00",
+                "username": "Hymiral",
+                "valid_from": "2023-12-05T11:55:05.163+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "user_id": "b6b58d32-0d6d-45a9-838c-dfbb5ebf7560",
+                "username": "Hymiral",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T11:06:14.435286+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 12:00:07+00:00",
+            "data": {
+                "user_id": "b6b58d32-0d6d-45a9-838c-dfbb5ebf7560",
+                "username": "Hymiral",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-05T11:55:18.499954+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 13:15:08+00:00",
+            "data": {
+                "user_id": "b6b58d32-0d6d-45a9-838c-dfbb5ebf7560",
+                "username": "Hymiral",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-06T13:09:50.037722+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 11:15:09+00:00",
+            "data": {
+                "user_id": "b6b58d32-0d6d-45a9-838c-dfbb5ebf7560",
+                "username": "Hymiral",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-07T11:12:41.690012+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 18:00:09+00:00",
+            "data": {
+                "user_id": "b6b58d32-0d6d-45a9-838c-dfbb5ebf7560",
+                "username": "Hymiral",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-07T17:46:34.386106+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 50,
+        "num_solves": 5,
+        "username": "Hymiral",
+        "organization_id": 1
+    }
+}

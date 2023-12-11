@@ -1,0 +1,62 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "ebb7d211-10d9-4f8a-b4d8-85a7342849c2",
+                "updated_at": "2023-12-01T09:09:33.00577+00:00",
+                "username": "enfo \ud83d\udc48",
+                "valid_from": "2023-12-01T09:10:12.119+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 21:45:06+00:00",
+            "data": {
+                "id": "ebb7d211-10d9-4f8a-b4d8-85a7342849c2",
+                "updated_at": "2023-12-01T09:09:33.00577+00:00",
+                "username": "enfo \ud83d\udc48",
+                "valid_from": "2023-12-04T21:30:06.375+00:00",
+                "organization_id": 2
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "user_id": "ebb7d211-10d9-4f8a-b4d8-85a7342849c2",
+                "username": "enfo \ud83d\udc48",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T11:06:47.882887+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 22:00:05+00:00",
+            "data": {
+                "user_id": "ebb7d211-10d9-4f8a-b4d8-85a7342849c2",
+                "username": "enfo \ud83d\udc48",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-03T21:54:01.215335+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 11:45:05+00:00",
+            "data": {
+                "user_id": "ebb7d211-10d9-4f8a-b4d8-85a7342849c2",
+                "username": "enfo \ud83d\udc48",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-04T11:31:11.179962+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 40,
+        "num_solves": 4,
+        "username": "enfo \ud83d\udc48",
+        "organization_id": 2
+    }
+}

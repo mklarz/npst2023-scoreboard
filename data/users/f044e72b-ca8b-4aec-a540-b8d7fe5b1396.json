@@ -1,0 +1,31 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "f044e72b-ca8b-4aec-a540-b8d7fe5b1396",
+                "updated_at": "2023-11-30T14:09:26.381339+00:00",
+                "username": "yrjar",
+                "valid_from": "2023-11-30T14:09:41.236+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-07 12:00:08+00:00",
+            "data": {
+                "id": "f044e72b-ca8b-4aec-a540-b8d7fe5b1396",
+                "updated_at": "2023-11-30T14:09:26.381339+00:00",
+                "username": "yrjar",
+                "valid_from": "2023-12-07T11:56:40.056+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [],
+    "current_info": {
+        "score": "?",
+        "num_solves": "?",
+        "username": "yrjar",
+        "organization_id": 1
+    }
+}

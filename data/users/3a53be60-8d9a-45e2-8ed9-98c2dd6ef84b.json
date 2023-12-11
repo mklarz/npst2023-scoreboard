@@ -1,0 +1,72 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "3a53be60-8d9a-45e2-8ed9-98c2dd6ef84b",
+                "updated_at": "2023-12-01T10:06:42.365959+00:00",
+                "username": "decane",
+                "valid_from": "2023-12-01T10:10:37.181+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-01 14:45:02+00:00",
+            "data": {
+                "id": "3a53be60-8d9a-45e2-8ed9-98c2dd6ef84b",
+                "updated_at": "2023-12-01T10:06:42.365959+00:00",
+                "username": "\ud83d\udc31\u200d\ud83d\udcbbDecane",
+                "valid_from": "2023-12-01T14:33:52.079+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-05 14:30:06+00:00",
+            "data": {
+                "id": "3a53be60-8d9a-45e2-8ed9-98c2dd6ef84b",
+                "updated_at": "2023-12-01T10:06:42.365959+00:00",
+                "username": "\ud83d\udc31\u200d\ud83d\udcbbDecane",
+                "valid_from": "2023-12-05T14:23:49.34+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 13:45:02+00:00",
+            "data": {
+                "user_id": "3a53be60-8d9a-45e2-8ed9-98c2dd6ef84b",
+                "username": "decane",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T13:37:56.740364+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-01 14:45:02+00:00",
+            "data": {
+                "user_id": "3a53be60-8d9a-45e2-8ed9-98c2dd6ef84b",
+                "username": "\ud83d\udc31\u200d\ud83d\udcbbDecane",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T13:37:56.740364+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 15:30:09+00:00",
+            "data": {
+                "user_id": "3a53be60-8d9a-45e2-8ed9-98c2dd6ef84b",
+                "username": "\ud83d\udc31\u200d\ud83d\udcbbDecane",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-07T15:28:10.989225+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 20,
+        "num_solves": 2,
+        "username": "\ud83d\udc31\u200d\ud83d\udcbbDecane",
+        "organization_id": 1
+    }
+}

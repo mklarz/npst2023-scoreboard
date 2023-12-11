@@ -1,0 +1,32 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-04 08:00:05+00:00",
+            "data": {
+                "id": "30288400-1c55-466f-a191-46581e1cdcc0",
+                "updated_at": "2023-12-04T07:46:18.732402+00:00",
+                "username": "Fenanix",
+                "valid_from": "2023-12-04T07:46:33.021+00:00",
+                "organization_id": null
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-04 08:15:05+00:00",
+            "data": {
+                "user_id": "30288400-1c55-466f-a191-46581e1cdcc0",
+                "username": "Fenanix",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-04T08:01:28.225817+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 10,
+        "num_solves": 1,
+        "username": "Fenanix",
+        "organization_id": null
+    }
+}

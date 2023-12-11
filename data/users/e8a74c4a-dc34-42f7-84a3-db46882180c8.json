@@ -1,0 +1,21 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-02 14:15:04+00:00",
+            "data": {
+                "id": "e8a74c4a-dc34-42f7-84a3-db46882180c8",
+                "updated_at": "2023-12-02T14:02:24.233401+00:00",
+                "username": "svchost",
+                "valid_from": "2023-12-02T14:02:41.957+00:00",
+                "organization_id": null
+            }
+        }
+    ],
+    "scoreboard": [],
+    "current_info": {
+        "score": "?",
+        "num_solves": "?",
+        "username": "svchost",
+        "organization_id": null
+    }
+}

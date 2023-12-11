@@ -1,0 +1,42 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "34eb5f87-c149-4b45-a36e-20465fd0a162",
+                "updated_at": "2023-11-30T14:37:37.721363+00:00",
+                "username": "Jonnebassen",
+                "valid_from": "2023-12-01T11:27:18.477+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 12:45:05+00:00",
+            "data": {
+                "id": "34eb5f87-c149-4b45-a36e-20465fd0a162",
+                "updated_at": "2023-11-30T14:37:37.721363+00:00",
+                "username": "Jonnebassen",
+                "valid_from": "2023-12-04T12:44:15.33+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "user_id": "34eb5f87-c149-4b45-a36e-20465fd0a162",
+                "username": "Jonnebassen",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T11:25:15.642017+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 10,
+        "num_solves": 1,
+        "username": "Jonnebassen",
+        "organization_id": 1
+    }
+}

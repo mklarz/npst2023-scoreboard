@@ -1,0 +1,21 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-04 21:00:06+00:00",
+            "data": {
+                "id": "4adc98fb-c448-4a14-81ea-b83486585c4d",
+                "updated_at": "2023-12-04T20:47:52.645623+00:00",
+                "username": "Fiebie",
+                "valid_from": "2023-12-04T20:48:06.152+00:00",
+                "organization_id": null
+            }
+        }
+    ],
+    "scoreboard": [],
+    "current_info": {
+        "score": "?",
+        "num_solves": "?",
+        "username": "Fiebie",
+        "organization_id": null
+    }
+}

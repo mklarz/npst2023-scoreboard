@@ -1,0 +1,122 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 19:00:03+00:00",
+            "data": {
+                "id": "f763dd42-8926-49a1-a3a8-52ef11e60454",
+                "updated_at": "2023-12-01T18:59:52.035341+00:00",
+                "username": null,
+                "valid_from": "2023-12-01T18:59:52.035341+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-01 19:15:03+00:00",
+            "data": {
+                "id": "f763dd42-8926-49a1-a3a8-52ef11e60454",
+                "updated_at": "2023-12-01T18:59:52.035341+00:00",
+                "username": "MixZee",
+                "valid_from": "2023-12-01T19:00:12.504+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 14:45:05+00:00",
+            "data": {
+                "id": "f763dd42-8926-49a1-a3a8-52ef11e60454",
+                "updated_at": "2023-12-01T18:59:52.035341+00:00",
+                "username": "MixZee",
+                "valid_from": "2023-12-04T14:40:16.63+00:00",
+                "organization_id": 2
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 19:15:03+00:00",
+            "data": {
+                "user_id": "f763dd42-8926-49a1-a3a8-52ef11e60454",
+                "username": "MixZee",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T19:12:48.880343+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-02 15:15:04+00:00",
+            "data": {
+                "user_id": "f763dd42-8926-49a1-a3a8-52ef11e60454",
+                "username": "MixZee",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-02T15:03:01.088585+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 11:45:04+00:00",
+            "data": {
+                "user_id": "f763dd42-8926-49a1-a3a8-52ef11e60454",
+                "username": "MixZee",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-03T11:32:26.573315+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 14:45:05+00:00",
+            "data": {
+                "user_id": "f763dd42-8926-49a1-a3a8-52ef11e60454",
+                "username": "MixZee",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-04T14:40:45.340799+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 16:15:06+00:00",
+            "data": {
+                "user_id": "f763dd42-8926-49a1-a3a8-52ef11e60454",
+                "username": "MixZee",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-05T16:04:53.327452+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 12:00:08+00:00",
+            "data": {
+                "user_id": "f763dd42-8926-49a1-a3a8-52ef11e60454",
+                "username": "MixZee",
+                "score": 60,
+                "num_solves": 6,
+                "latest_solve_time": "2023-12-06T11:47:40.048377+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-08 07:15:09+00:00",
+            "data": {
+                "user_id": "f763dd42-8926-49a1-a3a8-52ef11e60454",
+                "username": "MixZee",
+                "score": 70,
+                "num_solves": 7,
+                "latest_solve_time": "2023-12-08T07:14:00.349808+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-09 20:45:10+00:00",
+            "data": {
+                "user_id": "f763dd42-8926-49a1-a3a8-52ef11e60454",
+                "username": "MixZee",
+                "score": 80,
+                "num_solves": 8,
+                "latest_solve_time": "2023-12-09T20:36:40.653482+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 80,
+        "num_solves": 8,
+        "username": "MixZee",
+        "organization_id": 2
+    }
+}

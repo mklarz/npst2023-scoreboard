@@ -1,0 +1,132 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:15:02+00:00",
+            "data": {
+                "id": "d0e0d156-4248-482a-b542-bf723a6f5edb",
+                "updated_at": "2023-12-01T12:14:40.286608+00:00",
+                "username": "julegata.it",
+                "valid_from": "2023-12-01T12:14:57.052+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 13:15:05+00:00",
+            "data": {
+                "id": "d0e0d156-4248-482a-b542-bf723a6f5edb",
+                "updated_at": "2023-12-01T12:14:40.286608+00:00",
+                "username": "julegata.it",
+                "valid_from": "2023-12-04T13:05:38.383+00:00",
+                "organization_id": 1
+            }
+        },
+        {
+            "timestamp": "2023-12-08 15:30:09+00:00",
+            "data": {
+                "id": "d0e0d156-4248-482a-b542-bf723a6f5edb",
+                "updated_at": "2023-12-01T12:14:40.286608+00:00",
+                "username": "Julegata.IT",
+                "valid_from": "2023-12-08T15:20:10.079+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 13:15:02+00:00",
+            "data": {
+                "user_id": "d0e0d156-4248-482a-b542-bf723a6f5edb",
+                "username": "julegata.it",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T13:06:29.490168+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-02 23:15:04+00:00",
+            "data": {
+                "user_id": "d0e0d156-4248-482a-b542-bf723a6f5edb",
+                "username": "julegata.it",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-02T23:08:03.296803+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 18:30:05+00:00",
+            "data": {
+                "user_id": "d0e0d156-4248-482a-b542-bf723a6f5edb",
+                "username": "julegata.it",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-03T18:23:49.479782+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 13:45:05+00:00",
+            "data": {
+                "user_id": "d0e0d156-4248-482a-b542-bf723a6f5edb",
+                "username": "julegata.it",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-04T13:35:41.560381+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 12:15:07+00:00",
+            "data": {
+                "user_id": "d0e0d156-4248-482a-b542-bf723a6f5edb",
+                "username": "julegata.it",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-05T12:09:04.802443+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 12:30:08+00:00",
+            "data": {
+                "user_id": "d0e0d156-4248-482a-b542-bf723a6f5edb",
+                "username": "julegata.it",
+                "score": 60,
+                "num_solves": 6,
+                "latest_solve_time": "2023-12-06T12:17:12.775024+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 11:15:09+00:00",
+            "data": {
+                "user_id": "d0e0d156-4248-482a-b542-bf723a6f5edb",
+                "username": "julegata.it",
+                "score": 70,
+                "num_solves": 7,
+                "latest_solve_time": "2023-12-07T11:07:42.8993+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-08 15:30:09+00:00",
+            "data": {
+                "user_id": "d0e0d156-4248-482a-b542-bf723a6f5edb",
+                "username": "Julegata.IT",
+                "score": 70,
+                "num_solves": 7,
+                "latest_solve_time": "2023-12-07T11:07:42.8993+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-09 20:00:10+00:00",
+            "data": {
+                "user_id": "d0e0d156-4248-482a-b542-bf723a6f5edb",
+                "username": "Julegata.IT",
+                "score": 80,
+                "num_solves": 8,
+                "latest_solve_time": "2023-12-09T19:51:26.536113+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 80,
+        "num_solves": 8,
+        "username": "Julegata.IT",
+        "organization_id": 1
+    }
+}

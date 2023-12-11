@@ -1,0 +1,92 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 22:00:03+00:00",
+            "data": {
+                "id": "5c0be93a-9132-45ac-aa71-4b2c89a93b1a",
+                "updated_at": "2023-12-01T21:50:30.071031+00:00",
+                "username": "micronova",
+                "valid_from": "2023-12-01T21:50:39.867+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-02 15:00:04+00:00",
+            "data": {
+                "id": "5c0be93a-9132-45ac-aa71-4b2c89a93b1a",
+                "updated_at": "2023-12-01T21:50:30.071031+00:00",
+                "username": "micronova \ud83d\udca5",
+                "valid_from": "2023-12-02T14:53:37.179+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 23:15:05+00:00",
+            "data": {
+                "id": "5c0be93a-9132-45ac-aa71-4b2c89a93b1a",
+                "updated_at": "2023-12-01T21:50:30.071031+00:00",
+                "username": "micronova \ud83d\udca5",
+                "valid_from": "2023-12-04T23:06:02.032+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 22:00:03+00:00",
+            "data": {
+                "user_id": "5c0be93a-9132-45ac-aa71-4b2c89a93b1a",
+                "username": "micronova",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T21:51:05.79549+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-02 15:00:04+00:00",
+            "data": {
+                "user_id": "5c0be93a-9132-45ac-aa71-4b2c89a93b1a",
+                "username": "micronova \ud83d\udca5",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T21:51:05.79549+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-02 15:15:04+00:00",
+            "data": {
+                "user_id": "5c0be93a-9132-45ac-aa71-4b2c89a93b1a",
+                "username": "micronova \ud83d\udca5",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-02T15:08:34.337635+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 12:00:04+00:00",
+            "data": {
+                "user_id": "5c0be93a-9132-45ac-aa71-4b2c89a93b1a",
+                "username": "micronova \ud83d\udca5",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-03T11:47:23.763682+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 06:45:05+00:00",
+            "data": {
+                "user_id": "5c0be93a-9132-45ac-aa71-4b2c89a93b1a",
+                "username": "micronova \ud83d\udca5",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-05T06:39:51.909417+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 40,
+        "num_solves": 4,
+        "username": "micronova \ud83d\udca5",
+        "organization_id": 1
+    }
+}

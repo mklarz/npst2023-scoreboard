@@ -1,0 +1,62 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "ef314a59-3286-403d-89a0-c16678a6b1ef",
+                "updated_at": "2023-12-01T09:13:50.618808+00:00",
+                "username": null,
+                "valid_from": "2023-12-01T09:13:50.618808+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-01 19:30:03+00:00",
+            "data": {
+                "id": "ef314a59-3286-403d-89a0-c16678a6b1ef",
+                "updated_at": "2023-12-01T09:13:50.618808+00:00",
+                "username": "olekekan",
+                "valid_from": "2023-12-01T19:26:56.174+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-05 19:00:07+00:00",
+            "data": {
+                "id": "ef314a59-3286-403d-89a0-c16678a6b1ef",
+                "updated_at": "2023-12-01T09:13:50.618808+00:00",
+                "username": "olekekan",
+                "valid_from": "2023-12-05T18:46:20.624+00:00",
+                "organization_id": 3
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 19:30:03+00:00",
+            "data": {
+                "user_id": "ef314a59-3286-403d-89a0-c16678a6b1ef",
+                "username": "olekekan",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T19:29:16.157474+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 19:15:08+00:00",
+            "data": {
+                "user_id": "ef314a59-3286-403d-89a0-c16678a6b1ef",
+                "username": "olekekan",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-06T19:07:39.31058+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 20,
+        "num_solves": 2,
+        "username": "olekekan",
+        "organization_id": 3
+    }
+}

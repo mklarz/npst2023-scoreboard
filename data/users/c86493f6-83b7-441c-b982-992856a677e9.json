@@ -1,0 +1,82 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 15:15:02+00:00",
+            "data": {
+                "id": "c86493f6-83b7-441c-b982-992856a677e9",
+                "updated_at": "2023-12-01T15:03:00.943721+00:00",
+                "username": "Morthius",
+                "valid_from": "2023-12-01T15:03:13.301+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-05 11:30:07+00:00",
+            "data": {
+                "id": "c86493f6-83b7-441c-b982-992856a677e9",
+                "updated_at": "2023-12-01T15:03:00.943721+00:00",
+                "username": "Morthius",
+                "valid_from": "2023-12-05T11:20:38.782+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 15:15:02+00:00",
+            "data": {
+                "user_id": "c86493f6-83b7-441c-b982-992856a677e9",
+                "username": "Morthius",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T15:09:12.790598+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 20:45:05+00:00",
+            "data": {
+                "user_id": "c86493f6-83b7-441c-b982-992856a677e9",
+                "username": "Morthius",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-03T20:32:34.22193+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 17:30:08+00:00",
+            "data": {
+                "user_id": "c86493f6-83b7-441c-b982-992856a677e9",
+                "username": "Morthius",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-07T17:21:01.814473+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 19:15:08+00:00",
+            "data": {
+                "user_id": "c86493f6-83b7-441c-b982-992856a677e9",
+                "username": "Morthius",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-07T19:13:41.564045+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-08 13:45:09+00:00",
+            "data": {
+                "user_id": "c86493f6-83b7-441c-b982-992856a677e9",
+                "username": "Morthius",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-08T13:42:36.775152+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 50,
+        "num_solves": 5,
+        "username": "Morthius",
+        "organization_id": 1
+    }
+}

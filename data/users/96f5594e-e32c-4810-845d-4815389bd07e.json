@@ -1,0 +1,21 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-06 11:30:08+00:00",
+            "data": {
+                "id": "96f5594e-e32c-4810-845d-4815389bd07e",
+                "updated_at": "2023-12-06T11:15:23.247115+00:00",
+                "username": "feryla",
+                "valid_from": "2023-12-06T11:16:14.085+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [],
+    "current_info": {
+        "score": "?",
+        "num_solves": "?",
+        "username": "feryla",
+        "organization_id": 1
+    }
+}

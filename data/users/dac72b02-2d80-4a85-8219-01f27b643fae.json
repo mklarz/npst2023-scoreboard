@@ -1,0 +1,21 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-08 14:30:09+00:00",
+            "data": {
+                "id": "dac72b02-2d80-4a85-8219-01f27b643fae",
+                "updated_at": "2023-12-08T14:24:15.228696+00:00",
+                "username": "Magnemor",
+                "valid_from": "2023-12-08T14:24:45.523+00:00",
+                "organization_id": 3
+            }
+        }
+    ],
+    "scoreboard": [],
+    "current_info": {
+        "score": "?",
+        "num_solves": "?",
+        "username": "Magnemor",
+        "organization_id": 3
+    }
+}

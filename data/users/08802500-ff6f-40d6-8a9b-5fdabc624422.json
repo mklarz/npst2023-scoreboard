@@ -1,0 +1,82 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 16:00:03+00:00",
+            "data": {
+                "id": "08802500-ff6f-40d6-8a9b-5fdabc624422",
+                "updated_at": "2023-12-01T15:59:08.082738+00:00",
+                "username": "frekkefranz",
+                "valid_from": "2023-12-01T15:59:15.773+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 18:00:05+00:00",
+            "data": {
+                "id": "08802500-ff6f-40d6-8a9b-5fdabc624422",
+                "updated_at": "2023-12-01T15:59:08.082738+00:00",
+                "username": "frekkefranz",
+                "valid_from": "2023-12-04T17:52:32.899+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-04 18:00:05+00:00",
+            "data": {
+                "user_id": "08802500-ff6f-40d6-8a9b-5fdabc624422",
+                "username": "frekkefranz",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-04T17:58:14.066192+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 18:30:07+00:00",
+            "data": {
+                "user_id": "08802500-ff6f-40d6-8a9b-5fdabc624422",
+                "username": "frekkefranz",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-04T18:24:20.206049+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 18:45:05+00:00",
+            "data": {
+                "user_id": "08802500-ff6f-40d6-8a9b-5fdabc624422",
+                "username": "frekkefranz",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-04T18:31:35.199112+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 20:00:05+00:00",
+            "data": {
+                "user_id": "08802500-ff6f-40d6-8a9b-5fdabc624422",
+                "username": "frekkefranz",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-04T19:51:10.715352+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 20:30:08+00:00",
+            "data": {
+                "user_id": "08802500-ff6f-40d6-8a9b-5fdabc624422",
+                "username": "frekkefranz",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-06T20:18:58.845363+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 50,
+        "num_solves": 5,
+        "username": "frekkefranz",
+        "organization_id": 1
+    }
+}

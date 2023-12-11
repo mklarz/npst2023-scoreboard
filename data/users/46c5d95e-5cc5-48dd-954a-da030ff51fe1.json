@@ -1,0 +1,21 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-05 21:30:07+00:00",
+            "data": {
+                "id": "46c5d95e-5cc5-48dd-954a-da030ff51fe1",
+                "updated_at": "2023-12-05T21:21:30.396262+00:00",
+                "username": "OnkelPoliti",
+                "valid_from": "2023-12-05T21:22:31.988+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [],
+    "current_info": {
+        "score": "?",
+        "num_solves": "?",
+        "username": "OnkelPoliti",
+        "organization_id": 1
+    }
+}

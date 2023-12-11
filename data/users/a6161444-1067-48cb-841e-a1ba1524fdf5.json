@@ -1,0 +1,21 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-04 15:30:06+00:00",
+            "data": {
+                "id": "a6161444-1067-48cb-841e-a1ba1524fdf5",
+                "updated_at": "2023-12-04T15:15:33.635531+00:00",
+                "username": "krido",
+                "valid_from": "2023-12-04T15:18:25.652+00:00",
+                "organization_id": 2
+            }
+        }
+    ],
+    "scoreboard": [],
+    "current_info": {
+        "score": "?",
+        "num_solves": "?",
+        "username": "krido",
+        "organization_id": 2
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-04 19:30:06+00:00",
+            "data": {
+                "id": "8e43b203-2ddc-41af-99ab-7840c1f8ff31",
+                "updated_at": "2023-12-04T19:27:22.64485+00:00",
+                "username": "Lokkedua",
+                "valid_from": "2023-12-04T19:28:03.961+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [],
+    "current_info": {
+        "score": "?",
+        "num_solves": "?",
+        "username": "Lokkedua",
+        "organization_id": 1
+    }
+}

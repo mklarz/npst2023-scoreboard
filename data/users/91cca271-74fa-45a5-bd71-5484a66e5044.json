@@ -1,0 +1,21 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-05 11:00:07+00:00",
+            "data": {
+                "id": "91cca271-74fa-45a5-bd71-5484a66e5044",
+                "updated_at": "2023-12-05T10:45:21.543331+00:00",
+                "username": "Jompalompa",
+                "valid_from": "2023-12-05T10:46:11.967+00:00",
+                "organization_id": 2
+            }
+        }
+    ],
+    "scoreboard": [],
+    "current_info": {
+        "score": "?",
+        "num_solves": "?",
+        "username": "Jompalompa",
+        "organization_id": 2
+    }
+}

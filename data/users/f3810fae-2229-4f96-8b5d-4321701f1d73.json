@@ -1,0 +1,42 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-05 09:30:06+00:00",
+            "data": {
+                "id": "f3810fae-2229-4f96-8b5d-4321701f1d73",
+                "updated_at": "2023-12-05T09:29:30.818899+00:00",
+                "username": null,
+                "valid_from": "2023-12-05T09:29:30.818899+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-05 09:45:06+00:00",
+            "data": {
+                "id": "f3810fae-2229-4f96-8b5d-4321701f1d73",
+                "updated_at": "2023-12-05T09:29:30.818899+00:00",
+                "username": "Vesail",
+                "valid_from": "2023-12-05T09:34:53.601+00:00",
+                "organization_id": 2
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-05 10:15:06+00:00",
+            "data": {
+                "user_id": "f3810fae-2229-4f96-8b5d-4321701f1d73",
+                "username": "Vesail",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-05T10:03:24.385973+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 10,
+        "num_solves": 1,
+        "username": "Vesail",
+        "organization_id": 2
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-05 12:45:06+00:00",
+            "data": {
+                "id": "a5371fa6-e793-42c9-893e-60b350b06cc8",
+                "updated_at": "2023-12-05T12:34:36.745387+00:00",
+                "username": "Mr.potato",
+                "valid_from": "2023-12-05T12:40:21.657+00:00",
+                "organization_id": 1
+            }
+        },
+        {
+            "timestamp": "2023-12-05 13:30:06+00:00",
+            "data": {
+                "id": "a5371fa6-e793-42c9-893e-60b350b06cc8",
+                "updated_at": "2023-12-05T12:34:36.745387+00:00",
+                "username": "Mr.potato",
+                "valid_from": "2023-12-05T13:23:00.221+00:00",
+                "organization_id": 1
+            }
+        },
+        {
+            "timestamp": "2023-12-05 13:45:07+00:00",
+            "data": {
+                "id": "a5371fa6-e793-42c9-893e-60b350b06cc8",
+                "updated_at": "2023-12-05T12:34:36.745387+00:00",
+                "username": "Mr.potato",
+                "valid_from": "2023-12-05T13:32:45.095+00:00",
+                "organization_id": 1
+            }
+        },
+        {
+            "timestamp": "2023-12-05 14:00:07+00:00",
+            "data": {
+                "id": "a5371fa6-e793-42c9-893e-60b350b06cc8",
+                "updated_at": "2023-12-05T12:34:36.745387+00:00",
+                "username": "Mr.potato",
+                "valid_from": "2023-12-05T13:53:05.088+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-05 13:30:06+00:00",
+            "data": {
+                "user_id": "a5371fa6-e793-42c9-893e-60b350b06cc8",
+                "username": "Mr.potato",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-05T13:19:50.727303+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 21:45:08+00:00",
+            "data": {
+                "user_id": "a5371fa6-e793-42c9-893e-60b350b06cc8",
+                "username": "Mr.potato",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-06T21:40:12.382046+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 20,
+        "num_solves": 2,
+        "username": "Mr.potato",
+        "organization_id": 1
+    }
+}

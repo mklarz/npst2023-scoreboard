@@ -1,0 +1,21 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-04 13:00:05+00:00",
+            "data": {
+                "id": "dd2ef4f8-06b0-4e98-9d4c-c4fe2c0a39c3",
+                "updated_at": "2023-12-04T12:45:55.813014+00:00",
+                "username": "Biki",
+                "valid_from": "2023-12-04T12:47:13.673+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [],
+    "current_info": {
+        "score": "?",
+        "num_solves": "?",
+        "username": "Biki",
+        "organization_id": 1
+    }
+}

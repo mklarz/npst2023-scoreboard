@@ -1,0 +1,122 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 13:30:03+00:00",
+            "data": {
+                "id": "963f8a69-70c6-46f6-af6a-b1e82f9b9df4",
+                "updated_at": "2023-12-01T13:16:48.70588+00:00",
+                "username": "eriknn",
+                "valid_from": "2023-12-01T13:17:00.773+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 13:15:05+00:00",
+            "data": {
+                "id": "963f8a69-70c6-46f6-af6a-b1e82f9b9df4",
+                "updated_at": "2023-12-01T13:16:48.70588+00:00",
+                "username": "eriknn",
+                "valid_from": "2023-12-04T13:15:01.037+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 13:30:03+00:00",
+            "data": {
+                "user_id": "963f8a69-70c6-46f6-af6a-b1e82f9b9df4",
+                "username": "eriknn",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T13:21:54.009262+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-02 21:30:04+00:00",
+            "data": {
+                "user_id": "963f8a69-70c6-46f6-af6a-b1e82f9b9df4",
+                "username": "eriknn",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-02T21:21:19.81573+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 11:30:04+00:00",
+            "data": {
+                "user_id": "963f8a69-70c6-46f6-af6a-b1e82f9b9df4",
+                "username": "eriknn",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-03T11:23:22.078001+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 14:00:05+00:00",
+            "data": {
+                "user_id": "963f8a69-70c6-46f6-af6a-b1e82f9b9df4",
+                "username": "eriknn",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-04T13:53:36.910737+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 12:30:07+00:00",
+            "data": {
+                "user_id": "963f8a69-70c6-46f6-af6a-b1e82f9b9df4",
+                "username": "eriknn",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-05T12:25:26.910092+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 14:45:07+00:00",
+            "data": {
+                "user_id": "963f8a69-70c6-46f6-af6a-b1e82f9b9df4",
+                "username": "eriknn",
+                "score": 60,
+                "num_solves": 6,
+                "latest_solve_time": "2023-12-06T14:36:07.186287+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 12:00:08+00:00",
+            "data": {
+                "user_id": "963f8a69-70c6-46f6-af6a-b1e82f9b9df4",
+                "username": "eriknn",
+                "score": 70,
+                "num_solves": 7,
+                "latest_solve_time": "2023-12-07T11:57:46.043511+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-09 12:45:10+00:00",
+            "data": {
+                "user_id": "963f8a69-70c6-46f6-af6a-b1e82f9b9df4",
+                "username": "eriknn",
+                "score": 80,
+                "num_solves": 8,
+                "latest_solve_time": "2023-12-09T12:42:52.853447+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-10 22:15:14+00:00",
+            "data": {
+                "user_id": "963f8a69-70c6-46f6-af6a-b1e82f9b9df4",
+                "username": "eriknn",
+                "score": 90,
+                "num_solves": 9,
+                "latest_solve_time": "2023-12-10T22:14:36.925895+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 90,
+        "num_solves": 9,
+        "username": "eriknn",
+        "organization_id": 1
+    }
+}

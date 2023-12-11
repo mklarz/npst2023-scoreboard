@@ -1,0 +1,62 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-05 11:00:07+00:00",
+            "data": {
+                "id": "50c4c71b-9ad6-4224-97ba-a2b9039d09a9",
+                "updated_at": "2023-12-05T10:50:56.039564+00:00",
+                "username": "Jony_tooth",
+                "valid_from": "2023-12-05T10:53:26.528+00:00",
+                "organization_id": 2
+            }
+        },
+        {
+            "timestamp": "2023-12-05 11:30:07+00:00",
+            "data": {
+                "id": "50c4c71b-9ad6-4224-97ba-a2b9039d09a9",
+                "updated_at": "2023-12-05T10:50:56.039564+00:00",
+                "username": "Jony_tooth &amp; Ben10",
+                "valid_from": "2023-12-05T11:23:23.394+00:00",
+                "organization_id": 2
+            }
+        },
+        {
+            "timestamp": "2023-12-06 14:30:08+00:00",
+            "data": {
+                "id": "50c4c71b-9ad6-4224-97ba-a2b9039d09a9",
+                "updated_at": "2023-12-05T10:50:56.039564+00:00",
+                "username": "[CISK]jony &amp; ben10",
+                "valid_from": "2023-12-06T14:17:13.44+00:00",
+                "organization_id": 2
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-05 11:30:07+00:00",
+            "data": {
+                "user_id": "50c4c71b-9ad6-4224-97ba-a2b9039d09a9",
+                "username": "Jony_tooth &amp; Ben10",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-05T11:20:16.621486+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 14:30:08+00:00",
+            "data": {
+                "user_id": "50c4c71b-9ad6-4224-97ba-a2b9039d09a9",
+                "username": "[CISK]jony &amp; ben10",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-06T14:16:00.145019+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 20,
+        "num_solves": 2,
+        "username": "[CISK]jony &amp; ben10",
+        "organization_id": 2
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 13:30:03+00:00",
+            "data": {
+                "id": "ac27994b-6f44-4f3e-a197-285062836d8c",
+                "updated_at": "2023-12-01T13:17:21.35315+00:00",
+                "username": "Quiescent",
+                "valid_from": "2023-12-01T13:17:54.389+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 14:30:06+00:00",
+            "data": {
+                "id": "ac27994b-6f44-4f3e-a197-285062836d8c",
+                "updated_at": "2023-12-01T13:17:21.35315+00:00",
+                "username": "Quiescent",
+                "valid_from": "2023-12-04T14:22:40.096+00:00",
+                "organization_id": 2
+            }
+        },
+        {
+            "timestamp": "2023-12-04 14:45:05+00:00",
+            "data": {
+                "id": "ac27994b-6f44-4f3e-a197-285062836d8c",
+                "updated_at": "2023-12-01T13:17:21.35315+00:00",
+                "username": "Quiescent",
+                "valid_from": "2023-12-04T14:32:56.774+00:00",
+                "organization_id": 2
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-02 08:45:03+00:00",
+            "data": {
+                "user_id": "ac27994b-6f44-4f3e-a197-285062836d8c",
+                "username": "Quiescent",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-02T08:41:10.083528+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-02 14:15:04+00:00",
+            "data": {
+                "user_id": "ac27994b-6f44-4f3e-a197-285062836d8c",
+                "username": "Quiescent",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-02T14:07:08.639783+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 14:45:05+00:00",
+            "data": {
+                "user_id": "ac27994b-6f44-4f3e-a197-285062836d8c",
+                "username": "Quiescent",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-04T14:33:16.511785+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 30,
+        "num_solves": 3,
+        "username": "Quiescent",
+        "organization_id": 2
+    }
+}

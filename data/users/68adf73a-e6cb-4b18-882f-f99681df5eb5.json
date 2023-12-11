@@ -1,0 +1,72 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:30:03+00:00",
+            "data": {
+                "id": "68adf73a-e6cb-4b18-882f-f99681df5eb5",
+                "updated_at": "2023-12-01T12:17:04.856424+00:00",
+                "username": "longjohns",
+                "valid_from": "2023-12-01T12:17:42.414+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-07 08:15:08+00:00",
+            "data": {
+                "id": "68adf73a-e6cb-4b18-882f-f99681df5eb5",
+                "updated_at": "2023-12-01T12:17:04.856424+00:00",
+                "username": "longjohns",
+                "valid_from": "2023-12-07T08:02:28.685+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-07 08:15:08+00:00",
+            "data": {
+                "user_id": "68adf73a-e6cb-4b18-882f-f99681df5eb5",
+                "username": "longjohns",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-07T08:04:24.153486+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 09:00:10+00:00",
+            "data": {
+                "user_id": "68adf73a-e6cb-4b18-882f-f99681df5eb5",
+                "username": "longjohns",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-07T08:46:25.040837+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 10:15:08+00:00",
+            "data": {
+                "user_id": "68adf73a-e6cb-4b18-882f-f99681df5eb5",
+                "username": "longjohns",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-07T10:09:47.604317+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 11:30:08+00:00",
+            "data": {
+                "user_id": "68adf73a-e6cb-4b18-882f-f99681df5eb5",
+                "username": "longjohns",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-07T11:27:20.240118+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 40,
+        "num_solves": 4,
+        "username": "longjohns",
+        "organization_id": 1
+    }
+}

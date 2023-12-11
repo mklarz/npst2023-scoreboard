@@ -1,0 +1,132 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 14:45:02+00:00",
+            "data": {
+                "id": "3d104300-0ffc-4b0a-9532-bfb81b561028",
+                "updated_at": "2023-12-01T14:35:06.949812+00:00",
+                "username": "Ylva",
+                "valid_from": "2023-12-01T14:35:29.076+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-03 10:30:04+00:00",
+            "data": {
+                "id": "3d104300-0ffc-4b0a-9532-bfb81b561028",
+                "updated_at": "2023-12-01T14:35:06.949812+00:00",
+                "username": "Accalia",
+                "valid_from": "2023-12-03T10:27:35.569+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 19:15:06+00:00",
+            "data": {
+                "id": "3d104300-0ffc-4b0a-9532-bfb81b561028",
+                "updated_at": "2023-12-01T14:35:06.949812+00:00",
+                "username": "Accalia",
+                "valid_from": "2023-12-04T19:07:12.289+00:00",
+                "organization_id": 3
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 14:45:02+00:00",
+            "data": {
+                "user_id": "3d104300-0ffc-4b0a-9532-bfb81b561028",
+                "username": "Ylva",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T14:36:53.302822+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-02 17:00:04+00:00",
+            "data": {
+                "user_id": "3d104300-0ffc-4b0a-9532-bfb81b561028",
+                "username": "Ylva",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-02T16:47:19.908681+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 10:30:04+00:00",
+            "data": {
+                "user_id": "3d104300-0ffc-4b0a-9532-bfb81b561028",
+                "username": "Accalia",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-02T16:47:19.908681+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 13:15:05+00:00",
+            "data": {
+                "user_id": "3d104300-0ffc-4b0a-9532-bfb81b561028",
+                "username": "Accalia",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-03T13:09:58.493048+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 19:15:06+00:00",
+            "data": {
+                "user_id": "3d104300-0ffc-4b0a-9532-bfb81b561028",
+                "username": "Accalia",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-04T19:07:42.13217+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 20:45:07+00:00",
+            "data": {
+                "user_id": "3d104300-0ffc-4b0a-9532-bfb81b561028",
+                "username": "Accalia",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-05T20:32:58.400515+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 18:00:08+00:00",
+            "data": {
+                "user_id": "3d104300-0ffc-4b0a-9532-bfb81b561028",
+                "username": "Accalia",
+                "score": 60,
+                "num_solves": 6,
+                "latest_solve_time": "2023-12-06T17:56:28.874208+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 12:00:08+00:00",
+            "data": {
+                "user_id": "3d104300-0ffc-4b0a-9532-bfb81b561028",
+                "username": "Accalia",
+                "score": 70,
+                "num_solves": 7,
+                "latest_solve_time": "2023-12-07T11:59:00.817918+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-09 12:00:10+00:00",
+            "data": {
+                "user_id": "3d104300-0ffc-4b0a-9532-bfb81b561028",
+                "username": "Accalia",
+                "score": 80,
+                "num_solves": 8,
+                "latest_solve_time": "2023-12-09T11:47:32.903876+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 80,
+        "num_solves": 8,
+        "username": "Accalia",
+        "organization_id": 3
+    }
+}

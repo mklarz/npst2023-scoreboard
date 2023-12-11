@@ -1,0 +1,82 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-05 12:30:07+00:00",
+            "data": {
+                "id": "fa2c2250-5b7a-46a1-b50e-49effaf06ac3",
+                "updated_at": "2023-12-05T12:20:45.36141+00:00",
+                "username": "Luring1",
+                "valid_from": "2023-12-05T12:22:21.154+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-05 12:30:07+00:00",
+            "data": {
+                "user_id": "fa2c2250-5b7a-46a1-b50e-49effaf06ac3",
+                "username": "Luring1",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-05T12:23:37.827992+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 15:30:07+00:00",
+            "data": {
+                "user_id": "fa2c2250-5b7a-46a1-b50e-49effaf06ac3",
+                "username": "Luring1",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-05T15:28:10.029183+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 11:45:08+00:00",
+            "data": {
+                "user_id": "fa2c2250-5b7a-46a1-b50e-49effaf06ac3",
+                "username": "Luring1",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-07T11:43:11.865679+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 17:15:09+00:00",
+            "data": {
+                "user_id": "fa2c2250-5b7a-46a1-b50e-49effaf06ac3",
+                "username": "Luring1",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-07T17:14:32.668123+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-08 17:45:09+00:00",
+            "data": {
+                "user_id": "fa2c2250-5b7a-46a1-b50e-49effaf06ac3",
+                "username": "Luring1",
+                "score": 60,
+                "num_solves": 6,
+                "latest_solve_time": "2023-12-08T17:44:32.953242+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-11 11:45:15+00:00",
+            "data": {
+                "user_id": "fa2c2250-5b7a-46a1-b50e-49effaf06ac3",
+                "username": "Luring1",
+                "score": 70,
+                "num_solves": 7,
+                "latest_solve_time": "2023-12-11T11:30:29.874232+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 70,
+        "num_solves": 7,
+        "username": "Luring1",
+        "organization_id": 1
+    }
+}

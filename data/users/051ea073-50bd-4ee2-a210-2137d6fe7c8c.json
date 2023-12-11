@@ -1,0 +1,72 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "051ea073-50bd-4ee2-a210-2137d6fe7c8c",
+                "updated_at": "2023-11-30T15:37:32.498695+00:00",
+                "username": "waperon",
+                "valid_from": "2023-11-30T15:37:47.758+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 13:45:05+00:00",
+            "data": {
+                "id": "051ea073-50bd-4ee2-a210-2137d6fe7c8c",
+                "updated_at": "2023-11-30T15:37:32.498695+00:00",
+                "username": "waperon",
+                "valid_from": "2023-12-04T13:43:59.447+00:00",
+                "organization_id": 3
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 12:45:02+00:00",
+            "data": {
+                "user_id": "051ea073-50bd-4ee2-a210-2137d6fe7c8c",
+                "username": "waperon",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T12:33:34.737537+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 19:45:05+00:00",
+            "data": {
+                "user_id": "051ea073-50bd-4ee2-a210-2137d6fe7c8c",
+                "username": "waperon",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-03T19:41:17.599141+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 20:30:05+00:00",
+            "data": {
+                "user_id": "051ea073-50bd-4ee2-a210-2137d6fe7c8c",
+                "username": "waperon",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-03T20:20:42.692282+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 15:00:06+00:00",
+            "data": {
+                "user_id": "051ea073-50bd-4ee2-a210-2137d6fe7c8c",
+                "username": "waperon",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-04T14:52:16.296261+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 40,
+        "num_solves": 4,
+        "username": "waperon",
+        "organization_id": 3
+    }
+}

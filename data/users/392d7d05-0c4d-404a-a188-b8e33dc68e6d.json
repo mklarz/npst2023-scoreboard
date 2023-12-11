@@ -1,0 +1,42 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-05 09:00:06+00:00",
+            "data": {
+                "id": "392d7d05-0c4d-404a-a188-b8e33dc68e6d",
+                "updated_at": "2023-12-05T08:52:11.783716+00:00",
+                "username": "natnaelasgedom",
+                "valid_from": "2023-12-05T08:53:12.373+00:00",
+                "organization_id": 1
+            }
+        },
+        {
+            "timestamp": "2023-12-05 10:00:06+00:00",
+            "data": {
+                "id": "392d7d05-0c4d-404a-a188-b8e33dc68e6d",
+                "updated_at": "2023-12-05T08:52:11.783716+00:00",
+                "username": "natnaelasgedom",
+                "valid_from": "2023-12-05T09:51:25.83+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-05 10:00:06+00:00",
+            "data": {
+                "user_id": "392d7d05-0c4d-404a-a188-b8e33dc68e6d",
+                "username": "natnaelasgedom",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-05T09:50:33.300543+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 10,
+        "num_solves": 1,
+        "username": "natnaelasgedom",
+        "organization_id": 1
+    }
+}

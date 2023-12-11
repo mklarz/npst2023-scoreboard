@@ -1,0 +1,21 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-04 08:00:05+00:00",
+            "data": {
+                "id": "37bf4ac4-71c2-4c80-b8e9-3bb6957207fc",
+                "updated_at": "2023-12-04T07:50:17.35796+00:00",
+                "username": "Ola Dunk",
+                "valid_from": "2023-12-04T07:50:58.28+00:00",
+                "organization_id": null
+            }
+        }
+    ],
+    "scoreboard": [],
+    "current_info": {
+        "score": "?",
+        "num_solves": "?",
+        "username": "Ola Dunk",
+        "organization_id": null
+    }
+}

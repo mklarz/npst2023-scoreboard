@@ -1,0 +1,32 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "88b98866-fabb-4b1f-bc3e-1852d9532b6a",
+                "updated_at": "2023-12-01T11:03:15.306301+00:00",
+                "username": "Codur",
+                "valid_from": "2023-12-01T11:03:35.474+00:00",
+                "organization_id": null
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "user_id": "88b98866-fabb-4b1f-bc3e-1852d9532b6a",
+                "username": "Codur",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T11:31:11.773732+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 10,
+        "num_solves": 1,
+        "username": "Codur",
+        "organization_id": null
+    }
+}

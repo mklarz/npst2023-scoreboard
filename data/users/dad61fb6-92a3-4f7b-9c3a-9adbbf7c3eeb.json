@@ -1,0 +1,32 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:30:03+00:00",
+            "data": {
+                "id": "dad61fb6-92a3-4f7b-9c3a-9adbbf7c3eeb",
+                "updated_at": "2023-12-01T12:27:00.115234+00:00",
+                "username": "Encoderr",
+                "valid_from": "2023-12-01T12:27:09.018+00:00",
+                "organization_id": null
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 14:00:03+00:00",
+            "data": {
+                "user_id": "dad61fb6-92a3-4f7b-9c3a-9adbbf7c3eeb",
+                "username": "Encoderr",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T13:51:01.919519+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 10,
+        "num_solves": 1,
+        "username": "Encoderr",
+        "organization_id": null
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "b98974cb-5108-48b3-b975-400f78c8395a",
+                "updated_at": "2023-11-30T14:05:52.703419+00:00",
+                "username": "Radagast\ud83e\uddd9",
+                "valid_from": "2023-11-30T14:06:32.211+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 13:30:05+00:00",
+            "data": {
+                "id": "b98974cb-5108-48b3-b975-400f78c8395a",
+                "updated_at": "2023-11-30T14:05:52.703419+00:00",
+                "username": "Radagast\ud83e\uddd9",
+                "valid_from": "2023-12-04T13:28:36.842+00:00",
+                "organization_id": 2
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "user_id": "b98974cb-5108-48b3-b975-400f78c8395a",
+                "username": "Radagast\ud83e\uddd9",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T11:12:50.060089+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-02 13:45:04+00:00",
+            "data": {
+                "user_id": "b98974cb-5108-48b3-b975-400f78c8395a",
+                "username": "Radagast\ud83e\uddd9",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-02T13:37:01.931791+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 11:45:04+00:00",
+            "data": {
+                "user_id": "b98974cb-5108-48b3-b975-400f78c8395a",
+                "username": "Radagast\ud83e\uddd9",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-03T11:38:46.919502+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 12:00:05+00:00",
+            "data": {
+                "user_id": "b98974cb-5108-48b3-b975-400f78c8395a",
+                "username": "Radagast\ud83e\uddd9",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-04T11:56:21.757405+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 15:30:07+00:00",
+            "data": {
+                "user_id": "b98974cb-5108-48b3-b975-400f78c8395a",
+                "username": "Radagast\ud83e\uddd9",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-05T15:18:52.492612+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 12:15:07+00:00",
+            "data": {
+                "user_id": "b98974cb-5108-48b3-b975-400f78c8395a",
+                "username": "Radagast\ud83e\uddd9",
+                "score": 60,
+                "num_solves": 6,
+                "latest_solve_time": "2023-12-06T12:04:05.362068+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 11:30:08+00:00",
+            "data": {
+                "user_id": "b98974cb-5108-48b3-b975-400f78c8395a",
+                "username": "Radagast\ud83e\uddd9",
+                "score": 70,
+                "num_solves": 7,
+                "latest_solve_time": "2023-12-07T11:20:16.162136+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-09 12:15:09+00:00",
+            "data": {
+                "user_id": "b98974cb-5108-48b3-b975-400f78c8395a",
+                "username": "Radagast\ud83e\uddd9",
+                "score": 80,
+                "num_solves": 8,
+                "latest_solve_time": "2023-12-09T12:06:34.569745+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-11 13:15:15+00:00",
+            "data": {
+                "user_id": "b98974cb-5108-48b3-b975-400f78c8395a",
+                "username": "Radagast\ud83e\uddd9",
+                "score": 90,
+                "num_solves": 9,
+                "latest_solve_time": "2023-12-11T13:02:52.588786+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 90,
+        "num_solves": 9,
+        "username": "Radagast\ud83e\uddd9",
+        "organization_id": 2
+    }
+}

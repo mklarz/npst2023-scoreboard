@@ -1,0 +1,21 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-03 21:30:05+00:00",
+            "data": {
+                "id": "49ecdcb6-063c-44bf-9de0-01aeba9c0a7c",
+                "updated_at": "2023-12-03T21:29:27.931626+00:00",
+                "username": "eirikfjellgaard",
+                "valid_from": "2023-12-03T21:29:42.139+00:00",
+                "organization_id": null
+            }
+        }
+    ],
+    "scoreboard": [],
+    "current_info": {
+        "score": "?",
+        "num_solves": "?",
+        "username": "eirikfjellgaard",
+        "organization_id": null
+    }
+}

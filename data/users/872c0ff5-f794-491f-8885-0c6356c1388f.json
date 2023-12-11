@@ -1,0 +1,21 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-08 12:15:09+00:00",
+            "data": {
+                "id": "872c0ff5-f794-491f-8885-0c6356c1388f",
+                "updated_at": "2023-12-08T12:10:29.924685+00:00",
+                "username": "Borgemeizter",
+                "valid_from": "2023-12-08T12:14:36.5+00:00",
+                "organization_id": 2
+            }
+        }
+    ],
+    "scoreboard": [],
+    "current_info": {
+        "score": "?",
+        "num_solves": "?",
+        "username": "Borgemeizter",
+        "organization_id": 2
+    }
+}

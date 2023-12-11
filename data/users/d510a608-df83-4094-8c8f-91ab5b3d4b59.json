@@ -1,0 +1,72 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "d510a608-df83-4094-8c8f-91ab5b3d4b59",
+                "updated_at": "2023-12-01T07:06:30.459715+00:00",
+                "username": "rulp",
+                "valid_from": "2023-12-01T07:07:52.398+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-06 07:30:07+00:00",
+            "data": {
+                "id": "d510a608-df83-4094-8c8f-91ab5b3d4b59",
+                "updated_at": "2023-12-01T07:06:30.459715+00:00",
+                "username": "rulp",
+                "valid_from": "2023-12-06T07:25:13.601+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "user_id": "d510a608-df83-4094-8c8f-91ab5b3d4b59",
+                "username": "rulp",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T11:41:13.973379+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 16:30:05+00:00",
+            "data": {
+                "user_id": "d510a608-df83-4094-8c8f-91ab5b3d4b59",
+                "username": "rulp",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-04T16:28:41.149192+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-08 07:15:09+00:00",
+            "data": {
+                "user_id": "d510a608-df83-4094-8c8f-91ab5b3d4b59",
+                "username": "rulp",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-08T07:10:09.241067+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-08 15:15:09+00:00",
+            "data": {
+                "user_id": "d510a608-df83-4094-8c8f-91ab5b3d4b59",
+                "username": "rulp",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-08T15:11:53.790268+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 40,
+        "num_solves": 4,
+        "username": "rulp",
+        "organization_id": 1
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "2986f4ca-1c4d-4e0d-9b9f-52ceef8db1ad",
+                "updated_at": "2023-12-01T09:56:32.586583+00:00",
+                "username": "pwnd4",
+                "valid_from": "2023-12-01T09:56:45.271+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 16:15:06+00:00",
+            "data": {
+                "id": "2986f4ca-1c4d-4e0d-9b9f-52ceef8db1ad",
+                "updated_at": "2023-12-01T09:56:32.586583+00:00",
+                "username": "pwnd4",
+                "valid_from": "2023-12-04T16:12:04.872+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "user_id": "2986f4ca-1c4d-4e0d-9b9f-52ceef8db1ad",
+                "username": "pwnd4",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T11:10:59.199144+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 12:30:04+00:00",
+            "data": {
+                "user_id": "2986f4ca-1c4d-4e0d-9b9f-52ceef8db1ad",
+                "username": "pwnd4",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-03T12:17:24.227482+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 11:15:05+00:00",
+            "data": {
+                "user_id": "2986f4ca-1c4d-4e0d-9b9f-52ceef8db1ad",
+                "username": "pwnd4",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-04T11:11:13.657396+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 14:30:06+00:00",
+            "data": {
+                "user_id": "2986f4ca-1c4d-4e0d-9b9f-52ceef8db1ad",
+                "username": "pwnd4",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-05T14:26:08.308815+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 11:45:07+00:00",
+            "data": {
+                "user_id": "2986f4ca-1c4d-4e0d-9b9f-52ceef8db1ad",
+                "username": "pwnd4",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-06T11:32:52.340983+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 15:30:09+00:00",
+            "data": {
+                "user_id": "2986f4ca-1c4d-4e0d-9b9f-52ceef8db1ad",
+                "username": "pwnd4",
+                "score": 60,
+                "num_solves": 6,
+                "latest_solve_time": "2023-12-07T15:18:57.83402+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-09 15:00:10+00:00",
+            "data": {
+                "user_id": "2986f4ca-1c4d-4e0d-9b9f-52ceef8db1ad",
+                "username": "pwnd4",
+                "score": 70,
+                "num_solves": 7,
+                "latest_solve_time": "2023-12-09T14:57:40.52824+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-10 18:30:10+00:00",
+            "data": {
+                "user_id": "2986f4ca-1c4d-4e0d-9b9f-52ceef8db1ad",
+                "username": "pwnd4",
+                "score": 80,
+                "num_solves": 8,
+                "latest_solve_time": "2023-12-10T18:24:37.661884+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-11 11:45:15+00:00",
+            "data": {
+                "user_id": "2986f4ca-1c4d-4e0d-9b9f-52ceef8db1ad",
+                "username": "pwnd4",
+                "score": 90,
+                "num_solves": 9,
+                "latest_solve_time": "2023-12-11T11:40:50.87637+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 90,
+        "num_solves": 9,
+        "username": "pwnd4",
+        "organization_id": 1
+    }
+}

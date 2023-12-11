@@ -1,0 +1,112 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-02 20:00:04+00:00",
+            "data": {
+                "id": "6e7b0cef-fe98-430d-a6c8-63c33448d041",
+                "updated_at": "2023-12-02T19:49:15.732906+00:00",
+                "username": "pappabloggen",
+                "valid_from": "2023-12-02T19:49:53.292+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 22:45:06+00:00",
+            "data": {
+                "id": "6e7b0cef-fe98-430d-a6c8-63c33448d041",
+                "updated_at": "2023-12-02T19:49:15.732906+00:00",
+                "username": "pappabloggen",
+                "valid_from": "2023-12-04T22:32:51.148+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-02 20:30:04+00:00",
+            "data": {
+                "user_id": "6e7b0cef-fe98-430d-a6c8-63c33448d041",
+                "username": "pappabloggen",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-02T20:29:21.175287+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 13:30:04+00:00",
+            "data": {
+                "user_id": "6e7b0cef-fe98-430d-a6c8-63c33448d041",
+                "username": "pappabloggen",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-03T13:15:29.708586+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 14:00:04+00:00",
+            "data": {
+                "user_id": "6e7b0cef-fe98-430d-a6c8-63c33448d041",
+                "username": "pappabloggen",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-03T13:53:38.365506+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 22:45:06+00:00",
+            "data": {
+                "user_id": "6e7b0cef-fe98-430d-a6c8-63c33448d041",
+                "username": "pappabloggen",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-04T22:33:04.569619+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 19:15:08+00:00",
+            "data": {
+                "user_id": "6e7b0cef-fe98-430d-a6c8-63c33448d041",
+                "username": "pappabloggen",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-06T19:14:09.75027+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 20:30:08+00:00",
+            "data": {
+                "user_id": "6e7b0cef-fe98-430d-a6c8-63c33448d041",
+                "username": "pappabloggen",
+                "score": 60,
+                "num_solves": 6,
+                "latest_solve_time": "2023-12-06T20:29:37.427822+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 15:45:08+00:00",
+            "data": {
+                "user_id": "6e7b0cef-fe98-430d-a6c8-63c33448d041",
+                "username": "pappabloggen",
+                "score": 70,
+                "num_solves": 7,
+                "latest_solve_time": "2023-12-07T15:43:57.798913+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-10 14:30:11+00:00",
+            "data": {
+                "user_id": "6e7b0cef-fe98-430d-a6c8-63c33448d041",
+                "username": "pappabloggen",
+                "score": 80,
+                "num_solves": 8,
+                "latest_solve_time": "2023-12-10T14:21:25.65343+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 80,
+        "num_solves": 8,
+        "username": "pappabloggen",
+        "organization_id": 1
+    }
+}

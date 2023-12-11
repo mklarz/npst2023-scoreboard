@@ -1,0 +1,122 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "fc690f99-57c3-4583-ab86-82d735a37a85",
+                "updated_at": "2023-12-01T11:51:02.04293+00:00",
+                "username": null,
+                "valid_from": "2023-12-01T11:51:02.04293+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-01 12:05:05+00:00",
+            "data": {
+                "id": "fc690f99-57c3-4583-ab86-82d735a37a85",
+                "updated_at": "2023-12-01T11:51:02.04293+00:00",
+                "username": "bitsebats",
+                "valid_from": "2023-12-01T12:03:31.65+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 17:45:05+00:00",
+            "data": {
+                "id": "fc690f99-57c3-4583-ab86-82d735a37a85",
+                "updated_at": "2023-12-01T11:51:02.04293+00:00",
+                "username": "bitsebats",
+                "valid_from": "2023-12-04T17:33:47.795+00:00",
+                "organization_id": 3
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 12:15:02+00:00",
+            "data": {
+                "user_id": "fc690f99-57c3-4583-ab86-82d735a37a85",
+                "username": "bitsebats",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T12:09:49.143581+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-02 22:30:04+00:00",
+            "data": {
+                "user_id": "fc690f99-57c3-4583-ab86-82d735a37a85",
+                "username": "bitsebats",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-02T22:18:20.184804+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 16:30:05+00:00",
+            "data": {
+                "user_id": "fc690f99-57c3-4583-ab86-82d735a37a85",
+                "username": "bitsebats",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-03T16:20:50.719433+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 16:00:07+00:00",
+            "data": {
+                "user_id": "fc690f99-57c3-4583-ab86-82d735a37a85",
+                "username": "bitsebats",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-05T15:46:22.49415+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 18:00:07+00:00",
+            "data": {
+                "user_id": "fc690f99-57c3-4583-ab86-82d735a37a85",
+                "username": "bitsebats",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-05T17:48:38.112966+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 11:15:09+00:00",
+            "data": {
+                "user_id": "fc690f99-57c3-4583-ab86-82d735a37a85",
+                "username": "bitsebats",
+                "score": 60,
+                "num_solves": 6,
+                "latest_solve_time": "2023-12-07T11:12:52.348062+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 18:30:08+00:00",
+            "data": {
+                "user_id": "fc690f99-57c3-4583-ab86-82d735a37a85",
+                "username": "bitsebats",
+                "score": 70,
+                "num_solves": 7,
+                "latest_solve_time": "2023-12-07T18:19:14.922533+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-09 16:30:10+00:00",
+            "data": {
+                "user_id": "fc690f99-57c3-4583-ab86-82d735a37a85",
+                "username": "bitsebats",
+                "score": 80,
+                "num_solves": 8,
+                "latest_solve_time": "2023-12-09T16:20:51.922838+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 80,
+        "num_solves": 8,
+        "username": "bitsebats",
+        "organization_id": 3
+    }
+}

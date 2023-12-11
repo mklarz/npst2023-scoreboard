@@ -1,0 +1,122 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-02 19:00:03+00:00",
+            "data": {
+                "id": "6fae713d-80b1-4a22-855a-ca0e14755205",
+                "updated_at": "2023-12-02T18:52:52.931965+00:00",
+                "username": "FlittigOter",
+                "valid_from": "2023-12-02T18:53:47.39+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 16:15:06+00:00",
+            "data": {
+                "id": "6fae713d-80b1-4a22-855a-ca0e14755205",
+                "updated_at": "2023-12-02T18:52:52.931965+00:00",
+                "username": "FlittigOter",
+                "valid_from": "2023-12-04T16:01:52.042+00:00",
+                "organization_id": 1
+            }
+        },
+        {
+            "timestamp": "2023-12-07 14:30:08+00:00",
+            "data": {
+                "id": "6fae713d-80b1-4a22-855a-ca0e14755205",
+                "updated_at": "2023-12-02T18:52:52.931965+00:00",
+                "username": "hAkonf",
+                "valid_from": "2023-12-07T14:26:07.823+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-02 19:15:04+00:00",
+            "data": {
+                "user_id": "6fae713d-80b1-4a22-855a-ca0e14755205",
+                "username": "FlittigOter",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-02T19:14:38.183352+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-02 22:00:03+00:00",
+            "data": {
+                "user_id": "6fae713d-80b1-4a22-855a-ca0e14755205",
+                "username": "FlittigOter",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-02T21:46:10.42804+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 17:00:06+00:00",
+            "data": {
+                "user_id": "6fae713d-80b1-4a22-855a-ca0e14755205",
+                "username": "FlittigOter",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-04T16:59:39.538225+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 16:30:07+00:00",
+            "data": {
+                "user_id": "6fae713d-80b1-4a22-855a-ca0e14755205",
+                "username": "FlittigOter",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-05T16:23:03.82211+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 15:45:07+00:00",
+            "data": {
+                "user_id": "6fae713d-80b1-4a22-855a-ca0e14755205",
+                "username": "FlittigOter",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-06T15:38:24.15433+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 17:15:08+00:00",
+            "data": {
+                "user_id": "6fae713d-80b1-4a22-855a-ca0e14755205",
+                "username": "FlittigOter",
+                "score": 60,
+                "num_solves": 6,
+                "latest_solve_time": "2023-12-06T17:11:10.305863+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 14:30:08+00:00",
+            "data": {
+                "user_id": "6fae713d-80b1-4a22-855a-ca0e14755205",
+                "username": "hAkonf",
+                "score": 70,
+                "num_solves": 7,
+                "latest_solve_time": "2023-12-07T14:15:39.342504+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-09 12:15:09+00:00",
+            "data": {
+                "user_id": "6fae713d-80b1-4a22-855a-ca0e14755205",
+                "username": "hAkonf",
+                "score": 80,
+                "num_solves": 8,
+                "latest_solve_time": "2023-12-09T12:08:57.102915+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 80,
+        "num_solves": 8,
+        "username": "hAkonf",
+        "organization_id": 1
+    }
+}

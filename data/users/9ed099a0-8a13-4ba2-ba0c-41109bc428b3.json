@@ -1,0 +1,122 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "9ed099a0-8a13-4ba2-ba0c-41109bc428b3",
+                "updated_at": "2023-11-30T14:14:15.728422+00:00",
+                "username": "clorin",
+                "valid_from": "2023-11-30T14:14:19.723+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 14:45:05+00:00",
+            "data": {
+                "id": "9ed099a0-8a13-4ba2-ba0c-41109bc428b3",
+                "updated_at": "2023-11-30T14:14:15.728422+00:00",
+                "username": "clorin",
+                "valid_from": "2023-12-04T14:34:06.917+00:00",
+                "organization_id": 1
+            }
+        },
+        {
+            "timestamp": "2023-12-07 09:15:08+00:00",
+            "data": {
+                "id": "9ed099a0-8a13-4ba2-ba0c-41109bc428b3",
+                "updated_at": "2023-11-30T14:14:15.728422+00:00",
+                "username": "clorin",
+                "valid_from": "2023-12-07T09:05:13.725+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 12:45:02+00:00",
+            "data": {
+                "user_id": "9ed099a0-8a13-4ba2-ba0c-41109bc428b3",
+                "username": "clorin",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T12:36:13.14524+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-02 13:00:03+00:00",
+            "data": {
+                "user_id": "9ed099a0-8a13-4ba2-ba0c-41109bc428b3",
+                "username": "clorin",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-02T12:46:42.965022+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 13:30:04+00:00",
+            "data": {
+                "user_id": "9ed099a0-8a13-4ba2-ba0c-41109bc428b3",
+                "username": "clorin",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-03T13:22:08.196296+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 14:45:05+00:00",
+            "data": {
+                "user_id": "9ed099a0-8a13-4ba2-ba0c-41109bc428b3",
+                "username": "clorin",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-04T14:35:20.587259+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 10:15:08+00:00",
+            "data": {
+                "user_id": "9ed099a0-8a13-4ba2-ba0c-41109bc428b3",
+                "username": "clorin",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-06T10:12:34.300044+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 17:15:08+00:00",
+            "data": {
+                "user_id": "9ed099a0-8a13-4ba2-ba0c-41109bc428b3",
+                "username": "clorin",
+                "score": 60,
+                "num_solves": 6,
+                "latest_solve_time": "2023-12-06T17:08:23.561844+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 12:00:08+00:00",
+            "data": {
+                "user_id": "9ed099a0-8a13-4ba2-ba0c-41109bc428b3",
+                "username": "clorin",
+                "score": 70,
+                "num_solves": 7,
+                "latest_solve_time": "2023-12-07T11:58:38.550567+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-11 13:29:02+00:00",
+            "data": {
+                "user_id": "9ed099a0-8a13-4ba2-ba0c-41109bc428b3",
+                "username": "clorin",
+                "score": 80,
+                "num_solves": 8,
+                "latest_solve_time": "2023-12-11T13:22:54.502851+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 80,
+        "num_solves": 8,
+        "username": "clorin",
+        "organization_id": 1
+    }
+}

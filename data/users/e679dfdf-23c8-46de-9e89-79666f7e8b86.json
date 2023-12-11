@@ -1,0 +1,122 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "e679dfdf-23c8-46de-9e89-79666f7e8b86",
+                "updated_at": "2023-11-30T14:27:09.660629+00:00",
+                "username": "PizzaGutt",
+                "valid_from": "2023-11-30T14:27:32.934+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 14:30:06+00:00",
+            "data": {
+                "id": "e679dfdf-23c8-46de-9e89-79666f7e8b86",
+                "updated_at": "2023-11-30T14:27:09.660629+00:00",
+                "username": "PizzaGutt",
+                "valid_from": "2023-12-04T14:19:46.458+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "user_id": "e679dfdf-23c8-46de-9e89-79666f7e8b86",
+                "username": "PizzaGutt",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T11:11:13.046906+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-02 18:15:04+00:00",
+            "data": {
+                "user_id": "e679dfdf-23c8-46de-9e89-79666f7e8b86",
+                "username": "PizzaGutt",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-02T18:00:46.234376+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 12:30:04+00:00",
+            "data": {
+                "user_id": "e679dfdf-23c8-46de-9e89-79666f7e8b86",
+                "username": "PizzaGutt",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-03T12:23:07.481934+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 14:45:05+00:00",
+            "data": {
+                "user_id": "e679dfdf-23c8-46de-9e89-79666f7e8b86",
+                "username": "PizzaGutt",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-04T14:41:15.263382+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 19:45:07+00:00",
+            "data": {
+                "user_id": "e679dfdf-23c8-46de-9e89-79666f7e8b86",
+                "username": "PizzaGutt",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-05T19:33:07.138641+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 18:30:08+00:00",
+            "data": {
+                "user_id": "e679dfdf-23c8-46de-9e89-79666f7e8b86",
+                "username": "PizzaGutt",
+                "score": 60,
+                "num_solves": 6,
+                "latest_solve_time": "2023-12-06T18:19:51.936349+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 11:45:08+00:00",
+            "data": {
+                "user_id": "e679dfdf-23c8-46de-9e89-79666f7e8b86",
+                "username": "PizzaGutt",
+                "score": 70,
+                "num_solves": 7,
+                "latest_solve_time": "2023-12-07T11:41:12.131577+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-09 16:45:10+00:00",
+            "data": {
+                "user_id": "e679dfdf-23c8-46de-9e89-79666f7e8b86",
+                "username": "PizzaGutt",
+                "score": 80,
+                "num_solves": 8,
+                "latest_solve_time": "2023-12-09T16:35:15.280476+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-10 22:30:15+00:00",
+            "data": {
+                "user_id": "e679dfdf-23c8-46de-9e89-79666f7e8b86",
+                "username": "PizzaGutt",
+                "score": 90,
+                "num_solves": 9,
+                "latest_solve_time": "2023-12-10T22:15:29.514845+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 90,
+        "num_solves": 9,
+        "username": "PizzaGutt",
+        "organization_id": 1
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 21:45:03+00:00",
+            "data": {
+                "id": "521540ab-c25d-4057-bc97-c347440c8305",
+                "updated_at": "2023-12-01T21:38:51.925071+00:00",
+                "username": "Robert ",
+                "valid_from": "2023-12-01T21:39:06.968+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 16:45:05+00:00",
+            "data": {
+                "id": "521540ab-c25d-4057-bc97-c347440c8305",
+                "updated_at": "2023-12-01T21:38:51.925071+00:00",
+                "username": "Robert ",
+                "valid_from": "2023-12-04T16:37:00.939+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-03 16:15:04+00:00",
+            "data": {
+                "user_id": "521540ab-c25d-4057-bc97-c347440c8305",
+                "username": "Robert ",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-03T16:09:57.380379+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 08:45:05+00:00",
+            "data": {
+                "user_id": "521540ab-c25d-4057-bc97-c347440c8305",
+                "username": "Robert ",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-04T08:34:27.092978+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 07:30:06+00:00",
+            "data": {
+                "user_id": "521540ab-c25d-4057-bc97-c347440c8305",
+                "username": "Robert ",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-05T07:18:00.550051+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 14:00:07+00:00",
+            "data": {
+                "user_id": "521540ab-c25d-4057-bc97-c347440c8305",
+                "username": "Robert ",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-05T13:58:50.128698+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 13:45:08+00:00",
+            "data": {
+                "user_id": "521540ab-c25d-4057-bc97-c347440c8305",
+                "username": "Robert ",
+                "score": 60,
+                "num_solves": 6,
+                "latest_solve_time": "2023-12-06T13:37:57.270591+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 11:45:08+00:00",
+            "data": {
+                "user_id": "521540ab-c25d-4057-bc97-c347440c8305",
+                "username": "Robert ",
+                "score": 70,
+                "num_solves": 7,
+                "latest_solve_time": "2023-12-07T11:36:49.290074+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 70,
+        "num_solves": 7,
+        "username": "Robert ",
+        "organization_id": 1
+    }
+}

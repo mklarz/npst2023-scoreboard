@@ -1,0 +1,82 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-02 09:45:03+00:00",
+            "data": {
+                "id": "23798f93-8aa5-43a6-9b81-2ce2c3de281b",
+                "updated_at": "2023-12-02T09:35:38.452486+00:00",
+                "username": "astmoh",
+                "valid_from": "2023-12-02T09:36:15.379+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-05 17:00:07+00:00",
+            "data": {
+                "id": "23798f93-8aa5-43a6-9b81-2ce2c3de281b",
+                "updated_at": "2023-12-02T09:35:38.452486+00:00",
+                "username": "astmoh",
+                "valid_from": "2023-12-05T16:59:33.332+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-02 12:15:03+00:00",
+            "data": {
+                "user_id": "23798f93-8aa5-43a6-9b81-2ce2c3de281b",
+                "username": "astmoh",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-02T12:13:27.295651+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-02 15:45:03+00:00",
+            "data": {
+                "user_id": "23798f93-8aa5-43a6-9b81-2ce2c3de281b",
+                "username": "astmoh",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-02T15:40:21.353209+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 15:30:05+00:00",
+            "data": {
+                "user_id": "23798f93-8aa5-43a6-9b81-2ce2c3de281b",
+                "username": "astmoh",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-03T15:15:59.78563+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 08:45:06+00:00",
+            "data": {
+                "user_id": "23798f93-8aa5-43a6-9b81-2ce2c3de281b",
+                "username": "astmoh",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-05T08:34:05.410686+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 17:15:08+00:00",
+            "data": {
+                "user_id": "23798f93-8aa5-43a6-9b81-2ce2c3de281b",
+                "username": "astmoh",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-05T17:00:30.164274+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 50,
+        "num_solves": 5,
+        "username": "astmoh",
+        "organization_id": 1
+    }
+}

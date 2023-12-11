@@ -1,0 +1,21 @@
+{
+    "profile": [],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-09 12:45:10+00:00",
+            "data": {
+                "user_id": "09accb40-d851-45eb-aeed-bd3bcf3f4597",
+                "username": "arun.kamath.m@gmail.com",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-08T22:34:39.393385+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 10,
+        "num_solves": 1,
+        "username": null,
+        "organization_id": null
+    }
+}

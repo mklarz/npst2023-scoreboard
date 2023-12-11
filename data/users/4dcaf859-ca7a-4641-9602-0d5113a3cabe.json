@@ -1,0 +1,21 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "4dcaf859-ca7a-4641-9602-0d5113a3cabe",
+                "updated_at": "2023-11-30T18:47:05.993206+00:00",
+                "username": "Dirk Pitt",
+                "valid_from": "2023-11-30T18:48:05.575+00:00",
+                "organization_id": null
+            }
+        }
+    ],
+    "scoreboard": [],
+    "current_info": {
+        "score": "?",
+        "num_solves": "?",
+        "username": "Dirk Pitt",
+        "organization_id": null
+    }
+}

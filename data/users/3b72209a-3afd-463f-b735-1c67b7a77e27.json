@@ -1,0 +1,62 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-07 06:30:08+00:00",
+            "data": {
+                "id": "3b72209a-3afd-463f-b735-1c67b7a77e27",
+                "updated_at": "2023-12-07T06:18:30.6691+00:00",
+                "username": "Ceto",
+                "valid_from": "2023-12-07T06:19:10.782+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-07 06:45:07+00:00",
+            "data": {
+                "id": "3b72209a-3afd-463f-b735-1c67b7a77e27",
+                "updated_at": "2023-12-07T06:18:30.6691+00:00",
+                "username": "Ceto",
+                "valid_from": "2023-12-07T06:30:48.102+00:00",
+                "organization_id": 2
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-07 07:00:08+00:00",
+            "data": {
+                "user_id": "3b72209a-3afd-463f-b735-1c67b7a77e27",
+                "username": "Ceto",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-07T06:57:09.598667+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 19:30:09+00:00",
+            "data": {
+                "user_id": "3b72209a-3afd-463f-b735-1c67b7a77e27",
+                "username": "Ceto",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-07T19:29:00.57627+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 20:30:09+00:00",
+            "data": {
+                "user_id": "3b72209a-3afd-463f-b735-1c67b7a77e27",
+                "username": "Ceto",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-07T20:27:43.257641+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 30,
+        "num_solves": 3,
+        "username": "Ceto",
+        "organization_id": 2
+    }
+}

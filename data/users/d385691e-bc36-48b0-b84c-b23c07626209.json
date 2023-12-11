@@ -1,0 +1,82 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "d385691e-bc36-48b0-b84c-b23c07626209",
+                "updated_at": "2023-12-01T11:07:38.715768+00:00",
+                "username": "mareape",
+                "valid_from": "2023-12-01T11:08:22.292+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-05 10:15:06+00:00",
+            "data": {
+                "id": "d385691e-bc36-48b0-b84c-b23c07626209",
+                "updated_at": "2023-12-01T11:07:38.715768+00:00",
+                "username": "mareape",
+                "valid_from": "2023-12-05T10:04:08.153+00:00",
+                "organization_id": 2
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "user_id": "d385691e-bc36-48b0-b84c-b23c07626209",
+                "username": "mareape",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T11:16:52.862585+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 11:45:08+00:00",
+            "data": {
+                "user_id": "d385691e-bc36-48b0-b84c-b23c07626209",
+                "username": "mareape",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-07T11:38:22.367006+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 13:30:08+00:00",
+            "data": {
+                "user_id": "d385691e-bc36-48b0-b84c-b23c07626209",
+                "username": "mareape",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-07T13:18:28.392107+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 19:45:09+00:00",
+            "data": {
+                "user_id": "d385691e-bc36-48b0-b84c-b23c07626209",
+                "username": "mareape",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-07T19:43:30.109171+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-09 18:00:10+00:00",
+            "data": {
+                "user_id": "d385691e-bc36-48b0-b84c-b23c07626209",
+                "username": "mareape",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-09T17:50:10.101236+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 50,
+        "num_solves": 5,
+        "username": "mareape",
+        "organization_id": 2
+    }
+}

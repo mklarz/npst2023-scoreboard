@@ -1,0 +1,72 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "8aeeba13-5260-4949-aa3b-8b1557319b56",
+                "updated_at": "2023-11-30T13:18:52.826684+00:00",
+                "username": "Joey",
+                "valid_from": "2023-11-30T14:06:03.164+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 17:15:05+00:00",
+            "data": {
+                "id": "8aeeba13-5260-4949-aa3b-8b1557319b56",
+                "updated_at": "2023-11-30T13:18:52.826684+00:00",
+                "username": "Joey",
+                "valid_from": "2023-12-04T17:07:49.225+00:00",
+                "organization_id": 1
+            }
+        },
+        {
+            "timestamp": "2023-12-04 20:00:05+00:00",
+            "data": {
+                "id": "8aeeba13-5260-4949-aa3b-8b1557319b56",
+                "updated_at": "2023-11-30T13:18:52.826684+00:00",
+                "username": "Joey",
+                "valid_from": "2023-12-04T19:53:08.533+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-03 19:15:04+00:00",
+            "data": {
+                "user_id": "8aeeba13-5260-4949-aa3b-8b1557319b56",
+                "username": "Joey",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-03T19:07:22.919122+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 17:30:05+00:00",
+            "data": {
+                "user_id": "8aeeba13-5260-4949-aa3b-8b1557319b56",
+                "username": "Joey",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-04T17:28:32.034338+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 19:00:09+00:00",
+            "data": {
+                "user_id": "8aeeba13-5260-4949-aa3b-8b1557319b56",
+                "username": "Joey",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-07T18:48:41.983243+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 30,
+        "num_solves": 3,
+        "username": "Joey",
+        "organization_id": 1
+    }
+}

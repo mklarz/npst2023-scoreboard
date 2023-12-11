@@ -1,0 +1,42 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-06 11:00:08+00:00",
+            "data": {
+                "id": "51388199-764e-421f-8372-251091622832",
+                "updated_at": "2023-12-06T10:55:39.655171+00:00",
+                "username": null,
+                "valid_from": "2023-12-06T10:56:41.511+00:00",
+                "organization_id": 2
+            }
+        },
+        {
+            "timestamp": "2023-12-06 13:00:08+00:00",
+            "data": {
+                "id": "51388199-764e-421f-8372-251091622832",
+                "updated_at": "2023-12-06T10:55:39.655171+00:00",
+                "username": "Zardox",
+                "valid_from": "2023-12-06T12:46:14.165+00:00",
+                "organization_id": 2
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-06 13:00:08+00:00",
+            "data": {
+                "user_id": "51388199-764e-421f-8372-251091622832",
+                "username": "Zardox",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-06T12:43:08.16002+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 20,
+        "num_solves": 2,
+        "username": "Zardox",
+        "organization_id": 2
+    }
+}

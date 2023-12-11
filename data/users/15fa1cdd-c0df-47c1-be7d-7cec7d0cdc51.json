@@ -1,0 +1,72 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-04 07:15:05+00:00",
+            "data": {
+                "id": "15fa1cdd-c0df-47c1-be7d-7cec7d0cdc51",
+                "updated_at": "2023-12-04T07:07:53.79965+00:00",
+                "username": "tpaulsen",
+                "valid_from": "2023-12-04T07:08:14.049+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-05 08:30:07+00:00",
+            "data": {
+                "id": "15fa1cdd-c0df-47c1-be7d-7cec7d0cdc51",
+                "updated_at": "2023-12-04T07:07:53.79965+00:00",
+                "username": "tpaulsen",
+                "valid_from": "2023-12-05T08:23:52.226+00:00",
+                "organization_id": 2
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-04 08:15:05+00:00",
+            "data": {
+                "user_id": "15fa1cdd-c0df-47c1-be7d-7cec7d0cdc51",
+                "username": "tpaulsen",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-04T08:04:06.756351+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 10:45:05+00:00",
+            "data": {
+                "user_id": "15fa1cdd-c0df-47c1-be7d-7cec7d0cdc51",
+                "username": "tpaulsen",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-04T10:40:18.325653+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 11:30:07+00:00",
+            "data": {
+                "user_id": "15fa1cdd-c0df-47c1-be7d-7cec7d0cdc51",
+                "username": "tpaulsen",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-05T11:28:34.821735+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-11 09:00:16+00:00",
+            "data": {
+                "user_id": "15fa1cdd-c0df-47c1-be7d-7cec7d0cdc51",
+                "username": "tpaulsen",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-11T08:54:54.501232+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 40,
+        "num_solves": 4,
+        "username": "tpaulsen",
+        "organization_id": 2
+    }
+}

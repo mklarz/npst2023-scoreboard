@@ -1,0 +1,122 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "22755414-ffab-4590-95cd-064fc197e68c",
+                "updated_at": "2023-11-30T14:17:00.053936+00:00",
+                "username": "ruant",
+                "valid_from": "2023-12-01T08:57:13.561+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 21:15:05+00:00",
+            "data": {
+                "id": "22755414-ffab-4590-95cd-064fc197e68c",
+                "updated_at": "2023-11-30T14:17:00.053936+00:00",
+                "username": "ruant",
+                "valid_from": "2023-12-04T21:12:46.986+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 13:15:02+00:00",
+            "data": {
+                "user_id": "22755414-ffab-4590-95cd-064fc197e68c",
+                "username": "ruant",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T13:00:57.571737+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-02 18:15:04+00:00",
+            "data": {
+                "user_id": "22755414-ffab-4590-95cd-064fc197e68c",
+                "username": "ruant",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-02T18:09:42.81513+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 17:00:04+00:00",
+            "data": {
+                "user_id": "22755414-ffab-4590-95cd-064fc197e68c",
+                "username": "ruant",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-03T16:49:28.072325+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 20:45:05+00:00",
+            "data": {
+                "user_id": "22755414-ffab-4590-95cd-064fc197e68c",
+                "username": "ruant",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-04T20:38:05.454116+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 12:15:07+00:00",
+            "data": {
+                "user_id": "22755414-ffab-4590-95cd-064fc197e68c",
+                "username": "ruant",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-05T12:03:37.396906+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 13:00:08+00:00",
+            "data": {
+                "user_id": "22755414-ffab-4590-95cd-064fc197e68c",
+                "username": "ruant",
+                "score": 60,
+                "num_solves": 6,
+                "latest_solve_time": "2023-12-06T12:52:14.458796+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 11:15:09+00:00",
+            "data": {
+                "user_id": "22755414-ffab-4590-95cd-064fc197e68c",
+                "username": "ruant",
+                "score": 70,
+                "num_solves": 7,
+                "latest_solve_time": "2023-12-07T11:14:54.247732+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-09 12:15:09+00:00",
+            "data": {
+                "user_id": "22755414-ffab-4590-95cd-064fc197e68c",
+                "username": "ruant",
+                "score": 80,
+                "num_solves": 8,
+                "latest_solve_time": "2023-12-09T12:07:03.299024+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-10 14:45:11+00:00",
+            "data": {
+                "user_id": "22755414-ffab-4590-95cd-064fc197e68c",
+                "username": "ruant",
+                "score": 90,
+                "num_solves": 9,
+                "latest_solve_time": "2023-12-10T14:41:12.660216+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 90,
+        "num_solves": 9,
+        "username": "ruant",
+        "organization_id": 1
+    }
+}

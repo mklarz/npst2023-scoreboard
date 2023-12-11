@@ -1,0 +1,21 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-06 11:45:07+00:00",
+            "data": {
+                "id": "6c7a1318-bec7-4887-b3b8-5513c8176674",
+                "updated_at": "2023-12-06T11:42:04.884693+00:00",
+                "username": "Erlendos",
+                "valid_from": "2023-12-06T11:43:19.951+00:00",
+                "organization_id": 3
+            }
+        }
+    ],
+    "scoreboard": [],
+    "current_info": {
+        "score": "?",
+        "num_solves": "?",
+        "username": "Erlendos",
+        "organization_id": 3
+    }
+}

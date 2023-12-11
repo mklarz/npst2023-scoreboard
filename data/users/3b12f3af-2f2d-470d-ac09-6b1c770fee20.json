@@ -1,0 +1,72 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-04 18:45:05+00:00",
+            "data": {
+                "id": "3b12f3af-2f2d-470d-ac09-6b1c770fee20",
+                "updated_at": "2023-12-04T18:43:08.137477+00:00",
+                "username": null,
+                "valid_from": "2023-12-04T18:43:48.399+00:00",
+                "organization_id": 1
+            }
+        },
+        {
+            "timestamp": "2023-12-04 21:30:06+00:00",
+            "data": {
+                "id": "3b12f3af-2f2d-470d-ac09-6b1c770fee20",
+                "updated_at": "2023-12-04T18:43:08.137477+00:00",
+                "username": "tobmordt",
+                "valid_from": "2023-12-04T21:16:25.305+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-04 21:30:06+00:00",
+            "data": {
+                "user_id": "3b12f3af-2f2d-470d-ac09-6b1c770fee20",
+                "username": "tobmordt",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-04T21:12:57.092516+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 23:00:07+00:00",
+            "data": {
+                "user_id": "3b12f3af-2f2d-470d-ac09-6b1c770fee20",
+                "username": "tobmordt",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-04T22:49:41.072984+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 16:00:08+00:00",
+            "data": {
+                "user_id": "3b12f3af-2f2d-470d-ac09-6b1c770fee20",
+                "username": "tobmordt",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-06T15:53:12.603013+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 23:00:10+00:00",
+            "data": {
+                "user_id": "3b12f3af-2f2d-470d-ac09-6b1c770fee20",
+                "username": "tobmordt",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-07T22:59:52.765827+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 50,
+        "num_solves": 5,
+        "username": "tobmordt",
+        "organization_id": 1
+    }
+}

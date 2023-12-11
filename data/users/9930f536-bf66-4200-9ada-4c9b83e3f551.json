@@ -1,0 +1,72 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-02 15:00:04+00:00",
+            "data": {
+                "id": "9930f536-bf66-4200-9ada-4c9b83e3f551",
+                "updated_at": "2023-12-02T14:49:41.862663+00:00",
+                "username": "sanderkh",
+                "valid_from": "2023-12-02T14:50:05.249+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 13:45:05+00:00",
+            "data": {
+                "id": "9930f536-bf66-4200-9ada-4c9b83e3f551",
+                "updated_at": "2023-12-02T14:49:41.862663+00:00",
+                "username": "sanderkh",
+                "valid_from": "2023-12-04T13:41:09.574+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-02 15:15:04+00:00",
+            "data": {
+                "user_id": "9930f536-bf66-4200-9ada-4c9b83e3f551",
+                "username": "sanderkh",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-02T15:10:17.16821+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 00:15:04+00:00",
+            "data": {
+                "user_id": "9930f536-bf66-4200-9ada-4c9b83e3f551",
+                "username": "sanderkh",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-03T00:13:52.557853+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 18:15:05+00:00",
+            "data": {
+                "user_id": "9930f536-bf66-4200-9ada-4c9b83e3f551",
+                "username": "sanderkh",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-03T18:12:02.038993+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 18:00:05+00:00",
+            "data": {
+                "user_id": "9930f536-bf66-4200-9ada-4c9b83e3f551",
+                "username": "sanderkh",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-04T17:45:36.93913+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 40,
+        "num_solves": 4,
+        "username": "sanderkh",
+        "organization_id": 1
+    }
+}

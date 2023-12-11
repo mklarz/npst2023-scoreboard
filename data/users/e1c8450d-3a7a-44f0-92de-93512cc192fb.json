@@ -1,0 +1,72 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "e1c8450d-3a7a-44f0-92de-93512cc192fb",
+                "updated_at": "2023-11-30T19:43:07.859126+00:00",
+                "username": null,
+                "valid_from": "2023-11-30T19:43:07.859126+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 20:15:05+00:00",
+            "data": {
+                "id": "e1c8450d-3a7a-44f0-92de-93512cc192fb",
+                "updated_at": "2023-11-30T19:43:07.859126+00:00",
+                "username": null,
+                "valid_from": "2023-12-04T20:00:14.559+00:00",
+                "organization_id": 2
+            }
+        },
+        {
+            "timestamp": "2023-12-05 18:15:07+00:00",
+            "data": {
+                "id": "e1c8450d-3a7a-44f0-92de-93512cc192fb",
+                "updated_at": "2023-11-30T19:43:07.859126+00:00",
+                "username": "nordbo",
+                "valid_from": "2023-12-05T18:03:04.69+00:00",
+                "organization_id": 2
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-05 18:15:07+00:00",
+            "data": {
+                "user_id": "e1c8450d-3a7a-44f0-92de-93512cc192fb",
+                "username": "nordbo",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-05T17:48:14.090335+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 13:30:08+00:00",
+            "data": {
+                "user_id": "e1c8450d-3a7a-44f0-92de-93512cc192fb",
+                "username": "nordbo",
+                "score": 60,
+                "num_solves": 6,
+                "latest_solve_time": "2023-12-06T13:17:48.045262+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-11 08:00:16+00:00",
+            "data": {
+                "user_id": "e1c8450d-3a7a-44f0-92de-93512cc192fb",
+                "username": "nordbo",
+                "score": 70,
+                "num_solves": 7,
+                "latest_solve_time": "2023-12-11T07:53:51.875873+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 70,
+        "num_solves": 7,
+        "username": "nordbo",
+        "organization_id": 2
+    }
+}

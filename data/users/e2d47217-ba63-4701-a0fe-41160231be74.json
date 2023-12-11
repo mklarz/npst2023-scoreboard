@@ -1,0 +1,72 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "e2d47217-ba63-4701-a0fe-41160231be74",
+                "updated_at": "2023-12-01T11:38:46.147973+00:00",
+                "username": "admin69",
+                "valid_from": "2023-12-01T11:39:27.984+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-01 14:15:03+00:00",
+            "data": {
+                "id": "e2d47217-ba63-4701-a0fe-41160231be74",
+                "updated_at": "2023-12-01T11:38:46.147973+00:00",
+                "username": "mpu",
+                "valid_from": "2023-12-01T14:13:43.404+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-08 12:00:10+00:00",
+            "data": {
+                "id": "e2d47217-ba63-4701-a0fe-41160231be74",
+                "updated_at": "2023-12-01T11:38:46.147973+00:00",
+                "username": "mpu",
+                "valid_from": "2023-12-08T11:58:31.755+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 14:45:02+00:00",
+            "data": {
+                "user_id": "e2d47217-ba63-4701-a0fe-41160231be74",
+                "username": "mpu",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T14:33:54.109315+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 13:30:05+00:00",
+            "data": {
+                "user_id": "e2d47217-ba63-4701-a0fe-41160231be74",
+                "username": "mpu",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-04T13:18:12.898812+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-08 12:30:09+00:00",
+            "data": {
+                "user_id": "e2d47217-ba63-4701-a0fe-41160231be74",
+                "username": "mpu",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-08T12:17:55.833986+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 30,
+        "num_solves": 3,
+        "username": "mpu",
+        "organization_id": 1
+    }
+}

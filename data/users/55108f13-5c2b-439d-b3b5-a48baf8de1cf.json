@@ -1,0 +1,42 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 17:00:03+00:00",
+            "data": {
+                "id": "55108f13-5c2b-439d-b3b5-a48baf8de1cf",
+                "updated_at": "2023-12-01T16:46:56.385127+00:00",
+                "username": "CopyCloud",
+                "valid_from": "2023-12-01T16:47:24.491+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 17:15:05+00:00",
+            "data": {
+                "id": "55108f13-5c2b-439d-b3b5-a48baf8de1cf",
+                "updated_at": "2023-12-01T16:46:56.385127+00:00",
+                "username": "CopyCloud",
+                "valid_from": "2023-12-04T17:04:45.853+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 18:30:03+00:00",
+            "data": {
+                "user_id": "55108f13-5c2b-439d-b3b5-a48baf8de1cf",
+                "username": "CopyCloud",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T18:20:36.366634+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 10,
+        "num_solves": 1,
+        "username": "CopyCloud",
+        "organization_id": 1
+    }
+}

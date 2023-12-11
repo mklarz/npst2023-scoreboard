@@ -1,0 +1,31 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 13:30:03+00:00",
+            "data": {
+                "id": "53e6bdfd-05fd-4219-a223-7eaea44c52bb",
+                "updated_at": "2023-12-01T13:18:59.821771+00:00",
+                "username": "Dassmaster",
+                "valid_from": "2023-12-01T13:19:20.198+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 21:30:06+00:00",
+            "data": {
+                "id": "53e6bdfd-05fd-4219-a223-7eaea44c52bb",
+                "updated_at": "2023-12-01T13:18:59.821771+00:00",
+                "username": "Dassmaster",
+                "valid_from": "2023-12-04T21:20:32.376+00:00",
+                "organization_id": 3
+            }
+        }
+    ],
+    "scoreboard": [],
+    "current_info": {
+        "score": "?",
+        "num_solves": "?",
+        "username": "Dassmaster",
+        "organization_id": 3
+    }
+}

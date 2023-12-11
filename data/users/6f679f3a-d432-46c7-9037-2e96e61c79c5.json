@@ -1,0 +1,132 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "6f679f3a-d432-46c7-9037-2e96e61c79c5",
+                "updated_at": "2023-11-30T15:09:33.843452+00:00",
+                "username": "sofa_l\u00f8ser",
+                "valid_from": "2023-11-30T15:09:46.687+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 20:30:06+00:00",
+            "data": {
+                "id": "6f679f3a-d432-46c7-9037-2e96e61c79c5",
+                "updated_at": "2023-11-30T15:09:33.843452+00:00",
+                "username": "sofa_l\u00f8ser",
+                "valid_from": "2023-12-04T20:27:35.458+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "user_id": "6f679f3a-d432-46c7-9037-2e96e61c79c5",
+                "username": "sofa_l\u00f8ser",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T11:27:33.229259+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-02 12:15:03+00:00",
+            "data": {
+                "user_id": "6f679f3a-d432-46c7-9037-2e96e61c79c5",
+                "username": "sofa_l\u00f8ser",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-02T12:13:43.551814+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 11:15:04+00:00",
+            "data": {
+                "user_id": "6f679f3a-d432-46c7-9037-2e96e61c79c5",
+                "username": "sofa_l\u00f8ser",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-03T11:11:37.061637+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 11:15:05+00:00",
+            "data": {
+                "user_id": "6f679f3a-d432-46c7-9037-2e96e61c79c5",
+                "username": "sofa_l\u00f8ser",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-04T11:12:17.799886+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 12:30:07+00:00",
+            "data": {
+                "user_id": "6f679f3a-d432-46c7-9037-2e96e61c79c5",
+                "username": "sofa_l\u00f8ser",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-05T12:20:47.053558+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 15:00:08+00:00",
+            "data": {
+                "user_id": "6f679f3a-d432-46c7-9037-2e96e61c79c5",
+                "username": "sofa_l\u00f8ser",
+                "score": 60,
+                "num_solves": 6,
+                "latest_solve_time": "2023-12-06T14:56:47.643901+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 11:15:09+00:00",
+            "data": {
+                "user_id": "6f679f3a-d432-46c7-9037-2e96e61c79c5",
+                "username": "sofa_l\u00f8ser",
+                "score": 70,
+                "num_solves": 7,
+                "latest_solve_time": "2023-12-07T11:10:24.833342+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-09 15:00:10+00:00",
+            "data": {
+                "user_id": "6f679f3a-d432-46c7-9037-2e96e61c79c5",
+                "username": "sofa_l\u00f8ser",
+                "score": 80,
+                "num_solves": 8,
+                "latest_solve_time": "2023-12-09T14:56:39.64457+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-11 00:00:15+00:00",
+            "data": {
+                "user_id": "6f679f3a-d432-46c7-9037-2e96e61c79c5",
+                "username": "sofa_l\u00f8ser",
+                "score": 90,
+                "num_solves": 9,
+                "latest_solve_time": "2023-12-10T23:52:16.985391+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-11 12:30:17+00:00",
+            "data": {
+                "user_id": "6f679f3a-d432-46c7-9037-2e96e61c79c5",
+                "username": "sofa_l\u00f8ser",
+                "score": 100,
+                "num_solves": 10,
+                "latest_solve_time": "2023-12-11T12:25:28.110495+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 100,
+        "num_solves": 10,
+        "username": "sofa_l\u00f8ser",
+        "organization_id": 1
+    }
+}

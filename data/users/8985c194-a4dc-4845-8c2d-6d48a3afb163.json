@@ -1,0 +1,21 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 14:00:03+00:00",
+            "data": {
+                "id": "8985c194-a4dc-4845-8c2d-6d48a3afb163",
+                "updated_at": "2023-12-01T13:54:09.402551+00:00",
+                "username": "Lars B-F",
+                "valid_from": "2023-12-01T13:54:23.18+00:00",
+                "organization_id": null
+            }
+        }
+    ],
+    "scoreboard": [],
+    "current_info": {
+        "score": "?",
+        "num_solves": "?",
+        "username": "Lars B-F",
+        "organization_id": null
+    }
+}

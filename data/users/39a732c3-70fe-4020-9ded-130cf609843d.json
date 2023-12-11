@@ -1,0 +1,122 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-02 09:45:03+00:00",
+            "data": {
+                "id": "39a732c3-70fe-4020-9ded-130cf609843d",
+                "updated_at": "2023-12-02T09:32:30.349097+00:00",
+                "username": "Linaandersson",
+                "valid_from": "2023-12-02T09:32:49.817+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-03 11:00:04+00:00",
+            "data": {
+                "id": "39a732c3-70fe-4020-9ded-130cf609843d",
+                "updated_at": "2023-12-02T09:32:30.349097+00:00",
+                "username": "LF!",
+                "valid_from": "2023-12-03T10:57:05.569+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-05 11:15:06+00:00",
+            "data": {
+                "id": "39a732c3-70fe-4020-9ded-130cf609843d",
+                "updated_at": "2023-12-02T09:32:30.349097+00:00",
+                "username": "LF!",
+                "valid_from": "2023-12-05T11:00:18.679+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-02 09:45:03+00:00",
+            "data": {
+                "user_id": "39a732c3-70fe-4020-9ded-130cf609843d",
+                "username": "Linaandersson",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-02T09:41:24.582804+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-02 12:45:03+00:00",
+            "data": {
+                "user_id": "39a732c3-70fe-4020-9ded-130cf609843d",
+                "username": "Linaandersson",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-02T12:39:44.939379+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 11:00:04+00:00",
+            "data": {
+                "user_id": "39a732c3-70fe-4020-9ded-130cf609843d",
+                "username": "LF!",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-02T12:39:44.939379+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 12:15:04+00:00",
+            "data": {
+                "user_id": "39a732c3-70fe-4020-9ded-130cf609843d",
+                "username": "LF!",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-03T12:06:21.837008+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 11:45:05+00:00",
+            "data": {
+                "user_id": "39a732c3-70fe-4020-9ded-130cf609843d",
+                "username": "LF!",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-04T11:35:05.447936+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 12:15:07+00:00",
+            "data": {
+                "user_id": "39a732c3-70fe-4020-9ded-130cf609843d",
+                "username": "LF!",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-05T12:07:25.946743+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 12:30:08+00:00",
+            "data": {
+                "user_id": "39a732c3-70fe-4020-9ded-130cf609843d",
+                "username": "LF!",
+                "score": 60,
+                "num_solves": 6,
+                "latest_solve_time": "2023-12-06T12:20:55.910071+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-08 09:00:11+00:00",
+            "data": {
+                "user_id": "39a732c3-70fe-4020-9ded-130cf609843d",
+                "username": "LF!",
+                "score": 70,
+                "num_solves": 7,
+                "latest_solve_time": "2023-12-08T08:59:12.294193+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 70,
+        "num_solves": 7,
+        "username": "LF!",
+        "organization_id": 1
+    }
+}

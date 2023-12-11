@@ -1,0 +1,32 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "be8bb84f-31a1-4e61-a96b-3d88ccee32a0",
+                "updated_at": "2023-12-01T03:13:58.916999+00:00",
+                "username": "serbiskl\u00f8ve",
+                "valid_from": "2023-12-01T03:14:33.617+00:00",
+                "organization_id": null
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 23:15:03+00:00",
+            "data": {
+                "user_id": "be8bb84f-31a1-4e61-a96b-3d88ccee32a0",
+                "username": "serbiskl\u00f8ve",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T23:07:56.395027+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 10,
+        "num_solves": 1,
+        "username": "serbiskl\u00f8ve",
+        "organization_id": null
+    }
+}

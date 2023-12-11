@@ -1,0 +1,32 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-02 18:30:04+00:00",
+            "data": {
+                "id": "1ebf9a9f-6e0f-4b41-9ac0-306cfc01635a",
+                "updated_at": "2023-12-02T18:16:18.363347+00:00",
+                "username": "PrinsessaP\u00e5R\u00e5holt",
+                "valid_from": "2023-12-02T18:17:25.603+00:00",
+                "organization_id": null
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-02 18:45:04+00:00",
+            "data": {
+                "user_id": "1ebf9a9f-6e0f-4b41-9ac0-306cfc01635a",
+                "username": "PrinsessaP\u00e5R\u00e5holt",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-02T18:34:06.023666+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 10,
+        "num_solves": 1,
+        "username": "PrinsessaP\u00e5R\u00e5holt",
+        "organization_id": null
+    }
+}

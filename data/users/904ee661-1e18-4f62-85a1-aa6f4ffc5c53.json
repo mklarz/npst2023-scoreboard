@@ -1,0 +1,92 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "904ee661-1e18-4f62-85a1-aa6f4ffc5c53",
+                "updated_at": "2023-12-01T09:00:42.225417+00:00",
+                "username": "Housecity",
+                "valid_from": "2023-12-01T09:00:51.453+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 17:30:05+00:00",
+            "data": {
+                "id": "904ee661-1e18-4f62-85a1-aa6f4ffc5c53",
+                "updated_at": "2023-12-01T09:00:42.225417+00:00",
+                "username": "Housecity",
+                "valid_from": "2023-12-04T17:18:56.424+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "user_id": "904ee661-1e18-4f62-85a1-aa6f4ffc5c53",
+                "username": "Housecity",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T11:20:08.128249+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-02 16:30:04+00:00",
+            "data": {
+                "user_id": "904ee661-1e18-4f62-85a1-aa6f4ffc5c53",
+                "username": "Housecity",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-02T16:28:16.09585+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 18:00:07+00:00",
+            "data": {
+                "user_id": "904ee661-1e18-4f62-85a1-aa6f4ffc5c53",
+                "username": "Housecity",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-05T17:47:21.938225+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 19:30:08+00:00",
+            "data": {
+                "user_id": "904ee661-1e18-4f62-85a1-aa6f4ffc5c53",
+                "username": "Housecity",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-06T19:18:37.180309+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 19:30:09+00:00",
+            "data": {
+                "user_id": "904ee661-1e18-4f62-85a1-aa6f4ffc5c53",
+                "username": "Housecity",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-07T19:17:40.3079+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 20:15:09+00:00",
+            "data": {
+                "user_id": "904ee661-1e18-4f62-85a1-aa6f4ffc5c53",
+                "username": "Housecity",
+                "score": 60,
+                "num_solves": 6,
+                "latest_solve_time": "2023-12-07T20:06:29.53052+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 60,
+        "num_solves": 6,
+        "username": "Housecity",
+        "organization_id": 1
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "cd3eb805-a895-4297-91fb-7d1d80cc507d",
+                "updated_at": "2023-11-09T09:07:41.521856+00:00",
+                "username": "synlig",
+                "valid_from": "2023-11-28T15:31:01.566+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [],
+    "current_info": {
+        "score": "?",
+        "num_solves": "?",
+        "username": "synlig",
+        "organization_id": 1
+    }
+}

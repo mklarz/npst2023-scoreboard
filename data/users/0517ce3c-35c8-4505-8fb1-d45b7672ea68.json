@@ -1,0 +1,62 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "0517ce3c-35c8-4505-8fb1-d45b7672ea68",
+                "updated_at": "2023-12-01T09:00:48.877385+00:00",
+                "username": "Stimik",
+                "valid_from": "2023-12-01T09:01:07.788+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 17:30:05+00:00",
+            "data": {
+                "id": "0517ce3c-35c8-4505-8fb1-d45b7672ea68",
+                "updated_at": "2023-12-01T09:00:48.877385+00:00",
+                "username": "Stimik",
+                "valid_from": "2023-12-04T17:18:45.176+00:00",
+                "organization_id": 3
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 16:15:03+00:00",
+            "data": {
+                "user_id": "0517ce3c-35c8-4505-8fb1-d45b7672ea68",
+                "username": "Stimik",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T16:06:15.070803+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 12:15:05+00:00",
+            "data": {
+                "user_id": "0517ce3c-35c8-4505-8fb1-d45b7672ea68",
+                "username": "Stimik",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-04T12:03:17.410746+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 12:45:08+00:00",
+            "data": {
+                "user_id": "0517ce3c-35c8-4505-8fb1-d45b7672ea68",
+                "username": "Stimik",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-07T12:37:01.977412+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 30,
+        "num_solves": 3,
+        "username": "Stimik",
+        "organization_id": 3
+    }
+}

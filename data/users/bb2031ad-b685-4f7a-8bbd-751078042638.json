@@ -1,0 +1,42 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "bb2031ad-b685-4f7a-8bbd-751078042638",
+                "updated_at": "2023-11-30T13:23:10.082867+00:00",
+                "username": "Godslayer",
+                "valid_from": "2023-11-30T13:23:24.896+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-08 08:15:09+00:00",
+            "data": {
+                "id": "bb2031ad-b685-4f7a-8bbd-751078042638",
+                "updated_at": "2023-11-30T13:23:10.082867+00:00",
+                "username": "Godslayer",
+                "valid_from": "2023-12-08T08:09:50.554+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 13:15:02+00:00",
+            "data": {
+                "user_id": "bb2031ad-b685-4f7a-8bbd-751078042638",
+                "username": "Godslayer",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T13:09:58.522068+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 10,
+        "num_solves": 1,
+        "username": "Godslayer",
+        "organization_id": 1
+    }
+}

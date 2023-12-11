@@ -1,0 +1,142 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "0d0df28f-557b-4269-835c-f0a9e65a9b14",
+                "updated_at": "2023-11-30T18:48:17.684235+00:00",
+                "username": "\u00c6 KAN ITJ \u00c5 L\u00c6S",
+                "valid_from": "2023-11-30T18:48:32.766+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-01 12:45:02+00:00",
+            "data": {
+                "id": "0d0df28f-557b-4269-835c-f0a9e65a9b14",
+                "updated_at": "2023-11-30T18:48:17.684235+00:00",
+                "username": "\u00c6 KAN ITJ \u00c5 L\u00c6S SJ\u00d8",
+                "valid_from": "2023-12-01T12:34:48.99+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-02 15:15:04+00:00",
+            "data": {
+                "id": "0d0df28f-557b-4269-835c-f0a9e65a9b14",
+                "updated_at": "2023-11-30T18:48:17.684235+00:00",
+                "username": "\u00c6 KANNJ ITJ \u00c5 L\u00c6S SJ\u00d8",
+                "valid_from": "2023-12-02T15:12:36.858+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 12:45:05+00:00",
+            "data": {
+                "id": "0d0df28f-557b-4269-835c-f0a9e65a9b14",
+                "updated_at": "2023-11-30T18:48:17.684235+00:00",
+                "username": "\u00c6 KANNJ ITJ \u00c5 L\u00c6S SJ\u00d8",
+                "valid_from": "2023-12-04T12:30:26.254+00:00",
+                "organization_id": 2
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "user_id": "0d0df28f-557b-4269-835c-f0a9e65a9b14",
+                "username": "\u00c6 KAN ITJ \u00c5 L\u00c6S",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T11:08:06.091473+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-01 12:45:02+00:00",
+            "data": {
+                "user_id": "0d0df28f-557b-4269-835c-f0a9e65a9b14",
+                "username": "\u00c6 KAN ITJ \u00c5 L\u00c6S SJ\u00d8",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T11:08:06.091473+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-02 15:15:04+00:00",
+            "data": {
+                "user_id": "0d0df28f-557b-4269-835c-f0a9e65a9b14",
+                "username": "\u00c6 KANNJ ITJ \u00c5 L\u00c6S SJ\u00d8",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-02T15:01:20.770759+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 11:30:04+00:00",
+            "data": {
+                "user_id": "0d0df28f-557b-4269-835c-f0a9e65a9b14",
+                "username": "\u00c6 KANNJ ITJ \u00c5 L\u00c6S SJ\u00d8",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-03T11:29:48.637447+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 14:45:05+00:00",
+            "data": {
+                "user_id": "0d0df28f-557b-4269-835c-f0a9e65a9b14",
+                "username": "\u00c6 KANNJ ITJ \u00c5 L\u00c6S SJ\u00d8",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-04T14:31:46.249818+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 16:15:06+00:00",
+            "data": {
+                "user_id": "0d0df28f-557b-4269-835c-f0a9e65a9b14",
+                "username": "\u00c6 KANNJ ITJ \u00c5 L\u00c6S SJ\u00d8",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-05T16:01:41.298068+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 11:45:07+00:00",
+            "data": {
+                "user_id": "0d0df28f-557b-4269-835c-f0a9e65a9b14",
+                "username": "\u00c6 KANNJ ITJ \u00c5 L\u00c6S SJ\u00d8",
+                "score": 60,
+                "num_solves": 6,
+                "latest_solve_time": "2023-12-06T11:32:55.655854+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 11:30:08+00:00",
+            "data": {
+                "user_id": "0d0df28f-557b-4269-835c-f0a9e65a9b14",
+                "username": "\u00c6 KANNJ ITJ \u00c5 L\u00c6S SJ\u00d8",
+                "score": 70,
+                "num_solves": 7,
+                "latest_solve_time": "2023-12-07T11:18:55.216135+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-09 20:45:10+00:00",
+            "data": {
+                "user_id": "0d0df28f-557b-4269-835c-f0a9e65a9b14",
+                "username": "\u00c6 KANNJ ITJ \u00c5 L\u00c6S SJ\u00d8",
+                "score": 80,
+                "num_solves": 8,
+                "latest_solve_time": "2023-12-09T20:39:21.256804+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 80,
+        "num_solves": 8,
+        "username": "\u00c6 KANNJ ITJ \u00c5 L\u00c6S SJ\u00d8",
+        "organization_id": 2
+    }
+}

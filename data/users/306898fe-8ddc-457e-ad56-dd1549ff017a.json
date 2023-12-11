@@ -1,0 +1,132 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "306898fe-8ddc-457e-ad56-dd1549ff017a",
+                "updated_at": "2023-11-30T14:05:20.646283+00:00",
+                "username": "[EFFERA] Sondrey",
+                "valid_from": "2023-11-30T14:05:37.902+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 12:45:05+00:00",
+            "data": {
+                "id": "306898fe-8ddc-457e-ad56-dd1549ff017a",
+                "updated_at": "2023-11-30T14:05:20.646283+00:00",
+                "username": "[EFFERA] Sondrey",
+                "valid_from": "2023-12-04T12:34:00.383+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "user_id": "306898fe-8ddc-457e-ad56-dd1549ff017a",
+                "username": "[EFFERA] Sondrey",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T11:27:58.967354+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 18:00:05+00:00",
+            "data": {
+                "user_id": "306898fe-8ddc-457e-ad56-dd1549ff017a",
+                "username": "[EFFERA] Sondrey",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-03T17:53:28.532168+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 11:45:05+00:00",
+            "data": {
+                "user_id": "306898fe-8ddc-457e-ad56-dd1549ff017a",
+                "username": "[EFFERA] Sondrey",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-04T11:33:13.90105+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 12:45:05+00:00",
+            "data": {
+                "user_id": "306898fe-8ddc-457e-ad56-dd1549ff017a",
+                "username": "[EFFERA] Sondrey",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-04T12:33:25.929225+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 17:15:08+00:00",
+            "data": {
+                "user_id": "306898fe-8ddc-457e-ad56-dd1549ff017a",
+                "username": "[EFFERA] Sondrey",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-05T17:12:45.56609+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 11:45:07+00:00",
+            "data": {
+                "user_id": "306898fe-8ddc-457e-ad56-dd1549ff017a",
+                "username": "[EFFERA] Sondrey",
+                "score": 60,
+                "num_solves": 6,
+                "latest_solve_time": "2023-12-06T11:34:23.891869+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 12:00:08+00:00",
+            "data": {
+                "user_id": "306898fe-8ddc-457e-ad56-dd1549ff017a",
+                "username": "[EFFERA] Sondrey",
+                "score": 70,
+                "num_solves": 7,
+                "latest_solve_time": "2023-12-07T11:59:10.059241+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-09 12:15:09+00:00",
+            "data": {
+                "user_id": "306898fe-8ddc-457e-ad56-dd1549ff017a",
+                "username": "[EFFERA] Sondrey",
+                "score": 80,
+                "num_solves": 8,
+                "latest_solve_time": "2023-12-09T12:00:05.164489+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-11 10:00:16+00:00",
+            "data": {
+                "user_id": "306898fe-8ddc-457e-ad56-dd1549ff017a",
+                "username": "[EFFERA] Sondrey",
+                "score": 90,
+                "num_solves": 9,
+                "latest_solve_time": "2023-12-11T09:58:38.644342+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-11 12:30:17+00:00",
+            "data": {
+                "user_id": "306898fe-8ddc-457e-ad56-dd1549ff017a",
+                "username": "[EFFERA] Sondrey",
+                "score": 100,
+                "num_solves": 10,
+                "latest_solve_time": "2023-12-11T12:27:15.612525+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 100,
+        "num_solves": 10,
+        "username": "[EFFERA] Sondrey",
+        "organization_id": 1
+    }
+}

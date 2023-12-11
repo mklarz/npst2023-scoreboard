@@ -1,0 +1,42 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-08 10:45:09+00:00",
+            "data": {
+                "id": "dbeee628-e6da-4d18-86a7-6ca4cc1d00f4",
+                "updated_at": "2023-12-08T10:44:43.530111+00:00",
+                "username": "gjoglerfant",
+                "valid_from": "2023-12-08T10:44:58.332+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-08 11:00:09+00:00",
+            "data": {
+                "id": "dbeee628-e6da-4d18-86a7-6ca4cc1d00f4",
+                "updated_at": "2023-12-08T10:44:43.530111+00:00",
+                "username": "gjoglerfant",
+                "valid_from": "2023-12-08T10:45:22.516+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-08 12:15:09+00:00",
+            "data": {
+                "user_id": "dbeee628-e6da-4d18-86a7-6ca4cc1d00f4",
+                "username": "gjoglerfant",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-08T12:07:48.924358+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 20,
+        "num_solves": 2,
+        "username": "gjoglerfant",
+        "organization_id": 1
+    }
+}

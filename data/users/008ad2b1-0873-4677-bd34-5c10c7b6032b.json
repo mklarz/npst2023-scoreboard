@@ -1,0 +1,72 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 21:00:03+00:00",
+            "data": {
+                "id": "008ad2b1-0873-4677-bd34-5c10c7b6032b",
+                "updated_at": "2023-12-01T20:53:39.234703+00:00",
+                "username": "CISKERN",
+                "valid_from": "2023-12-01T20:54:23.204+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 12:45:05+00:00",
+            "data": {
+                "id": "008ad2b1-0873-4677-bd34-5c10c7b6032b",
+                "updated_at": "2023-12-01T20:53:39.234703+00:00",
+                "username": "CISK TORSK",
+                "valid_from": "2023-12-04T12:40:58.742+00:00",
+                "organization_id": 2
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 21:00:03+00:00",
+            "data": {
+                "user_id": "008ad2b1-0873-4677-bd34-5c10c7b6032b",
+                "username": "CISKERN",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T20:55:37.485726+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 17:15:05+00:00",
+            "data": {
+                "user_id": "008ad2b1-0873-4677-bd34-5c10c7b6032b",
+                "username": "CISKERN",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-03T17:05:56.636118+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 20:30:05+00:00",
+            "data": {
+                "user_id": "008ad2b1-0873-4677-bd34-5c10c7b6032b",
+                "username": "CISKERN",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-03T20:16:44.200726+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 12:45:05+00:00",
+            "data": {
+                "user_id": "008ad2b1-0873-4677-bd34-5c10c7b6032b",
+                "username": "CISK TORSK",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-04T12:31:52.624681+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 40,
+        "num_solves": 4,
+        "username": "CISK TORSK",
+        "organization_id": 2
+    }
+}

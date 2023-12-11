@@ -1,0 +1,72 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:45:02+00:00",
+            "data": {
+                "id": "02c1bdae-2c21-43cd-9835-cbd37f8a78fe",
+                "updated_at": "2023-12-01T12:40:20.163089+00:00",
+                "username": null,
+                "valid_from": "2023-12-01T12:40:20.163089+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-05 13:15:07+00:00",
+            "data": {
+                "id": "02c1bdae-2c21-43cd-9835-cbd37f8a78fe",
+                "updated_at": "2023-12-01T12:40:20.163089+00:00",
+                "username": "amikus",
+                "valid_from": "2023-12-05T13:14:26.868+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-05 13:30:06+00:00",
+            "data": {
+                "id": "02c1bdae-2c21-43cd-9835-cbd37f8a78fe",
+                "updated_at": "2023-12-01T12:40:20.163089+00:00",
+                "username": "amikus",
+                "valid_from": "2023-12-05T13:15:11.45+00:00",
+                "organization_id": 3
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-05 13:15:07+00:00",
+            "data": {
+                "user_id": "02c1bdae-2c21-43cd-9835-cbd37f8a78fe",
+                "username": "amikus",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T12:48:22.838401+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 13:00:08+00:00",
+            "data": {
+                "user_id": "02c1bdae-2c21-43cd-9835-cbd37f8a78fe",
+                "username": "amikus",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-06T12:52:01.994407+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 17:30:07+00:00",
+            "data": {
+                "user_id": "02c1bdae-2c21-43cd-9835-cbd37f8a78fe",
+                "username": "amikus",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-06T17:22:14.573542+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 30,
+        "num_solves": 3,
+        "username": "amikus",
+        "organization_id": 3
+    }
+}

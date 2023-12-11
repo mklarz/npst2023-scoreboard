@@ -1,0 +1,72 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "1cbc1a96-e8de-4466-94be-2ff4e856c9b1",
+                "updated_at": "2023-12-01T08:22:10.460311+00:00",
+                "username": "an1ko",
+                "valid_from": "2023-12-01T08:22:43.054+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 12:45:05+00:00",
+            "data": {
+                "id": "1cbc1a96-e8de-4466-94be-2ff4e856c9b1",
+                "updated_at": "2023-12-01T08:22:10.460311+00:00",
+                "username": "an1ko",
+                "valid_from": "2023-12-04T12:43:06.966+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 13:00:02+00:00",
+            "data": {
+                "user_id": "1cbc1a96-e8de-4466-94be-2ff4e856c9b1",
+                "username": "an1ko",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T12:56:47.134178+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 23:00:07+00:00",
+            "data": {
+                "user_id": "1cbc1a96-e8de-4466-94be-2ff4e856c9b1",
+                "username": "an1ko",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-04T22:45:29.482378+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 21:30:08+00:00",
+            "data": {
+                "user_id": "1cbc1a96-e8de-4466-94be-2ff4e856c9b1",
+                "username": "an1ko",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-06T21:25:05.614848+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-08 18:30:10+00:00",
+            "data": {
+                "user_id": "1cbc1a96-e8de-4466-94be-2ff4e856c9b1",
+                "username": "an1ko",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-08T18:15:04.611835+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 40,
+        "num_solves": 4,
+        "username": "an1ko",
+        "organization_id": 1
+    }
+}

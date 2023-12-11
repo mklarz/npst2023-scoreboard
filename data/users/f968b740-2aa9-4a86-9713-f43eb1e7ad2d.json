@@ -1,0 +1,21 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-03 09:30:04+00:00",
+            "data": {
+                "id": "f968b740-2aa9-4a86-9713-f43eb1e7ad2d",
+                "updated_at": "2023-12-03T09:19:27.243905+00:00",
+                "username": "SantaIng",
+                "valid_from": "2023-12-03T09:19:53.197+00:00",
+                "organization_id": null
+            }
+        }
+    ],
+    "scoreboard": [],
+    "current_info": {
+        "score": "?",
+        "num_solves": "?",
+        "username": "SantaIng",
+        "organization_id": null
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "23e67cc1-2aa1-4b9e-aabe-7e33086a599d",
+                "updated_at": "2023-12-01T04:36:24.982078+00:00",
+                "username": "Mista Dobalina",
+                "valid_from": "2023-12-01T04:38:54.053+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 15:45:05+00:00",
+            "data": {
+                "id": "23e67cc1-2aa1-4b9e-aabe-7e33086a599d",
+                "updated_at": "2023-12-01T04:36:24.982078+00:00",
+                "username": "Mista Dobalina",
+                "valid_from": "2023-12-04T15:36:14.049+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 14:15:03+00:00",
+            "data": {
+                "user_id": "23e67cc1-2aa1-4b9e-aabe-7e33086a599d",
+                "username": "Mista Dobalina",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T14:14:06.488394+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 08:45:04+00:00",
+            "data": {
+                "user_id": "23e67cc1-2aa1-4b9e-aabe-7e33086a599d",
+                "username": "Mista Dobalina",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-03T08:42:45.091669+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 09:15:04+00:00",
+            "data": {
+                "user_id": "23e67cc1-2aa1-4b9e-aabe-7e33086a599d",
+                "username": "Mista Dobalina",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-04T09:01:32.243346+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 30,
+        "num_solves": 3,
+        "username": "Mista Dobalina",
+        "organization_id": 1
+    }
+}

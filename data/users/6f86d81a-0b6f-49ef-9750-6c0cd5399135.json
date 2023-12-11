@@ -1,0 +1,21 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-04 12:00:05+00:00",
+            "data": {
+                "id": "6f86d81a-0b6f-49ef-9750-6c0cd5399135",
+                "updated_at": "2023-12-04T11:54:00.87637+00:00",
+                "username": "vegard+pst@pm.me",
+                "valid_from": "2023-12-04T11:54:07.167+00:00",
+                "organization_id": null
+            }
+        }
+    ],
+    "scoreboard": [],
+    "current_info": {
+        "score": "?",
+        "num_solves": "?",
+        "username": "vegard+pst@pm.me",
+        "organization_id": null
+    }
+}

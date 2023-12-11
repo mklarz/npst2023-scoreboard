@@ -1,0 +1,42 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-04 14:00:05+00:00",
+            "data": {
+                "id": "0ebff2b0-6a1e-481c-8c35-4b090d1c685a",
+                "updated_at": "2023-12-04T13:45:40.893804+00:00",
+                "username": "martinbrede",
+                "valid_from": "2023-12-04T13:46:48.722+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-04 14:15:05+00:00",
+            "data": {
+                "user_id": "0ebff2b0-6a1e-481c-8c35-4b090d1c685a",
+                "username": "martinbrede",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-04T14:03:31.61057+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 15:15:06+00:00",
+            "data": {
+                "user_id": "0ebff2b0-6a1e-481c-8c35-4b090d1c685a",
+                "username": "martinbrede",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-04T15:11:43.50856+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 20,
+        "num_solves": 2,
+        "username": "martinbrede",
+        "organization_id": 1
+    }
+}

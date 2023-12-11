@@ -1,0 +1,21 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 19:00:03+00:00",
+            "data": {
+                "id": "021e3100-282f-4dd0-a7d2-26066da483bb",
+                "updated_at": "2023-12-01T18:52:51.602448+00:00",
+                "username": "Pingu",
+                "valid_from": "2023-12-01T18:54:17.939+00:00",
+                "organization_id": null
+            }
+        }
+    ],
+    "scoreboard": [],
+    "current_info": {
+        "score": "?",
+        "num_solves": "?",
+        "username": "Pingu",
+        "organization_id": null
+    }
+}

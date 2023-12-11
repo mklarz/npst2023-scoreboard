@@ -1,0 +1,132 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "c65da0fb-df59-4d55-87bb-17850f04ed86",
+                "updated_at": "2023-11-30T14:42:16.726364+00:00",
+                "username": "SurBacon",
+                "valid_from": "2023-11-30T14:42:28.745+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 14:00:05+00:00",
+            "data": {
+                "id": "c65da0fb-df59-4d55-87bb-17850f04ed86",
+                "updated_at": "2023-11-30T14:42:16.726364+00:00",
+                "username": "SurBacon",
+                "valid_from": "2023-12-04T13:49:19.277+00:00",
+                "organization_id": 2
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "user_id": "c65da0fb-df59-4d55-87bb-17850f04ed86",
+                "username": "SurBacon",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T11:02:14.880672+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-02 15:15:04+00:00",
+            "data": {
+                "user_id": "c65da0fb-df59-4d55-87bb-17850f04ed86",
+                "username": "SurBacon",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-02T15:10:54.992133+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 12:00:04+00:00",
+            "data": {
+                "user_id": "c65da0fb-df59-4d55-87bb-17850f04ed86",
+                "username": "SurBacon",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-03T11:48:40.250695+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 11:30:05+00:00",
+            "data": {
+                "user_id": "c65da0fb-df59-4d55-87bb-17850f04ed86",
+                "username": "SurBacon",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-04T11:21:25.284534+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 11:45:06+00:00",
+            "data": {
+                "user_id": "c65da0fb-df59-4d55-87bb-17850f04ed86",
+                "username": "SurBacon",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-05T11:43:52.664372+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 11:15:07+00:00",
+            "data": {
+                "user_id": "c65da0fb-df59-4d55-87bb-17850f04ed86",
+                "username": "SurBacon",
+                "score": 60,
+                "num_solves": 6,
+                "latest_solve_time": "2023-12-06T11:12:55.20377+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 11:15:09+00:00",
+            "data": {
+                "user_id": "c65da0fb-df59-4d55-87bb-17850f04ed86",
+                "username": "SurBacon",
+                "score": 70,
+                "num_solves": 7,
+                "latest_solve_time": "2023-12-07T11:08:09.501501+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-09 11:45:10+00:00",
+            "data": {
+                "user_id": "c65da0fb-df59-4d55-87bb-17850f04ed86",
+                "username": "SurBacon",
+                "score": 80,
+                "num_solves": 8,
+                "latest_solve_time": "2023-12-09T11:42:09.513258+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-10 11:45:10+00:00",
+            "data": {
+                "user_id": "c65da0fb-df59-4d55-87bb-17850f04ed86",
+                "username": "SurBacon",
+                "score": 90,
+                "num_solves": 9,
+                "latest_solve_time": "2023-12-10T11:39:33.279377+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-11 13:29:02+00:00",
+            "data": {
+                "user_id": "c65da0fb-df59-4d55-87bb-17850f04ed86",
+                "username": "SurBacon",
+                "score": 100,
+                "num_solves": 10,
+                "latest_solve_time": "2023-12-11T13:25:51.422013+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 100,
+        "num_solves": 10,
+        "username": "SurBacon",
+        "organization_id": 2
+    }
+}

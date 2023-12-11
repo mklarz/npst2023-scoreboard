@@ -1,0 +1,122 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "a131fc75-f094-4e1c-85da-fca388ab27d9",
+                "updated_at": "2023-12-01T00:17:25.934248+00:00",
+                "username": "RuterKnekt",
+                "valid_from": "2023-12-01T00:25:06.496+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-05 10:30:06+00:00",
+            "data": {
+                "id": "a131fc75-f094-4e1c-85da-fca388ab27d9",
+                "updated_at": "2023-12-01T00:17:25.934248+00:00",
+                "username": "RuterKnekt",
+                "valid_from": "2023-12-05T10:29:25.906+00:00",
+                "organization_id": 3
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 14:00:03+00:00",
+            "data": {
+                "user_id": "a131fc75-f094-4e1c-85da-fca388ab27d9",
+                "username": "RuterKnekt",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T13:53:55.024251+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-02 12:45:03+00:00",
+            "data": {
+                "user_id": "a131fc75-f094-4e1c-85da-fca388ab27d9",
+                "username": "RuterKnekt",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-02T12:44:52.817105+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 14:00:04+00:00",
+            "data": {
+                "user_id": "a131fc75-f094-4e1c-85da-fca388ab27d9",
+                "username": "RuterKnekt",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-03T13:46:03.585853+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 17:00:06+00:00",
+            "data": {
+                "user_id": "a131fc75-f094-4e1c-85da-fca388ab27d9",
+                "username": "RuterKnekt",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-04T16:52:25.979227+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 18:30:07+00:00",
+            "data": {
+                "user_id": "a131fc75-f094-4e1c-85da-fca388ab27d9",
+                "username": "RuterKnekt",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-05T18:16:51.739396+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 12:15:07+00:00",
+            "data": {
+                "user_id": "a131fc75-f094-4e1c-85da-fca388ab27d9",
+                "username": "RuterKnekt",
+                "score": 60,
+                "num_solves": 6,
+                "latest_solve_time": "2023-12-06T12:06:40.750988+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 13:45:08+00:00",
+            "data": {
+                "user_id": "a131fc75-f094-4e1c-85da-fca388ab27d9",
+                "username": "RuterKnekt",
+                "score": 70,
+                "num_solves": 7,
+                "latest_solve_time": "2023-12-07T13:43:55.454559+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-09 14:45:10+00:00",
+            "data": {
+                "user_id": "a131fc75-f094-4e1c-85da-fca388ab27d9",
+                "username": "RuterKnekt",
+                "score": 80,
+                "num_solves": 8,
+                "latest_solve_time": "2023-12-09T14:38:26.209147+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-10 13:00:12+00:00",
+            "data": {
+                "user_id": "a131fc75-f094-4e1c-85da-fca388ab27d9",
+                "username": "RuterKnekt",
+                "score": 90,
+                "num_solves": 9,
+                "latest_solve_time": "2023-12-10T12:49:18.055162+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 90,
+        "num_solves": 9,
+        "username": "RuterKnekt",
+        "organization_id": 3
+    }
+}

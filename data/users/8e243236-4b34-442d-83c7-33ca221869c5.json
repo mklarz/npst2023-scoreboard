@@ -1,0 +1,132 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "8e243236-4b34-442d-83c7-33ca221869c5",
+                "updated_at": "2023-11-30T16:34:05.126717+00:00",
+                "username": "StateOfLimbo",
+                "valid_from": "2023-11-30T16:34:27.889+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 12:45:05+00:00",
+            "data": {
+                "id": "8e243236-4b34-442d-83c7-33ca221869c5",
+                "updated_at": "2023-11-30T16:34:05.126717+00:00",
+                "username": "StateOfLimbo",
+                "valid_from": "2023-12-04T12:36:52.677+00:00",
+                "organization_id": 2
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 16:00:03+00:00",
+            "data": {
+                "user_id": "8e243236-4b34-442d-83c7-33ca221869c5",
+                "username": "StateOfLimbo",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T15:52:23.315843+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-02 17:15:04+00:00",
+            "data": {
+                "user_id": "8e243236-4b34-442d-83c7-33ca221869c5",
+                "username": "StateOfLimbo",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-02T17:04:25.479774+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 11:30:04+00:00",
+            "data": {
+                "user_id": "8e243236-4b34-442d-83c7-33ca221869c5",
+                "username": "StateOfLimbo",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-03T11:17:45.327537+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 15:00:06+00:00",
+            "data": {
+                "user_id": "8e243236-4b34-442d-83c7-33ca221869c5",
+                "username": "StateOfLimbo",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-04T14:58:30.90701+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 12:15:07+00:00",
+            "data": {
+                "user_id": "8e243236-4b34-442d-83c7-33ca221869c5",
+                "username": "StateOfLimbo",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-05T12:11:24.337824+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 11:45:07+00:00",
+            "data": {
+                "user_id": "8e243236-4b34-442d-83c7-33ca221869c5",
+                "username": "StateOfLimbo",
+                "score": 60,
+                "num_solves": 6,
+                "latest_solve_time": "2023-12-06T11:31:03.733863+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 11:30:08+00:00",
+            "data": {
+                "user_id": "8e243236-4b34-442d-83c7-33ca221869c5",
+                "username": "StateOfLimbo",
+                "score": 70,
+                "num_solves": 7,
+                "latest_solve_time": "2023-12-07T11:27:52.174674+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-08 17:45:09+00:00",
+            "data": {
+                "user_id": "8e243236-4b34-442d-83c7-33ca221869c5",
+                "username": "StateOfLimbo",
+                "score": 80,
+                "num_solves": 8,
+                "latest_solve_time": "2023-12-08T17:34:16.171986+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-09 12:00:10+00:00",
+            "data": {
+                "user_id": "8e243236-4b34-442d-83c7-33ca221869c5",
+                "username": "StateOfLimbo",
+                "score": 90,
+                "num_solves": 9,
+                "latest_solve_time": "2023-12-09T11:51:00.13711+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-10 11:30:10+00:00",
+            "data": {
+                "user_id": "8e243236-4b34-442d-83c7-33ca221869c5",
+                "username": "StateOfLimbo",
+                "score": 100,
+                "num_solves": 10,
+                "latest_solve_time": "2023-12-10T11:19:35.003317+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 100,
+        "num_solves": 10,
+        "username": "StateOfLimbo",
+        "organization_id": 2
+    }
+}

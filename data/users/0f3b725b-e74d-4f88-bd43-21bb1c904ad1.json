@@ -1,0 +1,32 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-06 20:30:08+00:00",
+            "data": {
+                "id": "0f3b725b-e74d-4f88-bd43-21bb1c904ad1",
+                "updated_at": "2023-12-06T20:20:50.307474+00:00",
+                "username": "skandix",
+                "valid_from": "2023-12-06T20:21:56.45+00:00",
+                "organization_id": 2
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-06 20:45:08+00:00",
+            "data": {
+                "user_id": "0f3b725b-e74d-4f88-bd43-21bb1c904ad1",
+                "username": "skandix",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-06T20:30:59.15799+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 10,
+        "num_solves": 1,
+        "username": "skandix",
+        "organization_id": 2
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 19:15:03+00:00",
+            "data": {
+                "id": "aa2bb9a3-7118-42f4-b155-946aea658557",
+                "updated_at": "2023-12-01T19:02:48.957554+00:00",
+                "username": "femhjernecellerienfrakk",
+                "valid_from": "2023-12-01T19:05:05.133+00:00",
+                "organization_id": null
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 21:15:03+00:00",
+            "data": {
+                "user_id": "aa2bb9a3-7118-42f4-b155-946aea658557",
+                "username": "femhjernecellerienfrakk",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T21:02:57.908985+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 10,
+        "num_solves": 1,
+        "username": "femhjernecellerienfrakk",
+        "organization_id": null
+    }
+}

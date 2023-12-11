@@ -1,0 +1,62 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-03 20:15:04+00:00",
+            "data": {
+                "id": "235bf063-8234-4e38-8229-d1b9e56b7004",
+                "updated_at": "2023-12-03T20:10:08.628768+00:00",
+                "username": "pilotgutt",
+                "valid_from": "2023-12-03T20:10:25.132+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 19:30:06+00:00",
+            "data": {
+                "id": "235bf063-8234-4e38-8229-d1b9e56b7004",
+                "updated_at": "2023-12-03T20:10:08.628768+00:00",
+                "username": "pilotgutt",
+                "valid_from": "2023-12-04T19:21:25.649+00:00",
+                "organization_id": 3
+            }
+        },
+        {
+            "timestamp": "2023-12-04 19:45:05+00:00",
+            "data": {
+                "id": "235bf063-8234-4e38-8229-d1b9e56b7004",
+                "updated_at": "2023-12-03T20:10:08.628768+00:00",
+                "username": "pilotgutt",
+                "valid_from": "2023-12-04T19:38:54.224+00:00",
+                "organization_id": 3
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-09 09:45:10+00:00",
+            "data": {
+                "user_id": "235bf063-8234-4e38-8229-d1b9e56b7004",
+                "username": "pilotgutt",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-09T09:39:59.789893+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-09 20:45:10+00:00",
+            "data": {
+                "user_id": "235bf063-8234-4e38-8229-d1b9e56b7004",
+                "username": "pilotgutt",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-09T20:35:53.359507+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 20,
+        "num_solves": 2,
+        "username": "pilotgutt",
+        "organization_id": 3
+    }
+}

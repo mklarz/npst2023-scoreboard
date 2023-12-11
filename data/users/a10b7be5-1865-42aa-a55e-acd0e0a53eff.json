@@ -1,0 +1,52 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:30:03+00:00",
+            "data": {
+                "id": "a10b7be5-1865-42aa-a55e-acd0e0a53eff",
+                "updated_at": "2023-12-01T12:28:39.039928+00:00",
+                "username": "RandomFlorist",
+                "valid_from": "2023-12-01T12:28:54.668+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 15:15:06+00:00",
+            "data": {
+                "id": "a10b7be5-1865-42aa-a55e-acd0e0a53eff",
+                "updated_at": "2023-12-01T12:28:39.039928+00:00",
+                "username": "RandomFlorist",
+                "valid_from": "2023-12-04T15:05:14.293+00:00",
+                "organization_id": 2
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 14:00:03+00:00",
+            "data": {
+                "user_id": "a10b7be5-1865-42aa-a55e-acd0e0a53eff",
+                "username": "RandomFlorist",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T13:52:57.158239+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-02 19:15:04+00:00",
+            "data": {
+                "user_id": "a10b7be5-1865-42aa-a55e-acd0e0a53eff",
+                "username": "RandomFlorist",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-02T19:10:54.367079+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 20,
+        "num_solves": 2,
+        "username": "RandomFlorist",
+        "organization_id": 2
+    }
+}

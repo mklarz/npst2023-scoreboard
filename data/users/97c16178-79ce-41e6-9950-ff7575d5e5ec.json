@@ -1,0 +1,72 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-02 20:00:04+00:00",
+            "data": {
+                "id": "97c16178-79ce-41e6-9950-ff7575d5e5ec",
+                "updated_at": "2023-12-02T19:54:40.617349+00:00",
+                "username": "cyberleucocytes",
+                "valid_from": "2023-12-02T19:54:58.896+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 12:45:05+00:00",
+            "data": {
+                "id": "97c16178-79ce-41e6-9950-ff7575d5e5ec",
+                "updated_at": "2023-12-02T19:54:40.617349+00:00",
+                "username": "cyberleucocytes",
+                "valid_from": "2023-12-04T12:36:56.419+00:00",
+                "organization_id": 2
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-02 21:15:03+00:00",
+            "data": {
+                "user_id": "97c16178-79ce-41e6-9950-ff7575d5e5ec",
+                "username": "cyberleucocytes",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-02T21:03:01.374846+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 13:30:06+00:00",
+            "data": {
+                "user_id": "97c16178-79ce-41e6-9950-ff7575d5e5ec",
+                "username": "cyberleucocytes",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-05T13:27:58.562161+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 23:15:08+00:00",
+            "data": {
+                "user_id": "97c16178-79ce-41e6-9950-ff7575d5e5ec",
+                "username": "cyberleucocytes",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-06T23:12:57.824065+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 23:00:10+00:00",
+            "data": {
+                "user_id": "97c16178-79ce-41e6-9950-ff7575d5e5ec",
+                "username": "cyberleucocytes",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-07T22:58:35.66395+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 40,
+        "num_solves": 4,
+        "username": "cyberleucocytes",
+        "organization_id": 2
+    }
+}

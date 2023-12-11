@@ -1,0 +1,52 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "7083c3f9-a4cd-46e5-931c-3c71aac4f675",
+                "updated_at": "2023-12-01T09:28:51.333939+00:00",
+                "username": "marius.nost",
+                "valid_from": "2023-12-01T09:29:12.732+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-05 20:00:07+00:00",
+            "data": {
+                "id": "7083c3f9-a4cd-46e5-931c-3c71aac4f675",
+                "updated_at": "2023-12-01T09:28:51.333939+00:00",
+                "username": "marius.nost",
+                "valid_from": "2023-12-05T19:56:34.745+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 16:00:03+00:00",
+            "data": {
+                "user_id": "7083c3f9-a4cd-46e5-931c-3c71aac4f675",
+                "username": "marius.nost",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T15:46:40.958434+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-02 16:30:04+00:00",
+            "data": {
+                "user_id": "7083c3f9-a4cd-46e5-931c-3c71aac4f675",
+                "username": "marius.nost",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-02T16:17:28.926756+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 20,
+        "num_solves": 2,
+        "username": "marius.nost",
+        "organization_id": 1
+    }
+}

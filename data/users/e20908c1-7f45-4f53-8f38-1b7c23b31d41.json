@@ -1,0 +1,72 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-07 09:45:08+00:00",
+            "data": {
+                "id": "e20908c1-7f45-4f53-8f38-1b7c23b31d41",
+                "updated_at": "2023-12-07T09:35:02.611846+00:00",
+                "username": "scoville",
+                "valid_from": "2023-12-07T09:35:26.068+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-07 09:45:08+00:00",
+            "data": {
+                "user_id": "e20908c1-7f45-4f53-8f38-1b7c23b31d41",
+                "username": "scoville",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-07T09:39:45.458044+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 10:30:08+00:00",
+            "data": {
+                "user_id": "e20908c1-7f45-4f53-8f38-1b7c23b31d41",
+                "username": "scoville",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-07T10:20:57.664552+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 11:15:09+00:00",
+            "data": {
+                "user_id": "e20908c1-7f45-4f53-8f38-1b7c23b31d41",
+                "username": "scoville",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-07T11:09:26.022489+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 11:30:08+00:00",
+            "data": {
+                "user_id": "e20908c1-7f45-4f53-8f38-1b7c23b31d41",
+                "username": "scoville",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-07T11:18:30.586092+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 14:45:09+00:00",
+            "data": {
+                "user_id": "e20908c1-7f45-4f53-8f38-1b7c23b31d41",
+                "username": "scoville",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-07T14:36:02.129301+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 50,
+        "num_solves": 5,
+        "username": "scoville",
+        "organization_id": 1
+    }
+}

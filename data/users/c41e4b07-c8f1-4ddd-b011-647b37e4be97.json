@@ -1,0 +1,42 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "c41e4b07-c8f1-4ddd-b011-647b37e4be97",
+                "updated_at": "2023-12-01T11:24:46.100249+00:00",
+                "username": "Solver",
+                "valid_from": "2023-12-01T11:24:55.278+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 16:30:05+00:00",
+            "data": {
+                "id": "c41e4b07-c8f1-4ddd-b011-647b37e4be97",
+                "updated_at": "2023-12-01T11:24:46.100249+00:00",
+                "username": "Solver",
+                "valid_from": "2023-12-04T16:23:23.443+00:00",
+                "organization_id": 3
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-04 16:30:05+00:00",
+            "data": {
+                "user_id": "c41e4b07-c8f1-4ddd-b011-647b37e4be97",
+                "username": "Solver",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-04T16:26:59.405946+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 10,
+        "num_solves": 1,
+        "username": "Solver",
+        "organization_id": 3
+    }
+}

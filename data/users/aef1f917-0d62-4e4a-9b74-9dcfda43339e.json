@@ -1,0 +1,72 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 22:15:03+00:00",
+            "data": {
+                "id": "aef1f917-0d62-4e4a-9b74-9dcfda43339e",
+                "updated_at": "2023-12-01T22:01:37.45463+00:00",
+                "username": "AndyN0m0",
+                "valid_from": "2023-12-01T22:02:12.538+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-05 12:45:06+00:00",
+            "data": {
+                "id": "aef1f917-0d62-4e4a-9b74-9dcfda43339e",
+                "updated_at": "2023-12-01T22:01:37.45463+00:00",
+                "username": "AndyN0m0",
+                "valid_from": "2023-12-05T12:43:52.706+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 22:30:03+00:00",
+            "data": {
+                "user_id": "aef1f917-0d62-4e4a-9b74-9dcfda43339e",
+                "username": "AndyN0m0",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T22:15:44.844769+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 17:30:05+00:00",
+            "data": {
+                "user_id": "aef1f917-0d62-4e4a-9b74-9dcfda43339e",
+                "username": "AndyN0m0",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-03T17:15:02.875237+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 15:15:07+00:00",
+            "data": {
+                "user_id": "aef1f917-0d62-4e4a-9b74-9dcfda43339e",
+                "username": "AndyN0m0",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-05T15:11:55.106097+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 10:00:07+00:00",
+            "data": {
+                "user_id": "aef1f917-0d62-4e4a-9b74-9dcfda43339e",
+                "username": "AndyN0m0",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-06T09:45:49.447802+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 40,
+        "num_solves": 4,
+        "username": "AndyN0m0",
+        "organization_id": 1
+    }
+}

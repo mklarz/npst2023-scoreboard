@@ -1,0 +1,32 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "0c6ae22f-baa0-48c5-acff-5d70cf7c3455",
+                "updated_at": "2023-11-30T13:23:08.480628+00:00",
+                "username": "HappyCoffee",
+                "valid_from": "2023-11-30T13:27:31.853+00:00",
+                "organization_id": null
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "user_id": "0c6ae22f-baa0-48c5-acff-5d70cf7c3455",
+                "username": "HappyCoffee",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T11:21:52.877155+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 10,
+        "num_solves": 1,
+        "username": "HappyCoffee",
+        "organization_id": null
+    }
+}

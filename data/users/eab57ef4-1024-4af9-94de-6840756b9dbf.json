@@ -1,0 +1,122 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 23:15:03+00:00",
+            "data": {
+                "id": "eab57ef4-1024-4af9-94de-6840756b9dbf",
+                "updated_at": "2023-12-01T23:08:19.997072+00:00",
+                "username": "ZeroChill",
+                "valid_from": "2023-12-01T23:08:34.675+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-05 12:30:07+00:00",
+            "data": {
+                "id": "eab57ef4-1024-4af9-94de-6840756b9dbf",
+                "updated_at": "2023-12-01T23:08:19.997072+00:00",
+                "username": "ZeroChill",
+                "valid_from": "2023-12-05T12:29:21.772+00:00",
+                "organization_id": 3
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 23:30:03+00:00",
+            "data": {
+                "user_id": "eab57ef4-1024-4af9-94de-6840756b9dbf",
+                "username": "ZeroChill",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T23:21:23.333064+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 00:15:04+00:00",
+            "data": {
+                "user_id": "eab57ef4-1024-4af9-94de-6840756b9dbf",
+                "username": "ZeroChill",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-03T00:10:28.221989+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 14:15:04+00:00",
+            "data": {
+                "user_id": "eab57ef4-1024-4af9-94de-6840756b9dbf",
+                "username": "ZeroChill",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-03T14:11:47.811743+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 12:30:05+00:00",
+            "data": {
+                "user_id": "eab57ef4-1024-4af9-94de-6840756b9dbf",
+                "username": "ZeroChill",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-04T12:24:55.556453+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 10:15:08+00:00",
+            "data": {
+                "user_id": "eab57ef4-1024-4af9-94de-6840756b9dbf",
+                "username": "ZeroChill",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-06T10:01:08.368944+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 11:30:08+00:00",
+            "data": {
+                "user_id": "eab57ef4-1024-4af9-94de-6840756b9dbf",
+                "username": "ZeroChill",
+                "score": 60,
+                "num_solves": 6,
+                "latest_solve_time": "2023-12-06T11:20:48.167749+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 11:15:09+00:00",
+            "data": {
+                "user_id": "eab57ef4-1024-4af9-94de-6840756b9dbf",
+                "username": "ZeroChill",
+                "score": 70,
+                "num_solves": 7,
+                "latest_solve_time": "2023-12-07T11:12:51.924616+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-09 23:00:11+00:00",
+            "data": {
+                "user_id": "eab57ef4-1024-4af9-94de-6840756b9dbf",
+                "username": "ZeroChill",
+                "score": 80,
+                "num_solves": 8,
+                "latest_solve_time": "2023-12-09T22:50:34.528456+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-10 23:30:15+00:00",
+            "data": {
+                "user_id": "eab57ef4-1024-4af9-94de-6840756b9dbf",
+                "username": "ZeroChill",
+                "score": 90,
+                "num_solves": 9,
+                "latest_solve_time": "2023-12-10T23:25:38.157906+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 90,
+        "num_solves": 9,
+        "username": "ZeroChill",
+        "organization_id": 3
+    }
+}

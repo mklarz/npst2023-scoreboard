@@ -1,0 +1,52 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-03 10:30:04+00:00",
+            "data": {
+                "id": "8d0a7fd8-0bf3-4356-9d8b-48a9927b800b",
+                "updated_at": "2023-12-03T10:24:31.655428+00:00",
+                "username": "jobrajac",
+                "valid_from": "2023-12-03T10:24:52.377+00:00",
+                "organization_id": null
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-03 10:45:04+00:00",
+            "data": {
+                "user_id": "8d0a7fd8-0bf3-4356-9d8b-48a9927b800b",
+                "username": "jobrajac",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-03T10:38:15.397944+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 11:45:04+00:00",
+            "data": {
+                "user_id": "8d0a7fd8-0bf3-4356-9d8b-48a9927b800b",
+                "username": "jobrajac",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-03T11:31:23.48509+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 12:15:04+00:00",
+            "data": {
+                "user_id": "8d0a7fd8-0bf3-4356-9d8b-48a9927b800b",
+                "username": "jobrajac",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-03T12:13:34.529057+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 30,
+        "num_solves": 3,
+        "username": "jobrajac",
+        "organization_id": null
+    }
+}

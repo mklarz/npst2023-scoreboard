@@ -1,0 +1,21 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-06 12:00:08+00:00",
+            "data": {
+                "id": "eae6c95f-b337-4cee-b84e-0e1518848cdb",
+                "updated_at": "2023-12-06T11:47:26.589138+00:00",
+                "username": "C.pol",
+                "valid_from": "2023-12-06T11:55:30.164+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [],
+    "current_info": {
+        "score": "?",
+        "num_solves": "?",
+        "username": "C.pol",
+        "organization_id": 1
+    }
+}

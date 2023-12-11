@@ -1,0 +1,42 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-02 21:45:04+00:00",
+            "data": {
+                "id": "bd1ff4d0-11fc-456d-8c35-16d26e979dcb",
+                "updated_at": "2023-12-02T21:31:55.306673+00:00",
+                "username": "ChrisRing",
+                "valid_from": "2023-12-02T21:32:06.627+00:00",
+                "organization_id": null
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-02 21:45:04+00:00",
+            "data": {
+                "user_id": "bd1ff4d0-11fc-456d-8c35-16d26e979dcb",
+                "username": "ChrisRing",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-02T21:42:47.980221+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 19:30:04+00:00",
+            "data": {
+                "user_id": "bd1ff4d0-11fc-456d-8c35-16d26e979dcb",
+                "username": "ChrisRing",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-03T19:15:42.688518+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 20,
+        "num_solves": 2,
+        "username": "ChrisRing",
+        "organization_id": null
+    }
+}

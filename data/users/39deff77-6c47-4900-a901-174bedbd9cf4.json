@@ -1,0 +1,32 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "39deff77-6c47-4900-a901-174bedbd9cf4",
+                "updated_at": "2023-12-01T07:19:07.584213+00:00",
+                "username": "CowardStrike",
+                "valid_from": "2023-12-01T07:20:13.148+00:00",
+                "organization_id": null
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "user_id": "39deff77-6c47-4900-a901-174bedbd9cf4",
+                "username": "CowardStrike",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T11:30:25.806753+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 10,
+        "num_solves": 1,
+        "username": "CowardStrike",
+        "organization_id": null
+    }
+}

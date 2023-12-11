@@ -1,0 +1,62 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-05 12:15:07+00:00",
+            "data": {
+                "id": "3ac5349b-04ef-419b-a0c2-ef0aeeae26ae",
+                "updated_at": "2023-12-05T12:02:08.119808+00:00",
+                "username": "Nummer1Brukerstotte",
+                "valid_from": "2023-12-05T12:02:59.384+00:00",
+                "organization_id": 2
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-05 13:30:06+00:00",
+            "data": {
+                "user_id": "3ac5349b-04ef-419b-a0c2-ef0aeeae26ae",
+                "username": "Nummer1Brukerstotte",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-05T13:22:18.245384+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 14:30:06+00:00",
+            "data": {
+                "user_id": "3ac5349b-04ef-419b-a0c2-ef0aeeae26ae",
+                "username": "Nummer1Brukerstotte",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-05T14:27:33.341336+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 09:30:07+00:00",
+            "data": {
+                "user_id": "3ac5349b-04ef-419b-a0c2-ef0aeeae26ae",
+                "username": "Nummer1Brukerstotte",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-06T09:16:02.44672+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 12:00:08+00:00",
+            "data": {
+                "user_id": "3ac5349b-04ef-419b-a0c2-ef0aeeae26ae",
+                "username": "Nummer1Brukerstotte",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-07T11:52:09.106648+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 40,
+        "num_solves": 4,
+        "username": "Nummer1Brukerstotte",
+        "organization_id": 2
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-04 18:15:06+00:00",
+            "data": {
+                "id": "5d657f60-6b69-463b-8f41-fbdaca6875c2",
+                "updated_at": "2023-12-04T18:09:20.526781+00:00",
+                "username": null,
+                "valid_from": "2023-12-04T18:10:13.244+00:00",
+                "organization_id": 2
+            }
+        },
+        {
+            "timestamp": "2023-12-04 18:45:05+00:00",
+            "data": {
+                "id": "5d657f60-6b69-463b-8f41-fbdaca6875c2",
+                "updated_at": "2023-12-04T18:09:20.526781+00:00",
+                "username": "Kake21",
+                "valid_from": "2023-12-04T18:36:13.323+00:00",
+                "organization_id": 2
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-04 18:45:05+00:00",
+            "data": {
+                "user_id": "5d657f60-6b69-463b-8f41-fbdaca6875c2",
+                "username": "Kake21",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-04T18:35:34.08644+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 10,
+        "num_solves": 1,
+        "username": "Kake21",
+        "organization_id": 2
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-06 13:30:08+00:00",
+            "data": {
+                "id": "656ab9c1-12ad-482c-81f5-8eec71e95b63",
+                "updated_at": "2023-12-06T13:15:05.903556+00:00",
+                "username": "NattHerman",
+                "valid_from": "2023-12-06T13:20:01.632+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [],
+    "current_info": {
+        "score": "?",
+        "num_solves": "?",
+        "username": "NattHerman",
+        "organization_id": 1
+    }
+}

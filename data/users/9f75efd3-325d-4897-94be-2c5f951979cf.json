@@ -1,0 +1,82 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 23:30:03+00:00",
+            "data": {
+                "id": "9f75efd3-325d-4897-94be-2c5f951979cf",
+                "updated_at": "2023-12-01T23:27:28.365567+00:00",
+                "username": "shotscape",
+                "valid_from": "2023-12-01T23:27:37.568+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 23:30:05+00:00",
+            "data": {
+                "id": "9f75efd3-325d-4897-94be-2c5f951979cf",
+                "updated_at": "2023-12-01T23:27:28.365567+00:00",
+                "username": "shotscape",
+                "valid_from": "2023-12-04T23:20:30.247+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 23:45:03+00:00",
+            "data": {
+                "user_id": "9f75efd3-325d-4897-94be-2c5f951979cf",
+                "username": "shotscape",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T23:37:31.212747+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-02 12:45:03+00:00",
+            "data": {
+                "user_id": "9f75efd3-325d-4897-94be-2c5f951979cf",
+                "username": "shotscape",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-02T12:39:48.772496+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 11:45:04+00:00",
+            "data": {
+                "user_id": "9f75efd3-325d-4897-94be-2c5f951979cf",
+                "username": "shotscape",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-03T11:32:51.488284+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 20:30:08+00:00",
+            "data": {
+                "user_id": "9f75efd3-325d-4897-94be-2c5f951979cf",
+                "username": "shotscape",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-06T20:28:58.043429+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 22:30:07+00:00",
+            "data": {
+                "user_id": "9f75efd3-325d-4897-94be-2c5f951979cf",
+                "username": "shotscape",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-06T22:16:00.828157+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 50,
+        "num_solves": 5,
+        "username": "shotscape",
+        "organization_id": 1
+    }
+}

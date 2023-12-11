@@ -1,0 +1,82 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "7c075535-2f30-490b-98ad-88c9e2f97a19",
+                "updated_at": "2023-12-01T06:05:45.584141+00:00",
+                "username": "knutefjes",
+                "valid_from": "2023-12-01T06:06:09.293+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 14:15:05+00:00",
+            "data": {
+                "id": "7c075535-2f30-490b-98ad-88c9e2f97a19",
+                "updated_at": "2023-12-01T06:05:45.584141+00:00",
+                "username": "knutefjes",
+                "valid_from": "2023-12-04T14:14:25.313+00:00",
+                "organization_id": 3
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-02 12:00:04+00:00",
+            "data": {
+                "user_id": "7c075535-2f30-490b-98ad-88c9e2f97a19",
+                "username": "knutefjes",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-02T11:56:53.544854+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 09:30:05+00:00",
+            "data": {
+                "user_id": "7c075535-2f30-490b-98ad-88c9e2f97a19",
+                "username": "knutefjes",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-04T09:29:58.994767+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 14:30:06+00:00",
+            "data": {
+                "user_id": "7c075535-2f30-490b-98ad-88c9e2f97a19",
+                "username": "knutefjes",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-04T14:18:32.987411+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 13:30:06+00:00",
+            "data": {
+                "user_id": "7c075535-2f30-490b-98ad-88c9e2f97a19",
+                "username": "knutefjes",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-05T13:26:32.968775+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 10:30:08+00:00",
+            "data": {
+                "user_id": "7c075535-2f30-490b-98ad-88c9e2f97a19",
+                "username": "knutefjes",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-07T10:18:15.710315+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 50,
+        "num_solves": 5,
+        "username": "knutefjes",
+        "organization_id": 3
+    }
+}

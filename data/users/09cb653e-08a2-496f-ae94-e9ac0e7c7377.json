@@ -1,0 +1,82 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 14:45:02+00:00",
+            "data": {
+                "id": "09cb653e-08a2-496f-ae94-e9ac0e7c7377",
+                "updated_at": "2023-12-01T14:31:09.540787+00:00",
+                "username": "Jonatooth",
+                "valid_from": "2023-12-01T14:31:26.682+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 15:15:06+00:00",
+            "data": {
+                "id": "09cb653e-08a2-496f-ae94-e9ac0e7c7377",
+                "updated_at": "2023-12-01T14:31:09.540787+00:00",
+                "username": "Jonatooth",
+                "valid_from": "2023-12-04T15:09:20.482+00:00",
+                "organization_id": 2
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 15:00:03+00:00",
+            "data": {
+                "user_id": "09cb653e-08a2-496f-ae94-e9ac0e7c7377",
+                "username": "Jonatooth",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T14:53:18.815732+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 15:15:06+00:00",
+            "data": {
+                "user_id": "09cb653e-08a2-496f-ae94-e9ac0e7c7377",
+                "username": "Jonatooth",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-04T15:10:03.634198+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 15:45:05+00:00",
+            "data": {
+                "user_id": "09cb653e-08a2-496f-ae94-e9ac0e7c7377",
+                "username": "Jonatooth",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-04T15:39:23.730611+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 23:00:09+00:00",
+            "data": {
+                "user_id": "09cb653e-08a2-496f-ae94-e9ac0e7c7377",
+                "username": "Jonatooth",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-06T22:56:05.558981+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 20:15:09+00:00",
+            "data": {
+                "user_id": "09cb653e-08a2-496f-ae94-e9ac0e7c7377",
+                "username": "Jonatooth",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-07T20:04:32.248753+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 50,
+        "num_solves": 5,
+        "username": "Jonatooth",
+        "organization_id": 2
+    }
+}

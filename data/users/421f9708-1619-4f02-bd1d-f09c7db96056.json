@@ -1,0 +1,62 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-03 09:30:04+00:00",
+            "data": {
+                "id": "421f9708-1619-4f02-bd1d-f09c7db96056",
+                "updated_at": "2023-12-03T09:20:33.884553+00:00",
+                "username": "updht",
+                "valid_from": "2023-12-03T09:22:40.156+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-05 16:15:06+00:00",
+            "data": {
+                "id": "421f9708-1619-4f02-bd1d-f09c7db96056",
+                "updated_at": "2023-12-03T09:20:33.884553+00:00",
+                "username": "updht",
+                "valid_from": "2023-12-05T16:05:34.318+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-03 09:45:05+00:00",
+            "data": {
+                "user_id": "421f9708-1619-4f02-bd1d-f09c7db96056",
+                "username": "updht",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-03T09:39:46.753759+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 17:30:06+00:00",
+            "data": {
+                "user_id": "421f9708-1619-4f02-bd1d-f09c7db96056",
+                "username": "updht",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-05T17:15:08.703982+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 20:00:08+00:00",
+            "data": {
+                "user_id": "421f9708-1619-4f02-bd1d-f09c7db96056",
+                "username": "updht",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-06T19:59:25.295419+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 30,
+        "num_solves": 3,
+        "username": "updht",
+        "organization_id": 1
+    }
+}

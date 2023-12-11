@@ -1,0 +1,102 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "757cc917-2dae-4b1c-b55a-2817d4e26add",
+                "updated_at": "2023-12-01T06:58:17.894516+00:00",
+                "username": "iSagen",
+                "valid_from": "2023-12-01T06:58:30.848+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 14:00:05+00:00",
+            "data": {
+                "id": "757cc917-2dae-4b1c-b55a-2817d4e26add",
+                "updated_at": "2023-12-01T06:58:17.894516+00:00",
+                "username": "iSagen",
+                "valid_from": "2023-12-04T13:57:47.904+00:00",
+                "organization_id": 1
+            }
+        },
+        {
+            "timestamp": "2023-12-05 20:00:07+00:00",
+            "data": {
+                "id": "757cc917-2dae-4b1c-b55a-2817d4e26add",
+                "updated_at": "2023-12-01T06:58:17.894516+00:00",
+                "username": "iSagen",
+                "valid_from": "2023-12-05T19:56:00.785+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "user_id": "757cc917-2dae-4b1c-b55a-2817d4e26add",
+                "username": "iSagen",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T11:25:49.146215+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-02 15:30:04+00:00",
+            "data": {
+                "user_id": "757cc917-2dae-4b1c-b55a-2817d4e26add",
+                "username": "iSagen",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-02T15:23:41.199424+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 23:15:05+00:00",
+            "data": {
+                "user_id": "757cc917-2dae-4b1c-b55a-2817d4e26add",
+                "username": "iSagen",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-03T23:00:50.486964+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 17:00:07+00:00",
+            "data": {
+                "user_id": "757cc917-2dae-4b1c-b55a-2817d4e26add",
+                "username": "iSagen",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-05T16:58:54.160441+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 12:30:08+00:00",
+            "data": {
+                "user_id": "757cc917-2dae-4b1c-b55a-2817d4e26add",
+                "username": "iSagen",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-06T12:22:12.220283+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 18:45:09+00:00",
+            "data": {
+                "user_id": "757cc917-2dae-4b1c-b55a-2817d4e26add",
+                "username": "iSagen",
+                "score": 60,
+                "num_solves": 6,
+                "latest_solve_time": "2023-12-07T18:38:03.976026+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 60,
+        "num_solves": 6,
+        "username": "iSagen",
+        "organization_id": 1
+    }
+}

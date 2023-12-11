@@ -1,0 +1,62 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 13:00:02+00:00",
+            "data": {
+                "id": "a496613b-5de3-4d76-bc3f-bff74e70ec5b",
+                "updated_at": "2023-12-01T12:59:50.357715+00:00",
+                "username": "Oldolo",
+                "valid_from": "2023-12-01T13:00:01.799+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-01 13:15:02+00:00",
+            "data": {
+                "id": "a496613b-5de3-4d76-bc3f-bff74e70ec5b",
+                "updated_at": "2023-12-01T12:59:50.357715+00:00",
+                "username": "Oldolo",
+                "valid_from": "2023-12-01T13:00:19.261+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 19:45:05+00:00",
+            "data": {
+                "id": "a496613b-5de3-4d76-bc3f-bff74e70ec5b",
+                "updated_at": "2023-12-01T12:59:50.357715+00:00",
+                "username": "Oldolo",
+                "valid_from": "2023-12-04T19:39:07.139+00:00",
+                "organization_id": 3
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 13:30:03+00:00",
+            "data": {
+                "user_id": "a496613b-5de3-4d76-bc3f-bff74e70ec5b",
+                "username": "Oldolo",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T13:15:19.132489+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-02 15:45:03+00:00",
+            "data": {
+                "user_id": "a496613b-5de3-4d76-bc3f-bff74e70ec5b",
+                "username": "Oldolo",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-02T15:42:31.544416+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 20,
+        "num_solves": 2,
+        "username": "Oldolo",
+        "organization_id": 3
+    }
+}

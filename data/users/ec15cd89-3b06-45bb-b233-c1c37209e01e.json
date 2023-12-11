@@ -1,0 +1,122 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-02 14:00:04+00:00",
+            "data": {
+                "id": "ec15cd89-3b06-45bb-b233-c1c37209e01e",
+                "updated_at": "2023-12-02T13:50:13.005928+00:00",
+                "username": "erlendstendal",
+                "valid_from": "2023-12-02T13:50:20.973+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 17:30:05+00:00",
+            "data": {
+                "id": "ec15cd89-3b06-45bb-b233-c1c37209e01e",
+                "updated_at": "2023-12-02T13:50:13.005928+00:00",
+                "username": "erlendstendal",
+                "valid_from": "2023-12-04T17:23:15.544+00:00",
+                "organization_id": 3
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-02 14:00:04+00:00",
+            "data": {
+                "user_id": "ec15cd89-3b06-45bb-b233-c1c37209e01e",
+                "username": "erlendstendal",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-02T13:57:15.798223+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 18:15:06+00:00",
+            "data": {
+                "user_id": "ec15cd89-3b06-45bb-b233-c1c37209e01e",
+                "username": "erlendstendal",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-04T18:06:03.684628+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 09:15:07+00:00",
+            "data": {
+                "user_id": "ec15cd89-3b06-45bb-b233-c1c37209e01e",
+                "username": "erlendstendal",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-05T09:14:22.501588+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 21:15:07+00:00",
+            "data": {
+                "user_id": "ec15cd89-3b06-45bb-b233-c1c37209e01e",
+                "username": "erlendstendal",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-05T21:02:52.882319+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 20:00:09+00:00",
+            "data": {
+                "user_id": "ec15cd89-3b06-45bb-b233-c1c37209e01e",
+                "username": "erlendstendal",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-07T19:58:16.894396+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-08 12:30:09+00:00",
+            "data": {
+                "user_id": "ec15cd89-3b06-45bb-b233-c1c37209e01e",
+                "username": "erlendstendal",
+                "score": 60,
+                "num_solves": 6,
+                "latest_solve_time": "2023-12-08T12:19:31.913264+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-09 22:30:10+00:00",
+            "data": {
+                "user_id": "ec15cd89-3b06-45bb-b233-c1c37209e01e",
+                "username": "erlendstendal",
+                "score": 70,
+                "num_solves": 7,
+                "latest_solve_time": "2023-12-09T22:27:48.901329+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-10 14:45:11+00:00",
+            "data": {
+                "user_id": "ec15cd89-3b06-45bb-b233-c1c37209e01e",
+                "username": "erlendstendal",
+                "score": 80,
+                "num_solves": 8,
+                "latest_solve_time": "2023-12-10T14:32:06.841533+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-10 15:00:11+00:00",
+            "data": {
+                "user_id": "ec15cd89-3b06-45bb-b233-c1c37209e01e",
+                "username": "erlendstendal",
+                "score": 90,
+                "num_solves": 9,
+                "latest_solve_time": "2023-12-10T14:50:25.291736+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 90,
+        "num_solves": 9,
+        "username": "erlendstendal",
+        "organization_id": 3
+    }
+}

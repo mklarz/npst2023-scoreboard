@@ -1,0 +1,62 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 22:15:03+00:00",
+            "data": {
+                "id": "dd62e2a1-869c-40b6-9923-86fa5f1e1d01",
+                "updated_at": "2023-12-01T22:13:09.427804+00:00",
+                "username": null,
+                "valid_from": "2023-12-01T22:13:09.427804+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-01 22:30:03+00:00",
+            "data": {
+                "id": "dd62e2a1-869c-40b6-9923-86fa5f1e1d01",
+                "updated_at": "2023-12-01T22:13:09.427804+00:00",
+                "username": "TestAlv",
+                "valid_from": "2023-12-01T22:16:07.496+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-01 22:45:03+00:00",
+            "data": {
+                "id": "dd62e2a1-869c-40b6-9923-86fa5f1e1d01",
+                "updated_at": "2023-12-01T22:13:09.427804+00:00",
+                "username": "SadoAlven",
+                "valid_from": "2023-12-01T22:36:08.326+00:00",
+                "organization_id": null
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 22:30:03+00:00",
+            "data": {
+                "user_id": "dd62e2a1-869c-40b6-9923-86fa5f1e1d01",
+                "username": "TestAlv",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T22:27:30.339133+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-01 22:45:03+00:00",
+            "data": {
+                "user_id": "dd62e2a1-869c-40b6-9923-86fa5f1e1d01",
+                "username": "SadoAlven",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T22:27:30.339133+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 10,
+        "num_solves": 1,
+        "username": "SadoAlven",
+        "organization_id": null
+    }
+}

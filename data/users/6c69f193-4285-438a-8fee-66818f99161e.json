@@ -1,0 +1,21 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-08 13:15:09+00:00",
+            "data": {
+                "id": "6c69f193-4285-438a-8fee-66818f99161e",
+                "updated_at": "2023-12-08T13:10:54.54398+00:00",
+                "username": "ostemannen",
+                "valid_from": "2023-12-08T13:12:36.338+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [],
+    "current_info": {
+        "score": "?",
+        "num_solves": "?",
+        "username": "ostemannen",
+        "organization_id": 1
+    }
+}

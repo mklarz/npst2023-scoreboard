@@ -1,0 +1,82 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-02 11:00:03+00:00",
+            "data": {
+                "id": "4a02d1c0-ab32-48e2-bf64-4bb5da928380",
+                "updated_at": "2023-12-02T10:49:54.067767+00:00",
+                "username": "waterbottle",
+                "valid_from": "2023-12-02T10:53:02.38+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-06 11:30:08+00:00",
+            "data": {
+                "id": "4a02d1c0-ab32-48e2-bf64-4bb5da928380",
+                "updated_at": "2023-12-02T10:49:54.067767+00:00",
+                "username": "waterbottle",
+                "valid_from": "2023-12-06T11:23:12.802+00:00",
+                "organization_id": 2
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-02 11:00:03+00:00",
+            "data": {
+                "user_id": "4a02d1c0-ab32-48e2-bf64-4bb5da928380",
+                "username": "waterbottle",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-02T10:50:52.726922+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 09:30:05+00:00",
+            "data": {
+                "user_id": "4a02d1c0-ab32-48e2-bf64-4bb5da928380",
+                "username": "waterbottle",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-04T09:17:36.003922+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 19:30:08+00:00",
+            "data": {
+                "user_id": "4a02d1c0-ab32-48e2-bf64-4bb5da928380",
+                "username": "waterbottle",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-06T19:19:54.666723+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 20:15:09+00:00",
+            "data": {
+                "user_id": "4a02d1c0-ab32-48e2-bf64-4bb5da928380",
+                "username": "waterbottle",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-07T20:06:08.337302+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-09 15:30:10+00:00",
+            "data": {
+                "user_id": "4a02d1c0-ab32-48e2-bf64-4bb5da928380",
+                "username": "waterbottle",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-09T15:25:10.120649+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 50,
+        "num_solves": 5,
+        "username": "waterbottle",
+        "organization_id": 2
+    }
+}

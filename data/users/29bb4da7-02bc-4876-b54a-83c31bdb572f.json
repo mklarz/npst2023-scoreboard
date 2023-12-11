@@ -1,0 +1,42 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 13:00:02+00:00",
+            "data": {
+                "id": "29bb4da7-02bc-4876-b54a-83c31bdb572f",
+                "updated_at": "2023-12-01T12:52:13.669111+00:00",
+                "username": "Kriron",
+                "valid_from": "2023-12-01T12:52:27.246+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-05 11:45:06+00:00",
+            "data": {
+                "id": "29bb4da7-02bc-4876-b54a-83c31bdb572f",
+                "updated_at": "2023-12-01T12:52:13.669111+00:00",
+                "username": "Kriron",
+                "valid_from": "2023-12-05T11:42:23.189+00:00",
+                "organization_id": 3
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 13:00:02+00:00",
+            "data": {
+                "user_id": "29bb4da7-02bc-4876-b54a-83c31bdb572f",
+                "username": "Kriron",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T12:59:23.309665+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 10,
+        "num_solves": 1,
+        "username": "Kriron",
+        "organization_id": 3
+    }
+}

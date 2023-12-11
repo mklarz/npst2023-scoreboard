@@ -1,0 +1,62 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 23:00:04+00:00",
+            "data": {
+                "id": "fce96011-dcfe-4a1a-91be-57bda63da2e0",
+                "updated_at": "2023-12-01T22:53:09.412208+00:00",
+                "username": "Nimrod",
+                "valid_from": "2023-12-01T22:53:28.761+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-07 19:45:09+00:00",
+            "data": {
+                "id": "fce96011-dcfe-4a1a-91be-57bda63da2e0",
+                "updated_at": "2023-12-01T22:53:09.412208+00:00",
+                "username": "Nimrod",
+                "valid_from": "2023-12-07T19:30:11.172+00:00",
+                "organization_id": 2
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-07 19:45:09+00:00",
+            "data": {
+                "user_id": "fce96011-dcfe-4a1a-91be-57bda63da2e0",
+                "username": "Nimrod",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-07T19:43:04.330832+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 20:45:09+00:00",
+            "data": {
+                "user_id": "fce96011-dcfe-4a1a-91be-57bda63da2e0",
+                "username": "Nimrod",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-07T20:31:56.034379+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 22:00:09+00:00",
+            "data": {
+                "user_id": "fce96011-dcfe-4a1a-91be-57bda63da2e0",
+                "username": "Nimrod",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-07T21:47:10.252617+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 30,
+        "num_solves": 3,
+        "username": "Nimrod",
+        "organization_id": 2
+    }
+}

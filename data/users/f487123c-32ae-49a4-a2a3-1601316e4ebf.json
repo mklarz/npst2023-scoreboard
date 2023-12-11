@@ -1,0 +1,21 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-04 13:30:05+00:00",
+            "data": {
+                "id": "f487123c-32ae-49a4-a2a3-1601316e4ebf",
+                "updated_at": "2023-12-04T13:24:50.110252+00:00",
+                "username": "InvalidNopCode",
+                "valid_from": "2023-12-04T13:25:31.59+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [],
+    "current_info": {
+        "score": "?",
+        "num_solves": "?",
+        "username": "InvalidNopCode",
+        "organization_id": 1
+    }
+}

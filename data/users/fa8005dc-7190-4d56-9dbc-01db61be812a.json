@@ -1,0 +1,122 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 14:15:03+00:00",
+            "data": {
+                "id": "fa8005dc-7190-4d56-9dbc-01db61be812a",
+                "updated_at": "2023-12-01T14:14:44.516508+00:00",
+                "username": null,
+                "valid_from": "2023-12-01T14:14:44.516508+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-01 14:30:02+00:00",
+            "data": {
+                "id": "fa8005dc-7190-4d56-9dbc-01db61be812a",
+                "updated_at": "2023-12-01T14:14:44.516508+00:00",
+                "username": "SinnaTagen",
+                "valid_from": "2023-12-01T14:15:51.391+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-05 11:30:07+00:00",
+            "data": {
+                "id": "fa8005dc-7190-4d56-9dbc-01db61be812a",
+                "updated_at": "2023-12-01T14:14:44.516508+00:00",
+                "username": "SinnaTagen",
+                "valid_from": "2023-12-05T11:15:47.756+00:00",
+                "organization_id": 2
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 15:45:02+00:00",
+            "data": {
+                "user_id": "fa8005dc-7190-4d56-9dbc-01db61be812a",
+                "username": "SinnaTagen",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T15:35:26.003049+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 15:15:07+00:00",
+            "data": {
+                "user_id": "fa8005dc-7190-4d56-9dbc-01db61be812a",
+                "username": "SinnaTagen",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-06T15:04:34.962847+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 19:15:08+00:00",
+            "data": {
+                "user_id": "fa8005dc-7190-4d56-9dbc-01db61be812a",
+                "username": "SinnaTagen",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-06T19:09:00.742552+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 11:00:09+00:00",
+            "data": {
+                "user_id": "fa8005dc-7190-4d56-9dbc-01db61be812a",
+                "username": "SinnaTagen",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-07T10:55:17.824787+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 11:15:09+00:00",
+            "data": {
+                "user_id": "fa8005dc-7190-4d56-9dbc-01db61be812a",
+                "username": "SinnaTagen",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-07T11:07:30.106904+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 20:45:09+00:00",
+            "data": {
+                "user_id": "fa8005dc-7190-4d56-9dbc-01db61be812a",
+                "username": "SinnaTagen",
+                "score": 60,
+                "num_solves": 6,
+                "latest_solve_time": "2023-12-07T20:31:54.223667+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-08 18:00:10+00:00",
+            "data": {
+                "user_id": "fa8005dc-7190-4d56-9dbc-01db61be812a",
+                "username": "SinnaTagen",
+                "score": 70,
+                "num_solves": 7,
+                "latest_solve_time": "2023-12-08T17:49:05.145943+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-09 17:45:10+00:00",
+            "data": {
+                "user_id": "fa8005dc-7190-4d56-9dbc-01db61be812a",
+                "username": "SinnaTagen",
+                "score": 80,
+                "num_solves": 8,
+                "latest_solve_time": "2023-12-09T17:33:39.364802+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 80,
+        "num_solves": 8,
+        "username": "SinnaTagen",
+        "organization_id": 2
+    }
+}

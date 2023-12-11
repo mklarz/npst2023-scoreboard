@@ -1,0 +1,21 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "5be0840e-ac5d-46a5-9c0e-504df38c9f8c",
+                "updated_at": "2023-11-30T21:32:43.141704+00:00",
+                "username": "Raumjau",
+                "valid_from": "2023-11-30T21:33:10.683+00:00",
+                "organization_id": null
+            }
+        }
+    ],
+    "scoreboard": [],
+    "current_info": {
+        "score": "?",
+        "num_solves": "?",
+        "username": "Raumjau",
+        "organization_id": null
+    }
+}

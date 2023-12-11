@@ -1,0 +1,32 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 20:00:03+00:00",
+            "data": {
+                "id": "59e66a1f-9a45-419f-8b27-0da48672a88a",
+                "updated_at": "2023-12-01T19:57:43.637071+00:00",
+                "username": "Petteja",
+                "valid_from": "2023-12-01T19:58:14.807+00:00",
+                "organization_id": null
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 20:15:03+00:00",
+            "data": {
+                "user_id": "59e66a1f-9a45-419f-8b27-0da48672a88a",
+                "username": "Petteja",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T20:06:08.129839+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 10,
+        "num_solves": 1,
+        "username": "Petteja",
+        "organization_id": null
+    }
+}

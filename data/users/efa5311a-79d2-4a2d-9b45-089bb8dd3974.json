@@ -1,0 +1,122 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "efa5311a-79d2-4a2d-9b45-089bb8dd3974",
+                "updated_at": "2023-11-30T18:13:59.389735+00:00",
+                "username": "Laud N\u00f8tteknekkere",
+                "valid_from": "2023-11-30T18:14:21.079+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 13:00:05+00:00",
+            "data": {
+                "id": "efa5311a-79d2-4a2d-9b45-089bb8dd3974",
+                "updated_at": "2023-11-30T18:13:59.389735+00:00",
+                "username": "Laud N\u00f8tteknekkere",
+                "valid_from": "2023-12-04T12:50:04.552+00:00",
+                "organization_id": 3
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 12:30:03+00:00",
+            "data": {
+                "user_id": "efa5311a-79d2-4a2d-9b45-089bb8dd3974",
+                "username": "Laud N\u00f8tteknekkere",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T12:15:31.905802+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-02 23:30:04+00:00",
+            "data": {
+                "user_id": "efa5311a-79d2-4a2d-9b45-089bb8dd3974",
+                "username": "Laud N\u00f8tteknekkere",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-02T23:20:00.166067+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 12:00:04+00:00",
+            "data": {
+                "user_id": "efa5311a-79d2-4a2d-9b45-089bb8dd3974",
+                "username": "Laud N\u00f8tteknekkere",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-03T11:58:50.674646+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 13:00:05+00:00",
+            "data": {
+                "user_id": "efa5311a-79d2-4a2d-9b45-089bb8dd3974",
+                "username": "Laud N\u00f8tteknekkere",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-04T12:58:12.918677+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 20:15:07+00:00",
+            "data": {
+                "user_id": "efa5311a-79d2-4a2d-9b45-089bb8dd3974",
+                "username": "Laud N\u00f8tteknekkere",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-05T20:05:51.99222+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 13:15:08+00:00",
+            "data": {
+                "user_id": "efa5311a-79d2-4a2d-9b45-089bb8dd3974",
+                "username": "Laud N\u00f8tteknekkere",
+                "score": 60,
+                "num_solves": 6,
+                "latest_solve_time": "2023-12-06T13:07:10.625544+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 18:45:09+00:00",
+            "data": {
+                "user_id": "efa5311a-79d2-4a2d-9b45-089bb8dd3974",
+                "username": "Laud N\u00f8tteknekkere",
+                "score": 70,
+                "num_solves": 7,
+                "latest_solve_time": "2023-12-07T18:36:45.665109+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-10 00:45:10+00:00",
+            "data": {
+                "user_id": "efa5311a-79d2-4a2d-9b45-089bb8dd3974",
+                "username": "Laud N\u00f8tteknekkere",
+                "score": 80,
+                "num_solves": 8,
+                "latest_solve_time": "2023-12-10T00:31:34.931478+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-10 19:30:15+00:00",
+            "data": {
+                "user_id": "efa5311a-79d2-4a2d-9b45-089bb8dd3974",
+                "username": "Laud N\u00f8tteknekkere",
+                "score": 90,
+                "num_solves": 9,
+                "latest_solve_time": "2023-12-10T19:19:53.851238+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 90,
+        "num_solves": 9,
+        "username": "Laud N\u00f8tteknekkere",
+        "organization_id": 3
+    }
+}

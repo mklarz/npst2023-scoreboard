@@ -1,0 +1,72 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "8d61aaaa-d2b5-4e42-8464-c366241fe30a",
+                "updated_at": "2023-12-01T07:15:43.986225+00:00",
+                "username": "oddifant",
+                "valid_from": "2023-12-01T07:16:11.568+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-05 08:45:06+00:00",
+            "data": {
+                "id": "8d61aaaa-d2b5-4e42-8464-c366241fe30a",
+                "updated_at": "2023-12-01T07:15:43.986225+00:00",
+                "username": "oddifant",
+                "valid_from": "2023-12-05T08:30:08.551+00:00",
+                "organization_id": 2
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "user_id": "8d61aaaa-d2b5-4e42-8464-c366241fe30a",
+                "username": "oddifant",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T11:19:18.552686+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 13:00:08+00:00",
+            "data": {
+                "user_id": "8d61aaaa-d2b5-4e42-8464-c366241fe30a",
+                "username": "oddifant",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-06T12:46:47.273306+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-08 12:45:09+00:00",
+            "data": {
+                "user_id": "8d61aaaa-d2b5-4e42-8464-c366241fe30a",
+                "username": "oddifant",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-08T12:44:22.265698+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-11 13:29:02+00:00",
+            "data": {
+                "user_id": "8d61aaaa-d2b5-4e42-8464-c366241fe30a",
+                "username": "oddifant",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-11T13:15:52.550701+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 40,
+        "num_solves": 4,
+        "username": "oddifant",
+        "organization_id": 2
+    }
+}

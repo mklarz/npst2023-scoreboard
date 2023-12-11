@@ -1,0 +1,32 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-04 22:00:06+00:00",
+            "data": {
+                "id": "cbfed9c6-bbf1-4a23-b5bd-0fc6d7825dc2",
+                "updated_at": "2023-12-04T21:52:26.337006+00:00",
+                "username": "SantaIsHere",
+                "valid_from": "2023-12-04T21:56:15.156+00:00",
+                "organization_id": 2
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-05 19:00:07+00:00",
+            "data": {
+                "user_id": "cbfed9c6-bbf1-4a23-b5bd-0fc6d7825dc2",
+                "username": "SantaIsHere",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-05T18:55:08.969795+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 10,
+        "num_solves": 1,
+        "username": "SantaIsHere",
+        "organization_id": 2
+    }
+}

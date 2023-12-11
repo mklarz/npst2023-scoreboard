@@ -1,0 +1,72 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-05 13:45:07+00:00",
+            "data": {
+                "id": "4683c94d-7b53-483b-bf12-800309bef0c0",
+                "updated_at": "2023-12-05T13:39:24.64148+00:00",
+                "username": "tio00",
+                "valid_from": "2023-12-05T13:39:33.007+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-05 15:15:07+00:00",
+            "data": {
+                "id": "4683c94d-7b53-483b-bf12-800309bef0c0",
+                "updated_at": "2023-12-05T13:39:24.64148+00:00",
+                "username": "tio00",
+                "valid_from": "2023-12-05T15:12:06.533+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-05 13:45:07+00:00",
+            "data": {
+                "user_id": "4683c94d-7b53-483b-bf12-800309bef0c0",
+                "username": "tio00",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-05T13:40:20.81454+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 15:15:07+00:00",
+            "data": {
+                "user_id": "4683c94d-7b53-483b-bf12-800309bef0c0",
+                "username": "tio00",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-05T15:07:18.980723+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 12:30:08+00:00",
+            "data": {
+                "user_id": "4683c94d-7b53-483b-bf12-800309bef0c0",
+                "username": "tio00",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-06T12:19:13.947197+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 09:45:08+00:00",
+            "data": {
+                "user_id": "4683c94d-7b53-483b-bf12-800309bef0c0",
+                "username": "tio00",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-07T09:33:52.972416+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 40,
+        "num_solves": 4,
+        "username": "tio00",
+        "organization_id": 1
+    }
+}

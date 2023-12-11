@@ -1,0 +1,72 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "c7541ba0-48f5-4fc0-9384-f6bf5a4e5837",
+                "updated_at": "2023-12-01T10:44:07.315922+00:00",
+                "username": "xxx",
+                "valid_from": "2023-12-01T10:44:31.557+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-06 16:45:07+00:00",
+            "data": {
+                "id": "c7541ba0-48f5-4fc0-9384-f6bf5a4e5837",
+                "updated_at": "2023-12-01T10:44:07.315922+00:00",
+                "username": "xxx",
+                "valid_from": "2023-12-06T16:38:36.289+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-07 20:45:09+00:00",
+            "data": {
+                "id": "c7541ba0-48f5-4fc0-9384-f6bf5a4e5837",
+                "updated_at": "2023-12-01T10:44:07.315922+00:00",
+                "username": "xxx",
+                "valid_from": "2023-12-07T20:41:09.114+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-07 21:00:10+00:00",
+            "data": {
+                "id": "c7541ba0-48f5-4fc0-9384-f6bf5a4e5837",
+                "updated_at": "2023-12-01T10:44:07.315922+00:00",
+                "username": "xxx",
+                "valid_from": "2023-12-07T20:55:39.518+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "user_id": "c7541ba0-48f5-4fc0-9384-f6bf5a4e5837",
+                "username": "xxx",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T11:29:07.856159+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 21:00:10+00:00",
+            "data": {
+                "user_id": "c7541ba0-48f5-4fc0-9384-f6bf5a4e5837",
+                "username": "xxx",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-07T20:56:29.431855+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 20,
+        "num_solves": 2,
+        "username": "xxx",
+        "organization_id": 1
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-02 08:00:04+00:00",
+            "data": {
+                "id": "82dcf380-dfa4-48a2-a6f3-f10b40c2e320",
+                "updated_at": "2023-12-02T07:55:34.077419+00:00",
+                "username": null,
+                "valid_from": "2023-12-02T07:55:34.077419+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-03 10:00:05+00:00",
+            "data": {
+                "id": "82dcf380-dfa4-48a2-a6f3-f10b40c2e320",
+                "updated_at": "2023-12-02T07:55:34.077419+00:00",
+                "username": "polizei",
+                "valid_from": "2023-12-03T09:48:07.299+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-07 12:45:08+00:00",
+            "data": {
+                "id": "82dcf380-dfa4-48a2-a6f3-f10b40c2e320",
+                "updated_at": "2023-12-02T07:55:34.077419+00:00",
+                "username": "polizei",
+                "valid_from": "2023-12-07T12:41:37.975+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-03 10:00:05+00:00",
+            "data": {
+                "user_id": "82dcf380-dfa4-48a2-a6f3-f10b40c2e320",
+                "username": "polizei",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-03T09:56:25.467855+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 10,
+        "num_solves": 1,
+        "username": "polizei",
+        "organization_id": 1
+    }
+}

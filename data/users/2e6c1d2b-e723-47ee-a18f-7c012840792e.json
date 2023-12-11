@@ -1,0 +1,42 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "2e6c1d2b-e723-47ee-a18f-7c012840792e",
+                "updated_at": "2023-11-30T20:58:58.021326+00:00",
+                "username": "Olemag",
+                "valid_from": "2023-11-30T20:59:11.53+00:00",
+                "organization_id": null
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 20:45:03+00:00",
+            "data": {
+                "user_id": "2e6c1d2b-e723-47ee-a18f-7c012840792e",
+                "username": "Olemag",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T20:38:34.727659+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-02 20:30:04+00:00",
+            "data": {
+                "user_id": "2e6c1d2b-e723-47ee-a18f-7c012840792e",
+                "username": "Olemag",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-02T20:29:38.066683+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 20,
+        "num_solves": 2,
+        "username": "Olemag",
+        "organization_id": null
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-04 08:15:05+00:00",
+            "data": {
+                "id": "7177bcbe-0c33-49d5-95c9-ac329612686a",
+                "updated_at": "2023-12-04T08:08:19.396419+00:00",
+                "username": "siko22",
+                "valid_from": "2023-12-04T08:08:30.617+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 13:30:05+00:00",
+            "data": {
+                "id": "7177bcbe-0c33-49d5-95c9-ac329612686a",
+                "updated_at": "2023-12-04T08:08:19.396419+00:00",
+                "username": "siko22",
+                "valid_from": "2023-12-04T13:22:27.002+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-04 13:45:05+00:00",
+            "data": {
+                "user_id": "7177bcbe-0c33-49d5-95c9-ac329612686a",
+                "username": "siko22",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-04T13:38:36.834422+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 19:15:06+00:00",
+            "data": {
+                "user_id": "7177bcbe-0c33-49d5-95c9-ac329612686a",
+                "username": "siko22",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-04T19:10:30.615652+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 14:00:07+00:00",
+            "data": {
+                "user_id": "7177bcbe-0c33-49d5-95c9-ac329612686a",
+                "username": "siko22",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-05T13:59:12.37968+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 30,
+        "num_solves": 3,
+        "username": "siko22",
+        "organization_id": 1
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "profile": [],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-11 09:30:16+00:00",
+            "data": {
+                "user_id": "8552dd0e-1aea-45b1-af17-1aced34a9975",
+                "username": "appi",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-11T09:19:08.998688+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 10,
+        "num_solves": 1,
+        "username": null,
+        "organization_id": null
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 21:30:03+00:00",
+            "data": {
+                "id": "9a373d9e-e3e8-4c40-9abb-745eb1bfdfbc",
+                "updated_at": "2023-12-01T21:20:44.956402+00:00",
+                "username": "curs3dDem0n",
+                "valid_from": "2023-12-01T21:21:10.03+00:00",
+                "organization_id": null
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 21:30:03+00:00",
+            "data": {
+                "user_id": "9a373d9e-e3e8-4c40-9abb-745eb1bfdfbc",
+                "username": "curs3dDem0n",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T21:29:01.608397+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 10,
+        "num_solves": 1,
+        "username": "curs3dDem0n",
+        "organization_id": null
+    }
+}

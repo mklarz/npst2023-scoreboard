@@ -1,0 +1,42 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-02 23:00:05+00:00",
+            "data": {
+                "id": "585f0aa9-ffe4-4086-997d-8cacf50d587c",
+                "updated_at": "2023-12-02T22:54:05.641223+00:00",
+                "username": "Snarkern",
+                "valid_from": "2023-12-02T22:54:30.413+00:00",
+                "organization_id": null
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-03 12:45:04+00:00",
+            "data": {
+                "user_id": "585f0aa9-ffe4-4086-997d-8cacf50d587c",
+                "username": "Snarkern",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-03T12:38:09.604101+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 13:30:04+00:00",
+            "data": {
+                "user_id": "585f0aa9-ffe4-4086-997d-8cacf50d587c",
+                "username": "Snarkern",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-03T13:19:19.889739+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 20,
+        "num_solves": 2,
+        "username": "Snarkern",
+        "organization_id": null
+    }
+}

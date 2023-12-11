@@ -1,0 +1,122 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 20:30:03+00:00",
+            "data": {
+                "id": "7b042ed7-7c6f-4fa9-adb9-8b2554eed5e9",
+                "updated_at": "2023-12-01T20:29:46.845464+00:00",
+                "username": "ExHausteD",
+                "valid_from": "2023-12-01T20:29:58.68+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 13:00:05+00:00",
+            "data": {
+                "id": "7b042ed7-7c6f-4fa9-adb9-8b2554eed5e9",
+                "updated_at": "2023-12-01T20:29:46.845464+00:00",
+                "username": "ExHausteD",
+                "valid_from": "2023-12-04T12:57:53.429+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 20:45:03+00:00",
+            "data": {
+                "user_id": "7b042ed7-7c6f-4fa9-adb9-8b2554eed5e9",
+                "username": "ExHausteD",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T20:34:04.897911+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-02 16:30:04+00:00",
+            "data": {
+                "user_id": "7b042ed7-7c6f-4fa9-adb9-8b2554eed5e9",
+                "username": "ExHausteD",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-02T16:18:55.705227+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 11:45:04+00:00",
+            "data": {
+                "user_id": "7b042ed7-7c6f-4fa9-adb9-8b2554eed5e9",
+                "username": "ExHausteD",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-03T11:43:55.312304+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 11:45:05+00:00",
+            "data": {
+                "user_id": "7b042ed7-7c6f-4fa9-adb9-8b2554eed5e9",
+                "username": "ExHausteD",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-04T11:38:28.12863+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 11:45:06+00:00",
+            "data": {
+                "user_id": "7b042ed7-7c6f-4fa9-adb9-8b2554eed5e9",
+                "username": "ExHausteD",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-05T11:30:10.952886+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 11:30:08+00:00",
+            "data": {
+                "user_id": "7b042ed7-7c6f-4fa9-adb9-8b2554eed5e9",
+                "username": "ExHausteD",
+                "score": 60,
+                "num_solves": 6,
+                "latest_solve_time": "2023-12-06T11:27:00.912993+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 11:15:09+00:00",
+            "data": {
+                "user_id": "7b042ed7-7c6f-4fa9-adb9-8b2554eed5e9",
+                "username": "ExHausteD",
+                "score": 70,
+                "num_solves": 7,
+                "latest_solve_time": "2023-12-07T11:02:59.810062+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-09 12:00:10+00:00",
+            "data": {
+                "user_id": "7b042ed7-7c6f-4fa9-adb9-8b2554eed5e9",
+                "username": "ExHausteD",
+                "score": 80,
+                "num_solves": 8,
+                "latest_solve_time": "2023-12-09T11:57:27.42147+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-11 12:45:15+00:00",
+            "data": {
+                "user_id": "7b042ed7-7c6f-4fa9-adb9-8b2554eed5e9",
+                "username": "ExHausteD",
+                "score": 90,
+                "num_solves": 9,
+                "latest_solve_time": "2023-12-11T12:38:23.410017+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 90,
+        "num_solves": 9,
+        "username": "ExHausteD",
+        "organization_id": 1
+    }
+}

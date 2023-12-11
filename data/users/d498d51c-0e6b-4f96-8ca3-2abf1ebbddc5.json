@@ -1,0 +1,42 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-04 08:00:05+00:00",
+            "data": {
+                "id": "d498d51c-0e6b-4f96-8ca3-2abf1ebbddc5",
+                "updated_at": "2023-12-04T07:45:58.944029+00:00",
+                "username": "Mythical",
+                "valid_from": "2023-12-04T07:46:11.538+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-05 12:30:07+00:00",
+            "data": {
+                "id": "d498d51c-0e6b-4f96-8ca3-2abf1ebbddc5",
+                "updated_at": "2023-12-04T07:45:58.944029+00:00",
+                "username": "Mythical",
+                "valid_from": "2023-12-05T12:23:04.363+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-04 08:00:05+00:00",
+            "data": {
+                "user_id": "d498d51c-0e6b-4f96-8ca3-2abf1ebbddc5",
+                "username": "Mythical",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-04T07:55:15.119313+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 10,
+        "num_solves": 1,
+        "username": "Mythical",
+        "organization_id": 1
+    }
+}

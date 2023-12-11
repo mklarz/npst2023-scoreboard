@@ -1,0 +1,92 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-05 12:30:07+00:00",
+            "data": {
+                "id": "5498dbf9-2dae-40f5-ac22-9fe732b4a1b8",
+                "updated_at": "2023-12-05T12:16:08.707974+00:00",
+                "username": "Enthroner",
+                "valid_from": "2023-12-05T12:17:55.312+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-05 12:30:07+00:00",
+            "data": {
+                "user_id": "5498dbf9-2dae-40f5-ac22-9fe732b4a1b8",
+                "username": "Enthroner",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-05T12:28:26.856199+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 13:45:07+00:00",
+            "data": {
+                "user_id": "5498dbf9-2dae-40f5-ac22-9fe732b4a1b8",
+                "username": "Enthroner",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-05T13:43:48.44102+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 14:00:07+00:00",
+            "data": {
+                "user_id": "5498dbf9-2dae-40f5-ac22-9fe732b4a1b8",
+                "username": "Enthroner",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-05T13:56:30.647039+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 15:00:07+00:00",
+            "data": {
+                "user_id": "5498dbf9-2dae-40f5-ac22-9fe732b4a1b8",
+                "username": "Enthroner",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-05T14:49:46.623751+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 14:00:08+00:00",
+            "data": {
+                "user_id": "5498dbf9-2dae-40f5-ac22-9fe732b4a1b8",
+                "username": "Enthroner",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-06T13:49:00.489546+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 08:45:08+00:00",
+            "data": {
+                "user_id": "5498dbf9-2dae-40f5-ac22-9fe732b4a1b8",
+                "username": "Enthroner",
+                "score": 60,
+                "num_solves": 6,
+                "latest_solve_time": "2023-12-07T08:31:34.799089+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 20:45:09+00:00",
+            "data": {
+                "user_id": "5498dbf9-2dae-40f5-ac22-9fe732b4a1b8",
+                "username": "Enthroner",
+                "score": 70,
+                "num_solves": 7,
+                "latest_solve_time": "2023-12-07T20:40:06.863029+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 70,
+        "num_solves": 7,
+        "username": "Enthroner",
+        "organization_id": 1
+    }
+}

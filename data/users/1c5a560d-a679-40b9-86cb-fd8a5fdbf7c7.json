@@ -1,0 +1,21 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-06 20:45:08+00:00",
+            "data": {
+                "id": "1c5a560d-a679-40b9-86cb-fd8a5fdbf7c7",
+                "updated_at": "2023-12-06T20:40:03.52028+00:00",
+                "username": "gucci",
+                "valid_from": "2023-12-06T20:40:46.837+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [],
+    "current_info": {
+        "score": "?",
+        "num_solves": "?",
+        "username": "gucci",
+        "organization_id": 1
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-02 09:15:03+00:00",
+            "data": {
+                "id": "f8ad6b35-7572-42e0-8b7c-98ab3997469b",
+                "updated_at": "2023-12-02T09:01:36.414939+00:00",
+                "username": "Nightwolf",
+                "valid_from": "2023-12-02T09:02:15.789+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 15:30:06+00:00",
+            "data": {
+                "id": "f8ad6b35-7572-42e0-8b7c-98ab3997469b",
+                "updated_at": "2023-12-02T09:01:36.414939+00:00",
+                "username": "Nightwolf",
+                "valid_from": "2023-12-04T15:27:33.26+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-02 09:15:03+00:00",
+            "data": {
+                "user_id": "f8ad6b35-7572-42e0-8b7c-98ab3997469b",
+                "username": "Nightwolf",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-02T09:12:39.371992+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-02 23:30:04+00:00",
+            "data": {
+                "user_id": "f8ad6b35-7572-42e0-8b7c-98ab3997469b",
+                "username": "Nightwolf",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-02T23:21:07.280805+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 13:45:04+00:00",
+            "data": {
+                "user_id": "f8ad6b35-7572-42e0-8b7c-98ab3997469b",
+                "username": "Nightwolf",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-03T13:31:58.520133+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 21:45:06+00:00",
+            "data": {
+                "user_id": "f8ad6b35-7572-42e0-8b7c-98ab3997469b",
+                "username": "Nightwolf",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-04T21:44:21.412935+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 18:45:06+00:00",
+            "data": {
+                "user_id": "f8ad6b35-7572-42e0-8b7c-98ab3997469b",
+                "username": "Nightwolf",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-05T18:32:34.468619+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 20:45:08+00:00",
+            "data": {
+                "user_id": "f8ad6b35-7572-42e0-8b7c-98ab3997469b",
+                "username": "Nightwolf",
+                "score": 60,
+                "num_solves": 6,
+                "latest_solve_time": "2023-12-06T20:35:40.688017+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 16:00:09+00:00",
+            "data": {
+                "user_id": "f8ad6b35-7572-42e0-8b7c-98ab3997469b",
+                "username": "Nightwolf",
+                "score": 70,
+                "num_solves": 7,
+                "latest_solve_time": "2023-12-07T15:57:46.504125+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-09 17:00:11+00:00",
+            "data": {
+                "user_id": "f8ad6b35-7572-42e0-8b7c-98ab3997469b",
+                "username": "Nightwolf",
+                "score": 80,
+                "num_solves": 8,
+                "latest_solve_time": "2023-12-09T16:48:08.3626+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-10 18:00:11+00:00",
+            "data": {
+                "user_id": "f8ad6b35-7572-42e0-8b7c-98ab3997469b",
+                "username": "Nightwolf",
+                "score": 90,
+                "num_solves": 9,
+                "latest_solve_time": "2023-12-10T17:57:13.946714+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 90,
+        "num_solves": 9,
+        "username": "Nightwolf",
+        "organization_id": 1
+    }
+}

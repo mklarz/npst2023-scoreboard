@@ -1,0 +1,32 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "214b537e-8bfa-449f-89bc-14284d78260a",
+                "updated_at": "2023-12-01T09:15:50.122789+00:00",
+                "username": "MajusDev",
+                "valid_from": "2023-12-01T09:17:11.712+00:00",
+                "organization_id": null
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "user_id": "214b537e-8bfa-449f-89bc-14284d78260a",
+                "username": "MajusDev",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T11:19:54.051831+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 10,
+        "num_solves": 1,
+        "username": "MajusDev",
+        "organization_id": null
+    }
+}

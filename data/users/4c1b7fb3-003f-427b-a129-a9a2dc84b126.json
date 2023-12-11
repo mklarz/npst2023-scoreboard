@@ -1,0 +1,42 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-04 13:00:05+00:00",
+            "data": {
+                "id": "4c1b7fb3-003f-427b-a129-a9a2dc84b126",
+                "updated_at": "2023-12-04T12:46:29.999122+00:00",
+                "username": null,
+                "valid_from": "2023-12-04T12:48:08.357+00:00",
+                "organization_id": 2
+            }
+        },
+        {
+            "timestamp": "2023-12-04 14:15:05+00:00",
+            "data": {
+                "id": "4c1b7fb3-003f-427b-a129-a9a2dc84b126",
+                "updated_at": "2023-12-04T12:46:29.999122+00:00",
+                "username": "Teyrannical",
+                "valid_from": "2023-12-04T14:00:05.663+00:00",
+                "organization_id": 2
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-04 14:15:05+00:00",
+            "data": {
+                "user_id": "4c1b7fb3-003f-427b-a129-a9a2dc84b126",
+                "username": "Teyrannical",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-04T13:58:56.721423+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 20,
+        "num_solves": 2,
+        "username": "Teyrannical",
+        "organization_id": 2
+    }
+}

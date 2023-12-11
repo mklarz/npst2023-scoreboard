@@ -1,0 +1,82 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-08 12:15:09+00:00",
+            "data": {
+                "id": "904166f2-595e-4096-9a0a-7b1b312f0bfb",
+                "updated_at": "2023-12-08T12:06:52.3976+00:00",
+                "username": null,
+                "valid_from": "2023-12-08T12:07:47.034+00:00",
+                "organization_id": 2
+            }
+        },
+        {
+            "timestamp": "2023-12-08 13:00:11+00:00",
+            "data": {
+                "id": "904166f2-595e-4096-9a0a-7b1b312f0bfb",
+                "updated_at": "2023-12-08T12:06:52.3976+00:00",
+                "username": "ABdy26",
+                "valid_from": "2023-12-08T12:47:33.513+00:00",
+                "organization_id": 2
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-08 13:00:11+00:00",
+            "data": {
+                "user_id": "904166f2-595e-4096-9a0a-7b1b312f0bfb",
+                "username": "ABdy26",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-08T12:46:36.451383+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-08 14:00:10+00:00",
+            "data": {
+                "user_id": "904166f2-595e-4096-9a0a-7b1b312f0bfb",
+                "username": "ABdy26",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-08T13:46:33.25789+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-11 11:15:15+00:00",
+            "data": {
+                "user_id": "904166f2-595e-4096-9a0a-7b1b312f0bfb",
+                "username": "ABdy26",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-11T11:11:13.217883+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-11 12:15:15+00:00",
+            "data": {
+                "user_id": "904166f2-595e-4096-9a0a-7b1b312f0bfb",
+                "username": "ABdy26",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-11T12:07:24.27565+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-11 12:45:15+00:00",
+            "data": {
+                "user_id": "904166f2-595e-4096-9a0a-7b1b312f0bfb",
+                "username": "ABdy26",
+                "score": 60,
+                "num_solves": 6,
+                "latest_solve_time": "2023-12-11T12:32:14.128597+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 60,
+        "num_solves": 6,
+        "username": "ABdy26",
+        "organization_id": 2
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 23:45:03+00:00",
+            "data": {
+                "id": "a281d91c-20c9-4d3e-b875-5d5204214367",
+                "updated_at": "2023-12-01T23:40:20.456581+00:00",
+                "username": "MozzarellaMannen",
+                "valid_from": "2023-12-01T23:40:47.186+00:00",
+                "organization_id": null
+            }
+        }
+    ],
+    "scoreboard": [],
+    "current_info": {
+        "score": "?",
+        "num_solves": "?",
+        "username": "MozzarellaMannen",
+        "organization_id": null
+    }
+}

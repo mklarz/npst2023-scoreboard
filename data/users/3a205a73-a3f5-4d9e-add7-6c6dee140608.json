@@ -1,0 +1,41 @@
+{
+    "profile": [],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-09 13:45:10+00:00",
+            "data": {
+                "user_id": "3a205a73-a3f5-4d9e-add7-6c6dee140608",
+                "username": "danseband",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-09T13:35:42.744332+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-09 14:00:10+00:00",
+            "data": {
+                "user_id": "3a205a73-a3f5-4d9e-add7-6c6dee140608",
+                "username": "danseband",
+                "score": 70,
+                "num_solves": 7,
+                "latest_solve_time": "2023-12-09T13:52:21.936272+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-10 13:45:11+00:00",
+            "data": {
+                "user_id": "3a205a73-a3f5-4d9e-add7-6c6dee140608",
+                "username": "danseband",
+                "score": 80,
+                "num_solves": 8,
+                "latest_solve_time": "2023-12-10T13:33:40.930917+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 80,
+        "num_solves": 8,
+        "username": null,
+        "organization_id": null
+    }
+}

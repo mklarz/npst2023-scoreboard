@@ -1,0 +1,122 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 19:00:03+00:00",
+            "data": {
+                "id": "06bb23db-7bd1-444d-ace5-bc190ef05215",
+                "updated_at": "2023-12-01T18:45:36.004272+00:00",
+                "username": "chonk",
+                "valid_from": "2023-12-01T18:46:16.618+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-05 07:00:06+00:00",
+            "data": {
+                "id": "06bb23db-7bd1-444d-ace5-bc190ef05215",
+                "updated_at": "2023-12-01T18:45:36.004272+00:00",
+                "username": "chonk",
+                "valid_from": "2023-12-05T06:45:15.823+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 21:15:03+00:00",
+            "data": {
+                "user_id": "06bb23db-7bd1-444d-ace5-bc190ef05215",
+                "username": "chonk",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T21:01:59.316755+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-02 19:45:03+00:00",
+            "data": {
+                "user_id": "06bb23db-7bd1-444d-ace5-bc190ef05215",
+                "username": "chonk",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-02T19:44:36.023826+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 12:45:04+00:00",
+            "data": {
+                "user_id": "06bb23db-7bd1-444d-ace5-bc190ef05215",
+                "username": "chonk",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-03T12:36:11.204075+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 20:30:07+00:00",
+            "data": {
+                "user_id": "06bb23db-7bd1-444d-ace5-bc190ef05215",
+                "username": "chonk",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-05T20:18:50.062103+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-09 20:30:10+00:00",
+            "data": {
+                "user_id": "06bb23db-7bd1-444d-ace5-bc190ef05215",
+                "username": "chonk",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-09T20:22:20.898055+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-09 21:15:10+00:00",
+            "data": {
+                "user_id": "06bb23db-7bd1-444d-ace5-bc190ef05215",
+                "username": "chonk",
+                "score": 60,
+                "num_solves": 6,
+                "latest_solve_time": "2023-12-09T21:12:23.521438+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-09 23:15:10+00:00",
+            "data": {
+                "user_id": "06bb23db-7bd1-444d-ace5-bc190ef05215",
+                "username": "chonk",
+                "score": 70,
+                "num_solves": 7,
+                "latest_solve_time": "2023-12-09T23:02:00.253213+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-09 23:45:11+00:00",
+            "data": {
+                "user_id": "06bb23db-7bd1-444d-ace5-bc190ef05215",
+                "username": "chonk",
+                "score": 80,
+                "num_solves": 8,
+                "latest_solve_time": "2023-12-09T23:32:48.551912+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-10 17:15:11+00:00",
+            "data": {
+                "user_id": "06bb23db-7bd1-444d-ace5-bc190ef05215",
+                "username": "chonk",
+                "score": 90,
+                "num_solves": 9,
+                "latest_solve_time": "2023-12-10T17:13:52.068534+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 90,
+        "num_solves": 9,
+        "username": "chonk",
+        "organization_id": 1
+    }
+}

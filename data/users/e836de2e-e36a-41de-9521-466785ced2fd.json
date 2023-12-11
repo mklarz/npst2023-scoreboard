@@ -1,0 +1,31 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "e836de2e-e36a-41de-9521-466785ced2fd",
+                "updated_at": "2023-11-30T13:25:16.629301+00:00",
+                "username": null,
+                "valid_from": "2023-11-30T13:25:16.629301+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-05 11:15:06+00:00",
+            "data": {
+                "id": "e836de2e-e36a-41de-9521-466785ced2fd",
+                "updated_at": "2023-11-30T13:25:16.629301+00:00",
+                "username": null,
+                "valid_from": "2023-12-05T11:04:25.507+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [],
+    "current_info": {
+        "score": "?",
+        "num_solves": "?",
+        "username": null,
+        "organization_id": 1
+    }
+}

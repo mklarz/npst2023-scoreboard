@@ -1,0 +1,52 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 21:00:03+00:00",
+            "data": {
+                "id": "7b26b1d8-6a24-4623-b304-7708d8ae32dd",
+                "updated_at": "2023-12-01T20:49:34.09101+00:00",
+                "username": "Silinox",
+                "valid_from": "2023-12-01T20:49:49.083+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-01 21:30:03+00:00",
+            "data": {
+                "id": "7b26b1d8-6a24-4623-b304-7708d8ae32dd",
+                "updated_at": "2023-12-01T20:49:34.09101+00:00",
+                "username": "Krydderbarn",
+                "valid_from": "2023-12-01T21:16:17.848+00:00",
+                "organization_id": null
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 21:30:03+00:00",
+            "data": {
+                "user_id": "7b26b1d8-6a24-4623-b304-7708d8ae32dd",
+                "username": "Krydderbarn",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T21:26:34.306347+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-02 23:15:04+00:00",
+            "data": {
+                "user_id": "7b26b1d8-6a24-4623-b304-7708d8ae32dd",
+                "username": "Krydderbarn",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-02T23:00:43.829308+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 20,
+        "num_solves": 2,
+        "username": "Krydderbarn",
+        "organization_id": null
+    }
+}

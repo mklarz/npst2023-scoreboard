@@ -1,0 +1,102 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "72694b63-35af-4b00-9eea-98351331f30e",
+                "updated_at": "2023-12-01T09:29:21.300078+00:00",
+                "username": "SmokeBox",
+                "valid_from": "2023-12-01T09:29:44.66+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 21:15:05+00:00",
+            "data": {
+                "id": "72694b63-35af-4b00-9eea-98351331f30e",
+                "updated_at": "2023-12-01T09:29:21.300078+00:00",
+                "username": "SmokeBox",
+                "valid_from": "2023-12-04T21:08:05.609+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "user_id": "72694b63-35af-4b00-9eea-98351331f30e",
+                "username": "SmokeBox",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T11:13:51.335589+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-02 14:00:04+00:00",
+            "data": {
+                "user_id": "72694b63-35af-4b00-9eea-98351331f30e",
+                "username": "SmokeBox",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-02T13:47:57.719022+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 13:15:05+00:00",
+            "data": {
+                "user_id": "72694b63-35af-4b00-9eea-98351331f30e",
+                "username": "SmokeBox",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-03T13:03:58.793274+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 21:15:05+00:00",
+            "data": {
+                "user_id": "72694b63-35af-4b00-9eea-98351331f30e",
+                "username": "SmokeBox",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-04T21:10:16.860242+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 19:45:07+00:00",
+            "data": {
+                "user_id": "72694b63-35af-4b00-9eea-98351331f30e",
+                "username": "SmokeBox",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-05T19:36:16.648224+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 12:45:08+00:00",
+            "data": {
+                "user_id": "72694b63-35af-4b00-9eea-98351331f30e",
+                "username": "SmokeBox",
+                "score": 60,
+                "num_solves": 6,
+                "latest_solve_time": "2023-12-06T12:39:00.776521+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 11:15:09+00:00",
+            "data": {
+                "user_id": "72694b63-35af-4b00-9eea-98351331f30e",
+                "username": "SmokeBox",
+                "score": 70,
+                "num_solves": 7,
+                "latest_solve_time": "2023-12-07T11:04:05.577503+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 70,
+        "num_solves": 7,
+        "username": "SmokeBox",
+        "organization_id": 1
+    }
+}

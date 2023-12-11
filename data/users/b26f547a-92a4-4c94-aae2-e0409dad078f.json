@@ -1,0 +1,21 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 20:45:03+00:00",
+            "data": {
+                "id": "b26f547a-92a4-4c94-aae2-e0409dad078f",
+                "updated_at": "2023-12-01T20:42:48.319223+00:00",
+                "username": "hashes",
+                "valid_from": "2023-12-01T20:43:26.264+00:00",
+                "organization_id": null
+            }
+        }
+    ],
+    "scoreboard": [],
+    "current_info": {
+        "score": "?",
+        "num_solves": "?",
+        "username": "hashes",
+        "organization_id": null
+    }
+}

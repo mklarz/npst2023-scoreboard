@@ -1,0 +1,21 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-04 17:30:05+00:00",
+            "data": {
+                "id": "f006b228-f6b3-4fec-84e7-f068f614ce4b",
+                "updated_at": "2023-12-04T17:28:51.820547+00:00",
+                "username": "LasseRee",
+                "valid_from": "2023-12-04T17:29:19.96+00:00",
+                "organization_id": 3
+            }
+        }
+    ],
+    "scoreboard": [],
+    "current_info": {
+        "score": "?",
+        "num_solves": "?",
+        "username": "LasseRee",
+        "organization_id": 3
+    }
+}

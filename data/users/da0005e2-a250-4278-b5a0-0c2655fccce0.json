@@ -1,0 +1,62 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "da0005e2-a250-4278-b5a0-0c2655fccce0",
+                "updated_at": "2023-12-01T08:30:14.557722+00:00",
+                "username": "audsoll",
+                "valid_from": "2023-12-01T08:30:28.815+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 23:00:07+00:00",
+            "data": {
+                "id": "da0005e2-a250-4278-b5a0-0c2655fccce0",
+                "updated_at": "2023-12-01T08:30:14.557722+00:00",
+                "username": "audsoll",
+                "valid_from": "2023-12-04T22:50:11.063+00:00",
+                "organization_id": 3
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "user_id": "da0005e2-a250-4278-b5a0-0c2655fccce0",
+                "username": "audsoll",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T11:07:20.949531+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-02 13:45:04+00:00",
+            "data": {
+                "user_id": "da0005e2-a250-4278-b5a0-0c2655fccce0",
+                "username": "audsoll",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-02T13:43:47.768263+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 13:45:04+00:00",
+            "data": {
+                "user_id": "da0005e2-a250-4278-b5a0-0c2655fccce0",
+                "username": "audsoll",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-03T13:35:21.649882+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 30,
+        "num_solves": 3,
+        "username": "audsoll",
+        "organization_id": 3
+    }
+}

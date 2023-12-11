@@ -1,0 +1,122 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-02 07:45:03+00:00",
+            "data": {
+                "id": "274ac2dd-5296-42b4-baee-425c67f2cd2b",
+                "updated_at": "2023-12-02T07:41:46.451641+00:00",
+                "username": null,
+                "valid_from": "2023-12-02T07:41:46.451641+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-03 08:00:04+00:00",
+            "data": {
+                "id": "274ac2dd-5296-42b4-baee-425c67f2cd2b",
+                "updated_at": "2023-12-02T07:41:46.451641+00:00",
+                "username": "jorge",
+                "valid_from": "2023-12-03T07:54:13.093+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 13:30:05+00:00",
+            "data": {
+                "id": "274ac2dd-5296-42b4-baee-425c67f2cd2b",
+                "updated_at": "2023-12-02T07:41:46.451641+00:00",
+                "username": null,
+                "valid_from": "2023-12-04T13:26:43.874+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 14:00:05+00:00",
+            "data": {
+                "id": "274ac2dd-5296-42b4-baee-425c67f2cd2b",
+                "updated_at": "2023-12-02T07:41:46.451641+00:00",
+                "username": "jorge",
+                "valid_from": "2023-12-04T13:48:23.156+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 14:45:05+00:00",
+            "data": {
+                "id": "274ac2dd-5296-42b4-baee-425c67f2cd2b",
+                "updated_at": "2023-12-02T07:41:46.451641+00:00",
+                "username": "jorge",
+                "valid_from": "2023-12-04T14:31:28.698+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-03 08:00:04+00:00",
+            "data": {
+                "user_id": "274ac2dd-5296-42b4-baee-425c67f2cd2b",
+                "username": "jorge",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-02T12:55:48.893596+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 18:45:04+00:00",
+            "data": {
+                "user_id": "274ac2dd-5296-42b4-baee-425c67f2cd2b",
+                "username": "jorge",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-03T18:36:44.691462+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 14:45:05+00:00",
+            "data": {
+                "user_id": "274ac2dd-5296-42b4-baee-425c67f2cd2b",
+                "username": "jorge",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-04T14:32:26.78849+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 15:15:07+00:00",
+            "data": {
+                "user_id": "274ac2dd-5296-42b4-baee-425c67f2cd2b",
+                "username": "jorge",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-05T15:11:04.44687+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 19:30:08+00:00",
+            "data": {
+                "user_id": "274ac2dd-5296-42b4-baee-425c67f2cd2b",
+                "username": "jorge",
+                "score": 60,
+                "num_solves": 6,
+                "latest_solve_time": "2023-12-06T19:17:07.724356+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 11:15:09+00:00",
+            "data": {
+                "user_id": "274ac2dd-5296-42b4-baee-425c67f2cd2b",
+                "username": "jorge",
+                "score": 70,
+                "num_solves": 7,
+                "latest_solve_time": "2023-12-07T11:12:44.966062+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 70,
+        "num_solves": 7,
+        "username": "jorge",
+        "organization_id": 1
+    }
+}

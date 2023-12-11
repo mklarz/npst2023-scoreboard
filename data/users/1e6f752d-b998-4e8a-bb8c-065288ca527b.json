@@ -1,0 +1,31 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "1e6f752d-b998-4e8a-bb8c-065288ca527b",
+                "updated_at": "2023-12-01T07:45:18.906821+00:00",
+                "username": "DeSantis' little helper",
+                "valid_from": "2023-12-01T07:45:45.37+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-05 07:45:07+00:00",
+            "data": {
+                "id": "1e6f752d-b998-4e8a-bb8c-065288ca527b",
+                "updated_at": "2023-12-01T07:45:18.906821+00:00",
+                "username": "DeSantis' little helper",
+                "valid_from": "2023-12-05T07:38:54.208+00:00",
+                "organization_id": 2
+            }
+        }
+    ],
+    "scoreboard": [],
+    "current_info": {
+        "score": "?",
+        "num_solves": "?",
+        "username": "DeSantis' little helper",
+        "organization_id": 2
+    }
+}

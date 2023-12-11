@@ -1,0 +1,152 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-04 13:30:05+00:00",
+            "data": {
+                "id": "9a8cb007-71b9-4bf6-9dc6-c802733057cd",
+                "updated_at": "2023-12-04T13:22:40.784212+00:00",
+                "username": "sebmax",
+                "valid_from": "2023-12-04T13:25:51.875+00:00",
+                "organization_id": 2
+            }
+        },
+        {
+            "timestamp": "2023-12-05 16:45:07+00:00",
+            "data": {
+                "id": "9a8cb007-71b9-4bf6-9dc6-c802733057cd",
+                "updated_at": "2023-12-04T13:22:40.784212+00:00",
+                "username": "CISK reinsdyr",
+                "valid_from": "2023-12-05T16:33:37.131+00:00",
+                "organization_id": 2
+            }
+        },
+        {
+            "timestamp": "2023-12-05 19:00:07+00:00",
+            "data": {
+                "id": "9a8cb007-71b9-4bf6-9dc6-c802733057cd",
+                "updated_at": "2023-12-04T13:22:40.784212+00:00",
+                "username": "CISK HAPPY",
+                "valid_from": "2023-12-05T18:54:36.307+00:00",
+                "organization_id": 2
+            }
+        },
+        {
+            "timestamp": "2023-12-05 19:15:07+00:00",
+            "data": {
+                "id": "9a8cb007-71b9-4bf6-9dc6-c802733057cd",
+                "updated_at": "2023-12-04T13:22:40.784212+00:00",
+                "username": "CISK SPYRO",
+                "valid_from": "2023-12-05T19:00:29.898+00:00",
+                "organization_id": 2
+            }
+        },
+        {
+            "timestamp": "2023-12-07 12:45:08+00:00",
+            "data": {
+                "id": "9a8cb007-71b9-4bf6-9dc6-c802733057cd",
+                "updated_at": "2023-12-04T13:22:40.784212+00:00",
+                "username": " [CISK] SPYRO",
+                "valid_from": "2023-12-07T12:32:49.361+00:00",
+                "organization_id": 2
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-04 13:45:05+00:00",
+            "data": {
+                "user_id": "9a8cb007-71b9-4bf6-9dc6-c802733057cd",
+                "username": "sebmax",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-04T13:34:42.963751+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 14:45:05+00:00",
+            "data": {
+                "user_id": "9a8cb007-71b9-4bf6-9dc6-c802733057cd",
+                "username": "sebmax",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-04T14:31:54.217312+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 15:00:06+00:00",
+            "data": {
+                "user_id": "9a8cb007-71b9-4bf6-9dc6-c802733057cd",
+                "username": "sebmax",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-04T14:55:58.51519+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 16:45:07+00:00",
+            "data": {
+                "user_id": "9a8cb007-71b9-4bf6-9dc6-c802733057cd",
+                "username": "CISK reinsdyr",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-04T14:55:58.51519+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 17:15:08+00:00",
+            "data": {
+                "user_id": "9a8cb007-71b9-4bf6-9dc6-c802733057cd",
+                "username": "CISK reinsdyr",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-05T17:10:37.187699+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 19:00:07+00:00",
+            "data": {
+                "user_id": "9a8cb007-71b9-4bf6-9dc6-c802733057cd",
+                "username": "CISK HAPPY",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-05T18:49:31.30628+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 19:15:07+00:00",
+            "data": {
+                "user_id": "9a8cb007-71b9-4bf6-9dc6-c802733057cd",
+                "username": "CISK SPYRO",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-05T18:49:31.30628+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 12:45:08+00:00",
+            "data": {
+                "user_id": "9a8cb007-71b9-4bf6-9dc6-c802733057cd",
+                "username": " [CISK] SPYRO",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-05T18:49:31.30628+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 14:30:08+00:00",
+            "data": {
+                "user_id": "9a8cb007-71b9-4bf6-9dc6-c802733057cd",
+                "username": " [CISK] SPYRO",
+                "score": 60,
+                "num_solves": 6,
+                "latest_solve_time": "2023-12-07T14:25:15.329493+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 60,
+        "num_solves": 6,
+        "username": " [CISK] SPYRO",
+        "organization_id": 2
+    }
+}

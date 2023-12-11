@@ -1,0 +1,21 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-08 11:15:09+00:00",
+            "data": {
+                "id": "d0dbb7d6-cd6d-4830-b39c-71ccc02a8651",
+                "updated_at": "2023-12-08T11:00:33.272548+00:00",
+                "username": "RazeStation",
+                "valid_from": "2023-12-08T11:03:13.349+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [],
+    "current_info": {
+        "score": "?",
+        "num_solves": "?",
+        "username": "RazeStation",
+        "organization_id": 1
+    }
+}

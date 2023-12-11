@@ -1,0 +1,62 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "6faa3c14-b1dc-48ba-b482-5be7930357f7",
+                "updated_at": "2023-11-30T21:22:20.380233+00:00",
+                "username": null,
+                "valid_from": "2023-11-30T21:22:20.380233+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-01 19:30:03+00:00",
+            "data": {
+                "id": "6faa3c14-b1dc-48ba-b482-5be7930357f7",
+                "updated_at": "2023-11-30T21:22:20.380233+00:00",
+                "username": "Wazzah",
+                "valid_from": "2023-12-01T19:25:13.709+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-05 08:00:06+00:00",
+            "data": {
+                "id": "6faa3c14-b1dc-48ba-b482-5be7930357f7",
+                "updated_at": "2023-11-30T21:22:20.380233+00:00",
+                "username": "Wazzah",
+                "valid_from": "2023-12-05T07:56:07.33+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 19:30:03+00:00",
+            "data": {
+                "user_id": "6faa3c14-b1dc-48ba-b482-5be7930357f7",
+                "username": "Wazzah",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T19:24:23.444572+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 15:30:09+00:00",
+            "data": {
+                "user_id": "6faa3c14-b1dc-48ba-b482-5be7930357f7",
+                "username": "Wazzah",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-07T15:21:53.126537+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 20,
+        "num_solves": 2,
+        "username": "Wazzah",
+        "organization_id": 1
+    }
+}

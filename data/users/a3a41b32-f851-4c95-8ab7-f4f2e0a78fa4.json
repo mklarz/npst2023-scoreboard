@@ -1,0 +1,72 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "a3a41b32-f851-4c95-8ab7-f4f2e0a78fa4",
+                "updated_at": "2023-12-01T11:39:37.457356+00:00",
+                "username": "mumrikken",
+                "valid_from": "2023-12-01T11:39:57.283+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-05 07:45:07+00:00",
+            "data": {
+                "id": "a3a41b32-f851-4c95-8ab7-f4f2e0a78fa4",
+                "updated_at": "2023-12-01T11:39:37.457356+00:00",
+                "username": "mumrikken",
+                "valid_from": "2023-12-05T07:41:01.275+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 14:15:03+00:00",
+            "data": {
+                "user_id": "a3a41b32-f851-4c95-8ab7-f4f2e0a78fa4",
+                "username": "mumrikken",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T14:05:15.44809+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 11:30:05+00:00",
+            "data": {
+                "user_id": "a3a41b32-f851-4c95-8ab7-f4f2e0a78fa4",
+                "username": "mumrikken",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-04T11:19:28.696628+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 13:45:05+00:00",
+            "data": {
+                "user_id": "a3a41b32-f851-4c95-8ab7-f4f2e0a78fa4",
+                "username": "mumrikken",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-04T13:36:21.932126+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-10 09:30:10+00:00",
+            "data": {
+                "user_id": "a3a41b32-f851-4c95-8ab7-f4f2e0a78fa4",
+                "username": "mumrikken",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-10T09:28:33.928365+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 40,
+        "num_solves": 4,
+        "username": "mumrikken",
+        "organization_id": 1
+    }
+}

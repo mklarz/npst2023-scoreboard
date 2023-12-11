@@ -1,0 +1,72 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 23:45:03+00:00",
+            "data": {
+                "id": "0b75e1a2-9dfc-408f-a7fc-8bf65f1c5f1d",
+                "updated_at": "2023-12-01T23:34:54.025607+00:00",
+                "username": "yiling",
+                "valid_from": "2023-12-01T23:35:23.801+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-02 00:15:03+00:00",
+            "data": {
+                "id": "0b75e1a2-9dfc-408f-a7fc-8bf65f1c5f1d",
+                "updated_at": "2023-12-01T23:34:54.025607+00:00",
+                "username": "joling",
+                "valid_from": "2023-12-02T00:00:05.387+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-05 13:15:07+00:00",
+            "data": {
+                "id": "0b75e1a2-9dfc-408f-a7fc-8bf65f1c5f1d",
+                "updated_at": "2023-12-01T23:34:54.025607+00:00",
+                "username": "joling",
+                "valid_from": "2023-12-05T13:05:10.893+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-02 00:00:03+00:00",
+            "data": {
+                "user_id": "0b75e1a2-9dfc-408f-a7fc-8bf65f1c5f1d",
+                "username": "yiling",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T23:54:54.596042+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-02 00:15:03+00:00",
+            "data": {
+                "user_id": "0b75e1a2-9dfc-408f-a7fc-8bf65f1c5f1d",
+                "username": "joling",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T23:54:54.596042+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-02 15:00:04+00:00",
+            "data": {
+                "user_id": "0b75e1a2-9dfc-408f-a7fc-8bf65f1c5f1d",
+                "username": "joling",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-02T14:57:50.160452+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 20,
+        "num_solves": 2,
+        "username": "joling",
+        "organization_id": 1
+    }
+}

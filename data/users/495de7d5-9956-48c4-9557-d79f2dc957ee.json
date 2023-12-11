@@ -1,0 +1,21 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-04 19:45:05+00:00",
+            "data": {
+                "id": "495de7d5-9956-48c4-9557-d79f2dc957ee",
+                "updated_at": "2023-12-04T19:43:21.858201+00:00",
+                "username": "Pettho",
+                "valid_from": "2023-12-04T19:44:21.68+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [],
+    "current_info": {
+        "score": "?",
+        "num_solves": "?",
+        "username": "Pettho",
+        "organization_id": 1
+    }
+}

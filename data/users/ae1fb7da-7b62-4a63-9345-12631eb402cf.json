@@ -1,0 +1,72 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "ae1fb7da-7b62-4a63-9345-12631eb402cf",
+                "updated_at": "2023-11-30T21:50:58.541354+00:00",
+                "username": null,
+                "valid_from": "2023-11-30T21:50:58.541354+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-02 15:15:04+00:00",
+            "data": {
+                "id": "ae1fb7da-7b62-4a63-9345-12631eb402cf",
+                "updated_at": "2023-11-30T21:50:58.541354+00:00",
+                "username": "Georg",
+                "valid_from": "2023-12-02T15:01:42.929+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-10 17:30:11+00:00",
+            "data": {
+                "id": "ae1fb7da-7b62-4a63-9345-12631eb402cf",
+                "updated_at": "2023-11-30T21:50:58.541354+00:00",
+                "username": "Georg",
+                "valid_from": "2023-12-10T17:20:15.451+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-02 15:15:04+00:00",
+            "data": {
+                "user_id": "ae1fb7da-7b62-4a63-9345-12631eb402cf",
+                "username": "Georg",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T14:32:51.2886+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-10 19:30:15+00:00",
+            "data": {
+                "user_id": "ae1fb7da-7b62-4a63-9345-12631eb402cf",
+                "username": "Georg",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-10T19:27:35.081461+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-10 22:00:15+00:00",
+            "data": {
+                "user_id": "ae1fb7da-7b62-4a63-9345-12631eb402cf",
+                "username": "Georg",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-10T21:45:03.094307+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 30,
+        "num_solves": 3,
+        "username": "Georg",
+        "organization_id": 1
+    }
+}

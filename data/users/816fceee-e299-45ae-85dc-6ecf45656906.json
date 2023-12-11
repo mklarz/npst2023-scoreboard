@@ -1,0 +1,92 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "816fceee-e299-45ae-85dc-6ecf45656906",
+                "updated_at": "2023-12-01T09:04:55.029337+00:00",
+                "username": "Dataslask",
+                "valid_from": "2023-12-01T09:05:30.25+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 18:45:05+00:00",
+            "data": {
+                "id": "816fceee-e299-45ae-85dc-6ecf45656906",
+                "updated_at": "2023-12-01T09:04:55.029337+00:00",
+                "username": "Dataslask",
+                "valid_from": "2023-12-04T18:44:26.668+00:00",
+                "organization_id": 2
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "user_id": "816fceee-e299-45ae-85dc-6ecf45656906",
+                "username": "Dataslask",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T11:23:53.182445+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 08:30:05+00:00",
+            "data": {
+                "user_id": "816fceee-e299-45ae-85dc-6ecf45656906",
+                "username": "Dataslask",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-04T08:19:29.803876+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 08:30:07+00:00",
+            "data": {
+                "user_id": "816fceee-e299-45ae-85dc-6ecf45656906",
+                "username": "Dataslask",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-05T08:26:10.368236+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 05:30:08+00:00",
+            "data": {
+                "user_id": "816fceee-e299-45ae-85dc-6ecf45656906",
+                "username": "Dataslask",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-07T05:24:37.066338+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 06:30:08+00:00",
+            "data": {
+                "user_id": "816fceee-e299-45ae-85dc-6ecf45656906",
+                "username": "Dataslask",
+                "score": 60,
+                "num_solves": 6,
+                "latest_solve_time": "2023-12-07T06:18:14.107786+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-08 08:00:09+00:00",
+            "data": {
+                "user_id": "816fceee-e299-45ae-85dc-6ecf45656906",
+                "username": "Dataslask",
+                "score": 70,
+                "num_solves": 7,
+                "latest_solve_time": "2023-12-08T07:54:30.514724+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 70,
+        "num_solves": 7,
+        "username": "Dataslask",
+        "organization_id": 2
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-04 19:45:05+00:00",
+            "data": {
+                "id": "a625e3ec-4315-4837-9cf6-05c4268e86e0",
+                "updated_at": "2023-12-04T19:44:35.691334+00:00",
+                "username": "vetlegrottheim",
+                "valid_from": "2023-12-04T19:44:54.137+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 20:45:05+00:00",
+            "data": {
+                "id": "a625e3ec-4315-4837-9cf6-05c4268e86e0",
+                "updated_at": "2023-12-04T19:44:35.691334+00:00",
+                "username": "vetleg",
+                "valid_from": "2023-12-04T20:44:09.559+00:00",
+                "organization_id": 2
+            }
+        }
+    ],
+    "scoreboard": [],
+    "current_info": {
+        "score": "?",
+        "num_solves": "?",
+        "username": "vetleg",
+        "organization_id": 2
+    }
+}

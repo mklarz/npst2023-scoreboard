@@ -1,0 +1,72 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "433cf1e2-5e2b-4692-9463-2a84db97faa1",
+                "updated_at": "2023-11-30T15:02:27.643646+00:00",
+                "username": "oyber",
+                "valid_from": "2023-11-30T15:02:42.742+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 16:15:06+00:00",
+            "data": {
+                "id": "433cf1e2-5e2b-4692-9463-2a84db97faa1",
+                "updated_at": "2023-11-30T15:02:27.643646+00:00",
+                "username": "oyber",
+                "valid_from": "2023-12-04T16:00:20.267+00:00",
+                "organization_id": 2
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 22:00:03+00:00",
+            "data": {
+                "user_id": "433cf1e2-5e2b-4692-9463-2a84db97faa1",
+                "username": "oyber",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T21:46:48.907405+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-02 20:00:04+00:00",
+            "data": {
+                "user_id": "433cf1e2-5e2b-4692-9463-2a84db97faa1",
+                "username": "oyber",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-02T19:49:26.712272+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 08:30:07+00:00",
+            "data": {
+                "user_id": "433cf1e2-5e2b-4692-9463-2a84db97faa1",
+                "username": "oyber",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-05T08:15:08.737954+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 21:30:07+00:00",
+            "data": {
+                "user_id": "433cf1e2-5e2b-4692-9463-2a84db97faa1",
+                "username": "oyber",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-05T21:21:45.214835+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 40,
+        "num_solves": 4,
+        "username": "oyber",
+        "organization_id": 2
+    }
+}

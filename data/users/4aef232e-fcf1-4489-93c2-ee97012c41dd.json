@@ -1,0 +1,82 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-02 21:15:03+00:00",
+            "data": {
+                "id": "4aef232e-fcf1-4489-93c2-ee97012c41dd",
+                "updated_at": "2023-12-02T21:07:21.392687+00:00",
+                "username": "GuitarHill",
+                "valid_from": "2023-12-02T21:07:43.061+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 14:45:05+00:00",
+            "data": {
+                "id": "4aef232e-fcf1-4489-93c2-ee97012c41dd",
+                "updated_at": "2023-12-02T21:07:21.392687+00:00",
+                "username": "GuitarHill",
+                "valid_from": "2023-12-04T14:33:25.694+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-02 22:30:04+00:00",
+            "data": {
+                "user_id": "4aef232e-fcf1-4489-93c2-ee97012c41dd",
+                "username": "GuitarHill",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-02T22:18:13.080611+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-02 23:00:05+00:00",
+            "data": {
+                "user_id": "4aef232e-fcf1-4489-93c2-ee97012c41dd",
+                "username": "GuitarHill",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-02T22:52:08.765252+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 21:00:05+00:00",
+            "data": {
+                "user_id": "4aef232e-fcf1-4489-93c2-ee97012c41dd",
+                "username": "GuitarHill",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-03T20:52:59.046916+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 13:45:08+00:00",
+            "data": {
+                "user_id": "4aef232e-fcf1-4489-93c2-ee97012c41dd",
+                "username": "GuitarHill",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-06T13:36:00.690404+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 18:00:09+00:00",
+            "data": {
+                "user_id": "4aef232e-fcf1-4489-93c2-ee97012c41dd",
+                "username": "GuitarHill",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-07T17:57:36.049651+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 50,
+        "num_solves": 5,
+        "username": "GuitarHill",
+        "organization_id": 1
+    }
+}

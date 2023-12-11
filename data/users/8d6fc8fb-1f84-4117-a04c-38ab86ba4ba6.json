@@ -1,0 +1,32 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 16:45:03+00:00",
+            "data": {
+                "id": "8d6fc8fb-1f84-4117-a04c-38ab86ba4ba6",
+                "updated_at": "2023-12-01T16:30:17.239702+00:00",
+                "username": "PanRagon",
+                "valid_from": "2023-12-01T16:30:25.396+00:00",
+                "organization_id": null
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 16:45:03+00:00",
+            "data": {
+                "user_id": "8d6fc8fb-1f84-4117-a04c-38ab86ba4ba6",
+                "username": "PanRagon",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T16:41:00.136125+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 10,
+        "num_solves": 1,
+        "username": "PanRagon",
+        "organization_id": null
+    }
+}

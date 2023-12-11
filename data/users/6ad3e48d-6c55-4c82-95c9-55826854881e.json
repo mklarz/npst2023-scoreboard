@@ -1,0 +1,72 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-07 15:45:08+00:00",
+            "data": {
+                "id": "6ad3e48d-6c55-4c82-95c9-55826854881e",
+                "updated_at": "2023-12-07T15:31:09.041875+00:00",
+                "username": "Mort1",
+                "valid_from": "2023-12-07T15:31:34.616+00:00",
+                "organization_id": 3
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-07 15:45:08+00:00",
+            "data": {
+                "user_id": "6ad3e48d-6c55-4c82-95c9-55826854881e",
+                "username": "Mort1",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-07T15:37:05.424779+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-08 19:15:09+00:00",
+            "data": {
+                "user_id": "6ad3e48d-6c55-4c82-95c9-55826854881e",
+                "username": "Mort1",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-08T19:02:08.854809+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-11 07:30:15+00:00",
+            "data": {
+                "user_id": "6ad3e48d-6c55-4c82-95c9-55826854881e",
+                "username": "Mort1",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-11T07:21:54.658498+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-11 09:00:16+00:00",
+            "data": {
+                "user_id": "6ad3e48d-6c55-4c82-95c9-55826854881e",
+                "username": "Mort1",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-11T08:57:20.36662+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-11 13:15:15+00:00",
+            "data": {
+                "user_id": "6ad3e48d-6c55-4c82-95c9-55826854881e",
+                "username": "Mort1",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-11T13:09:38.868045+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 50,
+        "num_solves": 5,
+        "username": "Mort1",
+        "organization_id": 3
+    }
+}

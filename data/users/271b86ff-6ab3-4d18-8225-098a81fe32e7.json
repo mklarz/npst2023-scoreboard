@@ -1,0 +1,62 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-02 07:45:03+00:00",
+            "data": {
+                "id": "271b86ff-6ab3-4d18-8225-098a81fe32e7",
+                "updated_at": "2023-12-02T07:36:06.295713+00:00",
+                "username": "niebak",
+                "valid_from": "2023-12-02T07:35:59.144+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 15:30:06+00:00",
+            "data": {
+                "id": "271b86ff-6ab3-4d18-8225-098a81fe32e7",
+                "updated_at": "2023-12-02T07:36:06.295713+00:00",
+                "username": "niebak",
+                "valid_from": "2023-12-04T15:20:48.769+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 15:45:05+00:00",
+            "data": {
+                "id": "271b86ff-6ab3-4d18-8225-098a81fe32e7",
+                "updated_at": "2023-12-02T07:36:06.295713+00:00",
+                "username": "niebak",
+                "valid_from": "2023-12-04T15:42:15.796+00:00",
+                "organization_id": 2
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-02 08:00:04+00:00",
+            "data": {
+                "user_id": "271b86ff-6ab3-4d18-8225-098a81fe32e7",
+                "username": "niebak",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-02T07:56:37.683074+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 18:15:06+00:00",
+            "data": {
+                "user_id": "271b86ff-6ab3-4d18-8225-098a81fe32e7",
+                "username": "niebak",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-04T18:11:51.701165+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 20,
+        "num_solves": 2,
+        "username": "niebak",
+        "organization_id": 2
+    }
+}

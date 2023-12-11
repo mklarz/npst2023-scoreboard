@@ -1,0 +1,72 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-02 10:00:03+00:00",
+            "data": {
+                "id": "d1d68bcf-424f-4763-9580-baeec6e93a20",
+                "updated_at": "2023-12-02T09:58:37.321481+00:00",
+                "username": null,
+                "valid_from": "2023-12-02T09:58:37.321481+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-02 10:15:03+00:00",
+            "data": {
+                "id": "d1d68bcf-424f-4763-9580-baeec6e93a20",
+                "updated_at": "2023-12-02T09:58:37.321481+00:00",
+                "username": "\u2605\u5f61\u2605\u5f61",
+                "valid_from": "2023-12-02T10:00:09.144+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-02 17:00:04+00:00",
+            "data": {
+                "id": "d1d68bcf-424f-4763-9580-baeec6e93a20",
+                "updated_at": "2023-12-02T09:58:37.321481+00:00",
+                "username": "\u2605\u30df\u2605\u30df",
+                "valid_from": "2023-12-02T16:59:50.96+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 18:45:05+00:00",
+            "data": {
+                "id": "d1d68bcf-424f-4763-9580-baeec6e93a20",
+                "updated_at": "2023-12-02T09:58:37.321481+00:00",
+                "username": "\u2605\u30df\u2605\u30df",
+                "valid_from": "2023-12-04T18:34:59.337+00:00",
+                "organization_id": 2
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-02 16:30:04+00:00",
+            "data": {
+                "user_id": "d1d68bcf-424f-4763-9580-baeec6e93a20",
+                "username": "\u2605\u5f61\u2605\u5f61",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-02T16:29:00.490545+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-02 17:00:04+00:00",
+            "data": {
+                "user_id": "d1d68bcf-424f-4763-9580-baeec6e93a20",
+                "username": "\u2605\u30df\u2605\u30df",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-02T16:59:08.850012+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 20,
+        "num_solves": 2,
+        "username": "\u2605\u30df\u2605\u30df",
+        "organization_id": 2
+    }
+}

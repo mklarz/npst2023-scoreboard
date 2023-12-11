@@ -1,0 +1,32 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-08 08:30:09+00:00",
+            "data": {
+                "id": "3aa9734f-217a-4089-969f-62c61f2c4d39",
+                "updated_at": "2023-12-08T08:26:24.101828+00:00",
+                "username": "Zahlborg",
+                "valid_from": "2023-12-08T08:27:45.291+00:00",
+                "organization_id": 3
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-08 08:45:09+00:00",
+            "data": {
+                "user_id": "3aa9734f-217a-4089-969f-62c61f2c4d39",
+                "username": "Zahlborg",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-08T08:36:41.088828+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 10,
+        "num_solves": 1,
+        "username": "Zahlborg",
+        "organization_id": 3
+    }
+}

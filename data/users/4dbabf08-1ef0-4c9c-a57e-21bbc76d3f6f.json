@@ -1,0 +1,132 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-02 10:45:03+00:00",
+            "data": {
+                "id": "4dbabf08-1ef0-4c9c-a57e-21bbc76d3f6f",
+                "updated_at": "2023-12-02T10:44:01.964258+00:00",
+                "username": null,
+                "valid_from": "2023-12-02T10:44:01.964258+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-02 11:00:03+00:00",
+            "data": {
+                "id": "4dbabf08-1ef0-4c9c-a57e-21bbc76d3f6f",
+                "updated_at": "2023-12-02T10:44:01.964258+00:00",
+                "username": "MONOKROM GOMLER",
+                "valid_from": "2023-12-02T10:45:17.959+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-02 14:15:04+00:00",
+            "data": {
+                "id": "4dbabf08-1ef0-4c9c-a57e-21bbc76d3f6f",
+                "updated_at": "2023-12-02T10:44:01.964258+00:00",
+                "username": "MonokromGomler",
+                "valid_from": "2023-12-02T14:01:21.001+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 12:45:05+00:00",
+            "data": {
+                "id": "4dbabf08-1ef0-4c9c-a57e-21bbc76d3f6f",
+                "updated_at": "2023-12-02T10:44:01.964258+00:00",
+                "username": "MonokromGomler",
+                "valid_from": "2023-12-04T12:44:54.219+00:00",
+                "organization_id": 1
+            }
+        },
+        {
+            "timestamp": "2023-12-05 21:00:07+00:00",
+            "data": {
+                "id": "4dbabf08-1ef0-4c9c-a57e-21bbc76d3f6f",
+                "updated_at": "2023-12-02T10:44:01.964258+00:00",
+                "username": "MonokromGomler",
+                "valid_from": "2023-12-05T20:53:39.629+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-03 09:00:04+00:00",
+            "data": {
+                "user_id": "4dbabf08-1ef0-4c9c-a57e-21bbc76d3f6f",
+                "username": "MonokromGomler",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-03T08:46:13.99591+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 19:15:04+00:00",
+            "data": {
+                "user_id": "4dbabf08-1ef0-4c9c-a57e-21bbc76d3f6f",
+                "username": "MonokromGomler",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-03T19:11:41.88431+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 12:00:05+00:00",
+            "data": {
+                "user_id": "4dbabf08-1ef0-4c9c-a57e-21bbc76d3f6f",
+                "username": "MonokromGomler",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-04T11:55:33.597377+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 19:30:07+00:00",
+            "data": {
+                "user_id": "4dbabf08-1ef0-4c9c-a57e-21bbc76d3f6f",
+                "username": "MonokromGomler",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-05T19:18:15.833407+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 21:00:07+00:00",
+            "data": {
+                "user_id": "4dbabf08-1ef0-4c9c-a57e-21bbc76d3f6f",
+                "username": "MonokromGomler",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-05T20:54:23.568864+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 20:15:08+00:00",
+            "data": {
+                "user_id": "4dbabf08-1ef0-4c9c-a57e-21bbc76d3f6f",
+                "username": "MonokromGomler",
+                "score": 60,
+                "num_solves": 6,
+                "latest_solve_time": "2023-12-06T20:12:09.600436+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 11:45:08+00:00",
+            "data": {
+                "user_id": "4dbabf08-1ef0-4c9c-a57e-21bbc76d3f6f",
+                "username": "MonokromGomler",
+                "score": 70,
+                "num_solves": 7,
+                "latest_solve_time": "2023-12-07T11:42:46.856176+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 70,
+        "num_solves": 7,
+        "username": "MonokromGomler",
+        "organization_id": 1
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:30:03+00:00",
+            "data": {
+                "id": "4dd3a910-c11d-45c5-b46b-d5e0430c5ec4",
+                "updated_at": "2023-12-01T12:21:43.379056+00:00",
+                "username": "Kine KE",
+                "valid_from": "2023-12-01T12:22:09.815+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-05 01:00:06+00:00",
+            "data": {
+                "id": "4dd3a910-c11d-45c5-b46b-d5e0430c5ec4",
+                "updated_at": "2023-12-01T12:21:43.379056+00:00",
+                "username": "Kine KE",
+                "valid_from": "2023-12-05T00:53:23.988+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [],
+    "current_info": {
+        "score": "?",
+        "num_solves": "?",
+        "username": "Kine KE",
+        "organization_id": 1
+    }
+}

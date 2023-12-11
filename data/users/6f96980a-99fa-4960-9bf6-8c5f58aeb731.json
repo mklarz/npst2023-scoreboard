@@ -1,0 +1,122 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "6f96980a-99fa-4960-9bf6-8c5f58aeb731",
+                "updated_at": "2023-11-30T15:59:59.102063+00:00",
+                "username": "Varcella",
+                "valid_from": "2023-11-30T16:00:06.552+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-05 07:00:06+00:00",
+            "data": {
+                "id": "6f96980a-99fa-4960-9bf6-8c5f58aeb731",
+                "updated_at": "2023-11-30T15:59:59.102063+00:00",
+                "username": "Varcella",
+                "valid_from": "2023-12-05T06:58:44.968+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "user_id": "6f96980a-99fa-4960-9bf6-8c5f58aeb731",
+                "username": "Varcella",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T11:05:21.960719+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-02 12:45:03+00:00",
+            "data": {
+                "user_id": "6f96980a-99fa-4960-9bf6-8c5f58aeb731",
+                "username": "Varcella",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-02T12:44:05.931398+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 16:30:05+00:00",
+            "data": {
+                "user_id": "6f96980a-99fa-4960-9bf6-8c5f58aeb731",
+                "username": "Varcella",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-03T16:16:17.533422+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 11:45:05+00:00",
+            "data": {
+                "user_id": "6f96980a-99fa-4960-9bf6-8c5f58aeb731",
+                "username": "Varcella",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-04T11:32:36.090178+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 14:15:07+00:00",
+            "data": {
+                "user_id": "6f96980a-99fa-4960-9bf6-8c5f58aeb731",
+                "username": "Varcella",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-05T14:06:04.720144+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 11:30:08+00:00",
+            "data": {
+                "user_id": "6f96980a-99fa-4960-9bf6-8c5f58aeb731",
+                "username": "Varcella",
+                "score": 60,
+                "num_solves": 6,
+                "latest_solve_time": "2023-12-06T11:28:00.312133+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-08 08:15:09+00:00",
+            "data": {
+                "user_id": "6f96980a-99fa-4960-9bf6-8c5f58aeb731",
+                "username": "Varcella",
+                "score": 70,
+                "num_solves": 7,
+                "latest_solve_time": "2023-12-08T08:12:17.127275+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-09 22:45:10+00:00",
+            "data": {
+                "user_id": "6f96980a-99fa-4960-9bf6-8c5f58aeb731",
+                "username": "Varcella",
+                "score": 80,
+                "num_solves": 8,
+                "latest_solve_time": "2023-12-09T22:30:57.758597+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-10 22:15:14+00:00",
+            "data": {
+                "user_id": "6f96980a-99fa-4960-9bf6-8c5f58aeb731",
+                "username": "Varcella",
+                "score": 90,
+                "num_solves": 9,
+                "latest_solve_time": "2023-12-10T22:03:08.243642+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 90,
+        "num_solves": 9,
+        "username": "Varcella",
+        "organization_id": 1
+    }
+}

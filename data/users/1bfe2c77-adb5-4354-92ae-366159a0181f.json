@@ -1,0 +1,42 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "1bfe2c77-adb5-4354-92ae-366159a0181f",
+                "updated_at": "2023-12-01T08:13:29.698492+00:00",
+                "username": "AsianAce",
+                "valid_from": "2023-12-01T08:13:43.084+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 18:15:06+00:00",
+            "data": {
+                "id": "1bfe2c77-adb5-4354-92ae-366159a0181f",
+                "updated_at": "2023-12-01T08:13:29.698492+00:00",
+                "username": "AsianAce",
+                "valid_from": "2023-12-04T18:00:52.049+00:00",
+                "organization_id": 2
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "user_id": "1bfe2c77-adb5-4354-92ae-366159a0181f",
+                "username": "AsianAce",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T11:31:56.565921+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 10,
+        "num_solves": 1,
+        "username": "AsianAce",
+        "organization_id": 2
+    }
+}

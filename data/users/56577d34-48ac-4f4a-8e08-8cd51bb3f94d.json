@@ -1,0 +1,72 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-04 11:45:05+00:00",
+            "data": {
+                "id": "56577d34-48ac-4f4a-8e08-8cd51bb3f94d",
+                "updated_at": "2023-12-04T11:36:44.885954+00:00",
+                "username": "lektorstai",
+                "valid_from": "2023-12-04T11:37:02.129+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 13:00:05+00:00",
+            "data": {
+                "id": "56577d34-48ac-4f4a-8e08-8cd51bb3f94d",
+                "updated_at": "2023-12-04T11:36:44.885954+00:00",
+                "username": "lektorstai",
+                "valid_from": "2023-12-04T12:53:05.131+00:00",
+                "organization_id": 3
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-04 13:15:05+00:00",
+            "data": {
+                "user_id": "56577d34-48ac-4f4a-8e08-8cd51bb3f94d",
+                "username": "lektorstai",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-04T13:14:15.04369+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 13:45:05+00:00",
+            "data": {
+                "user_id": "56577d34-48ac-4f4a-8e08-8cd51bb3f94d",
+                "username": "lektorstai",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-04T13:31:33.019913+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 18:30:07+00:00",
+            "data": {
+                "user_id": "56577d34-48ac-4f4a-8e08-8cd51bb3f94d",
+                "username": "lektorstai",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-04T18:22:39.705638+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 20:00:05+00:00",
+            "data": {
+                "user_id": "56577d34-48ac-4f4a-8e08-8cd51bb3f94d",
+                "username": "lektorstai",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-04T19:58:57.777469+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 40,
+        "num_solves": 4,
+        "username": "lektorstai",
+        "organization_id": 3
+    }
+}

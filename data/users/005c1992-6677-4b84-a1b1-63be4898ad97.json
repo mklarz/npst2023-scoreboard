@@ -1,0 +1,21 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "005c1992-6677-4b84-a1b1-63be4898ad97",
+                "updated_at": "2023-12-01T11:28:30.131313+00:00",
+                "username": "passordet mitt er \"a\"",
+                "valid_from": "2023-12-01T11:28:48.137+00:00",
+                "organization_id": null
+            }
+        }
+    ],
+    "scoreboard": [],
+    "current_info": {
+        "score": "?",
+        "num_solves": "?",
+        "username": "passordet mitt er \"a\"",
+        "organization_id": null
+    }
+}

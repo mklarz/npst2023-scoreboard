@@ -1,0 +1,72 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 18:15:03+00:00",
+            "data": {
+                "id": "270f698a-82e9-4e80-953e-194730776498",
+                "updated_at": "2023-12-01T18:08:57.433756+00:00",
+                "username": "snerk",
+                "valid_from": "2023-12-01T18:09:21.013+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-09 17:45:10+00:00",
+            "data": {
+                "id": "270f698a-82e9-4e80-953e-194730776498",
+                "updated_at": "2023-12-01T18:08:57.433756+00:00",
+                "username": "snerk",
+                "valid_from": "2023-12-09T17:33:06.558+00:00",
+                "organization_id": 3
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 18:30:03+00:00",
+            "data": {
+                "user_id": "270f698a-82e9-4e80-953e-194730776498",
+                "username": "snerk",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T18:18:38.154528+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-02 18:45:04+00:00",
+            "data": {
+                "user_id": "270f698a-82e9-4e80-953e-194730776498",
+                "username": "snerk",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-02T18:42:00.162131+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 16:45:05+00:00",
+            "data": {
+                "user_id": "270f698a-82e9-4e80-953e-194730776498",
+                "username": "snerk",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-03T16:40:48.697874+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-09 18:15:10+00:00",
+            "data": {
+                "user_id": "270f698a-82e9-4e80-953e-194730776498",
+                "username": "snerk",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-09T18:08:06.077641+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 40,
+        "num_solves": 4,
+        "username": "snerk",
+        "organization_id": 3
+    }
+}

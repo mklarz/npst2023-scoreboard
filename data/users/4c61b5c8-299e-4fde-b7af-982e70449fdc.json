@@ -1,0 +1,32 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "4c61b5c8-299e-4fde-b7af-982e70449fdc",
+                "updated_at": "2023-12-01T10:24:18.933272+00:00",
+                "username": "JakobDenGode",
+                "valid_from": "2023-12-01T10:24:29.578+00:00",
+                "organization_id": null
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 12:09:17+00:00",
+            "data": {
+                "user_id": "4c61b5c8-299e-4fde-b7af-982e70449fdc",
+                "username": "JakobDenGode",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T12:05:42.002452+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 10,
+        "num_solves": 1,
+        "username": "JakobDenGode",
+        "organization_id": null
+    }
+}

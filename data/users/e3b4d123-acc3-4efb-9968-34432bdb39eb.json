@@ -1,0 +1,32 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-04 09:30:05+00:00",
+            "data": {
+                "id": "e3b4d123-acc3-4efb-9968-34432bdb39eb",
+                "updated_at": "2023-12-04T09:28:54.880483+00:00",
+                "username": "Nissefar",
+                "valid_from": "2023-12-04T09:29:30.32+00:00",
+                "organization_id": null
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-04 11:00:05+00:00",
+            "data": {
+                "user_id": "e3b4d123-acc3-4efb-9968-34432bdb39eb",
+                "username": "Nissefar",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-04T10:55:10.327129+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 10,
+        "num_solves": 1,
+        "username": "Nissefar",
+        "organization_id": null
+    }
+}

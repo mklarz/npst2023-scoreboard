@@ -1,0 +1,41 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 14:15:03+00:00",
+            "data": {
+                "id": "73314fb8-b6e7-4379-a485-47247a472ac0",
+                "updated_at": "2023-12-01T14:12:13.48146+00:00",
+                "username": null,
+                "valid_from": "2023-12-01T14:12:13.48146+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 07:15:05+00:00",
+            "data": {
+                "id": "73314fb8-b6e7-4379-a485-47247a472ac0",
+                "updated_at": "2023-12-01T14:12:13.48146+00:00",
+                "username": "overstadtrond@gmail.com",
+                "valid_from": "2023-12-04T07:08:42.038+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 13:15:05+00:00",
+            "data": {
+                "id": "73314fb8-b6e7-4379-a485-47247a472ac0",
+                "updated_at": "2023-12-01T14:12:13.48146+00:00",
+                "username": "overstadtrond@gmail.com",
+                "valid_from": "2023-12-04T13:05:00.012+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [],
+    "current_info": {
+        "score": "?",
+        "num_solves": "?",
+        "username": "overstadtrond@gmail.com",
+        "organization_id": 1
+    }
+}

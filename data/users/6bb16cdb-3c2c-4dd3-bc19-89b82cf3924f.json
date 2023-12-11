@@ -1,0 +1,32 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-05 14:15:07+00:00",
+            "data": {
+                "id": "6bb16cdb-3c2c-4dd3-bc19-89b82cf3924f",
+                "updated_at": "2023-12-05T14:10:13.718836+00:00",
+                "username": "kalkulatorn",
+                "valid_from": "2023-12-05T14:11:06.468+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-06 09:30:07+00:00",
+            "data": {
+                "user_id": "6bb16cdb-3c2c-4dd3-bc19-89b82cf3924f",
+                "username": "kalkulatorn",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-06T09:21:44.980393+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 10,
+        "num_solves": 1,
+        "username": "kalkulatorn",
+        "organization_id": 1
+    }
+}

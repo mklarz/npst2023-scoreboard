@@ -1,0 +1,62 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 17:30:03+00:00",
+            "data": {
+                "id": "c636d7b1-cc35-41f8-bff2-d29832902929",
+                "updated_at": "2023-12-01T17:21:08.996816+00:00",
+                "username": "maurum",
+                "valid_from": "2023-12-01T17:21:23.042+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-08 16:15:09+00:00",
+            "data": {
+                "id": "c636d7b1-cc35-41f8-bff2-d29832902929",
+                "updated_at": "2023-12-01T17:21:08.996816+00:00",
+                "username": "maurum",
+                "valid_from": "2023-12-08T16:06:36.464+00:00",
+                "organization_id": 3
+            }
+        },
+        {
+            "timestamp": "2023-12-08 17:00:10+00:00",
+            "data": {
+                "id": "c636d7b1-cc35-41f8-bff2-d29832902929",
+                "updated_at": "2023-12-01T17:21:08.996816+00:00",
+                "username": "maurum",
+                "valid_from": "2023-12-08T16:52:38.874+00:00",
+                "organization_id": 3
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 18:00:03+00:00",
+            "data": {
+                "user_id": "c636d7b1-cc35-41f8-bff2-d29832902929",
+                "username": "maurum",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T17:53:48.624097+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-08 17:15:10+00:00",
+            "data": {
+                "user_id": "c636d7b1-cc35-41f8-bff2-d29832902929",
+                "username": "maurum",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-08T17:02:32.379063+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 20,
+        "num_solves": 2,
+        "username": "maurum",
+        "organization_id": 3
+    }
+}

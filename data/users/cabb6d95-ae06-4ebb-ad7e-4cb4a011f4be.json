@@ -1,0 +1,132 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "cabb6d95-ae06-4ebb-ad7e-4cb4a011f4be",
+                "updated_at": "2023-11-30T23:39:11.710924+00:00",
+                "username": "zup",
+                "valid_from": "2023-11-30T23:39:41.096+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 21:00:06+00:00",
+            "data": {
+                "id": "cabb6d95-ae06-4ebb-ad7e-4cb4a011f4be",
+                "updated_at": "2023-11-30T23:39:11.710924+00:00",
+                "username": "zup",
+                "valid_from": "2023-12-04T20:49:43.01+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-03 03:30:04+00:00",
+            "data": {
+                "user_id": "cabb6d95-ae06-4ebb-ad7e-4cb4a011f4be",
+                "username": "zup",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-03T03:18:38.446639+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 21:45:06+00:00",
+            "data": {
+                "user_id": "cabb6d95-ae06-4ebb-ad7e-4cb4a011f4be",
+                "username": "zup",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-04T21:32:11.464632+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 22:30:05+00:00",
+            "data": {
+                "user_id": "cabb6d95-ae06-4ebb-ad7e-4cb4a011f4be",
+                "username": "zup",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-04T22:27:44.192239+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 00:00:05+00:00",
+            "data": {
+                "user_id": "cabb6d95-ae06-4ebb-ad7e-4cb4a011f4be",
+                "username": "zup",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-04T23:56:39.159635+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 13:00:06+00:00",
+            "data": {
+                "user_id": "cabb6d95-ae06-4ebb-ad7e-4cb4a011f4be",
+                "username": "zup",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-05T12:53:35.16541+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 00:00:07+00:00",
+            "data": {
+                "user_id": "cabb6d95-ae06-4ebb-ad7e-4cb4a011f4be",
+                "username": "zup",
+                "score": 60,
+                "num_solves": 6,
+                "latest_solve_time": "2023-12-06T23:58:15.957256+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 18:45:09+00:00",
+            "data": {
+                "user_id": "cabb6d95-ae06-4ebb-ad7e-4cb4a011f4be",
+                "username": "zup",
+                "score": 70,
+                "num_solves": 7,
+                "latest_solve_time": "2023-12-07T18:40:58.236201+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-10 06:15:11+00:00",
+            "data": {
+                "user_id": "cabb6d95-ae06-4ebb-ad7e-4cb4a011f4be",
+                "username": "zup",
+                "score": 80,
+                "num_solves": 8,
+                "latest_solve_time": "2023-12-10T06:10:48.886179+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-11 11:45:15+00:00",
+            "data": {
+                "user_id": "cabb6d95-ae06-4ebb-ad7e-4cb4a011f4be",
+                "username": "zup",
+                "score": 90,
+                "num_solves": 9,
+                "latest_solve_time": "2023-12-11T11:39:41.444096+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-11 12:15:15+00:00",
+            "data": {
+                "user_id": "cabb6d95-ae06-4ebb-ad7e-4cb4a011f4be",
+                "username": "zup",
+                "score": 100,
+                "num_solves": 10,
+                "latest_solve_time": "2023-12-11T12:07:33.950343+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 100,
+        "num_solves": 10,
+        "username": "zup",
+        "organization_id": 1
+    }
+}

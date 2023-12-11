@@ -1,0 +1,32 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-07 19:15:08+00:00",
+            "data": {
+                "id": "99499968-8fe7-4f8c-b922-afe8fd19b687",
+                "updated_at": "2023-12-07T19:05:57.952242+00:00",
+                "username": "tvisyn",
+                "valid_from": "2023-12-07T19:54:54.469+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-07 19:30:09+00:00",
+            "data": {
+                "user_id": "99499968-8fe7-4f8c-b922-afe8fd19b687",
+                "username": "tvisyn",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-07T19:20:16.077256+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 10,
+        "num_solves": 1,
+        "username": "tvisyn",
+        "organization_id": 1
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 17:30:03+00:00",
+            "data": {
+                "id": "db7a4d3e-fce9-4800-b11b-3d071140a9a2",
+                "updated_at": "2023-12-01T17:29:44.649124+00:00",
+                "username": null,
+                "valid_from": "2023-12-01T17:29:44.649124+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-01 17:45:03+00:00",
+            "data": {
+                "id": "db7a4d3e-fce9-4800-b11b-3d071140a9a2",
+                "updated_at": "2023-12-01T17:29:44.649124+00:00",
+                "username": "Doctor Bation",
+                "valid_from": "2023-12-01T17:30:04.419+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-01 18:00:03+00:00",
+            "data": {
+                "id": "db7a4d3e-fce9-4800-b11b-3d071140a9a2",
+                "updated_at": "2023-12-01T17:29:44.649124+00:00",
+                "username": "Doctor Bation \ud83e\uddfb",
+                "valid_from": "2023-12-01T17:46:03.326+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-03 19:45:05+00:00",
+            "data": {
+                "id": "db7a4d3e-fce9-4800-b11b-3d071140a9a2",
+                "updated_at": "2023-12-01T17:29:44.649124+00:00",
+                "username": "Dr. Bation \ud83e\uddfb",
+                "valid_from": "2023-12-03T19:30:40.987+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 15:00:06+00:00",
+            "data": {
+                "id": "db7a4d3e-fce9-4800-b11b-3d071140a9a2",
+                "updated_at": "2023-12-01T17:29:44.649124+00:00",
+                "username": "Dr. Bation \ud83e\uddfb",
+                "valid_from": "2023-12-04T14:58:11.352+00:00",
+                "organization_id": 3
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 17:45:03+00:00",
+            "data": {
+                "user_id": "db7a4d3e-fce9-4800-b11b-3d071140a9a2",
+                "username": "Doctor Bation",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T17:35:37.621942+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-01 18:00:03+00:00",
+            "data": {
+                "user_id": "db7a4d3e-fce9-4800-b11b-3d071140a9a2",
+                "username": "Doctor Bation \ud83e\uddfb",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T17:35:37.621942+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-02 22:15:04+00:00",
+            "data": {
+                "user_id": "db7a4d3e-fce9-4800-b11b-3d071140a9a2",
+                "username": "Doctor Bation \ud83e\uddfb",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-02T22:11:00.590331+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 19:30:04+00:00",
+            "data": {
+                "user_id": "db7a4d3e-fce9-4800-b11b-3d071140a9a2",
+                "username": "Doctor Bation \ud83e\uddfb",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-03T19:25:35.214635+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 19:45:05+00:00",
+            "data": {
+                "user_id": "db7a4d3e-fce9-4800-b11b-3d071140a9a2",
+                "username": "Dr. Bation \ud83e\uddfb",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-03T19:25:35.214635+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 20:45:05+00:00",
+            "data": {
+                "user_id": "db7a4d3e-fce9-4800-b11b-3d071140a9a2",
+                "username": "Dr. Bation \ud83e\uddfb",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-04T20:39:05.519177+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 21:15:07+00:00",
+            "data": {
+                "user_id": "db7a4d3e-fce9-4800-b11b-3d071140a9a2",
+                "username": "Dr. Bation \ud83e\uddfb",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-05T21:06:04.269101+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 11:45:07+00:00",
+            "data": {
+                "user_id": "db7a4d3e-fce9-4800-b11b-3d071140a9a2",
+                "username": "Dr. Bation \ud83e\uddfb",
+                "score": 60,
+                "num_solves": 6,
+                "latest_solve_time": "2023-12-06T11:40:29.609332+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 17:30:08+00:00",
+            "data": {
+                "user_id": "db7a4d3e-fce9-4800-b11b-3d071140a9a2",
+                "username": "Dr. Bation \ud83e\uddfb",
+                "score": 70,
+                "num_solves": 7,
+                "latest_solve_time": "2023-12-07T17:19:48.939314+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 70,
+        "num_solves": 7,
+        "username": "Dr. Bation \ud83e\uddfb",
+        "organization_id": 3
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "93448ffc-e405-4a45-977e-ef70ae08594f",
+                "updated_at": "2023-12-01T08:18:38.957033+00:00",
+                "username": "The Allfather",
+                "valid_from": "2023-12-01T08:19:01.034+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-05 08:15:05+00:00",
+            "data": {
+                "id": "93448ffc-e405-4a45-977e-ef70ae08594f",
+                "updated_at": "2023-12-01T08:18:38.957033+00:00",
+                "username": "The Allfather",
+                "valid_from": "2023-12-05T08:01:53.224+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "user_id": "93448ffc-e405-4a45-977e-ef70ae08594f",
+                "username": "The Allfather",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T11:29:18.031129+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 09:30:06+00:00",
+            "data": {
+                "user_id": "93448ffc-e405-4a45-977e-ef70ae08594f",
+                "username": "The Allfather",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-05T09:15:40.890628+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 10:00:06+00:00",
+            "data": {
+                "user_id": "93448ffc-e405-4a45-977e-ef70ae08594f",
+                "username": "The Allfather",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-05T09:51:44.124769+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 30,
+        "num_solves": 3,
+        "username": "The Allfather",
+        "organization_id": 1
+    }
+}

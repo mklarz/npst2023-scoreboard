@@ -1,0 +1,21 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-03 19:15:04+00:00",
+            "data": {
+                "id": "6db5e398-d3c0-4672-b604-74ce14bd19dc",
+                "updated_at": "2023-12-03T19:04:05.9774+00:00",
+                "username": "npstbot",
+                "valid_from": "2023-12-03T19:04:13.523+00:00",
+                "organization_id": null
+            }
+        }
+    ],
+    "scoreboard": [],
+    "current_info": {
+        "score": "?",
+        "num_solves": "?",
+        "username": "npstbot",
+        "organization_id": null
+    }
+}

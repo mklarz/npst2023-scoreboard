@@ -1,0 +1,92 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-04 23:15:05+00:00",
+            "data": {
+                "id": "97edd142-ee82-4b07-b337-d7c0dd93eded",
+                "updated_at": "2023-12-04T23:02:08.876449+00:00",
+                "username": "Too Tired",
+                "valid_from": "2023-12-04T23:07:28.025+00:00",
+                "organization_id": 2
+            }
+        },
+        {
+            "timestamp": "2023-12-05 00:45:06+00:00",
+            "data": {
+                "id": "97edd142-ee82-4b07-b337-d7c0dd93eded",
+                "updated_at": "2023-12-04T23:02:08.876449+00:00",
+                "username": "Too Tired",
+                "valid_from": "2023-12-05T00:39:03.441+00:00",
+                "organization_id": 2
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-05 00:45:06+00:00",
+            "data": {
+                "user_id": "97edd142-ee82-4b07-b337-d7c0dd93eded",
+                "username": "Too Tired",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-05T00:39:15.637187+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 01:00:06+00:00",
+            "data": {
+                "user_id": "97edd142-ee82-4b07-b337-d7c0dd93eded",
+                "username": "Too Tired",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-05T00:52:57.123761+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 01:15:07+00:00",
+            "data": {
+                "user_id": "97edd142-ee82-4b07-b337-d7c0dd93eded",
+                "username": "Too Tired",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-05T01:08:02.451489+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 01:45:07+00:00",
+            "data": {
+                "user_id": "97edd142-ee82-4b07-b337-d7c0dd93eded",
+                "username": "Too Tired",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-07T01:30:16.588132+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 22:30:09+00:00",
+            "data": {
+                "user_id": "97edd142-ee82-4b07-b337-d7c0dd93eded",
+                "username": "Too Tired",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-07T22:15:21.524158+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-10 00:00:11+00:00",
+            "data": {
+                "user_id": "97edd142-ee82-4b07-b337-d7c0dd93eded",
+                "username": "Too Tired",
+                "score": 60,
+                "num_solves": 6,
+                "latest_solve_time": "2023-12-09T23:51:23.546286+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 60,
+        "num_solves": 6,
+        "username": "Too Tired",
+        "organization_id": 2
+    }
+}

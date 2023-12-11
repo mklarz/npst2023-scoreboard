@@ -1,0 +1,72 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "dcc9a877-2813-41d4-9dc0-fce564f8343e",
+                "updated_at": "2023-11-30T17:07:31.276223+00:00",
+                "username": "solli",
+                "valid_from": "2023-11-30T17:07:39.227+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-07 20:00:09+00:00",
+            "data": {
+                "id": "dcc9a877-2813-41d4-9dc0-fce564f8343e",
+                "updated_at": "2023-11-30T17:07:31.276223+00:00",
+                "username": "solli",
+                "valid_from": "2023-12-07T19:47:04.577+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 18:30:03+00:00",
+            "data": {
+                "user_id": "dcc9a877-2813-41d4-9dc0-fce564f8343e",
+                "username": "solli",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T18:18:10.508747+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-02 19:45:03+00:00",
+            "data": {
+                "user_id": "dcc9a877-2813-41d4-9dc0-fce564f8343e",
+                "username": "solli",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-02T19:42:15.107814+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 16:45:05+00:00",
+            "data": {
+                "user_id": "dcc9a877-2813-41d4-9dc0-fce564f8343e",
+                "username": "solli",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-03T16:40:20.81682+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-09 19:30:10+00:00",
+            "data": {
+                "user_id": "dcc9a877-2813-41d4-9dc0-fce564f8343e",
+                "username": "solli",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-09T19:28:30.935353+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 40,
+        "num_solves": 4,
+        "username": "solli",
+        "organization_id": 1
+    }
+}

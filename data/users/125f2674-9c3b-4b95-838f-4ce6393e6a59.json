@@ -1,0 +1,82 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "125f2674-9c3b-4b95-838f-4ce6393e6a59",
+                "updated_at": "2023-12-01T07:41:32.808194+00:00",
+                "username": "jappy",
+                "valid_from": "2023-12-01T07:41:50.889+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 19:45:05+00:00",
+            "data": {
+                "id": "125f2674-9c3b-4b95-838f-4ce6393e6a59",
+                "updated_at": "2023-12-01T07:41:32.808194+00:00",
+                "username": "jappy",
+                "valid_from": "2023-12-04T19:33:16.922+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-04 07:30:04+00:00",
+            "data": {
+                "user_id": "125f2674-9c3b-4b95-838f-4ce6393e6a59",
+                "username": "jappy",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-04T07:27:52.723636+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 09:45:05+00:00",
+            "data": {
+                "user_id": "125f2674-9c3b-4b95-838f-4ce6393e6a59",
+                "username": "jappy",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-04T09:31:58.157862+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 12:30:08+00:00",
+            "data": {
+                "user_id": "125f2674-9c3b-4b95-838f-4ce6393e6a59",
+                "username": "jappy",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-06T12:23:34.421613+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 14:30:08+00:00",
+            "data": {
+                "user_id": "125f2674-9c3b-4b95-838f-4ce6393e6a59",
+                "username": "jappy",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-06T14:28:19.394237+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 10:15:08+00:00",
+            "data": {
+                "user_id": "125f2674-9c3b-4b95-838f-4ce6393e6a59",
+                "username": "jappy",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-07T10:00:30.90401+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 50,
+        "num_solves": 5,
+        "username": "jappy",
+        "organization_id": 1
+    }
+}

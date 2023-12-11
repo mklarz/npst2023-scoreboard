@@ -1,0 +1,72 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-04 14:45:05+00:00",
+            "data": {
+                "id": "996b12bf-d04f-48fc-b090-33a05228ffa7",
+                "updated_at": "2023-12-04T14:30:35.414455+00:00",
+                "username": "hus1000",
+                "valid_from": "2023-12-04T14:33:47.039+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-04 17:45:05+00:00",
+            "data": {
+                "user_id": "996b12bf-d04f-48fc-b090-33a05228ffa7",
+                "username": "hus1000",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-04T17:44:47.150453+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 19:00:05+00:00",
+            "data": {
+                "user_id": "996b12bf-d04f-48fc-b090-33a05228ffa7",
+                "username": "hus1000",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-04T18:56:52.112732+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-08 17:15:10+00:00",
+            "data": {
+                "user_id": "996b12bf-d04f-48fc-b090-33a05228ffa7",
+                "username": "[CISK] Fossekallen",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-08T17:02:33.639372+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-08 17:30:10+00:00",
+            "data": {
+                "user_id": "996b12bf-d04f-48fc-b090-33a05228ffa7",
+                "username": "[CISK] Fossekallen",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-08T17:16:54.475082+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-08 18:45:09+00:00",
+            "data": {
+                "user_id": "996b12bf-d04f-48fc-b090-33a05228ffa7",
+                "username": "[CISK] Fossekallen",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-08T18:41:42.462795+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 50,
+        "num_solves": 5,
+        "username": "hus1000",
+        "organization_id": 1
+    }
+}

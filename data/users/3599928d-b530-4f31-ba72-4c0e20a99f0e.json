@@ -1,0 +1,82 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "3599928d-b530-4f31-ba72-4c0e20a99f0e",
+                "updated_at": "2023-12-01T07:01:18.24496+00:00",
+                "username": "nomo",
+                "valid_from": "2023-12-01T07:01:37.943+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-05 06:45:05+00:00",
+            "data": {
+                "id": "3599928d-b530-4f31-ba72-4c0e20a99f0e",
+                "updated_at": "2023-12-01T07:01:18.24496+00:00",
+                "username": "nomo",
+                "valid_from": "2023-12-05T06:44:01.168+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 12:09:17+00:00",
+            "data": {
+                "user_id": "3599928d-b530-4f31-ba72-4c0e20a99f0e",
+                "username": "nomo",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T12:06:40.299547+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 07:30:06+00:00",
+            "data": {
+                "user_id": "3599928d-b530-4f31-ba72-4c0e20a99f0e",
+                "username": "nomo",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-05T07:29:30.270713+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 17:30:06+00:00",
+            "data": {
+                "user_id": "3599928d-b530-4f31-ba72-4c0e20a99f0e",
+                "username": "nomo",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-05T17:24:24.068389+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 10:00:08+00:00",
+            "data": {
+                "user_id": "3599928d-b530-4f31-ba72-4c0e20a99f0e",
+                "username": "nomo",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-07T09:53:38.628458+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 11:15:09+00:00",
+            "data": {
+                "user_id": "3599928d-b530-4f31-ba72-4c0e20a99f0e",
+                "username": "nomo",
+                "score": 60,
+                "num_solves": 6,
+                "latest_solve_time": "2023-12-07T11:13:25.2415+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 60,
+        "num_solves": 6,
+        "username": "nomo",
+        "organization_id": 1
+    }
+}

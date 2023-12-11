@@ -1,0 +1,52 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-05 11:00:07+00:00",
+            "data": {
+                "id": "7d8a0778-e68b-4a76-acba-92686c172473",
+                "updated_at": "2023-12-05T10:51:33.627931+00:00",
+                "username": "F\u00e5ttMegNySkjerm",
+                "valid_from": "2023-12-05T10:52:27.748+00:00",
+                "organization_id": 3
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-05 11:00:07+00:00",
+            "data": {
+                "user_id": "7d8a0778-e68b-4a76-acba-92686c172473",
+                "username": "F\u00e5ttMegNySkjerm",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-05T10:53:13.990981+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 15:00:07+00:00",
+            "data": {
+                "user_id": "7d8a0778-e68b-4a76-acba-92686c172473",
+                "username": "F\u00e5ttMegNySkjerm",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-05T14:55:34.584999+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 16:30:08+00:00",
+            "data": {
+                "user_id": "7d8a0778-e68b-4a76-acba-92686c172473",
+                "username": "F\u00e5ttMegNySkjerm",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-07T16:24:52.732092+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 30,
+        "num_solves": 3,
+        "username": "F\u00e5ttMegNySkjerm",
+        "organization_id": 3
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-06 12:30:08+00:00",
+            "data": {
+                "id": "223c0d5e-ab0d-41c6-9cdb-c7db7d6429d3",
+                "updated_at": "2023-12-06T12:18:25.985836+00:00",
+                "username": "FelixFrost",
+                "valid_from": "2023-12-06T12:19:17.87+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-06 12:45:08+00:00",
+            "data": {
+                "user_id": "223c0d5e-ab0d-41c6-9cdb-c7db7d6429d3",
+                "username": "FelixFrost",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-06T12:34:19.705402+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 10,
+        "num_solves": 1,
+        "username": "FelixFrost",
+        "organization_id": 1
+    }
+}

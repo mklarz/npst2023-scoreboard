@@ -1,0 +1,102 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-03 13:45:04+00:00",
+            "data": {
+                "id": "01c79401-e99f-4131-b5ba-ca364d1daac5",
+                "updated_at": "2023-12-03T13:43:01.262118+00:00",
+                "username": "The Exorcist",
+                "valid_from": "2023-12-03T13:43:11.784+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 18:45:05+00:00",
+            "data": {
+                "id": "01c79401-e99f-4131-b5ba-ca364d1daac5",
+                "updated_at": "2023-12-03T13:43:01.262118+00:00",
+                "username": "The Exorcist",
+                "valid_from": "2023-12-04T18:39:02.092+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-03 14:00:04+00:00",
+            "data": {
+                "user_id": "01c79401-e99f-4131-b5ba-ca364d1daac5",
+                "username": "The Exorcist",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-03T13:58:38.620316+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 15:00:05+00:00",
+            "data": {
+                "user_id": "01c79401-e99f-4131-b5ba-ca364d1daac5",
+                "username": "The Exorcist",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-03T14:58:44.526367+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 18:45:05+00:00",
+            "data": {
+                "user_id": "01c79401-e99f-4131-b5ba-ca364d1daac5",
+                "username": "The Exorcist",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-04T18:39:31.738441+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 21:15:07+00:00",
+            "data": {
+                "user_id": "01c79401-e99f-4131-b5ba-ca364d1daac5",
+                "username": "The Exorcist",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-05T21:07:00.015546+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 19:00:08+00:00",
+            "data": {
+                "user_id": "01c79401-e99f-4131-b5ba-ca364d1daac5",
+                "username": "The Exorcist",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-06T18:59:15.126369+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 19:30:09+00:00",
+            "data": {
+                "user_id": "01c79401-e99f-4131-b5ba-ca364d1daac5",
+                "username": "The Exorcist",
+                "score": 60,
+                "num_solves": 6,
+                "latest_solve_time": "2023-12-07T19:15:33.185501+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-09 13:15:10+00:00",
+            "data": {
+                "user_id": "01c79401-e99f-4131-b5ba-ca364d1daac5",
+                "username": "The Exorcist",
+                "score": 70,
+                "num_solves": 7,
+                "latest_solve_time": "2023-12-09T13:12:21.390971+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 70,
+        "num_solves": 7,
+        "username": "The Exorcist",
+        "organization_id": 1
+    }
+}

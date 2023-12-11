@@ -1,0 +1,72 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 13:00:02+00:00",
+            "data": {
+                "id": "1fe22b6d-1463-486a-b102-601f1ec0e6b9",
+                "updated_at": "2023-12-01T12:45:33.608462+00:00",
+                "username": "carburetti",
+                "valid_from": "2023-12-01T12:46:01.384+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-05 18:30:07+00:00",
+            "data": {
+                "id": "1fe22b6d-1463-486a-b102-601f1ec0e6b9",
+                "updated_at": "2023-12-01T12:45:33.608462+00:00",
+                "username": "carburetti",
+                "valid_from": "2023-12-05T18:17:27.305+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-03 11:45:04+00:00",
+            "data": {
+                "user_id": "1fe22b6d-1463-486a-b102-601f1ec0e6b9",
+                "username": "carburetti",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-03T11:33:44.656673+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 14:45:04+00:00",
+            "data": {
+                "user_id": "1fe22b6d-1463-486a-b102-601f1ec0e6b9",
+                "username": "carburetti",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-03T14:36:47.923394+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 17:15:09+00:00",
+            "data": {
+                "user_id": "1fe22b6d-1463-486a-b102-601f1ec0e6b9",
+                "username": "carburetti",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-07T17:03:28.043008+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-09 15:00:10+00:00",
+            "data": {
+                "user_id": "1fe22b6d-1463-486a-b102-601f1ec0e6b9",
+                "username": "carburetti",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-09T14:51:29.632896+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 40,
+        "num_solves": 4,
+        "username": "carburetti",
+        "organization_id": 1
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "edbeaa0a-d222-4336-aa34-874646703628",
+                "updated_at": "2023-11-30T16:05:29.177107+00:00",
+                "username": "TrossAlt",
+                "valid_from": "2023-11-30T16:05:40.925+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 14:00:05+00:00",
+            "data": {
+                "id": "edbeaa0a-d222-4336-aa34-874646703628",
+                "updated_at": "2023-11-30T16:05:29.177107+00:00",
+                "username": "TrossAlt",
+                "valid_from": "2023-12-04T13:46:52.825+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "user_id": "edbeaa0a-d222-4336-aa34-874646703628",
+                "username": "TrossAlt",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T11:31:41.369848+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 01:45:04+00:00",
+            "data": {
+                "user_id": "edbeaa0a-d222-4336-aa34-874646703628",
+                "username": "TrossAlt",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-03T01:32:30.18624+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 15:00:05+00:00",
+            "data": {
+                "user_id": "edbeaa0a-d222-4336-aa34-874646703628",
+                "username": "TrossAlt",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-03T14:59:32.769858+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 21:00:06+00:00",
+            "data": {
+                "user_id": "edbeaa0a-d222-4336-aa34-874646703628",
+                "username": "TrossAlt",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-04T20:49:32.400866+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 11:15:07+00:00",
+            "data": {
+                "user_id": "edbeaa0a-d222-4336-aa34-874646703628",
+                "username": "TrossAlt",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-06T11:08:00.710287+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 12:00:08+00:00",
+            "data": {
+                "user_id": "edbeaa0a-d222-4336-aa34-874646703628",
+                "username": "TrossAlt",
+                "score": 60,
+                "num_solves": 6,
+                "latest_solve_time": "2023-12-06T11:50:11.411418+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 22:30:09+00:00",
+            "data": {
+                "user_id": "edbeaa0a-d222-4336-aa34-874646703628",
+                "username": "TrossAlt",
+                "score": 70,
+                "num_solves": 7,
+                "latest_solve_time": "2023-12-07T22:18:11.714832+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 70,
+        "num_solves": 7,
+        "username": "TrossAlt",
+        "organization_id": 1
+    }
+}

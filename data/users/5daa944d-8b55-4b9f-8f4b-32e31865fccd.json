@@ -1,0 +1,52 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 13:15:02+00:00",
+            "data": {
+                "id": "5daa944d-8b55-4b9f-8f4b-32e31865fccd",
+                "updated_at": "2023-12-01T13:06:30.285077+00:00",
+                "username": "cousland",
+                "valid_from": "2023-12-01T13:09:01.572+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 22:45:06+00:00",
+            "data": {
+                "id": "5daa944d-8b55-4b9f-8f4b-32e31865fccd",
+                "updated_at": "2023-12-01T13:06:30.285077+00:00",
+                "username": "cousland",
+                "valid_from": "2023-12-04T22:44:28.273+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 13:30:03+00:00",
+            "data": {
+                "user_id": "5daa944d-8b55-4b9f-8f4b-32e31865fccd",
+                "username": "cousland",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T13:23:13.751033+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 00:45:07+00:00",
+            "data": {
+                "user_id": "5daa944d-8b55-4b9f-8f4b-32e31865fccd",
+                "username": "cousland",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-06T00:35:04.027277+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 20,
+        "num_solves": 2,
+        "username": "cousland",
+        "organization_id": 1
+    }
+}

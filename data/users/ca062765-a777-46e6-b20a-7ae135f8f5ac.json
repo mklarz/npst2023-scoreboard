@@ -1,0 +1,92 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-04 17:00:06+00:00",
+            "data": {
+                "id": "ca062765-a777-46e6-b20a-7ae135f8f5ac",
+                "updated_at": "2023-12-04T16:56:23.57818+00:00",
+                "username": null,
+                "valid_from": "2023-12-04T16:56:57.127+00:00",
+                "organization_id": 1
+            }
+        },
+        {
+            "timestamp": "2023-12-04 21:15:05+00:00",
+            "data": {
+                "id": "ca062765-a777-46e6-b20a-7ae135f8f5ac",
+                "updated_at": "2023-12-04T16:56:23.57818+00:00",
+                "username": "BAKEMESTER",
+                "valid_from": "2023-12-04T21:14:52.158+00:00",
+                "organization_id": 1
+            }
+        },
+        {
+            "timestamp": "2023-12-04 21:30:06+00:00",
+            "data": {
+                "id": "ca062765-a777-46e6-b20a-7ae135f8f5ac",
+                "updated_at": "2023-12-04T16:56:23.57818+00:00",
+                "username": "Bakemester",
+                "valid_from": "2023-12-04T21:16:03.454+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-04 21:15:05+00:00",
+            "data": {
+                "user_id": "ca062765-a777-46e6-b20a-7ae135f8f5ac",
+                "username": "BAKEMESTER",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-04T21:13:33.245375+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 21:30:06+00:00",
+            "data": {
+                "user_id": "ca062765-a777-46e6-b20a-7ae135f8f5ac",
+                "username": "Bakemester",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-04T21:13:33.245375+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 23:00:07+00:00",
+            "data": {
+                "user_id": "ca062765-a777-46e6-b20a-7ae135f8f5ac",
+                "username": "Bakemester",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-04T22:49:56.796782+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 22:45:07+00:00",
+            "data": {
+                "user_id": "ca062765-a777-46e6-b20a-7ae135f8f5ac",
+                "username": "Bakemester",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-05T22:40:31.313436+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 23:15:08+00:00",
+            "data": {
+                "user_id": "ca062765-a777-46e6-b20a-7ae135f8f5ac",
+                "username": "Bakemester",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-07T23:00:39.721937+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 50,
+        "num_solves": 5,
+        "username": "Bakemester",
+        "organization_id": 1
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "e625a0b0-e4ea-458d-9118-b1558ef5b83c",
+                "updated_at": "2023-12-01T07:54:59.158031+00:00",
+                "username": "noahaon",
+                "valid_from": "2023-12-01T07:55:37.97+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 17:30:05+00:00",
+            "data": {
+                "id": "e625a0b0-e4ea-458d-9118-b1558ef5b83c",
+                "updated_at": "2023-12-01T07:54:59.158031+00:00",
+                "username": "noahaon",
+                "valid_from": "2023-12-04T17:28:16.819+00:00",
+                "organization_id": 2
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 18:15:03+00:00",
+            "data": {
+                "user_id": "e625a0b0-e4ea-458d-9118-b1558ef5b83c",
+                "username": "noahaon",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T18:13:10.763769+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 22:00:05+00:00",
+            "data": {
+                "user_id": "e625a0b0-e4ea-458d-9118-b1558ef5b83c",
+                "username": "noahaon",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-03T21:59:34.711268+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 08:45:05+00:00",
+            "data": {
+                "user_id": "e625a0b0-e4ea-458d-9118-b1558ef5b83c",
+                "username": "noahaon",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-04T08:39:11.992131+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 30,
+        "num_solves": 3,
+        "username": "noahaon",
+        "organization_id": 2
+    }
+}

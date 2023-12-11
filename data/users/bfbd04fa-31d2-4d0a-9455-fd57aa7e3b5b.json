@@ -1,0 +1,122 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "bfbd04fa-31d2-4d0a-9455-fd57aa7e3b5b",
+                "updated_at": "2023-11-30T14:41:41.878397+00:00",
+                "username": "andreaspedersen",
+                "valid_from": "2023-11-30T14:41:29.413+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 14:15:05+00:00",
+            "data": {
+                "id": "bfbd04fa-31d2-4d0a-9455-fd57aa7e3b5b",
+                "updated_at": "2023-11-30T14:41:41.878397+00:00",
+                "username": "andreaspedersen",
+                "valid_from": "2023-12-04T14:14:19.581+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "user_id": "bfbd04fa-31d2-4d0a-9455-fd57aa7e3b5b",
+                "username": "andreaspedersen",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T11:33:04.144809+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 09:00:05+00:00",
+            "data": {
+                "user_id": "bfbd04fa-31d2-4d0a-9455-fd57aa7e3b5b",
+                "username": "andreaspedersen",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-04T08:58:47.274459+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 21:45:06+00:00",
+            "data": {
+                "user_id": "bfbd04fa-31d2-4d0a-9455-fd57aa7e3b5b",
+                "username": "andreaspedersen",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-04T21:38:45.38393+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 22:15:05+00:00",
+            "data": {
+                "user_id": "bfbd04fa-31d2-4d0a-9455-fd57aa7e3b5b",
+                "username": "andreaspedersen",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-04T22:02:47.491469+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 13:30:06+00:00",
+            "data": {
+                "user_id": "bfbd04fa-31d2-4d0a-9455-fd57aa7e3b5b",
+                "username": "andreaspedersen",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-05T13:16:20.145835+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 11:30:08+00:00",
+            "data": {
+                "user_id": "bfbd04fa-31d2-4d0a-9455-fd57aa7e3b5b",
+                "username": "andreaspedersen",
+                "score": 60,
+                "num_solves": 6,
+                "latest_solve_time": "2023-12-06T11:28:08.268668+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 21:15:09+00:00",
+            "data": {
+                "user_id": "bfbd04fa-31d2-4d0a-9455-fd57aa7e3b5b",
+                "username": "andreaspedersen",
+                "score": 70,
+                "num_solves": 7,
+                "latest_solve_time": "2023-12-07T21:12:35.10673+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-09 14:00:10+00:00",
+            "data": {
+                "user_id": "bfbd04fa-31d2-4d0a-9455-fd57aa7e3b5b",
+                "username": "andreaspedersen",
+                "score": 80,
+                "num_solves": 8,
+                "latest_solve_time": "2023-12-09T13:47:07.98603+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-10 23:00:16+00:00",
+            "data": {
+                "user_id": "bfbd04fa-31d2-4d0a-9455-fd57aa7e3b5b",
+                "username": "andreaspedersen",
+                "score": 90,
+                "num_solves": 9,
+                "latest_solve_time": "2023-12-10T22:45:04.964538+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 90,
+        "num_solves": 9,
+        "username": "andreaspedersen",
+        "organization_id": 1
+    }
+}

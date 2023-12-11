@@ -1,0 +1,21 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-02 06:30:04+00:00",
+            "data": {
+                "id": "483fe401-f5ad-47bd-a6e4-7c6b475f72e9",
+                "updated_at": "2023-12-02T06:16:15.206017+00:00",
+                "username": "zzpizza",
+                "valid_from": "2023-12-02T06:20:23.116+00:00",
+                "organization_id": null
+            }
+        }
+    ],
+    "scoreboard": [],
+    "current_info": {
+        "score": "?",
+        "num_solves": "?",
+        "username": "zzpizza",
+        "organization_id": null
+    }
+}

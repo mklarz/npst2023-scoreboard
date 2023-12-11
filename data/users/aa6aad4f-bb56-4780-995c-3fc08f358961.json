@@ -1,0 +1,32 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "aa6aad4f-bb56-4780-995c-3fc08f358961",
+                "updated_at": "2023-12-01T06:24:35.630644+00:00",
+                "username": "opita",
+                "valid_from": "2023-12-01T06:24:50.816+00:00",
+                "organization_id": null
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "user_id": "aa6aad4f-bb56-4780-995c-3fc08f358961",
+                "username": "opita",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T11:16:56.178366+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 10,
+        "num_solves": 1,
+        "username": "opita",
+        "organization_id": null
+    }
+}

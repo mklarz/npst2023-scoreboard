@@ -1,0 +1,82 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "b55c7f70-6247-48e9-9974-920ce1a1291c",
+                "updated_at": "2023-12-01T11:11:19.197252+00:00",
+                "username": "Robin",
+                "valid_from": "2023-12-01T11:11:34.267+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-05 08:15:05+00:00",
+            "data": {
+                "id": "b55c7f70-6247-48e9-9974-920ce1a1291c",
+                "updated_at": "2023-12-01T11:11:19.197252+00:00",
+                "username": "Robin",
+                "valid_from": "2023-12-05T08:09:25.771+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "user_id": "b55c7f70-6247-48e9-9974-920ce1a1291c",
+                "username": "Robin",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T11:25:03.278436+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 17:15:05+00:00",
+            "data": {
+                "user_id": "b55c7f70-6247-48e9-9974-920ce1a1291c",
+                "username": "Robin",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-03T17:11:00.432408+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 19:00:04+00:00",
+            "data": {
+                "user_id": "b55c7f70-6247-48e9-9974-920ce1a1291c",
+                "username": "Robin",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-03T18:55:03.47605+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 08:45:06+00:00",
+            "data": {
+                "user_id": "b55c7f70-6247-48e9-9974-920ce1a1291c",
+                "username": "Robin",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-05T08:37:26.420107+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 18:30:07+00:00",
+            "data": {
+                "user_id": "b55c7f70-6247-48e9-9974-920ce1a1291c",
+                "username": "Robin",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-05T18:19:52.149209+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 50,
+        "num_solves": 5,
+        "username": "Robin",
+        "organization_id": 1
+    }
+}

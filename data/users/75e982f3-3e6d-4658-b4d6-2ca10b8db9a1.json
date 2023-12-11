@@ -1,0 +1,32 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "75e982f3-3e6d-4658-b4d6-2ca10b8db9a1",
+                "updated_at": "2023-12-01T09:35:18.13206+00:00",
+                "username": "Shinnio",
+                "valid_from": "2023-12-01T09:35:32.117+00:00",
+                "organization_id": null
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 13:30:03+00:00",
+            "data": {
+                "user_id": "75e982f3-3e6d-4658-b4d6-2ca10b8db9a1",
+                "username": "Shinnio",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T13:21:54.673195+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 10,
+        "num_solves": 1,
+        "username": "Shinnio",
+        "organization_id": null
+    }
+}

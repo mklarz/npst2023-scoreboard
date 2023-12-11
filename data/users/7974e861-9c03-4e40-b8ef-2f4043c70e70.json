@@ -1,0 +1,42 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-06 20:15:08+00:00",
+            "data": {
+                "id": "7974e861-9c03-4e40-b8ef-2f4043c70e70",
+                "updated_at": "2023-12-06T20:13:43.488096+00:00",
+                "username": "atnas_pog",
+                "valid_from": "2023-12-06T20:14:55.075+00:00",
+                "organization_id": 2
+            }
+        },
+        {
+            "timestamp": "2023-12-06 20:30:08+00:00",
+            "data": {
+                "id": "7974e861-9c03-4e40-b8ef-2f4043c70e70",
+                "updated_at": "2023-12-06T20:13:43.488096+00:00",
+                "username": "atnas_pog",
+                "valid_from": "2023-12-06T20:29:07.919+00:00",
+                "organization_id": 2
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-06 20:30:08+00:00",
+            "data": {
+                "user_id": "7974e861-9c03-4e40-b8ef-2f4043c70e70",
+                "username": "atnas_pog",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-06T20:26:58.463658+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 10,
+        "num_solves": 1,
+        "username": "atnas_pog",
+        "organization_id": 2
+    }
+}

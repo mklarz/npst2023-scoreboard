@@ -1,0 +1,32 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 13:45:02+00:00",
+            "data": {
+                "id": "9183f40e-0062-4cdd-894f-f0c981c822a9",
+                "updated_at": "2023-12-01T13:38:47.916785+00:00",
+                "username": "YNWA2023",
+                "valid_from": "2023-12-01T13:40:06.485+00:00",
+                "organization_id": null
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 14:45:02+00:00",
+            "data": {
+                "user_id": "9183f40e-0062-4cdd-894f-f0c981c822a9",
+                "username": "YNWA2023",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T14:32:56.490927+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 10,
+        "num_solves": 1,
+        "username": "YNWA2023",
+        "organization_id": null
+    }
+}

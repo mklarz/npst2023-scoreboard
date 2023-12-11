@@ -1,0 +1,32 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-04 09:00:05+00:00",
+            "data": {
+                "id": "c138f7be-da17-4710-a4f3-bb64951412ae",
+                "updated_at": "2023-12-04T08:53:06.418263+00:00",
+                "username": "Folkeskikk",
+                "valid_from": "2023-12-04T08:53:33.999+00:00",
+                "organization_id": null
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-04 09:15:04+00:00",
+            "data": {
+                "user_id": "c138f7be-da17-4710-a4f3-bb64951412ae",
+                "username": "Folkeskikk",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-04T09:01:14.210637+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 10,
+        "num_solves": 1,
+        "username": "Folkeskikk",
+        "organization_id": null
+    }
+}

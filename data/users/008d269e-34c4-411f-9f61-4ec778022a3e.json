@@ -1,0 +1,42 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-04 15:15:06+00:00",
+            "data": {
+                "id": "008d269e-34c4-411f-9f61-4ec778022a3e",
+                "updated_at": "2023-12-04T15:13:39.068828+00:00",
+                "username": "Girts",
+                "valid_from": "2023-12-04T15:14:02.211+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 15:30:06+00:00",
+            "data": {
+                "id": "008d269e-34c4-411f-9f61-4ec778022a3e",
+                "updated_at": "2023-12-04T15:13:39.068828+00:00",
+                "username": "Girts",
+                "valid_from": "2023-12-04T15:16:41.855+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-05 21:00:07+00:00",
+            "data": {
+                "user_id": "008d269e-34c4-411f-9f61-4ec778022a3e",
+                "username": "Girts",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-05T20:59:20.986487+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 10,
+        "num_solves": 1,
+        "username": "Girts",
+        "organization_id": 1
+    }
+}

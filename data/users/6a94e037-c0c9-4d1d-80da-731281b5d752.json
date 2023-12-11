@@ -1,0 +1,21 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-05 08:45:06+00:00",
+            "data": {
+                "id": "6a94e037-c0c9-4d1d-80da-731281b5d752",
+                "updated_at": "2023-12-05T08:35:21.650988+00:00",
+                "username": "BennyBiceps",
+                "valid_from": "2023-12-05T08:37:46.271+00:00",
+                "organization_id": 3
+            }
+        }
+    ],
+    "scoreboard": [],
+    "current_info": {
+        "score": "?",
+        "num_solves": "?",
+        "username": "BennyBiceps",
+        "organization_id": 3
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "49ee4666-47b3-406e-b8fc-bbff4d3e32ef",
+                "updated_at": "2023-12-01T10:44:51.107673+00:00",
+                "username": null,
+                "valid_from": "2023-12-01T10:44:51.107673+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-01 13:30:03+00:00",
+            "data": {
+                "id": "49ee4666-47b3-406e-b8fc-bbff4d3e32ef",
+                "updated_at": "2023-12-01T10:44:51.107673+00:00",
+                "username": "Lykke",
+                "valid_from": "2023-12-01T13:26:19.495+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 22:00:06+00:00",
+            "data": {
+                "id": "49ee4666-47b3-406e-b8fc-bbff4d3e32ef",
+                "updated_at": "2023-12-01T10:44:51.107673+00:00",
+                "username": "Lykke",
+                "valid_from": "2023-12-04T21:51:48.038+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 20:45:03+00:00",
+            "data": {
+                "user_id": "49ee4666-47b3-406e-b8fc-bbff4d3e32ef",
+                "username": "Lykke",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T20:32:50.462383+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 10,
+        "num_solves": 1,
+        "username": "Lykke",
+        "organization_id": 1
+    }
+}

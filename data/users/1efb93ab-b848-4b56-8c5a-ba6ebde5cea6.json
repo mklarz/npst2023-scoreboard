@@ -1,0 +1,21 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "1efb93ab-b848-4b56-8c5a-ba6ebde5cea6",
+                "updated_at": "2023-11-30T15:23:48.489081+00:00",
+                "username": "Waico",
+                "valid_from": "2023-11-30T15:24:00.908+00:00",
+                "organization_id": null
+            }
+        }
+    ],
+    "scoreboard": [],
+    "current_info": {
+        "score": "?",
+        "num_solves": "?",
+        "username": "Waico",
+        "organization_id": null
+    }
+}

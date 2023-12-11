@@ -1,0 +1,72 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 23:45:03+00:00",
+            "data": {
+                "id": "c9ee7e53-8343-4d3a-9e87-fb41ef318221",
+                "updated_at": "2023-12-01T23:33:35.823819+00:00",
+                "username": "Pippen",
+                "valid_from": "2023-12-01T23:33:43.465+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 15:30:06+00:00",
+            "data": {
+                "id": "c9ee7e53-8343-4d3a-9e87-fb41ef318221",
+                "updated_at": "2023-12-01T23:33:35.823819+00:00",
+                "username": "Pippen",
+                "valid_from": "2023-12-04T15:18:52.538+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-02 00:00:03+00:00",
+            "data": {
+                "user_id": "c9ee7e53-8343-4d3a-9e87-fb41ef318221",
+                "username": "Pippen",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T23:50:37.364813+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-02 12:00:04+00:00",
+            "data": {
+                "user_id": "c9ee7e53-8343-4d3a-9e87-fb41ef318221",
+                "username": "Pippen",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-02T11:54:18.848806+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 17:15:08+00:00",
+            "data": {
+                "user_id": "c9ee7e53-8343-4d3a-9e87-fb41ef318221",
+                "username": "Pippen",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-05T17:12:36.023706+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 17:15:08+00:00",
+            "data": {
+                "user_id": "c9ee7e53-8343-4d3a-9e87-fb41ef318221",
+                "username": "Pippen",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-06T17:12:26.09171+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 50,
+        "num_solves": 5,
+        "username": "Pippen",
+        "organization_id": 1
+    }
+}

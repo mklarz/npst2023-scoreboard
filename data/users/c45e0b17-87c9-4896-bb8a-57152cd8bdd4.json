@@ -1,0 +1,32 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 23:30:03+00:00",
+            "data": {
+                "id": "c45e0b17-87c9-4896-bb8a-57152cd8bdd4",
+                "updated_at": "2023-12-01T23:18:23.657904+00:00",
+                "username": "Archonin",
+                "valid_from": "2023-12-01T23:18:31.529+00:00",
+                "organization_id": null
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 23:30:03+00:00",
+            "data": {
+                "user_id": "c45e0b17-87c9-4896-bb8a-57152cd8bdd4",
+                "username": "Archonin",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T23:22:00.110268+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 10,
+        "num_solves": 1,
+        "username": "Archonin",
+        "organization_id": null
+    }
+}

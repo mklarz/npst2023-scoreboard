@@ -1,0 +1,32 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "cdb13030-9643-4122-b090-e40f5aa1065b",
+                "updated_at": "2023-12-01T09:15:20.065468+00:00",
+                "username": "themkat",
+                "valid_from": "2023-12-01T09:15:29.994+00:00",
+                "organization_id": null
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "user_id": "cdb13030-9643-4122-b090-e40f5aa1065b",
+                "username": "themkat",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T11:08:53.402823+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 10,
+        "num_solves": 1,
+        "username": "themkat",
+        "organization_id": null
+    }
+}

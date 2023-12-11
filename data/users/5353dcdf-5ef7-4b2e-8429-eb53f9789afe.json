@@ -1,0 +1,92 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "5353dcdf-5ef7-4b2e-8429-eb53f9789afe",
+                "updated_at": "2023-11-30T21:57:08.138576+00:00",
+                "username": "Tentom",
+                "valid_from": "2023-11-30T21:57:34.589+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-05 11:30:07+00:00",
+            "data": {
+                "id": "5353dcdf-5ef7-4b2e-8429-eb53f9789afe",
+                "updated_at": "2023-11-30T21:57:08.138576+00:00",
+                "username": "Tentom",
+                "valid_from": "2023-12-05T11:23:27.791+00:00",
+                "organization_id": 2
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-05 11:30:07+00:00",
+            "data": {
+                "user_id": "5353dcdf-5ef7-4b2e-8429-eb53f9789afe",
+                "username": "Tentom",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-05T11:24:07.099412+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 15:30:07+00:00",
+            "data": {
+                "user_id": "5353dcdf-5ef7-4b2e-8429-eb53f9789afe",
+                "username": "Tentom",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-05T15:26:03.965584+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 14:15:07+00:00",
+            "data": {
+                "user_id": "5353dcdf-5ef7-4b2e-8429-eb53f9789afe",
+                "username": "Tentom",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-06T14:00:35.062159+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 20:15:08+00:00",
+            "data": {
+                "user_id": "5353dcdf-5ef7-4b2e-8429-eb53f9789afe",
+                "username": "Tentom",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-06T20:03:03.198372+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 08:45:08+00:00",
+            "data": {
+                "user_id": "5353dcdf-5ef7-4b2e-8429-eb53f9789afe",
+                "username": "Tentom",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-07T08:38:59.33252+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 12:00:08+00:00",
+            "data": {
+                "user_id": "5353dcdf-5ef7-4b2e-8429-eb53f9789afe",
+                "username": "Tentom",
+                "score": 60,
+                "num_solves": 6,
+                "latest_solve_time": "2023-12-07T11:49:46.895744+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 60,
+        "num_solves": 6,
+        "username": "Tentom",
+        "organization_id": 2
+    }
+}

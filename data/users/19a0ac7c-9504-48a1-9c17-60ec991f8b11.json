@@ -1,0 +1,32 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:45:02+00:00",
+            "data": {
+                "id": "19a0ac7c-9504-48a1-9c17-60ec991f8b11",
+                "updated_at": "2023-12-01T12:34:52.471536+00:00",
+                "username": "goingdark",
+                "valid_from": "2023-12-01T12:35:33.966+00:00",
+                "organization_id": null
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 13:00:02+00:00",
+            "data": {
+                "user_id": "19a0ac7c-9504-48a1-9c17-60ec991f8b11",
+                "username": "goingdark",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T12:51:15.306974+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 10,
+        "num_solves": 1,
+        "username": "goingdark",
+        "organization_id": null
+    }
+}

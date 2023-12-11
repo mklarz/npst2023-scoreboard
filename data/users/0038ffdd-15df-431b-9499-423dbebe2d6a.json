@@ -1,0 +1,132 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-03 18:15:05+00:00",
+            "data": {
+                "id": "0038ffdd-15df-431b-9499-423dbebe2d6a",
+                "updated_at": "2023-12-03T18:13:53.763986+00:00",
+                "username": "vicpeder",
+                "valid_from": "2023-12-03T18:14:10.155+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 11:00:05+00:00",
+            "data": {
+                "id": "0038ffdd-15df-431b-9499-423dbebe2d6a",
+                "updated_at": "2023-12-03T18:13:53.763986+00:00",
+                "username": "vicdog",
+                "valid_from": "2023-12-04T10:46:27.618+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-05 11:15:06+00:00",
+            "data": {
+                "id": "0038ffdd-15df-431b-9499-423dbebe2d6a",
+                "updated_at": "2023-12-03T18:13:53.763986+00:00",
+                "username": "vicdog",
+                "valid_from": "2023-12-05T11:10:23.022+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-03 18:30:05+00:00",
+            "data": {
+                "user_id": "0038ffdd-15df-431b-9499-423dbebe2d6a",
+                "username": "vicpeder",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-03T18:17:33.228678+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 18:45:04+00:00",
+            "data": {
+                "user_id": "0038ffdd-15df-431b-9499-423dbebe2d6a",
+                "username": "vicpeder",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-03T18:34:39.590282+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 21:45:04+00:00",
+            "data": {
+                "user_id": "0038ffdd-15df-431b-9499-423dbebe2d6a",
+                "username": "vicpeder",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-03T21:34:32.730016+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 11:00:05+00:00",
+            "data": {
+                "user_id": "0038ffdd-15df-431b-9499-423dbebe2d6a",
+                "username": "vicdog",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-03T21:34:32.730016+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 13:30:05+00:00",
+            "data": {
+                "user_id": "0038ffdd-15df-431b-9499-423dbebe2d6a",
+                "username": "vicdog",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-04T13:23:13.889647+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 12:00:07+00:00",
+            "data": {
+                "user_id": "0038ffdd-15df-431b-9499-423dbebe2d6a",
+                "username": "vicdog",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-05T11:56:15.679794+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 11:30:08+00:00",
+            "data": {
+                "user_id": "0038ffdd-15df-431b-9499-423dbebe2d6a",
+                "username": "vicdog",
+                "score": 60,
+                "num_solves": 6,
+                "latest_solve_time": "2023-12-06T11:15:04.837295+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 11:15:09+00:00",
+            "data": {
+                "user_id": "0038ffdd-15df-431b-9499-423dbebe2d6a",
+                "username": "vicdog",
+                "score": 70,
+                "num_solves": 7,
+                "latest_solve_time": "2023-12-07T11:05:41.674387+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-09 14:45:10+00:00",
+            "data": {
+                "user_id": "0038ffdd-15df-431b-9499-423dbebe2d6a",
+                "username": "vicdog",
+                "score": 80,
+                "num_solves": 8,
+                "latest_solve_time": "2023-12-09T14:30:25.74897+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 80,
+        "num_solves": 8,
+        "username": "vicdog",
+        "organization_id": 1
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 15:45:02+00:00",
+            "data": {
+                "id": "90d1157c-2ddd-4f15-b239-ed6ec9776623",
+                "updated_at": "2023-12-01T15:35:56.611288+00:00",
+                "username": "MightyPanda_",
+                "valid_from": "2023-12-01T15:36:08.315+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 13:30:05+00:00",
+            "data": {
+                "id": "90d1157c-2ddd-4f15-b239-ed6ec9776623",
+                "updated_at": "2023-12-01T15:35:56.611288+00:00",
+                "username": "MightyPanda_",
+                "valid_from": "2023-12-04T13:22:40.47+00:00",
+                "organization_id": 2
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 15:45:02+00:00",
+            "data": {
+                "user_id": "90d1157c-2ddd-4f15-b239-ed6ec9776623",
+                "username": "MightyPanda_",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T15:40:43.386684+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 13:00:05+00:00",
+            "data": {
+                "user_id": "90d1157c-2ddd-4f15-b239-ed6ec9776623",
+                "username": "MightyPanda_",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-04T12:53:17.828408+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 13:30:05+00:00",
+            "data": {
+                "user_id": "90d1157c-2ddd-4f15-b239-ed6ec9776623",
+                "username": "MightyPanda_",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-04T13:21:47.364717+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 30,
+        "num_solves": 3,
+        "username": "MightyPanda_",
+        "organization_id": 2
+    }
+}

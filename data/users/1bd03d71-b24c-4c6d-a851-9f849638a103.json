@@ -1,0 +1,42 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-02 06:00:03+00:00",
+            "data": {
+                "id": "1bd03d71-b24c-4c6d-a851-9f849638a103",
+                "updated_at": "2023-12-02T05:58:15.793492+00:00",
+                "username": "skh",
+                "valid_from": "2023-12-02T05:58:26.332+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-08 17:15:10+00:00",
+            "data": {
+                "id": "1bd03d71-b24c-4c6d-a851-9f849638a103",
+                "updated_at": "2023-12-02T05:58:15.793492+00:00",
+                "username": "skh",
+                "valid_from": "2023-12-08T17:04:36.81+00:00",
+                "organization_id": 2
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-02 06:45:04+00:00",
+            "data": {
+                "user_id": "1bd03d71-b24c-4c6d-a851-9f849638a103",
+                "username": "skh",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-02T06:35:19.918751+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 10,
+        "num_solves": 1,
+        "username": "skh",
+        "organization_id": 2
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "01f8bd84-c961-4d44-b8f5-ca2d42682d21",
+                "updated_at": "2023-12-01T11:31:16.882873+00:00",
+                "username": "Rob Reindeer",
+                "valid_from": "2023-12-01T11:32:09.585+00:00",
+                "organization_id": null
+            }
+        }
+    ],
+    "scoreboard": [],
+    "current_info": {
+        "score": "?",
+        "num_solves": "?",
+        "username": "Rob Reindeer",
+        "organization_id": null
+    }
+}

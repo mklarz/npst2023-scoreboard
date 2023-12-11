@@ -1,0 +1,122 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "d4eb9090-ded7-40a2-9a0e-ebb3540c3821",
+                "updated_at": "2023-11-30T14:16:58.197003+00:00",
+                "username": "marrekanin",
+                "valid_from": "2023-11-30T16:18:34.398+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 18:15:06+00:00",
+            "data": {
+                "id": "d4eb9090-ded7-40a2-9a0e-ebb3540c3821",
+                "updated_at": "2023-11-30T14:16:58.197003+00:00",
+                "username": "marrekanin",
+                "valid_from": "2023-12-04T18:01:15.309+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "user_id": "d4eb9090-ded7-40a2-9a0e-ebb3540c3821",
+                "username": "marrekanin",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T11:08:12.69169+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-02 14:45:03+00:00",
+            "data": {
+                "user_id": "d4eb9090-ded7-40a2-9a0e-ebb3540c3821",
+                "username": "marrekanin",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-02T14:43:00.253295+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 11:15:04+00:00",
+            "data": {
+                "user_id": "d4eb9090-ded7-40a2-9a0e-ebb3540c3821",
+                "username": "marrekanin",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-03T11:10:36.577744+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 19:00:05+00:00",
+            "data": {
+                "user_id": "d4eb9090-ded7-40a2-9a0e-ebb3540c3821",
+                "username": "marrekanin",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-04T18:48:49.701867+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 20:15:07+00:00",
+            "data": {
+                "user_id": "d4eb9090-ded7-40a2-9a0e-ebb3540c3821",
+                "username": "marrekanin",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-05T20:06:22.237603+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 17:30:07+00:00",
+            "data": {
+                "user_id": "d4eb9090-ded7-40a2-9a0e-ebb3540c3821",
+                "username": "marrekanin",
+                "score": 60,
+                "num_solves": 6,
+                "latest_solve_time": "2023-12-06T17:24:05.423703+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 17:30:08+00:00",
+            "data": {
+                "user_id": "d4eb9090-ded7-40a2-9a0e-ebb3540c3821",
+                "username": "marrekanin",
+                "score": 70,
+                "num_solves": 7,
+                "latest_solve_time": "2023-12-07T17:15:29.299239+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-09 12:45:10+00:00",
+            "data": {
+                "user_id": "d4eb9090-ded7-40a2-9a0e-ebb3540c3821",
+                "username": "marrekanin",
+                "score": 80,
+                "num_solves": 8,
+                "latest_solve_time": "2023-12-09T12:43:19.389219+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-10 11:45:10+00:00",
+            "data": {
+                "user_id": "d4eb9090-ded7-40a2-9a0e-ebb3540c3821",
+                "username": "marrekanin",
+                "score": 90,
+                "num_solves": 9,
+                "latest_solve_time": "2023-12-10T11:39:20.643513+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 90,
+        "num_solves": 9,
+        "username": "marrekanin",
+        "organization_id": 1
+    }
+}

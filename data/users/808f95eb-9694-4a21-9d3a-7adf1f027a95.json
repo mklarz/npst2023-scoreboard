@@ -1,0 +1,62 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 19:30:03+00:00",
+            "data": {
+                "id": "808f95eb-9694-4a21-9d3a-7adf1f027a95",
+                "updated_at": "2023-12-01T19:22:05.341853+00:00",
+                "username": "Shim",
+                "valid_from": "2023-12-01T19:22:18.891+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-05 15:00:07+00:00",
+            "data": {
+                "id": "808f95eb-9694-4a21-9d3a-7adf1f027a95",
+                "updated_at": "2023-12-01T19:22:05.341853+00:00",
+                "username": "Shim",
+                "valid_from": "2023-12-05T14:53:45.031+00:00",
+                "organization_id": 1
+            }
+        },
+        {
+            "timestamp": "2023-12-06 15:45:07+00:00",
+            "data": {
+                "id": "808f95eb-9694-4a21-9d3a-7adf1f027a95",
+                "updated_at": "2023-12-01T19:22:05.341853+00:00",
+                "username": "Shim",
+                "valid_from": "2023-12-06T15:40:42.657+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 21:15:03+00:00",
+            "data": {
+                "user_id": "808f95eb-9694-4a21-9d3a-7adf1f027a95",
+                "username": "Shim",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T21:07:17.685265+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-02 19:15:04+00:00",
+            "data": {
+                "user_id": "808f95eb-9694-4a21-9d3a-7adf1f027a95",
+                "username": "Shim",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-02T19:10:43.069594+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 20,
+        "num_solves": 2,
+        "username": "Shim",
+        "organization_id": 1
+    }
+}

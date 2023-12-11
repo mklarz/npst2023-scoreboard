@@ -1,0 +1,31 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 23:45:03+00:00",
+            "data": {
+                "id": "b6d54c05-2f1a-499c-8c63-ab551583ffda",
+                "updated_at": "2023-12-01T23:42:08.970517+00:00",
+                "username": "alveteknolog",
+                "valid_from": "2023-12-01T23:43:27.151+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 17:15:05+00:00",
+            "data": {
+                "id": "b6d54c05-2f1a-499c-8c63-ab551583ffda",
+                "updated_at": "2023-12-01T23:42:08.970517+00:00",
+                "username": "alveteknolog",
+                "valid_from": "2023-12-04T17:14:19.625+00:00",
+                "organization_id": 2
+            }
+        }
+    ],
+    "scoreboard": [],
+    "current_info": {
+        "score": "?",
+        "num_solves": "?",
+        "username": "alveteknolog",
+        "organization_id": 2
+    }
+}

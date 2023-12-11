@@ -1,0 +1,82 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "78028822-d604-4380-a811-e6c0e1ec4d38",
+                "updated_at": "2023-12-01T06:47:19.324316+00:00",
+                "username": "margz",
+                "valid_from": "2023-12-01T06:47:49.189+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 16:00:05+00:00",
+            "data": {
+                "id": "78028822-d604-4380-a811-e6c0e1ec4d38",
+                "updated_at": "2023-12-01T06:47:19.324316+00:00",
+                "username": "margz",
+                "valid_from": "2023-12-04T15:57:02.265+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 13:00:02+00:00",
+            "data": {
+                "user_id": "78028822-d604-4380-a811-e6c0e1ec4d38",
+                "username": "margz",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T12:52:41.774172+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-02 13:00:03+00:00",
+            "data": {
+                "user_id": "78028822-d604-4380-a811-e6c0e1ec4d38",
+                "username": "margz",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-02T12:51:12.083587+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 17:30:06+00:00",
+            "data": {
+                "user_id": "78028822-d604-4380-a811-e6c0e1ec4d38",
+                "username": "margz",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-05T17:15:29.154328+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 17:45:07+00:00",
+            "data": {
+                "user_id": "78028822-d604-4380-a811-e6c0e1ec4d38",
+                "username": "margz",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-05T17:40:01.381777+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 15:15:07+00:00",
+            "data": {
+                "user_id": "78028822-d604-4380-a811-e6c0e1ec4d38",
+                "username": "margz",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-06T15:10:55.130733+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 50,
+        "num_solves": 5,
+        "username": "margz",
+        "organization_id": 1
+    }
+}

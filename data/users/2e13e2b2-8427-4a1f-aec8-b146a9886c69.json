@@ -1,0 +1,72 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "2e13e2b2-8427-4a1f-aec8-b146a9886c69",
+                "updated_at": "2023-11-30T17:10:47.747281+00:00",
+                "username": "messingtorsjon",
+                "valid_from": "2023-11-30T17:14:37.614+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 13:45:05+00:00",
+            "data": {
+                "id": "2e13e2b2-8427-4a1f-aec8-b146a9886c69",
+                "updated_at": "2023-11-30T17:10:47.747281+00:00",
+                "username": "messingtorsjon",
+                "valid_from": "2023-12-04T13:42:41.658+00:00",
+                "organization_id": 2
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 16:15:03+00:00",
+            "data": {
+                "user_id": "2e13e2b2-8427-4a1f-aec8-b146a9886c69",
+                "username": "messingtorsjon",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T16:14:39.514114+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-02 12:30:03+00:00",
+            "data": {
+                "user_id": "2e13e2b2-8427-4a1f-aec8-b146a9886c69",
+                "username": "messingtorsjon",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-02T12:21:54.450135+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 01:00:06+00:00",
+            "data": {
+                "user_id": "2e13e2b2-8427-4a1f-aec8-b146a9886c69",
+                "username": "messingtorsjon",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-05T00:57:12.602411+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 15:15:08+00:00",
+            "data": {
+                "user_id": "2e13e2b2-8427-4a1f-aec8-b146a9886c69",
+                "username": "messingtorsjon",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-07T15:10:04.398876+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 40,
+        "num_solves": 4,
+        "username": "messingtorsjon",
+        "organization_id": 2
+    }
+}

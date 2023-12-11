@@ -1,0 +1,82 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-06 14:00:08+00:00",
+            "data": {
+                "id": "d5b2d109-88ac-482d-9fee-81d621ca4df6",
+                "updated_at": "2023-12-06T13:57:18.538521+00:00",
+                "username": "henrikhorluck",
+                "valid_from": "2023-12-06T13:57:25.274+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-07 20:45:09+00:00",
+            "data": {
+                "id": "d5b2d109-88ac-482d-9fee-81d621ca4df6",
+                "updated_at": "2023-12-06T13:57:18.538521+00:00",
+                "username": "henrikhorluck",
+                "valid_from": "2023-12-07T20:32:32.19+00:00",
+                "organization_id": 2
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-06 14:00:08+00:00",
+            "data": {
+                "user_id": "d5b2d109-88ac-482d-9fee-81d621ca4df6",
+                "username": "henrikhorluck",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-06T13:59:10.297506+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 14:15:07+00:00",
+            "data": {
+                "user_id": "d5b2d109-88ac-482d-9fee-81d621ca4df6",
+                "username": "henrikhorluck",
+                "score": 60,
+                "num_solves": 6,
+                "latest_solve_time": "2023-12-06T14:01:25.846596+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 21:15:09+00:00",
+            "data": {
+                "user_id": "d5b2d109-88ac-482d-9fee-81d621ca4df6",
+                "username": "henrikhorluck",
+                "score": 70,
+                "num_solves": 7,
+                "latest_solve_time": "2023-12-07T21:01:01.307891+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-09 12:45:10+00:00",
+            "data": {
+                "user_id": "d5b2d109-88ac-482d-9fee-81d621ca4df6",
+                "username": "henrikhorluck",
+                "score": 80,
+                "num_solves": 8,
+                "latest_solve_time": "2023-12-09T12:31:53.414996+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-10 13:30:11+00:00",
+            "data": {
+                "user_id": "d5b2d109-88ac-482d-9fee-81d621ca4df6",
+                "username": "henrikhorluck",
+                "score": 90,
+                "num_solves": 9,
+                "latest_solve_time": "2023-12-10T13:17:56.363497+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 90,
+        "num_solves": 9,
+        "username": "henrikhorluck",
+        "organization_id": 2
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-02 01:30:03+00:00",
+            "data": {
+                "id": "35f1a2a9-784f-4a5d-8b6c-f663440e0b83",
+                "updated_at": "2023-12-02T01:24:45.514767+00:00",
+                "username": "oscar med k",
+                "valid_from": "2023-12-02T01:24:59.262+00:00",
+                "organization_id": null
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-02 03:15:03+00:00",
+            "data": {
+                "user_id": "35f1a2a9-784f-4a5d-8b6c-f663440e0b83",
+                "username": "oscar med k",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-02T03:05:29.273219+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 10,
+        "num_solves": 1,
+        "username": "oscar med k",
+        "organization_id": null
+    }
+}

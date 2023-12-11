@@ -1,0 +1,132 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "38ba5872-7b46-4009-b364-2cabb6aeba20",
+                "updated_at": "2023-12-01T08:50:38.522026+00:00",
+                "username": "memfrob",
+                "valid_from": "2023-12-01T08:50:59.416+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-05 08:45:06+00:00",
+            "data": {
+                "id": "38ba5872-7b46-4009-b364-2cabb6aeba20",
+                "updated_at": "2023-12-01T08:50:38.522026+00:00",
+                "username": "memfrob",
+                "valid_from": "2023-12-05T08:43:13.071+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "user_id": "38ba5872-7b46-4009-b364-2cabb6aeba20",
+                "username": "memfrob",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T11:24:35.68212+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 19:30:04+00:00",
+            "data": {
+                "user_id": "38ba5872-7b46-4009-b364-2cabb6aeba20",
+                "username": "memfrob",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-03T19:25:14.370327+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 23:30:04+00:00",
+            "data": {
+                "user_id": "38ba5872-7b46-4009-b364-2cabb6aeba20",
+                "username": "memfrob",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-03T23:21:14.433503+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 17:30:05+00:00",
+            "data": {
+                "user_id": "38ba5872-7b46-4009-b364-2cabb6aeba20",
+                "username": "memfrob",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-04T17:21:39.765682+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 11:45:06+00:00",
+            "data": {
+                "user_id": "38ba5872-7b46-4009-b364-2cabb6aeba20",
+                "username": "memfrob",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-05T11:44:21.619483+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 13:45:08+00:00",
+            "data": {
+                "user_id": "38ba5872-7b46-4009-b364-2cabb6aeba20",
+                "username": "memfrob",
+                "score": 60,
+                "num_solves": 6,
+                "latest_solve_time": "2023-12-06T13:37:40.452594+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 15:45:08+00:00",
+            "data": {
+                "user_id": "38ba5872-7b46-4009-b364-2cabb6aeba20",
+                "username": "memfrob",
+                "score": 70,
+                "num_solves": 7,
+                "latest_solve_time": "2023-12-07T15:35:01.961013+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-09 15:00:10+00:00",
+            "data": {
+                "user_id": "38ba5872-7b46-4009-b364-2cabb6aeba20",
+                "username": "memfrob",
+                "score": 80,
+                "num_solves": 8,
+                "latest_solve_time": "2023-12-09T15:00:01.410813+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-11 11:15:15+00:00",
+            "data": {
+                "user_id": "38ba5872-7b46-4009-b364-2cabb6aeba20",
+                "username": "memfrob",
+                "score": 90,
+                "num_solves": 9,
+                "latest_solve_time": "2023-12-11T11:10:56.675909+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-11 12:45:15+00:00",
+            "data": {
+                "user_id": "38ba5872-7b46-4009-b364-2cabb6aeba20",
+                "username": "memfrob",
+                "score": 100,
+                "num_solves": 10,
+                "latest_solve_time": "2023-12-11T12:32:29.056407+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 100,
+        "num_solves": 10,
+        "username": "memfrob",
+        "organization_id": 1
+    }
+}

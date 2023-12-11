@@ -1,0 +1,32 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-07 14:00:08+00:00",
+            "data": {
+                "id": "19470bfa-333f-41fc-8c75-a168ceb36136",
+                "updated_at": "2023-12-07T13:50:56.863129+00:00",
+                "username": "PanzerFrans ",
+                "valid_from": "2023-12-07T13:53:25.149+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-07 14:15:08+00:00",
+            "data": {
+                "user_id": "19470bfa-333f-41fc-8c75-a168ceb36136",
+                "username": "PanzerFrans ",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-07T14:11:46.618346+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 10,
+        "num_solves": 1,
+        "username": "PanzerFrans ",
+        "organization_id": 1
+    }
+}

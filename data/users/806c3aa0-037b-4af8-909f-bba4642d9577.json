@@ -1,0 +1,122 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "806c3aa0-037b-4af8-909f-bba4642d9577",
+                "updated_at": "2023-11-30T14:20:29.331711+00:00",
+                "username": "Benjamin Pr\u00f8vefjes",
+                "valid_from": "2023-11-30T14:20:52.482+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 15:00:06+00:00",
+            "data": {
+                "id": "806c3aa0-037b-4af8-909f-bba4642d9577",
+                "updated_at": "2023-11-30T14:20:29.331711+00:00",
+                "username": "Benjamin Pr\u00f8vefjes",
+                "valid_from": "2023-12-04T14:59:42.39+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 16:15:03+00:00",
+            "data": {
+                "user_id": "806c3aa0-037b-4af8-909f-bba4642d9577",
+                "username": "Benjamin Pr\u00f8vefjes",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T16:02:59.883449+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 15:30:05+00:00",
+            "data": {
+                "user_id": "806c3aa0-037b-4af8-909f-bba4642d9577",
+                "username": "Benjamin Pr\u00f8vefjes",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-03T15:22:29.587902+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 15:45:05+00:00",
+            "data": {
+                "user_id": "806c3aa0-037b-4af8-909f-bba4642d9577",
+                "username": "Benjamin Pr\u00f8vefjes",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-03T15:32:25.732887+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 19:30:06+00:00",
+            "data": {
+                "user_id": "806c3aa0-037b-4af8-909f-bba4642d9577",
+                "username": "Benjamin Pr\u00f8vefjes",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-04T19:15:13.224958+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-05 16:15:06+00:00",
+            "data": {
+                "user_id": "806c3aa0-037b-4af8-909f-bba4642d9577",
+                "username": "Benjamin Pr\u00f8vefjes",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-05T16:09:18.989371+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-06 18:30:08+00:00",
+            "data": {
+                "user_id": "806c3aa0-037b-4af8-909f-bba4642d9577",
+                "username": "Benjamin Pr\u00f8vefjes",
+                "score": 60,
+                "num_solves": 6,
+                "latest_solve_time": "2023-12-06T18:21:26.394998+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 12:30:08+00:00",
+            "data": {
+                "user_id": "806c3aa0-037b-4af8-909f-bba4642d9577",
+                "username": "Benjamin Pr\u00f8vefjes",
+                "score": 70,
+                "num_solves": 7,
+                "latest_solve_time": "2023-12-07T12:27:02.919632+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-09 18:15:10+00:00",
+            "data": {
+                "user_id": "806c3aa0-037b-4af8-909f-bba4642d9577",
+                "username": "Benjamin Pr\u00f8vefjes",
+                "score": 80,
+                "num_solves": 8,
+                "latest_solve_time": "2023-12-09T18:03:11.381484+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-10 15:30:11+00:00",
+            "data": {
+                "user_id": "806c3aa0-037b-4af8-909f-bba4642d9577",
+                "username": "Benjamin Pr\u00f8vefjes",
+                "score": 90,
+                "num_solves": 9,
+                "latest_solve_time": "2023-12-10T15:27:57.03626+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 90,
+        "num_solves": 9,
+        "username": "Benjamin Pr\u00f8vefjes",
+        "organization_id": 1
+    }
+}

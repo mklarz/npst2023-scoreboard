@@ -1,0 +1,21 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-06 14:00:08+00:00",
+            "data": {
+                "id": "50aaa4ab-cea3-453c-a1f6-6592035bddb2",
+                "updated_at": "2023-12-06T13:53:34.975832+00:00",
+                "username": "bbcanary",
+                "valid_from": "2023-12-06T13:54:08.947+00:00",
+                "organization_id": 3
+            }
+        }
+    ],
+    "scoreboard": [],
+    "current_info": {
+        "score": "?",
+        "num_solves": "?",
+        "username": "bbcanary",
+        "organization_id": 3
+    }
+}

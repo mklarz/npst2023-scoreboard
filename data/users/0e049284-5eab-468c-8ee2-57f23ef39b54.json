@@ -1,0 +1,62 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "0e049284-5eab-468c-8ee2-57f23ef39b54",
+                "updated_at": "2023-11-30T15:37:58.852163+00:00",
+                "username": "McNuggster",
+                "valid_from": "2023-11-30T15:38:09.795+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-04 16:00:05+00:00",
+            "data": {
+                "id": "0e049284-5eab-468c-8ee2-57f23ef39b54",
+                "updated_at": "2023-11-30T15:37:58.852163+00:00",
+                "username": "McNuggster",
+                "valid_from": "2023-12-04T15:55:09.675+00:00",
+                "organization_id": 3
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 13:45:02+00:00",
+            "data": {
+                "user_id": "0e049284-5eab-468c-8ee2-57f23ef39b54",
+                "username": "McNuggster",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T13:30:47.404636+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-03 19:00:04+00:00",
+            "data": {
+                "user_id": "0e049284-5eab-468c-8ee2-57f23ef39b54",
+                "username": "McNuggster",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-03T18:48:51.848122+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-04 17:00:06+00:00",
+            "data": {
+                "user_id": "0e049284-5eab-468c-8ee2-57f23ef39b54",
+                "username": "McNuggster",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-04T16:52:56.070975+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 30,
+        "num_solves": 3,
+        "username": "McNuggster",
+        "organization_id": 3
+    }
+}

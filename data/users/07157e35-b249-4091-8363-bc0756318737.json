@@ -1,0 +1,62 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 12:02:06+00:00",
+            "data": {
+                "id": "07157e35-b249-4091-8363-bc0756318737",
+                "updated_at": "2023-11-30T22:20:42.905107+00:00",
+                "username": null,
+                "valid_from": "2023-11-30T22:20:42.905107+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-01 16:15:03+00:00",
+            "data": {
+                "id": "07157e35-b249-4091-8363-bc0756318737",
+                "updated_at": "2023-11-30T22:20:42.905107+00:00",
+                "username": "Sithis",
+                "valid_from": "2023-12-01T16:06:56.991+00:00",
+                "organization_id": null
+            }
+        },
+        {
+            "timestamp": "2023-12-07 11:15:09+00:00",
+            "data": {
+                "id": "07157e35-b249-4091-8363-bc0756318737",
+                "updated_at": "2023-11-30T22:20:42.905107+00:00",
+                "username": "Sithis",
+                "valid_from": "2023-12-07T11:08:55.563+00:00",
+                "organization_id": 2
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-01 16:15:03+00:00",
+            "data": {
+                "user_id": "07157e35-b249-4091-8363-bc0756318737",
+                "username": "Sithis",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-01T16:06:13.087507+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-07 11:15:09+00:00",
+            "data": {
+                "user_id": "07157e35-b249-4091-8363-bc0756318737",
+                "username": "Sithis",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-07T11:13:18.853663+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 20,
+        "num_solves": 2,
+        "username": "Sithis",
+        "organization_id": 2
+    }
+}

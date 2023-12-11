@@ -1,0 +1,21 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-01 20:00:03+00:00",
+            "data": {
+                "id": "f1127e65-948a-4505-acf0-5bd7f94e9c7c",
+                "updated_at": "2023-12-01T19:56:29.222607+00:00",
+                "username": "Pepto",
+                "valid_from": "2023-12-01T19:56:49.997+00:00",
+                "organization_id": null
+            }
+        }
+    ],
+    "scoreboard": [],
+    "current_info": {
+        "score": "?",
+        "num_solves": "?",
+        "username": "Pepto",
+        "organization_id": null
+    }
+}
