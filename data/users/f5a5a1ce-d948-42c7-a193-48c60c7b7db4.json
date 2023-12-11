@@ -1,5 +1,16 @@
 {
-    "profile": [],
+    "profile": [
+        {
+            "timestamp": "2023-12-11 14:38:52+00:00",
+            "data": {
+                "id": "f5a5a1ce-d948-42c7-a193-48c60c7b7db4",
+                "updated_at": "2023-12-08T23:36:14.166379+00:00",
+                "username": "dark_waiter",
+                "valid_from": "2023-12-08T23:38:17.279+00:00",
+                "organization_id": 2
+            }
+        }
+    ],
     "scoreboard": [
         {
             "timestamp": "2023-12-10 10:45:11+00:00",
@@ -25,7 +36,7 @@
     "current_info": {
         "score": 20,
         "num_solves": 2,
-        "username": null,
-        "organization_id": null
+        "username": "dark_waiter",
+        "organization_id": 2
     }
 }

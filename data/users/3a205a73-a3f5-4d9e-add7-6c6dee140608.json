@@ -1,5 +1,16 @@
 {
-    "profile": [],
+    "profile": [
+        {
+            "timestamp": "2023-12-11 14:38:52+00:00",
+            "data": {
+                "id": "3a205a73-a3f5-4d9e-add7-6c6dee140608",
+                "updated_at": "2023-12-09T13:27:35.352065+00:00",
+                "username": "danseband",
+                "valid_from": "2023-12-09T13:28:44.209+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
     "scoreboard": [
         {
             "timestamp": "2023-12-09 13:45:10+00:00",
@@ -35,7 +46,7 @@
     "current_info": {
         "score": 80,
         "num_solves": 8,
-        "username": null,
-        "organization_id": null
+        "username": "danseband",
+        "organization_id": 1
     }
 }

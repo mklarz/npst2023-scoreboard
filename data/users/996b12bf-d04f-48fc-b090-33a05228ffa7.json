@@ -9,6 +9,16 @@
                 "valid_from": "2023-12-04T14:33:47.039+00:00",
                 "organization_id": 1
             }
+        },
+        {
+            "timestamp": "2023-12-11 14:38:52+00:00",
+            "data": {
+                "id": "996b12bf-d04f-48fc-b090-33a05228ffa7",
+                "updated_at": "2023-12-04T14:30:35.414455+00:00",
+                "username": "[CISK] Fossekallen",
+                "valid_from": "2023-12-08T17:04:40.721+00:00",
+                "organization_id": 1
+            }
         }
     ],
     "scoreboard": [
@@ -66,7 +76,7 @@
     "current_info": {
         "score": 50,
         "num_solves": 5,
-        "username": "hus1000",
+        "username": "[CISK] Fossekallen",
         "organization_id": 1
     }
 }

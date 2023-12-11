@@ -1,0 +1,21 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-11 14:38:52+00:00",
+            "data": {
+                "id": "645758d3-e21e-4e2a-a748-21535143d5e0",
+                "updated_at": "2023-12-09T09:23:28.090696+00:00",
+                "username": "Call of Duty 30 Bomber",
+                "valid_from": "2023-12-09T19:13:09.082+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [],
+    "current_info": {
+        "score": "?",
+        "num_solves": "?",
+        "username": "Call of Duty 30 Bomber",
+        "organization_id": 1
+    }
+}

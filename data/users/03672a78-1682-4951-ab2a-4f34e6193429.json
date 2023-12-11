@@ -1,5 +1,16 @@
 {
-    "profile": [],
+    "profile": [
+        {
+            "timestamp": "2023-12-11 14:38:52+00:00",
+            "data": {
+                "id": "03672a78-1682-4951-ab2a-4f34e6193429",
+                "updated_at": "2023-12-09T21:30:26.660862+00:00",
+                "username": "ingvildlg",
+                "valid_from": "2023-12-09T21:30:50.712+00:00",
+                "organization_id": 3
+            }
+        }
+    ],
     "scoreboard": [
         {
             "timestamp": "2023-12-10 12:00:10+00:00",
@@ -35,7 +46,7 @@
     "current_info": {
         "score": 30,
         "num_solves": 3,
-        "username": null,
-        "organization_id": null
+        "username": "ingvildlg",
+        "organization_id": 3
     }
 }

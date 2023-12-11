@@ -1,0 +1,21 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-11 14:38:52+00:00",
+            "data": {
+                "id": "f0d23b55-f8b9-4ff3-8655-b83b1b94eb7c",
+                "updated_at": "2023-12-11T11:42:16.110576+00:00",
+                "username": "Smultringmannen",
+                "valid_from": "2023-12-11T11:45:21.408+00:00",
+                "organization_id": 2
+            }
+        }
+    ],
+    "scoreboard": [],
+    "current_info": {
+        "score": "?",
+        "num_solves": "?",
+        "username": "Smultringmannen",
+        "organization_id": 2
+    }
+}

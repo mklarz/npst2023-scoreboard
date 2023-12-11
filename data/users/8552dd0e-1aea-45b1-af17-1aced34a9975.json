@@ -1,5 +1,16 @@
 {
-    "profile": [],
+    "profile": [
+        {
+            "timestamp": "2023-12-11 14:38:52+00:00",
+            "data": {
+                "id": "8552dd0e-1aea-45b1-af17-1aced34a9975",
+                "updated_at": "2023-12-11T09:07:06.39853+00:00",
+                "username": "appi",
+                "valid_from": "2023-12-11T09:07:55.888+00:00",
+                "organization_id": 3
+            }
+        }
+    ],
     "scoreboard": [
         {
             "timestamp": "2023-12-11 09:30:16+00:00",
@@ -15,7 +26,7 @@
     "current_info": {
         "score": 10,
         "num_solves": 1,
-        "username": null,
-        "organization_id": null
+        "username": "appi",
+        "organization_id": 3
     }
 }

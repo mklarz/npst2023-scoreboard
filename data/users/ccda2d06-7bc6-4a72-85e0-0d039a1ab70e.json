@@ -1,5 +1,16 @@
 {
-    "profile": [],
+    "profile": [
+        {
+            "timestamp": "2023-12-11 14:38:52+00:00",
+            "data": {
+                "id": "ccda2d06-7bc6-4a72-85e0-0d039a1ab70e",
+                "updated_at": "2023-12-11T11:40:09.495452+00:00",
+                "username": "Hoofland",
+                "valid_from": "2023-12-11T11:40:39.149+00:00",
+                "organization_id": 2
+            }
+        }
+    ],
     "scoreboard": [
         {
             "timestamp": "2023-12-11 12:00:15+00:00",
@@ -15,7 +26,7 @@
     "current_info": {
         "score": 10,
         "num_solves": 1,
-        "username": null,
-        "organization_id": null
+        "username": "Hoofland",
+        "organization_id": 2
     }
 }

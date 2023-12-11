@@ -9,6 +9,16 @@
                 "valid_from": "2023-11-30T17:53:25.088+00:00",
                 "organization_id": null
             }
+        },
+        {
+            "timestamp": "2023-12-11 14:38:52+00:00",
+            "data": {
+                "id": "06bedf82-4235-43f6-bc18-623737df7274",
+                "updated_at": "2023-11-30T17:52:29.477218+00:00",
+                "username": "Guitaristotle",
+                "valid_from": "2023-12-10T21:11:49.533+00:00",
+                "organization_id": 2
+            }
         }
     ],
     "scoreboard": [],
@@ -16,6 +26,6 @@
         "score": "?",
         "num_solves": "?",
         "username": "Guitaristotle",
-        "organization_id": null
+        "organization_id": 2
     }
 }

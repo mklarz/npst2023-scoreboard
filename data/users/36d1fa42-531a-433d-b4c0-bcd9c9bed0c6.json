@@ -1,5 +1,16 @@
 {
-    "profile": [],
+    "profile": [
+        {
+            "timestamp": "2023-12-11 14:38:52+00:00",
+            "data": {
+                "id": "36d1fa42-531a-433d-b4c0-bcd9c9bed0c6",
+                "updated_at": "2023-12-08T19:18:35.309758+00:00",
+                "username": "lars",
+                "valid_from": "2023-12-08T19:19:55.716+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
     "scoreboard": [
         {
             "timestamp": "2023-12-10 23:30:15+00:00",
@@ -15,7 +26,7 @@
     "current_info": {
         "score": 10,
         "num_solves": 1,
-        "username": null,
-        "organization_id": null
+        "username": "lars",
+        "organization_id": 1
     }
 }

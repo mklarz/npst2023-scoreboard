@@ -1,5 +1,16 @@
 {
-    "profile": [],
+    "profile": [
+        {
+            "timestamp": "2023-12-11 14:38:52+00:00",
+            "data": {
+                "id": "67a82a5a-675c-413e-b208-f4d650c30ca5",
+                "updated_at": "2023-12-09T14:46:53.229239+00:00",
+                "username": "$Pingu",
+                "valid_from": "2023-12-09T16:06:59.88+00:00",
+                "organization_id": 2
+            }
+        }
+    ],
     "scoreboard": [
         {
             "timestamp": "2023-12-09 16:15:10+00:00",
@@ -25,7 +36,7 @@
     "current_info": {
         "score": 20,
         "num_solves": 2,
-        "username": null,
-        "organization_id": null
+        "username": "$Pingu",
+        "organization_id": 2
     }
 }

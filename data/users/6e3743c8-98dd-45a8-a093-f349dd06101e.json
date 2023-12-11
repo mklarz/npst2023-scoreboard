@@ -1,0 +1,21 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-11 14:38:52+00:00",
+            "data": {
+                "id": "6e3743c8-98dd-45a8-a093-f349dd06101e",
+                "updated_at": "2023-12-11T11:16:08.245109+00:00",
+                "username": null,
+                "valid_from": "2023-12-11T11:16:13.124+00:00",
+                "organization_id": 3
+            }
+        }
+    ],
+    "scoreboard": [],
+    "current_info": {
+        "score": "?",
+        "num_solves": "?",
+        "username": null,
+        "organization_id": 3
+    }
+}
