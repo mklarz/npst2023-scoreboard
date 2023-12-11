@@ -56,6 +56,13 @@
         "latest_solve_time": "2023-12-11T14:51:12.219993+00:00"
     },
     {
+        "user_id": "8c5b0297-2b0b-47dc-a6f6-362746c07ae6",
+        "username": "stasiv",
+        "score": 110,
+        "num_solves": 11,
+        "latest_solve_time": "2023-12-11T16:21:39.600633+00:00"
+    },
+    {
         "user_id": "d67934c6-cc98-4504-8f2b-61ee431c9c52",
         "username": "434gak3dt",
         "score": 102,
@@ -110,13 +117,6 @@
         "score": 101,
         "num_solves": 11,
         "latest_solve_time": "2023-12-11T15:23:54.503244+00:00"
-    },
-    {
-        "user_id": "8c5b0297-2b0b-47dc-a6f6-362746c07ae6",
-        "username": "stasiv",
-        "score": 100,
-        "num_solves": 10,
-        "latest_solve_time": "2023-12-10T20:48:30.889618+00:00"
     },
     {
         "user_id": "b61420c7-1cb8-4833-90f3-cca4ce2b0133",
@@ -2688,6 +2688,13 @@
         "latest_solve_time": "2023-12-10T23:24:38.140573+00:00"
     },
     {
+        "user_id": "82e0136d-4c68-440d-8244-79eaff807380",
+        "username": "sudoole",
+        "score": 50,
+        "num_solves": 5,
+        "latest_solve_time": "2023-12-11T16:21:40.050687+00:00"
+    },
+    {
         "user_id": "ebb7d211-10d9-4f8a-b4d8-85a7342849c2",
         "username": "enfo \ud83d\udc48",
         "score": 40,
@@ -2968,13 +2975,6 @@
         "latest_solve_time": "2023-12-09T19:28:30.935353+00:00"
     },
     {
-        "user_id": "82e0136d-4c68-440d-8244-79eaff807380",
-        "username": "sudoole",
-        "score": 40,
-        "num_solves": 4,
-        "latest_solve_time": "2023-12-09T19:28:46.295669+00:00"
-    },
-    {
         "user_id": "b488a4d5-2dd1-428f-959b-7d794aed461e",
         "username": "Maxman",
         "score": 40,
@@ -3043,6 +3043,13 @@
         "score": 40,
         "num_solves": 4,
         "latest_solve_time": "2023-12-11T13:15:52.550701+00:00"
+    },
+    {
+        "user_id": "e6ca42ac-07ce-408b-a7a6-da0641f726f3",
+        "username": "Linux_Hacker07",
+        "score": 40,
+        "num_solves": 4,
+        "latest_solve_time": "2023-12-11T16:26:47.609905+00:00"
     },
     {
         "user_id": "e68ffa37-db00-4e8e-b3e9-0a0d5c603006",
@@ -3512,13 +3519,6 @@
         "score": 30,
         "num_solves": 3,
         "latest_solve_time": "2023-12-09T14:00:58.415731+00:00"
-    },
-    {
-        "user_id": "e6ca42ac-07ce-408b-a7a6-da0641f726f3",
-        "username": "Linux_Hacker07",
-        "score": 30,
-        "num_solves": 3,
-        "latest_solve_time": "2023-12-09T20:31:31.845313+00:00"
     },
     {
         "user_id": "03672a78-1682-4951-ab2a-4f34e6193429",
@@ -4492,6 +4492,13 @@
         "score": 20,
         "num_solves": 2,
         "latest_solve_time": "2023-12-11T15:35:39.085503+00:00"
+    },
+    {
+        "user_id": "05ea00a2-5fbd-4944-aabf-e159c5e5b31e",
+        "username": "Piirkachu",
+        "score": 20,
+        "num_solves": 2,
+        "latest_solve_time": "2023-12-11T16:17:46.077375+00:00"
     },
     {
         "user_id": "a83d5e00-3676-4c93-adbb-025e208698af",
@@ -7329,13 +7336,6 @@
         "latest_solve_time": "2023-12-05T22:23:07.936275+00:00"
     },
     {
-        "user_id": "05ea00a2-5fbd-4944-aabf-e159c5e5b31e",
-        "username": "Piirkachu",
-        "score": 10,
-        "num_solves": 1,
-        "latest_solve_time": "2023-12-06T00:12:37.986385+00:00"
-    },
-    {
         "user_id": "b0325f72-32c4-43da-ad63-e97b07043729",
         "username": "tormodul",
         "score": 10,
@@ -8062,5 +8062,12 @@
         "score": 10,
         "num_solves": 1,
         "latest_solve_time": "2023-12-11T16:03:03.124094+00:00"
+    },
+    {
+        "user_id": "749a84e6-4154-4de5-972f-423018d83479",
+        "username": "Hecker",
+        "score": 10,
+        "num_solves": 1,
+        "latest_solve_time": "2023-12-11T16:24:51.593733+00:00"
     }
 ]
