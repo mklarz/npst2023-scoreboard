@@ -13769,6 +13769,13 @@
     "organization_id": 1
   },
   {
+    "id": "74079736-3f6d-4233-828a-c311ee32a38b",
+    "updated_at": "2023-12-11T00:40:40.224938+00:00",
+    "username": "Lassevolden",
+    "valid_from": "2023-12-11T00:42:27.16+00:00",
+    "organization_id": 1
+  },
+  {
     "id": "24b810b8-209b-4bb5-acbd-13918f48ee09",
     "updated_at": "2023-12-08T08:56:48.211992+00:00",
     "username": "sigzug",
@@ -13991,12 +13998,5 @@
     "username": "Snabel",
     "valid_from": "2023-12-09T09:11:20.473+00:00",
     "organization_id": 2
-  },
-  {
-    "id": "923db2b6-8d13-41c1-8475-edea21002c4a",
-    "updated_at": "2023-12-08T17:17:46.60427+00:00",
-    "username": null,
-    "valid_from": "2023-12-08T17:28:27.123+00:00",
-    "organization_id": null
   }
 ]
