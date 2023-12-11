@@ -119,6 +119,13 @@
         "latest_solve_time": "2023-12-11T15:23:54.503244+00:00"
     },
     {
+        "user_id": "ad9962c1-5d56-4a4c-804b-c49586555048",
+        "username": "SveinPavel",
+        "score": 101,
+        "num_solves": 11,
+        "latest_solve_time": "2023-12-11T16:30:57.939972+00:00"
+    },
+    {
         "user_id": "b61420c7-1cb8-4833-90f3-cca4ce2b0133",
         "username": "root",
         "score": 100,
@@ -299,13 +306,6 @@
         "score": 91,
         "num_solves": 10,
         "latest_solve_time": "2023-12-10T15:32:46.662172+00:00"
-    },
-    {
-        "user_id": "ad9962c1-5d56-4a4c-804b-c49586555048",
-        "username": "SveinPavel",
-        "score": 91,
-        "num_solves": 10,
-        "latest_solve_time": "2023-12-10T15:34:10.102928+00:00"
     },
     {
         "user_id": "6f96980a-99fa-4960-9bf6-8c5f58aeb731",
@@ -728,6 +728,13 @@
         "latest_solve_time": "2023-12-11T15:57:43.156335+00:00"
     },
     {
+        "user_id": "808aac0f-ac16-4969-ac34-38fc1a4f35d4",
+        "username": "assdasdasdasd",
+        "score": 90,
+        "num_solves": 9,
+        "latest_solve_time": "2023-12-11T16:42:17.287095+00:00"
+    },
+    {
         "user_id": "712741c2-3d8e-42c7-bc69-cbb35001ac9e",
         "username": "Kippster",
         "score": 81,
@@ -957,13 +964,6 @@
         "score": 80,
         "num_solves": 8,
         "latest_solve_time": "2023-12-09T16:27:46.441167+00:00"
-    },
-    {
-        "user_id": "808aac0f-ac16-4969-ac34-38fc1a4f35d4",
-        "username": "assdasdasdasd",
-        "score": 80,
-        "num_solves": 8,
-        "latest_solve_time": "2023-12-09T16:29:34.10839+00:00"
     },
     {
         "user_id": "26426716-b56f-453c-b584-113a8a0b1273",
@@ -8069,5 +8069,12 @@
         "score": 10,
         "num_solves": 1,
         "latest_solve_time": "2023-12-11T16:24:51.593733+00:00"
+    },
+    {
+        "user_id": "2a16b752-05d3-4474-ade7-8b8655511f17",
+        "username": "Pia",
+        "score": 10,
+        "num_solves": 1,
+        "latest_solve_time": "2023-12-11T16:40:35.433294+00:00"
     }
 ]
