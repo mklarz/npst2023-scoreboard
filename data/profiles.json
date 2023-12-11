@@ -14707,6 +14707,41 @@
         "organization_id": 2
     },
     {
+        "id": "0a97d4a5-cb30-4594-9710-db2afed2ffad",
+        "updated_at": "2023-12-11T18:00:40.266835+00:00",
+        "username": null,
+        "valid_from": "2023-12-11T18:00:40.266835+00:00",
+        "organization_id": null
+    },
+    {
+        "id": "9e2dab91-d0a6-42d1-91b3-e91923ea0cdd",
+        "updated_at": "2023-12-11T18:01:48.089249+00:00",
+        "username": null,
+        "valid_from": "2023-12-11T18:01:48.089249+00:00",
+        "organization_id": null
+    },
+    {
+        "id": "7bb680ea-148e-453d-bd2d-fc02069a08bf",
+        "updated_at": "2023-12-11T18:02:25.624391+00:00",
+        "username": null,
+        "valid_from": "2023-12-11T18:02:42.36+00:00",
+        "organization_id": 1
+    },
+    {
+        "id": "8aa9e450-341e-4d8d-af1d-415d9bc3058d",
+        "updated_at": "2023-12-11T18:04:06.666306+00:00",
+        "username": null,
+        "valid_from": "2023-12-11T18:04:13.289+00:00",
+        "organization_id": 3
+    },
+    {
+        "id": "5a139c77-5fb9-4a70-b609-79f272b2ca90",
+        "updated_at": "2023-12-11T18:08:31.426188+00:00",
+        "username": null,
+        "valid_from": "2023-12-11T18:08:37.565+00:00",
+        "organization_id": 1
+    },
+    {
         "id": "dbeee628-e6da-4d18-86a7-6ca4cc1d00f4",
         "updated_at": "2023-12-08T10:44:43.530111+00:00",
         "username": "gjoglerfant",
