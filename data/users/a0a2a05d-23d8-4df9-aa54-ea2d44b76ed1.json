@@ -9,13 +9,23 @@
                 "valid_from": "2023-12-11T12:16:39.901+00:00",
                 "organization_id": 3
             }
+        },
+        {
+            "timestamp": "2023-12-11 17:15:48+00:00",
+            "data": {
+                "id": "a0a2a05d-23d8-4df9-aa54-ea2d44b76ed1",
+                "updated_at": "2023-12-11T11:08:41.902193+00:00",
+                "username": "cinaed2",
+                "valid_from": "2023-12-11T17:04:29.358+00:00",
+                "organization_id": 3
+            }
         }
     ],
     "scoreboard": [],
     "current_info": {
         "score": "?",
         "num_solves": "?",
-        "username": null,
+        "username": "cinaed2",
         "organization_id": 3
     }
 }
