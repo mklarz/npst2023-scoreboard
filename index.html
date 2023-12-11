@@ -6,90 +6,7 @@
 <!-- https://github.com/mklarz/npst2023-scoreboard -->
 <title>NPST2023 - Scoreboard</title>
 <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet'>
-<style>
-html, body {
-  margin: 0;
-  background: #100C2A;
-  color: white;
-  font-family: 'Roboto';
-}
-#topUsers, #maxedUsers {
-  width: 100%;
-  height: 40vh;
-  padding-top: 30px;
-}
-#maxedUsers {
-  padding-top: 50px;
-  padding-bottom: 30px;
-}
-#title {
-  padding: 2rem;
-  font-size: 5rem;
-  text-align: center;
-}
-.infoContainer {
-  width: 100%;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  padding-bottom: 30px;
-}
-.info {
-  width: 50%;
-  display: flex;
-  justify-content: space-around;
-}
-.infoItem {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  --padding: 2rem;
-}
-.infoTitle {
-  font-weight: bold;
-  font-size: 2.5rem;
-}
-.infoValue {
-  --padding: 2rem;
-  font-size: 2rem;
-}
-#usersContainer {
-  width: 100%;
-  display: flex;
-  justify-content: center;
-  padding-bottom: 30px;
-}
-#users {
-  width: 80%;
-  display: flex;
-  justify-content: center;
-}
-table {
-  width: 100%;
-  text-align: left;
-  border-collapse: collapse;
-}
-tr {
-  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
-  border-collapse: collapse;
-}
-th, td {
-  padding: 20px;
-}
-th {
-  font-weight: bold;
-  font-size: 1.5rem;
-}
-tr:hover {
-  background-color: rgba(255, 255, 255, 0.1);
-}
-.userRowWithOrganization {
-  padding: 0px;
-}
-.organizationImage {
-  width: 140px;
-}
-</style>
+<link href='static/style.css' rel='stylesheet'>
 </head>
 <body>
 <div id="title">NPST2023</div>
@@ -372,13 +289,13 @@ function addMaxedData(data) {
   });
 }
 document.addEventListener('DOMContentLoaded', function () {
-  $.getJSON("./series.json", addTopData);
-  $.getJSON("./currently_maxed_users.json", addMaxedData);
-  $.getJSON("./info.json", addInfoData);
+  $.getJSON("./data/series.json", addTopData);
+  $.getJSON("./data/currently_maxed_users.json", addMaxedData);
+  $.getJSON("./data/info.json", addInfoData);
 
   const scoreboardInterval = setInterval(function () {
     if (USERS !== null) {
-      $.getJSON("./scoreboard.min.json", addScoreboardData);
+      $.getJSON("./data/scoreboard.min.json", addScoreboardData);
       clearInterval(scoreboardInterval);
     }
   }, 100);
