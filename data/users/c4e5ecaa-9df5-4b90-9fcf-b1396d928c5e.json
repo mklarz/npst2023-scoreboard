@@ -21,11 +21,21 @@
                 "num_solves": 1,
                 "latest_solve_time": "2023-12-11T10:43:27.184347+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-11 14:30:47+00:00",
+            "data": {
+                "user_id": "c4e5ecaa-9df5-4b90-9fcf-b1396d928c5e",
+                "username": "Devkhann",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-11T14:27:34.996232+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 10,
-        "num_solves": 1,
+        "score": 20,
+        "num_solves": 2,
         "username": "Devkhann",
         "organization_id": 3
     }
