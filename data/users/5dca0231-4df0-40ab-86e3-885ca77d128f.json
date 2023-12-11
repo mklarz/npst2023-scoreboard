@@ -1,0 +1,21 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-11 23:30:51+00:00",
+            "data": {
+                "id": "5dca0231-4df0-40ab-86e3-885ca77d128f",
+                "updated_at": "2023-12-11T23:17:25.776615+00:00",
+                "username": "Meekdozer",
+                "valid_from": "2023-12-11T23:19:04.476+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [],
+    "current_info": {
+        "score": "?",
+        "num_solves": "?",
+        "username": "Meekdozer",
+        "organization_id": 1
+    }
+}
