@@ -245,6 +245,20 @@
         "latest_solve_time": "2023-12-11T15:22:11.298516+00:00"
     },
     {
+        "user_id": "e5b97909-0839-4f53-b34c-0cead408ba63",
+        "username": "Svampen",
+        "score": 100,
+        "num_solves": 10,
+        "latest_solve_time": "2023-12-11T15:32:38.940682+00:00"
+    },
+    {
+        "user_id": "f862dbe5-2031-492e-bee3-71f394b772a2",
+        "username": "hajoch",
+        "score": 100,
+        "num_solves": 10,
+        "latest_solve_time": "2023-12-11T15:34:08.864479+00:00"
+    },
+    {
         "user_id": "84895ee1-c839-46f3-b4a8-0919f19472f7",
         "username": "SK2023",
         "score": 91,
@@ -280,6 +294,13 @@
         "latest_solve_time": "2023-12-10T22:11:42.994672+00:00"
     },
     {
+        "user_id": "0038ffdd-15df-431b-9499-423dbebe2d6a",
+        "username": "vicdog",
+        "score": 91,
+        "num_solves": 10,
+        "latest_solve_time": "2023-12-11T15:38:20.152894+00:00"
+    },
+    {
         "user_id": "28d958cc-97a6-4778-8360-ad7a8a8f9c53",
         "username": "Mehh",
         "score": 90,
@@ -306,13 +327,6 @@
         "score": 90,
         "num_solves": 9,
         "latest_solve_time": "2023-12-10T11:39:20.643513+00:00"
-    },
-    {
-        "user_id": "e5b97909-0839-4f53-b34c-0cead408ba63",
-        "username": "Svampen",
-        "score": 90,
-        "num_solves": 9,
-        "latest_solve_time": "2023-12-10T11:41:24.240606+00:00"
     },
     {
         "user_id": "fbfaec9d-8d14-457a-9bc4-dfb09c1f7f9e",
@@ -511,13 +525,6 @@
         "latest_solve_time": "2023-12-10T21:08:47.744805+00:00"
     },
     {
-        "user_id": "f862dbe5-2031-492e-bee3-71f394b772a2",
-        "username": "hajoch",
-        "score": 90,
-        "num_solves": 9,
-        "latest_solve_time": "2023-12-10T22:14:24.299182+00:00"
-    },
-    {
         "user_id": "963f8a69-70c6-46f6-af6a-b1e82f9b9df4",
         "username": "eriknn",
         "score": 90,
@@ -707,6 +714,13 @@
         "latest_solve_time": "2023-12-11T15:21:33.302522+00:00"
     },
     {
+        "user_id": "98cdc709-ce30-4bd8-99fe-b4ebb7e89fd0",
+        "username": "orsolli",
+        "score": 90,
+        "num_solves": 9,
+        "latest_solve_time": "2023-12-11T15:37:33.375551+00:00"
+    },
+    {
         "user_id": "712741c2-3d8e-42c7-bc69-cbb35001ac9e",
         "username": "Kippster",
         "score": 81,
@@ -719,13 +733,6 @@
         "score": 81,
         "num_solves": 9,
         "latest_solve_time": "2023-12-09T17:57:37.730428+00:00"
-    },
-    {
-        "user_id": "0038ffdd-15df-431b-9499-423dbebe2d6a",
-        "username": "vicdog",
-        "score": 81,
-        "num_solves": 9,
-        "latest_solve_time": "2023-12-09T18:03:04.644988+00:00"
     },
     {
         "user_id": "0c042056-5d41-401a-ba3f-e4d2fceed782",
@@ -754,13 +761,6 @@
         "score": 80,
         "num_solves": 8,
         "latest_solve_time": "2023-12-09T11:56:40.368417+00:00"
-    },
-    {
-        "user_id": "98cdc709-ce30-4bd8-99fe-b4ebb7e89fd0",
-        "username": "orsolli",
-        "score": 80,
-        "num_solves": 8,
-        "latest_solve_time": "2023-12-09T12:05:05.986015+00:00"
     },
     {
         "user_id": "22923003-ad6a-412d-b15a-24cb21d4a77b",
@@ -4487,6 +4487,13 @@
         "latest_solve_time": "2023-12-11T15:11:52.567772+00:00"
     },
     {
+        "user_id": "45c165e2-7d5b-4998-a189-ee2dbd64a70a",
+        "username": "chakra",
+        "score": 20,
+        "num_solves": 2,
+        "latest_solve_time": "2023-12-11T15:35:39.085503+00:00"
+    },
+    {
         "user_id": "a83d5e00-3676-4c93-adbb-025e208698af",
         "username": "ShadowByte",
         "score": 10,
@@ -7894,13 +7901,6 @@
         "score": 10,
         "num_solves": 1,
         "latest_solve_time": "2023-12-09T18:13:10.927977+00:00"
-    },
-    {
-        "user_id": "45c165e2-7d5b-4998-a189-ee2dbd64a70a",
-        "username": "chakra",
-        "score": 10,
-        "num_solves": 1,
-        "latest_solve_time": "2023-12-09T19:21:59.771075+00:00"
     },
     {
         "user_id": "80f8d743-7ab4-4af3-a660-b968a3ee032d",
