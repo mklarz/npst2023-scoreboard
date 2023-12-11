@@ -78,7 +78,7 @@ tr:hover {
   background-color: rgba(255, 255, 255, 0.1);
 }
 .userRowWithOrganization {
-  padding: 0px;
+  padding: 0 0 0 20px;
 }
 .organizationImage {
   width: 140px;

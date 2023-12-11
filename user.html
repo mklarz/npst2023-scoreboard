@@ -65,14 +65,17 @@ const ORGANIZATIONS = {
   1: {
     name: "NPST",
     imagePath: "static/npst_280px.png",
+    imageSmallPath: "static/npst.png",
   },
   2: {
     name: "NISM",
     imagePath: "static/nism_280px.png",
+    imageSmallPath: "static/nism.png",
   },
   3: {
     name: "KRIAPOS",
     imagePath: "static/kriapos_280px.png",
+    imageSmallPath: "static/kriapos.png",
   },
 }
 </script>
@@ -108,8 +111,22 @@ if (window.location.search) {
       updateAtCell.innerText = profile["data"]["updated_at"];
       validFromCell.innerText = profile["data"]["valid_from"];
       usernameCell.innerText = profile["data"]["username"];
-      organizationCell.innerText = profile["data"]["organization_id"];
-    })
+      var rowOrganizationId = profile["data"]["organization_id"];
+
+      if (rowOrganizationId !== null) {
+        if (rowOrganizationId in ORGANIZATIONS) {
+          const img = document.createElement("img");
+          img.src = ORGANIZATIONS[rowOrganizationId].imageSmallPath;
+          img.width = 40;
+          img.title = ORGANIZATIONS[rowOrganizationId].name;
+          img.alt = ORGANIZATIONS[rowOrganizationId].name;
+          organizationCell.appendChild(img);
+          organizationCell.className = "userRowWithOrganization";
+        } else {
+          organizationCell.innerText = organizationId;
+        }
+      }
+    });
 
     var scoreboardTable = document.getElementById("scoreboardTable");
     data["scoreboard"].forEach((scoreboard) => {
