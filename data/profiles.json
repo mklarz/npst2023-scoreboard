@@ -3262,6 +3262,13 @@
         "organization_id": 1
     },
     {
+        "id": "100c0370-6f1b-40af-9fab-9d82d1deadc1",
+        "updated_at": "2023-12-01T11:50:36.521349+00:00",
+        "username": "Olv",
+        "valid_from": "2023-12-11T22:27:54.469+00:00",
+        "organization_id": 3
+    },
+    {
         "id": "e2015b67-3dd4-45eb-85b8-d80b381e76d3",
         "updated_at": "2023-12-01T11:28:47.254993+00:00",
         "username": "studyBitcoin",
@@ -3546,13 +3553,6 @@
         "updated_at": "2023-12-01T11:47:18.153102+00:00",
         "username": "bergljot",
         "valid_from": "2023-12-01T11:47:55.534+00:00",
-        "organization_id": null
-    },
-    {
-        "id": "100c0370-6f1b-40af-9fab-9d82d1deadc1",
-        "updated_at": "2023-12-01T11:50:36.521349+00:00",
-        "username": "Olv",
-        "valid_from": "2023-12-01T11:51:06.935+00:00",
         "organization_id": null
     },
     {
