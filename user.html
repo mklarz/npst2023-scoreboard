@@ -77,7 +77,7 @@ const ORGANIZATIONS = {
 }
 </script>
 <script>
-if (window.location.hash) {
+if (window.location.search) {
   function addUserData(data) {
     document.getElementById("username").textContent = data["current_info"]["username"];
     document.getElementById("userScore").textContent = data["current_info"]["score"];
@@ -129,7 +129,8 @@ if (window.location.hash) {
     })
 
   }
-  user_id = window.location.hash.substring(1);
+  params = new URLSearchParams(window.location.search);
+  user_id = params.get("id");
   if (/^[0-9a-f]{8}-[0-9a-f]{4}-[0-5][0-9a-f]{3}-[089ab][0-9a-f]{3}-[0-9a-f]{12}$/i.test(user_id)) {
     document.addEventListener('DOMContentLoaded', function () {
       // it's a feature (tm)

@@ -108,6 +108,7 @@ function addScoreboardData(data) {
     }
 
     var userRow = usersTable.insertRow(-1);
+    userRow.setAttribute("data-user_id", user["id"]);
     var idCell = userRow.insertCell(0);
     var validFromCell = userRow.insertCell(1);
     var latestSolveCell = userRow.insertCell(2);
@@ -137,6 +138,10 @@ function addScoreboardData(data) {
     scoreCell.innerText = score;
     usernameCell.innerText = user["username"];
   })
+  $('tr[data-user_id]').click(function(){
+      window.location = `user?id=${$(this).data('user_id')}`;
+      return false;
+  });
 }
 
 function addInfoData(data) {

@@ -64,6 +64,9 @@ tr {
   border-bottom: 1px solid rgba(255, 255, 255, 0.2);
   border-collapse: collapse;
 }
+tr[data-user_id] {
+  cursor: pointer;
+}
 th, td {
   padding: 20px;
 }
@@ -87,4 +90,7 @@ tr:hover {
 }
 .infoItem.userInfo {
   justify-content: center;
+}
+#profileTable {
+  margin-bottom: 30px;
 }
