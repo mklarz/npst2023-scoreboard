@@ -525,6 +525,13 @@
     "latest_solve_time": "2023-12-11T08:47:56.855417+00:00"
   },
   {
+    "user_id": "9ffd94a9-4bf6-40f5-b8be-bc7b9a68308a",
+    "username": "小贝哦",
+    "score": 90,
+    "num_solves": 9,
+    "latest_solve_time": "2023-12-11T09:39:30.557847+00:00"
+  },
+  {
     "user_id": "0c042056-5d41-401a-ba3f-e4d2fceed782",
     "username": "fremtidignaver",
     "score": 80,
@@ -670,13 +677,6 @@
     "score": 80,
     "num_solves": 8,
     "latest_solve_time": "2023-12-09T12:39:16.944809+00:00"
-  },
-  {
-    "user_id": "9ffd94a9-4bf6-40f5-b8be-bc7b9a68308a",
-    "username": "小贝哦",
-    "score": 80,
-    "num_solves": 8,
-    "latest_solve_time": "2023-12-09T12:46:59.442704+00:00"
   },
   {
     "user_id": "2308d77f-2a9f-434f-b586-a0fb0da7f128",
@@ -2317,6 +2317,13 @@
     "latest_solve_time": "2023-12-11T07:30:50.044932+00:00"
   },
   {
+    "user_id": "f24f68b3-6e04-4f79-bada-59dae60c6efc",
+    "username": "oleidole",
+    "score": 60,
+    "num_solves": 6,
+    "latest_solve_time": "2023-12-11T09:39:05.304109+00:00"
+  },
+  {
     "user_id": "a1fe8e6a-98ca-4795-ae40-5d2bd60d18b1",
     "username": "Ares",
     "score": 50,
@@ -2336,13 +2343,6 @@
     "score": 50,
     "num_solves": 5,
     "latest_solve_time": "2023-12-05T18:19:52.149209+00:00"
-  },
-  {
-    "user_id": "f24f68b3-6e04-4f79-bada-59dae60c6efc",
-    "username": "oleidole",
-    "score": 50,
-    "num_solves": 5,
-    "latest_solve_time": "2023-12-06T09:12:35.314672+00:00"
   },
   {
     "user_id": "78028822-d604-4380-a811-e6c0e1ec4d38",
@@ -7936,5 +7936,19 @@
     "score": 10,
     "num_solves": 1,
     "latest_solve_time": "2023-12-11T09:19:08.998688+00:00"
+  },
+  {
+    "user_id": "f08ca84b-449c-404d-9780-ef35e5b71300",
+    "username": "aslak",
+    "score": 10,
+    "num_solves": 1,
+    "latest_solve_time": "2023-12-11T09:37:25.87373+00:00"
+  },
+  {
+    "user_id": "c18eb20c-aa57-4eab-87b4-9dc251560d46",
+    "username": "überNoobz",
+    "score": 10,
+    "num_solves": 1,
+    "latest_solve_time": "2023-12-11T09:44:53.767125+00:00"
   }
 ]
