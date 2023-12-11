@@ -14773,8 +14773,15 @@
         "id": "cdbbd91c-08b9-467a-9621-01192eaf5884",
         "updated_at": "2023-12-11T19:57:37.614824+00:00",
         "username": "Bastian",
-        "valid_from": "2023-12-11T19:59:58.342+00:00",
+        "valid_from": "2023-12-11T20:10:05.673+00:00",
         "organization_id": 2
+    },
+    {
+        "id": "f677a8af-7ed4-458d-aa48-b3474f2cf208",
+        "updated_at": "2023-12-11T20:05:24.804335+00:00",
+        "username": "ciphr",
+        "valid_from": "2023-12-11T20:06:01.968+00:00",
+        "organization_id": 1
     },
     {
         "id": "dbeee628-e6da-4d18-86a7-6ca4cc1d00f4",
