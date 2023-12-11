@@ -9,6 +9,16 @@
                 "valid_from": "2023-12-11T19:59:58.342+00:00",
                 "organization_id": 2
             }
+        },
+        {
+            "timestamp": "2023-12-11 20:15:49+00:00",
+            "data": {
+                "id": "cdbbd91c-08b9-467a-9621-01192eaf5884",
+                "updated_at": "2023-12-11T19:57:37.614824+00:00",
+                "username": "Bastian",
+                "valid_from": "2023-12-11T20:10:05.673+00:00",
+                "organization_id": 2
+            }
         }
     ],
     "scoreboard": [],
