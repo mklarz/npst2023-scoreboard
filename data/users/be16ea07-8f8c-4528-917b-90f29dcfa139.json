@@ -1,0 +1,32 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-12 15:00:52+00:00",
+            "data": {
+                "id": "be16ea07-8f8c-4528-917b-90f29dcfa139",
+                "updated_at": "2023-12-12T14:46:19.594933+00:00",
+                "username": "I Can Has Cheezburger?",
+                "valid_from": "2023-12-12T14:57:33.104+00:00",
+                "organization_id": 2
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-12 15:00:52+00:00",
+            "data": {
+                "user_id": "be16ea07-8f8c-4528-917b-90f29dcfa139",
+                "username": "I Can Has Cheezburger?",
+                "score": 110,
+                "num_solves": 11,
+                "latest_solve_time": "2023-12-12T14:55:02.558664+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 110,
+        "num_solves": 11,
+        "username": "I Can Has Cheezburger?",
+        "organization_id": 2
+    }
+}
