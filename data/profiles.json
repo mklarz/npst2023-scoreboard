@@ -14294,6 +14294,41 @@
         "organization_id": 2
     },
     {
+        "id": "cdc2916f-9b7e-4aac-96b9-f4fdc4e9d2f2",
+        "updated_at": "2023-12-12T09:46:44.616745+00:00",
+        "username": null,
+        "valid_from": "2023-12-12T09:46:44.616745+00:00",
+        "organization_id": null
+    },
+    {
+        "id": "fa13923a-6760-4305-bb34-2a7376734b87",
+        "updated_at": "2023-12-12T09:48:36.836701+00:00",
+        "username": null,
+        "valid_from": "2023-12-12T09:48:43.344+00:00",
+        "organization_id": 3
+    },
+    {
+        "id": "502124b7-653f-46ee-9110-b9f54e22130f",
+        "updated_at": "2023-12-12T09:50:29.837555+00:00",
+        "username": null,
+        "valid_from": "2023-12-12T09:51:38.351+00:00",
+        "organization_id": 1
+    },
+    {
+        "id": "0ac57cb4-d3f4-472e-a911-8b1f734b900a",
+        "updated_at": "2023-12-12T09:51:42.920085+00:00",
+        "username": null,
+        "valid_from": "2023-12-12T09:52:24.986+00:00",
+        "organization_id": 1
+    },
+    {
+        "id": "9cfd2401-0205-4985-8c47-613fb2b8185d",
+        "updated_at": "2023-12-12T09:53:34.312446+00:00",
+        "username": null,
+        "valid_from": "2023-12-12T09:54:20.419+00:00",
+        "organization_id": 1
+    },
+    {
         "id": "24b810b8-209b-4bb5-acbd-13918f48ee09",
         "updated_at": "2023-12-08T08:56:48.211992+00:00",
         "username": "sigzug",
