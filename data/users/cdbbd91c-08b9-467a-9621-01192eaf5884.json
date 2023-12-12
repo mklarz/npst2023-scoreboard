@@ -39,6 +39,16 @@
                 "valid_from": "2023-12-12T00:13:40.96+00:00",
                 "organization_id": 2
             }
+        },
+        {
+            "timestamp": "2023-12-12 00:45:49+00:00",
+            "data": {
+                "id": "cdbbd91c-08b9-467a-9621-01192eaf5884",
+                "updated_at": "2023-12-11T19:57:37.614824+00:00",
+                "username": "Bastian",
+                "valid_from": "2023-12-12T00:39:58.132+00:00",
+                "organization_id": 2
+            }
         }
     ],
     "scoreboard": [],
