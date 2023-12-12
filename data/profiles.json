@@ -15839,5 +15839,12 @@
         "username": "Magnus",
         "valid_from": "2023-12-12T12:22:39.739+00:00",
         "organization_id": 1
+    },
+    {
+        "id": "750abdd1-c126-45d8-877e-830806fd7523",
+        "updated_at": "2023-12-12T14:06:09.661699+00:00",
+        "username": "H3nri",
+        "valid_from": "2023-12-12T14:08:46.827+00:00",
+        "organization_id": 1
     }
 ]
