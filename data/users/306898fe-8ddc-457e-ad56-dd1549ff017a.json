@@ -121,11 +121,21 @@
                 "num_solves": 10,
                 "latest_solve_time": "2023-12-11T12:27:15.612525+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-12 18:30:51+00:00",
+            "data": {
+                "user_id": "306898fe-8ddc-457e-ad56-dd1549ff017a",
+                "username": "[EFFERA] Sondrey",
+                "score": 110,
+                "num_solves": 11,
+                "latest_solve_time": "2023-12-12T18:18:56.47588+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 100,
-        "num_solves": 10,
+        "score": 110,
+        "num_solves": 11,
         "username": "[EFFERA] Sondrey",
         "organization_id": 1
     }
