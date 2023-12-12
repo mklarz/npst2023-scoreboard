@@ -91,11 +91,31 @@
                 "num_solves": 6,
                 "latest_solve_time": "2023-12-10T00:28:02.159656+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-11 22:45:49+00:00",
+            "data": {
+                "user_id": "c64974d9-6a0a-4836-bc48-d7fd5453b5bb",
+                "username": "MarkyMark",
+                "score": 70,
+                "num_solves": 7,
+                "latest_solve_time": "2023-12-11T22:40:49.636982+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-11 23:45:48+00:00",
+            "data": {
+                "user_id": "c64974d9-6a0a-4836-bc48-d7fd5453b5bb",
+                "username": "MarkyMark",
+                "score": 80,
+                "num_solves": 8,
+                "latest_solve_time": "2023-12-11T23:38:40.047746+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 60,
-        "num_solves": 6,
+        "score": 80,
+        "num_solves": 8,
         "username": "MarkyMark",
         "organization_id": 1
     }

@@ -71,11 +71,21 @@
                 "num_solves": 3,
                 "latest_solve_time": "2023-12-10T15:30:00.552777+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-12 13:45:52+00:00",
+            "data": {
+                "user_id": "56078d14-336b-4105-ba24-80f76ff8bb85",
+                "username": "Hallo p\u00e5 deg",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-12T13:37:49.697242+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 30,
-        "num_solves": 3,
+        "score": 40,
+        "num_solves": 4,
         "username": "Hallo p\u00e5 deg",
         "organization_id": 3
     }

@@ -21,10 +21,21 @@
             }
         }
     ],
-    "scoreboard": [],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-11 17:15:48+00:00",
+            "data": {
+                "user_id": "a0a2a05d-23d8-4df9-aa54-ea2d44b76ed1",
+                "username": "cinaed2",
+                "score": 100,
+                "num_solves": 10,
+                "latest_solve_time": "2023-12-11T17:13:06.266334+00:00"
+            }
+        }
+    ],
     "current_info": {
-        "score": "?",
-        "num_solves": "?",
+        "score": 100,
+        "num_solves": 10,
         "username": "cinaed2",
         "organization_id": 3
     }

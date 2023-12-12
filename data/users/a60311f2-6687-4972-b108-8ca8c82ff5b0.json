@@ -161,11 +161,41 @@
                 "num_solves": 11,
                 "latest_solve_time": "2023-12-11T11:21:18.20763+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-11 13:35:57+00:00",
+            "data": {
+                "user_id": "a60311f2-6687-4972-b108-8ca8c82ff5b0",
+                "username": "Arka",
+                "score": 111,
+                "num_solves": 12,
+                "latest_solve_time": "2023-12-11T11:21:18.20763+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-11 20:00:48+00:00",
+            "data": {
+                "user_id": "a60311f2-6687-4972-b108-8ca8c82ff5b0",
+                "username": "Arka",
+                "score": 112,
+                "num_solves": 13,
+                "latest_solve_time": "2023-12-11T19:51:02.443797+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-12 13:15:51+00:00",
+            "data": {
+                "user_id": "a60311f2-6687-4972-b108-8ca8c82ff5b0",
+                "username": "Arka",
+                "score": 122,
+                "num_solves": 14,
+                "latest_solve_time": "2023-12-12T13:04:19.909832+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 110,
-        "num_solves": 11,
+        "score": 122,
+        "num_solves": 14,
         "username": "Arka",
         "organization_id": 3
     }

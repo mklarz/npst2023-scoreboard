@@ -101,11 +101,21 @@
                 "num_solves": 8,
                 "latest_solve_time": "2023-12-09T12:51:40.875114+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-11 20:00:48+00:00",
+            "data": {
+                "user_id": "2e381fbd-1064-4fb4-ae07-0800cd590052",
+                "username": "keytile",
+                "score": 90,
+                "num_solves": 9,
+                "latest_solve_time": "2023-12-11T19:45:34.071693+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 80,
-        "num_solves": 8,
+        "score": 90,
+        "num_solves": 9,
         "username": "keytile",
         "organization_id": 1
     }

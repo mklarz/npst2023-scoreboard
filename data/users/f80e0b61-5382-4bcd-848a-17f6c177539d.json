@@ -71,11 +71,31 @@
                 "num_solves": 5,
                 "latest_solve_time": "2023-12-07T20:18:28.85339+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-11 22:00:49+00:00",
+            "data": {
+                "user_id": "f80e0b61-5382-4bcd-848a-17f6c177539d",
+                "username": "MortenC",
+                "score": 60,
+                "num_solves": 6,
+                "latest_solve_time": "2023-12-11T21:56:44.454024+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-11 22:45:49+00:00",
+            "data": {
+                "user_id": "f80e0b61-5382-4bcd-848a-17f6c177539d",
+                "username": "MortenC",
+                "score": 70,
+                "num_solves": 7,
+                "latest_solve_time": "2023-12-11T22:44:02.099649+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 50,
-        "num_solves": 5,
+        "score": 70,
+        "num_solves": 7,
         "username": "MortenC",
         "organization_id": 2
     }

@@ -11,10 +11,31 @@
             }
         }
     ],
-    "scoreboard": [],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-11 16:15:47+00:00",
+            "data": {
+                "user_id": "f39047c1-e89b-4c57-a126-309a1033f793",
+                "username": "PleaseHackMe",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-11T16:03:03.124094+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-11 20:00:48+00:00",
+            "data": {
+                "user_id": "f39047c1-e89b-4c57-a126-309a1033f793",
+                "username": "PleaseHackMe",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-11T19:59:43.470883+00:00"
+            }
+        }
+    ],
     "current_info": {
-        "score": "?",
-        "num_solves": "?",
+        "score": 20,
+        "num_solves": 2,
         "username": "PleaseHackMe",
         "organization_id": 3
     }

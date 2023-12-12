@@ -221,11 +221,31 @@
                 "num_solves": 11,
                 "latest_solve_time": "2023-12-11T11:07:28.682735+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-11 13:35:57+00:00",
+            "data": {
+                "user_id": "f3f9318b-7135-45d8-a46b-6336a1450db5",
+                "username": "unblvr",
+                "score": 112,
+                "num_solves": 13,
+                "latest_solve_time": "2023-12-11T11:07:28.682735+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-12 11:15:50+00:00",
+            "data": {
+                "user_id": "f3f9318b-7135-45d8-a46b-6336a1450db5",
+                "username": "unblvr",
+                "score": 122,
+                "num_solves": 14,
+                "latest_solve_time": "2023-12-12T11:02:26.536542+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 110,
-        "num_solves": 11,
+        "score": 122,
+        "num_solves": 14,
         "username": "unblvr",
         "organization_id": 2
     }

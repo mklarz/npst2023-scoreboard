@@ -11,10 +11,31 @@
             }
         }
     ],
-    "scoreboard": [],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-12 09:00:50+00:00",
+            "data": {
+                "user_id": "6a202a72-9948-4079-9854-0668503fa462",
+                "username": "walig",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-12T08:46:10.511767+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-12 10:30:52+00:00",
+            "data": {
+                "user_id": "6a202a72-9948-4079-9854-0668503fa462",
+                "username": "walig",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-12T10:15:17.997234+00:00"
+            }
+        }
+    ],
     "current_info": {
-        "score": "?",
-        "num_solves": "?",
+        "score": 20,
+        "num_solves": 2,
         "username": "walig",
         "organization_id": 1
     }

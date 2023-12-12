@@ -51,11 +51,41 @@
                 "num_solves": 3,
                 "latest_solve_time": "2023-12-04T08:39:11.992131+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-11 20:00:48+00:00",
+            "data": {
+                "user_id": "e625a0b0-e4ea-458d-9118-b1558ef5b83c",
+                "username": "noahaon",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-11T19:57:43.055778+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-12 00:00:49+00:00",
+            "data": {
+                "user_id": "e625a0b0-e4ea-458d-9118-b1558ef5b83c",
+                "username": "noahaon",
+                "score": 60,
+                "num_solves": 6,
+                "latest_solve_time": "2023-12-11T23:57:28.380996+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-12 09:45:50+00:00",
+            "data": {
+                "user_id": "e625a0b0-e4ea-458d-9118-b1558ef5b83c",
+                "username": "noahaon",
+                "score": 70,
+                "num_solves": 7,
+                "latest_solve_time": "2023-12-12T09:34:51.074554+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 30,
-        "num_solves": 3,
+        "score": 70,
+        "num_solves": 7,
         "username": "noahaon",
         "organization_id": 2
     }

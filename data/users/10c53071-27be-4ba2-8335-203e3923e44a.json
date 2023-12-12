@@ -11,10 +11,21 @@
             }
         }
     ],
-    "scoreboard": [],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-11 15:30:49+00:00",
+            "data": {
+                "user_id": "10c53071-27be-4ba2-8335-203e3923e44a",
+                "username": "odi",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-11T15:21:08.591796+00:00"
+            }
+        }
+    ],
     "current_info": {
-        "score": "?",
-        "num_solves": "?",
+        "score": 10,
+        "num_solves": 1,
         "username": "odi",
         "organization_id": 3
     }

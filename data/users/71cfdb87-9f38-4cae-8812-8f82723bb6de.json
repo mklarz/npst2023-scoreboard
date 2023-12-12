@@ -111,11 +111,31 @@
                 "num_solves": 9,
                 "latest_solve_time": "2023-12-11T00:13:04.966919+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-11 18:30:50+00:00",
+            "data": {
+                "user_id": "71cfdb87-9f38-4cae-8812-8f82723bb6de",
+                "username": "cyberg",
+                "score": 100,
+                "num_solves": 10,
+                "latest_solve_time": "2023-12-11T18:24:58.9148+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-12 12:45:52+00:00",
+            "data": {
+                "user_id": "71cfdb87-9f38-4cae-8812-8f82723bb6de",
+                "username": "cyberg",
+                "score": 110,
+                "num_solves": 11,
+                "latest_solve_time": "2023-12-12T12:35:00.051587+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 90,
-        "num_solves": 9,
+        "score": 110,
+        "num_solves": 11,
         "username": "cyberg",
         "organization_id": 3
     }

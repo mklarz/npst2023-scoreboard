@@ -21,11 +21,41 @@
                 "num_solves": 1,
                 "latest_solve_time": "2023-12-07T13:10:35.516227+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-11 15:00:50+00:00",
+            "data": {
+                "user_id": "1f6c23da-9a29-41bf-83ca-cfab78108be3",
+                "username": "viipz",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-11T14:53:45.969136+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-12 10:30:52+00:00",
+            "data": {
+                "user_id": "1f6c23da-9a29-41bf-83ca-cfab78108be3",
+                "username": "viipz",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-12T10:28:44.549849+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-12 12:30:50+00:00",
+            "data": {
+                "user_id": "1f6c23da-9a29-41bf-83ca-cfab78108be3",
+                "username": "viipz",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-12T12:20:39.954946+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 10,
-        "num_solves": 1,
+        "score": 40,
+        "num_solves": 4,
         "username": "viipz",
         "organization_id": 1
     }

@@ -171,11 +171,31 @@
                 "num_solves": 9,
                 "latest_solve_time": "2023-12-10T15:32:46.662172+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-11 13:35:57+00:00",
+            "data": {
+                "user_id": "7bc252f5-cb2d-4f5c-ab4e-f8e274b9458e",
+                "username": "OKai",
+                "score": 91,
+                "num_solves": 10,
+                "latest_solve_time": "2023-12-10T15:32:46.662172+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-11 19:30:49+00:00",
+            "data": {
+                "user_id": "7bc252f5-cb2d-4f5c-ab4e-f8e274b9458e",
+                "username": "OKai",
+                "score": 101,
+                "num_solves": 11,
+                "latest_solve_time": "2023-12-11T19:16:54.583656+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 90,
-        "num_solves": 9,
+        "score": 101,
+        "num_solves": 11,
         "username": "OKai",
         "organization_id": 2
     }

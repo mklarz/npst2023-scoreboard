@@ -101,11 +101,21 @@
                 "num_solves": 6,
                 "latest_solve_time": "2023-12-07T13:31:14.750825+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-11 13:35:57+00:00",
+            "data": {
+                "user_id": "b1e057a5-1dde-4906-88a9-3dce51447516",
+                "username": "[EFFERA] skogensro",
+                "score": 70,
+                "num_solves": 7,
+                "latest_solve_time": "2023-12-07T13:39:03.238523+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 60,
-        "num_solves": 6,
+        "score": 70,
+        "num_solves": 7,
         "username": "[EFFERA] skogensro",
         "organization_id": 1
     }

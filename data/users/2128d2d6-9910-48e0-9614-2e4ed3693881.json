@@ -151,11 +151,31 @@
                 "num_solves": 8,
                 "latest_solve_time": "2023-12-09T19:39:52.100496+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-11 19:15:48+00:00",
+            "data": {
+                "user_id": "2128d2d6-9910-48e0-9614-2e4ed3693881",
+                "username": "\ud83d\udc51 [CISK] Hippogriff",
+                "score": 90,
+                "num_solves": 9,
+                "latest_solve_time": "2023-12-11T19:12:49.837194+00:00"
+            }
+        },
+        {
+            "timestamp": "2023-12-11 20:30:49+00:00",
+            "data": {
+                "user_id": "2128d2d6-9910-48e0-9614-2e4ed3693881",
+                "username": "\ud83d\udc51 [CISK] Hippogriff",
+                "score": 100,
+                "num_solves": 10,
+                "latest_solve_time": "2023-12-11T20:17:59.969518+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 80,
-        "num_solves": 8,
+        "score": 100,
+        "num_solves": 10,
         "username": "\ud83d\udc51 [CISK] Hippogriff",
         "organization_id": 2
     }

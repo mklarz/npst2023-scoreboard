@@ -61,11 +61,21 @@
                 "num_solves": 3,
                 "latest_solve_time": "2023-12-09T20:31:31.845313+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-11 16:30:49+00:00",
+            "data": {
+                "user_id": "e6ca42ac-07ce-408b-a7a6-da0641f726f3",
+                "username": "Linux_Hacker07",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-11T16:26:47.609905+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 30,
-        "num_solves": 3,
+        "score": 40,
+        "num_solves": 4,
         "username": "Linux_Hacker07",
         "organization_id": 1
     }
