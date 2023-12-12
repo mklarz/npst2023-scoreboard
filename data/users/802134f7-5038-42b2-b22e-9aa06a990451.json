@@ -101,11 +101,21 @@
                 "num_solves": 8,
                 "latest_solve_time": "2023-12-09T21:31:51.401163+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-12 15:30:51+00:00",
+            "data": {
+                "user_id": "802134f7-5038-42b2-b22e-9aa06a990451",
+                "username": "Oslolosen",
+                "score": 90,
+                "num_solves": 9,
+                "latest_solve_time": "2023-12-12T15:24:59.494571+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 80,
-        "num_solves": 8,
+        "score": 90,
+        "num_solves": 9,
         "username": "Oslolosen",
         "organization_id": 3
     }
