@@ -21,11 +21,21 @@
                 "num_solves": 11,
                 "latest_solve_time": "2023-12-12T14:55:02.558664+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-12 17:00:53+00:00",
+            "data": {
+                "user_id": "be16ea07-8f8c-4528-917b-90f29dcfa139",
+                "username": "I Can Has Cheezburger?",
+                "score": 120,
+                "num_solves": 12,
+                "latest_solve_time": "2023-12-12T16:58:41.783749+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 110,
-        "num_solves": 11,
+        "score": 120,
+        "num_solves": 12,
         "username": "I Can Has Cheezburger?",
         "organization_id": 2
     }
