@@ -1,0 +1,21 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-12 09:30:52+00:00",
+            "data": {
+                "id": "ae5eb64a-18f1-4195-8376-9dc2c87768f4",
+                "updated_at": "2023-12-12T09:26:53.648285+00:00",
+                "username": "Max Power",
+                "valid_from": "2023-12-12T09:28:22.153+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [],
+    "current_info": {
+        "score": "?",
+        "num_solves": "?",
+        "username": "Max Power",
+        "organization_id": 1
+    }
+}
