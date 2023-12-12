@@ -15944,5 +15944,19 @@
         "username": "iraqiwarrior",
         "valid_from": "2023-12-12T17:21:56.88+00:00",
         "organization_id": 1
+    },
+    {
+        "id": "14304fb7-d2f4-42d3-8ec3-4aa58661c852",
+        "updated_at": "2023-12-12T18:25:49.940201+00:00",
+        "username": "Mikal",
+        "valid_from": "2023-12-12T18:26:03.587+00:00",
+        "organization_id": null
+    },
+    {
+        "id": "95a3051c-2940-4542-92ab-6ded2a9ec99f",
+        "updated_at": "2023-12-12T18:28:46.378425+00:00",
+        "username": null,
+        "valid_from": "2023-12-12T18:29:00.242+00:00",
+        "organization_id": 1
     }
 ]
