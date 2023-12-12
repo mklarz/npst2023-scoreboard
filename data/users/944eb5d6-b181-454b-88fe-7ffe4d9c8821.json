@@ -9,6 +9,16 @@
                 "valid_from": "2023-12-12T19:44:09.676+00:00",
                 "organization_id": null
             }
+        },
+        {
+            "timestamp": "2023-12-12 21:00:53+00:00",
+            "data": {
+                "id": "944eb5d6-b181-454b-88fe-7ffe4d9c8821",
+                "updated_at": "2023-12-12T19:43:24.415406+00:00",
+                "username": "Nissen p\u00e5 tarand",
+                "valid_from": "2023-12-12T20:50:40.992+00:00",
+                "organization_id": 1
+            }
         }
     ],
     "scoreboard": [],
@@ -16,6 +26,6 @@
         "score": "?",
         "num_solves": "?",
         "username": "Nissen p\u00e5 tarand",
-        "organization_id": null
+        "organization_id": 1
     }
 }

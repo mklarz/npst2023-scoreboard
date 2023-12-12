@@ -15993,5 +15993,19 @@
         "username": "Nissen p\u00e5 tarand",
         "valid_from": "2023-12-12T20:50:40.992+00:00",
         "organization_id": 1
+    },
+    {
+        "id": "acbb559c-dc15-478a-9193-fed5db8159ac",
+        "updated_at": "2023-12-12T21:02:16.631606+00:00",
+        "username": "tbd",
+        "valid_from": "2023-12-12T21:03:17.303+00:00",
+        "organization_id": 1
+    },
+    {
+        "id": "d71ef9ff-664a-4b75-9a86-6352f8ceebaa",
+        "updated_at": "2023-12-12T21:03:56.158898+00:00",
+        "username": "mcBorgar",
+        "valid_from": "2023-12-12T21:05:10.324+00:00",
+        "organization_id": null
     }
 ]
