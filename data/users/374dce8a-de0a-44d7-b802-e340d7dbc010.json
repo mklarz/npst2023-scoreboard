@@ -1,0 +1,21 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-12 11:00:52+00:00",
+            "data": {
+                "id": "374dce8a-de0a-44d7-b802-e340d7dbc010",
+                "updated_at": "2023-12-12T10:58:34.589053+00:00",
+                "username": "Popsicle",
+                "valid_from": "2023-12-12T10:59:01.706+00:00",
+                "organization_id": null
+            }
+        }
+    ],
+    "scoreboard": [],
+    "current_info": {
+        "score": "?",
+        "num_solves": "?",
+        "username": "Popsicle",
+        "organization_id": null
+    }
+}
