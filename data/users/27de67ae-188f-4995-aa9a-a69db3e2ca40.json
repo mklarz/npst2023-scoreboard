@@ -9,13 +9,23 @@
                 "valid_from": "2023-12-12T10:14:42.005+00:00",
                 "organization_id": 1
             }
+        },
+        {
+            "timestamp": "2023-12-12 10:30:52+00:00",
+            "data": {
+                "id": "27de67ae-188f-4995-aa9a-a69db3e2ca40",
+                "updated_at": "2023-12-12T10:14:14.241237+00:00",
+                "username": "kingo",
+                "valid_from": "2023-12-12T10:21:35.103+00:00",
+                "organization_id": 1
+            }
         }
     ],
     "scoreboard": [],
     "current_info": {
         "score": "?",
         "num_solves": "?",
-        "username": null,
+        "username": "kingo",
         "organization_id": 1
     }
 }

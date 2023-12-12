@@ -1,0 +1,21 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-12 10:30:52+00:00",
+            "data": {
+                "id": "36fe6f2a-d5b2-4f4b-af2b-2971703115ee",
+                "updated_at": "2023-12-12T10:23:32.960224+00:00",
+                "username": "Kjelvis Alvesen",
+                "valid_from": "2023-12-12T10:24:13.858+00:00",
+                "organization_id": 3
+            }
+        }
+    ],
+    "scoreboard": [],
+    "current_info": {
+        "score": "?",
+        "num_solves": "?",
+        "username": "Kjelvis Alvesen",
+        "organization_id": 3
+    }
+}
