@@ -161,11 +161,21 @@
                 "num_solves": 9,
                 "latest_solve_time": "2023-12-12T08:54:16.148898+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-12 19:00:53+00:00",
+            "data": {
+                "user_id": "db7a4d3e-fce9-4800-b11b-3d071140a9a2",
+                "username": "Dr. Bation \ud83e\uddfb",
+                "score": 100,
+                "num_solves": 10,
+                "latest_solve_time": "2023-12-12T18:52:30.985161+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 90,
-        "num_solves": 9,
+        "score": 100,
+        "num_solves": 10,
         "username": "Dr. Bation \ud83e\uddfb",
         "organization_id": 3
     }
