@@ -19,6 +19,16 @@
                 "valid_from": "2023-12-12T14:38:39.444+00:00",
                 "organization_id": 2
             }
+        },
+        {
+            "timestamp": "2023-12-12 14:45:52+00:00",
+            "data": {
+                "id": "935f85c8-0b35-4792-a7d6-9f31abbb324c",
+                "updated_at": "2023-12-12T14:28:53.997169+00:00",
+                "username": null,
+                "valid_from": "2023-12-12T14:38:39.444+00:00",
+                "organization_id": 2
+            }
         }
     ],
     "scoreboard": [
@@ -36,7 +46,7 @@
     "current_info": {
         "score": 100,
         "num_solves": 10,
-        "username": "admin2",
+        "username": null,
         "organization_id": 2
     }
 }
