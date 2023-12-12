@@ -61,7 +61,7 @@ for commit in commits:
     except:
         profiles = json.loads(repo.git.show('{}:{}'.format(commit.hexsha, "./data/profiles.min.json")).strip())
         try:
-            content = repo.git.show('{}:{}'.format(commit.hexsha, "./data/scoreboard_test.min.json")).strip()
+            content = repo.git.show('{}:{}'.format(commit.hexsha, "./data/scoreboard.min.json")).strip()
             try:
                 scoreboard = json.loads(content)
             except Exception as e:
@@ -69,7 +69,7 @@ for commit in commits:
                 # print("Error for scoreboard ", e)
                 continue
         except Exception as e2:
-            content = repo.git.show('{}:{}'.format(commit.hexsha, "./data/scoreboard.min.json")).strip()
+            content = repo.git.show('{}:{}'.format(commit.hexsha, "./data/scoreboard_test.min.json")).strip()
             try:
                 scoreboard = json.loads(content)
             except Exception as e:
