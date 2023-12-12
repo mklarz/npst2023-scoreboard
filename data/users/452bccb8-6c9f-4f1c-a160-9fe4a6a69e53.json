@@ -1,0 +1,21 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-12 11:45:52+00:00",
+            "data": {
+                "id": "452bccb8-6c9f-4f1c-a160-9fe4a6a69e53",
+                "updated_at": "2023-12-12T11:32:29.477976+00:00",
+                "username": "DJLassie",
+                "valid_from": "2023-12-12T11:32:48.241+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [],
+    "current_info": {
+        "score": "?",
+        "num_solves": "?",
+        "username": "DJLassie",
+        "organization_id": 1
+    }
+}
