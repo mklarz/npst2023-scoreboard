@@ -63,6 +63,13 @@
         "latest_solve_time": "2023-12-12T19:41:44.984963+00:00"
     },
     {
+        "user_id": "5f154f41-6af6-4608-abb7-b931f20f0fb9",
+        "username": "MrFreddi007",
+        "score": 122,
+        "num_solves": 14,
+        "latest_solve_time": "2023-12-12T20:52:15.826054+00:00"
+    },
+    {
         "user_id": "c12081b1-0847-42f5-bc74-710d23dd07bd",
         "username": "langemyh",
         "score": 121,
@@ -75,13 +82,6 @@
         "score": 121,
         "num_solves": 13,
         "latest_solve_time": "2023-12-12T14:08:03.422985+00:00"
-    },
-    {
-        "user_id": "5f154f41-6af6-4608-abb7-b931f20f0fb9",
-        "username": "MrFreddi007",
-        "score": 121,
-        "num_solves": 13,
-        "latest_solve_time": "2023-12-12T15:13:01.689668+00:00"
     },
     {
         "user_id": "27fd74cc-51a6-4e38-8d3b-ac9b7b209f18",
@@ -138,6 +138,13 @@
         "score": 111,
         "num_solves": 12,
         "latest_solve_time": "2023-12-12T18:51:46.992707+00:00"
+    },
+    {
+        "user_id": "d39a7a39-6946-4ee0-9071-ea116247cceb",
+        "username": "tronderhack",
+        "score": 111,
+        "num_solves": 12,
+        "latest_solve_time": "2023-12-12T20:50:50.782622+00:00"
     },
     {
         "user_id": "8c5b0297-2b0b-47dc-a6f6-362746c07ae6",
@@ -341,13 +348,6 @@
         "score": 101,
         "num_solves": 11,
         "latest_solve_time": "2023-12-11T21:04:30.187659+00:00"
-    },
-    {
-        "user_id": "d39a7a39-6946-4ee0-9071-ea116247cceb",
-        "username": "tronderhack",
-        "score": 101,
-        "num_solves": 11,
-        "latest_solve_time": "2023-12-11T21:26:06.972361+00:00"
     },
     {
         "user_id": "84895ee1-c839-46f3-b4a8-0919f19472f7",
@@ -8265,5 +8265,12 @@
         "score": 10,
         "num_solves": 1,
         "latest_solve_time": "2023-12-12T19:14:55.871102+00:00"
+    },
+    {
+        "user_id": "2820fbb6-a4bc-461b-8dcd-234ae4895e5d",
+        "username": "lct",
+        "score": 10,
+        "num_solves": 1,
+        "latest_solve_time": "2023-12-12T20:46:20.247403+00:00"
     }
 ]
