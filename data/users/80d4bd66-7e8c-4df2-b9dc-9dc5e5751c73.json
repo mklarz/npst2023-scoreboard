@@ -19,13 +19,23 @@
                 "valid_from": "2023-12-12T17:14:57.937+00:00",
                 "organization_id": 2
             }
+        },
+        {
+            "timestamp": "2023-12-12 17:30:53+00:00",
+            "data": {
+                "id": "80d4bd66-7e8c-4df2-b9dc-9dc5e5751c73",
+                "updated_at": "2023-12-12T16:25:19.403527+00:00",
+                "username": "anije",
+                "valid_from": "2023-12-12T17:16:19.748+00:00",
+                "organization_id": 2
+            }
         }
     ],
     "scoreboard": [],
     "current_info": {
         "score": "?",
         "num_solves": "?",
-        "username": "ajervidal@gmail.com",
+        "username": "anije",
         "organization_id": 2
     }
 }
