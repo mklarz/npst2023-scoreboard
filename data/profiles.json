@@ -14234,8 +14234,15 @@
         "id": "09cc5e3e-e5df-4d82-bbae-43373cb3ac21",
         "updated_at": "2023-12-12T08:12:49.270201+00:00",
         "username": "chipmunk",
-        "valid_from": "2023-12-12T08:13:20.992+00:00",
-        "organization_id": null
+        "valid_from": "2023-12-12T08:15:42.498+00:00",
+        "organization_id": 1
+    },
+    {
+        "id": "320d3c82-5565-440b-bea6-ae9189610a1f",
+        "updated_at": "2023-12-12T08:15:54.629937+00:00",
+        "username": "mindre",
+        "valid_from": "2023-12-12T08:16:34.085+00:00",
+        "organization_id": 2
     },
     {
         "id": "24b810b8-209b-4bb5-acbd-13918f48ee09",
