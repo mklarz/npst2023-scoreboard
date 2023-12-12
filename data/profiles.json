@@ -3038,13 +3038,6 @@
         "organization_id": 2
     },
     {
-        "id": "d89c034f-d6fe-4cb1-8cff-a6fd9069c674",
-        "updated_at": "2023-12-01T10:19:32.16646+00:00",
-        "username": "lok",
-        "valid_from": "2023-12-01T10:20:08.302+00:00",
-        "organization_id": null
-    },
-    {
         "id": "53210b04-26e5-46a3-ab94-b3964ea45772",
         "updated_at": "2023-12-01T11:03:41.625434+00:00",
         "username": "Slede8Elsker",
@@ -3421,6 +3414,13 @@
         "username": "passordet mitt er \"a\"",
         "valid_from": "2023-12-01T11:28:48.137+00:00",
         "organization_id": null
+    },
+    {
+        "id": "d89c034f-d6fe-4cb1-8cff-a6fd9069c674",
+        "updated_at": "2023-12-01T10:19:32.16646+00:00",
+        "username": "lok",
+        "valid_from": "2023-12-12T13:10:24.228+00:00",
+        "organization_id": 1
     },
     {
         "id": "c783e553-1f67-42c0-b792-7b65eeae2089",
