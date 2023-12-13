@@ -14296,7 +14296,7 @@
     {
         "id": "893d3e6c-88da-4a39-8a6e-08f4feaa09be",
         "updated_at": "2023-12-12T09:22:46.603326+00:00",
-        "username": "Knuteknut",
+        "username": null,
         "valid_from": "2023-12-12T16:21:28.783+00:00",
         "organization_id": 1
     },
@@ -16153,6 +16153,13 @@
         "updated_at": "2023-12-13T11:01:01.314556+00:00",
         "username": "Brukernavn:",
         "valid_from": "2023-12-13T11:57:02.241+00:00",
+        "organization_id": 1
+    },
+    {
+        "id": "4ef77dd6-f46d-48b3-a638-235d1dee0d67",
+        "updated_at": "2023-12-13T12:07:05.255665+00:00",
+        "username": "Emily",
+        "valid_from": "2023-12-13T12:07:56.494+00:00",
         "organization_id": 1
     }
 ]
