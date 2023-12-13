@@ -772,5 +772,29 @@
         "difficulty": "Dvergpingvin",
         "time": 30.2,
         "user_id": "b77a5f8c-b1a7-412f-97c2-7104c12c4c67"
+    },
+    {
+        "username": "magnus",
+        "difficulty": "Dvergpingvin",
+        "time": 50.74,
+        "user_id": "c8592c71-9e4a-451f-9c86-d750fc33bb40"
+    },
+    {
+        "username": "magnus",
+        "difficulty": "Dvergpingvin",
+        "time": -1e+23,
+        "user_id": "c8592c71-9e4a-451f-9c86-d750fc33bb40"
+    },
+    {
+        "username": "magnus",
+        "difficulty": "Dvergpingvin",
+        "time": -9.22337e+18,
+        "user_id": "c8592c71-9e4a-451f-9c86-d750fc33bb40"
+    },
+    {
+        "username": "Laud N\u00f8tteknekkere",
+        "difficulty": "Dvergpingvin",
+        "time": 38.69,
+        "user_id": "efa5311a-79d2-4a2d-9b45-089bb8dd3974"
     }
 ]
