@@ -31,11 +31,21 @@
                 "num_solves": 2,
                 "latest_solve_time": "2023-12-12T10:15:17.997234+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-13 20:45:56+00:00",
+            "data": {
+                "user_id": "6a202a72-9948-4079-9854-0668503fa462",
+                "username": "walig",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-13T20:41:32.717905+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 20,
-        "num_solves": 2,
+        "score": 30,
+        "num_solves": 3,
         "username": "walig",
         "organization_id": 1
     }
