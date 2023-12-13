@@ -16245,5 +16245,19 @@
         "username": "Redarmy7",
         "valid_from": "2023-12-13T15:57:58.02+00:00",
         "organization_id": 3
+    },
+    {
+        "id": "12464bac-a8fb-42d7-bcab-b0fec1c878ee",
+        "updated_at": "2023-12-13T17:08:10.163068+00:00",
+        "username": "d1e",
+        "valid_from": "2023-12-13T17:08:53.129+00:00",
+        "organization_id": null
+    },
+    {
+        "id": "99bb3e85-6c61-485a-9fe3-a5da1e36020e",
+        "updated_at": "2023-12-13T17:14:49.053067+00:00",
+        "username": null,
+        "valid_from": "2023-12-13T17:14:49.053067+00:00",
+        "organization_id": null
     }
 ]
