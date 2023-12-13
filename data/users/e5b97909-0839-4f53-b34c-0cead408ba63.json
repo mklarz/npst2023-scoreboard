@@ -121,11 +121,21 @@
                 "num_solves": 10,
                 "latest_solve_time": "2023-12-11T15:32:38.940682+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-13 18:30:56+00:00",
+            "data": {
+                "user_id": "e5b97909-0839-4f53-b34c-0cead408ba63",
+                "username": "Svampen",
+                "score": 110,
+                "num_solves": 11,
+                "latest_solve_time": "2023-12-13T18:23:23.074167+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 100,
-        "num_solves": 10,
+        "score": 110,
+        "num_solves": 11,
         "username": "Svampen",
         "organization_id": 1
     }
