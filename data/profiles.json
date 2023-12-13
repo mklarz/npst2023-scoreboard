@@ -1862,6 +1862,13 @@
         "organization_id": null
     },
     {
+        "id": "a9e122da-4106-424e-a3a0-2caf50dd35ea",
+        "updated_at": "2023-12-01T22:30:17.160853+00:00",
+        "username": "NORD",
+        "valid_from": "2023-12-13T20:44:55.573+00:00",
+        "organization_id": 2
+    },
+    {
         "id": "ce16a20e-0a5a-461b-9530-30e81d62349a",
         "updated_at": "2023-11-30T21:06:06.52646+00:00",
         "username": "Santa Schou",
@@ -2063,13 +2070,6 @@
         "username": "sivert",
         "valid_from": "2023-12-04T18:39:34.236+00:00",
         "organization_id": 1
-    },
-    {
-        "id": "a9e122da-4106-424e-a3a0-2caf50dd35ea",
-        "updated_at": "2023-12-01T22:30:17.160853+00:00",
-        "username": null,
-        "valid_from": "2023-12-04T18:48:47.07+00:00",
-        "organization_id": 2
     },
     {
         "id": "eb1ff5cb-6f2e-4169-9f65-f7161b1f051d",
