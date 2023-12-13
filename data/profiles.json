@@ -16315,5 +16315,19 @@
         "username": null,
         "valid_from": "2023-12-13T22:12:38.284+00:00",
         "organization_id": 3
+    },
+    {
+        "id": "00522a23-eca8-4c74-9150-f13363e67a75",
+        "updated_at": "2023-12-13T22:19:30.185828+00:00",
+        "username": "brukernavn1337",
+        "valid_from": "2023-12-13T22:20:14.394+00:00",
+        "organization_id": 1
+    },
+    {
+        "id": "702f558b-2935-4f2c-b344-4d57dc01761a",
+        "updated_at": "2023-12-13T22:20:08.24301+00:00",
+        "username": null,
+        "valid_from": "2023-12-13T22:21:10.285+00:00",
+        "organization_id": 1
     }
 ]

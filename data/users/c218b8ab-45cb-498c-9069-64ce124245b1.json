@@ -51,11 +51,21 @@
                 "num_solves": 4,
                 "latest_solve_time": "2023-12-13T21:33:18.489796+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-13 22:15:57+00:00",
+            "data": {
+                "user_id": "c218b8ab-45cb-498c-9069-64ce124245b1",
+                "username": "SirHaXalot",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-13T22:08:55.66233+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 40,
-        "num_solves": 4,
+        "score": 50,
+        "num_solves": 5,
         "username": "SirHaXalot",
         "organization_id": 1
     }
