@@ -420,6 +420,20 @@
         "latest_solve_time": "2023-12-13T09:11:36.33588+00:00"
     },
     {
+        "user_id": "713a8e52-5e7f-47dc-84be-d16f69a5b59f",
+        "username": "Danzi",
+        "score": 110,
+        "num_solves": 11,
+        "latest_solve_time": "2023-12-13T09:31:26.68796+00:00"
+    },
+    {
+        "user_id": "690923b8-6b78-405b-973e-c02f83be72b8",
+        "username": "n0k0",
+        "score": 110,
+        "num_solves": 11,
+        "latest_solve_time": "2023-12-13T09:43:17.468489+00:00"
+    },
+    {
         "user_id": "04ac52ef-3233-4c16-bf9c-a174fb1bb218",
         "username": "Dionysios",
         "score": 101,
@@ -537,13 +551,6 @@
         "score": 100,
         "num_solves": 10,
         "latest_solve_time": "2023-12-11T19:18:32.444651+00:00"
-    },
-    {
-        "user_id": "690923b8-6b78-405b-973e-c02f83be72b8",
-        "username": "n0k0",
-        "score": 100,
-        "num_solves": 10,
-        "latest_solve_time": "2023-12-11T19:26:21.975746+00:00"
     },
     {
         "user_id": "06bb23db-7bd1-444d-ace5-bc190ef05215",
@@ -677,13 +684,6 @@
         "score": 100,
         "num_solves": 10,
         "latest_solve_time": "2023-12-13T07:15:54.022528+00:00"
-    },
-    {
-        "user_id": "713a8e52-5e7f-47dc-84be-d16f69a5b59f",
-        "username": "Danzi",
-        "score": 100,
-        "num_solves": 10,
-        "latest_solve_time": "2023-12-13T08:40:18.481526+00:00"
     },
     {
         "user_id": "e1e3b421-685e-4283-a228-a2f926ac1d79",
@@ -1006,6 +1006,13 @@
         "score": 90,
         "num_solves": 9,
         "latest_solve_time": "2023-12-13T01:25:34.784079+00:00"
+    },
+    {
+        "user_id": "be8cd2b1-2322-4293-9491-338cbdfc858a",
+        "username": "bitBug",
+        "score": 90,
+        "num_solves": 9,
+        "latest_solve_time": "2023-12-13T09:35:41.828242+00:00"
     },
     {
         "user_id": "91f29232-b0db-4a27-a47a-1b94eb3e0874",
@@ -1461,13 +1468,6 @@
         "score": 80,
         "num_solves": 8,
         "latest_solve_time": "2023-12-12T19:30:41.969459+00:00"
-    },
-    {
-        "user_id": "be8cd2b1-2322-4293-9491-338cbdfc858a",
-        "username": "bitBug",
-        "score": 80,
-        "num_solves": 8,
-        "latest_solve_time": "2023-12-12T20:24:56.842408+00:00"
     },
     {
         "user_id": "cce50ab1-bcb5-4c6e-a4bd-0a411fa46e17",
