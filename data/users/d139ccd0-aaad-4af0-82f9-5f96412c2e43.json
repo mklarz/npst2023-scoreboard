@@ -101,11 +101,21 @@
                 "num_solves": 8,
                 "latest_solve_time": "2023-12-09T17:11:32.14358+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-13 14:15:56+00:00",
+            "data": {
+                "user_id": "d139ccd0-aaad-4af0-82f9-5f96412c2e43",
+                "username": "Ompax",
+                "score": 90,
+                "num_solves": 9,
+                "latest_solve_time": "2023-12-13T14:11:55.94825+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 80,
-        "num_solves": 8,
+        "score": 90,
+        "num_solves": 9,
         "username": "Ompax",
         "organization_id": 2
     }
