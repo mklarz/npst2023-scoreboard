@@ -11620,6 +11620,13 @@
         "organization_id": 2
     },
     {
+        "id": "841bf331-ab2e-4cd3-bea6-4b1d7f266a9a",
+        "updated_at": "2023-12-04T13:18:48.384517+00:00",
+        "username": "[CISK] Gollemitt",
+        "valid_from": "2023-12-13T11:14:58.694+00:00",
+        "organization_id": 2
+    },
+    {
         "id": "2c981395-a090-4033-a293-55c09201f829",
         "updated_at": "2023-12-04T17:47:46.202821+00:00",
         "username": "Jeppi",
@@ -11926,13 +11933,6 @@
         "username": "ZH_TR_B6",
         "valid_from": "2023-12-04T14:57:59.489+00:00",
         "organization_id": null
-    },
-    {
-        "id": "841bf331-ab2e-4cd3-bea6-4b1d7f266a9a",
-        "updated_at": "2023-12-04T13:18:48.384517+00:00",
-        "username": "CISK7715",
-        "valid_from": "2023-12-04T15:05:49.49+00:00",
-        "organization_id": 2
     },
     {
         "id": "978376f8-fbec-4c68-b1aa-9b3713ffad19",
@@ -16111,6 +16111,27 @@
         "updated_at": "2023-12-13T10:22:51.936273+00:00",
         "username": "bar10dr",
         "valid_from": "2023-12-13T10:23:15.84+00:00",
+        "organization_id": 1
+    },
+    {
+        "id": "25f2d206-9113-43ab-b643-9bd5ae0a162f",
+        "updated_at": "2023-12-13T11:00:02.975881+00:00",
+        "username": null,
+        "valid_from": "2023-12-13T11:00:02.975881+00:00",
+        "organization_id": null
+    },
+    {
+        "id": "9e7e9553-9832-4aeb-9669-201b2b9b60d0",
+        "updated_at": "2023-12-13T11:00:36.825339+00:00",
+        "username": "DassMann28",
+        "valid_from": "2023-12-13T11:00:57.615+00:00",
+        "organization_id": null
+    },
+    {
+        "id": "39f214a6-af35-4c15-884f-378ee109f7d7",
+        "updated_at": "2023-12-13T11:01:01.314556+00:00",
+        "username": "Brukernavn:",
+        "valid_from": "2023-12-13T11:02:14.151+00:00",
         "organization_id": 1
     }
 ]
