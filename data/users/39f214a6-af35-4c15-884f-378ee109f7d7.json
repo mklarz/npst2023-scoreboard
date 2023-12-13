@@ -51,11 +51,21 @@
                 "num_solves": 3,
                 "latest_solve_time": "2023-12-13T11:55:48.496474+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-13 12:45:54+00:00",
+            "data": {
+                "user_id": "39f214a6-af35-4c15-884f-378ee109f7d7",
+                "username": "Brukernavn:",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-13T12:43:23.439667+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 30,
-        "num_solves": 3,
+        "score": 40,
+        "num_solves": 4,
         "username": "Brukernavn:",
         "organization_id": 1
     }
