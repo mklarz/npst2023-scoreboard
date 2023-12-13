@@ -71,11 +71,21 @@
                 "num_solves": 6,
                 "latest_solve_time": "2023-12-13T08:59:00.01598+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-13 09:15:56+00:00",
+            "data": {
+                "user_id": "1f6c23da-9a29-41bf-83ca-cfab78108be3",
+                "username": "viipz",
+                "score": 70,
+                "num_solves": 7,
+                "latest_solve_time": "2023-12-13T09:11:50.825047+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 60,
-        "num_solves": 6,
+        "score": 70,
+        "num_solves": 7,
         "username": "viipz",
         "organization_id": 1
     }
