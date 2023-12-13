@@ -101,11 +101,21 @@
                 "num_solves": 8,
                 "latest_solve_time": "2023-12-11T14:31:56.23984+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-13 11:30:55+00:00",
+            "data": {
+                "user_id": "ac638322-35fc-4b86-9aeb-8d1817bc108e",
+                "username": "Ingebwi",
+                "score": 90,
+                "num_solves": 9,
+                "latest_solve_time": "2023-12-13T11:21:02.96772+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 80,
-        "num_solves": 8,
+        "score": 90,
+        "num_solves": 9,
         "username": "Ingebwi",
         "organization_id": 3
     }

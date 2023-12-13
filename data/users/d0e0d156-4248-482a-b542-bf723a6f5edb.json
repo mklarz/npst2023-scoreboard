@@ -131,11 +131,21 @@
                 "num_solves": 9,
                 "latest_solve_time": "2023-12-11T23:39:06.551728+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-13 11:30:55+00:00",
+            "data": {
+                "user_id": "d0e0d156-4248-482a-b542-bf723a6f5edb",
+                "username": "Julegata.IT",
+                "score": 100,
+                "num_solves": 10,
+                "latest_solve_time": "2023-12-13T11:26:57.817937+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 90,
-        "num_solves": 9,
+        "score": 100,
+        "num_solves": 10,
         "username": "Julegata.IT",
         "organization_id": 1
     }
