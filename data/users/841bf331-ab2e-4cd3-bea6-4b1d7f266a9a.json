@@ -121,11 +121,21 @@
                 "num_solves": 6,
                 "latest_solve_time": "2023-12-13T11:29:30.744894+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-13 11:45:54+00:00",
+            "data": {
+                "user_id": "841bf331-ab2e-4cd3-bea6-4b1d7f266a9a",
+                "username": "[CISK] L\u00f8vefenrik",
+                "score": 70,
+                "num_solves": 7,
+                "latest_solve_time": "2023-12-13T11:35:51.04176+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 60,
-        "num_solves": 6,
+        "score": 70,
+        "num_solves": 7,
         "username": "[CISK] L\u00f8vefenrik",
         "organization_id": 2
     }

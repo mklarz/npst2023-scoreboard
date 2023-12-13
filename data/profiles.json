@@ -16128,13 +16128,6 @@
         "organization_id": null
     },
     {
-        "id": "39f214a6-af35-4c15-884f-378ee109f7d7",
-        "updated_at": "2023-12-13T11:01:01.314556+00:00",
-        "username": "Brukernavn:",
-        "valid_from": "2023-12-13T11:02:14.151+00:00",
-        "organization_id": 1
-    },
-    {
         "id": "b2b3eef6-f11c-44de-ac67-0f18caf8d1c5",
         "updated_at": "2023-12-13T11:23:31.221157+00:00",
         "username": null,
@@ -16152,7 +16145,14 @@
         "id": "8cdacde1-bccc-4c74-a223-ac1d8c571360",
         "updated_at": "2023-12-13T11:36:38.41875+00:00",
         "username": null,
-        "valid_from": "2023-12-13T11:36:38.41875+00:00",
-        "organization_id": null
+        "valid_from": "2023-12-13T11:52:27.726+00:00",
+        "organization_id": 3
+    },
+    {
+        "id": "39f214a6-af35-4c15-884f-378ee109f7d7",
+        "updated_at": "2023-12-13T11:01:01.314556+00:00",
+        "username": "Brukernavn:",
+        "valid_from": "2023-12-13T11:57:02.241+00:00",
+        "organization_id": 1
     }
 ]
