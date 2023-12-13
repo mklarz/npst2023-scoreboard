@@ -101,11 +101,21 @@
                 "num_solves": 5,
                 "latest_solve_time": "2023-12-07T11:18:58.739581+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-13 12:15:55+00:00",
+            "data": {
+                "user_id": "e167d21f-1f3e-4a52-9430-7580857ef1fe",
+                "username": "EDB er vanskelig",
+                "score": 60,
+                "num_solves": 6,
+                "latest_solve_time": "2023-12-13T12:01:15.457785+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 50,
-        "num_solves": 5,
+        "score": 60,
+        "num_solves": 6,
         "username": "EDB er vanskelig",
         "organization_id": 1
     }
