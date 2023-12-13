@@ -21,11 +21,21 @@
                 "num_solves": 1,
                 "latest_solve_time": "2023-12-06T03:48:57.88256+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-13 02:15:53+00:00",
+            "data": {
+                "user_id": "b0325f72-32c4-43da-ad63-e97b07043729",
+                "username": "tormodul",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-13T02:12:43.727513+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 10,
-        "num_solves": 1,
+        "score": 20,
+        "num_solves": 2,
         "username": "tormodul",
         "organization_id": 2
     }
