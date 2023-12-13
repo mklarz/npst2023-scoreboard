@@ -111,11 +111,21 @@
                 "num_solves": 8,
                 "latest_solve_time": "2023-12-09T16:20:51.922838+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-13 18:15:58+00:00",
+            "data": {
+                "user_id": "fc690f99-57c3-4583-ab86-82d735a37a85",
+                "username": "bitsebats",
+                "score": 90,
+                "num_solves": 9,
+                "latest_solve_time": "2023-12-13T18:13:06.258748+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 80,
-        "num_solves": 8,
+        "score": 90,
+        "num_solves": 9,
         "username": "bitsebats",
         "organization_id": 3
     }
