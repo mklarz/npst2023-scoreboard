@@ -41,11 +41,21 @@
                 "num_solves": 11,
                 "latest_solve_time": "2023-12-12T22:18:23.520378+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-13 11:15:54+00:00",
+            "data": {
+                "user_id": "a0a2a05d-23d8-4df9-aa54-ea2d44b76ed1",
+                "username": "cinaed2",
+                "score": 120,
+                "num_solves": 12,
+                "latest_solve_time": "2023-12-13T11:09:03.654065+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 110,
-        "num_solves": 11,
+        "score": 120,
+        "num_solves": 12,
         "username": "cinaed2",
         "organization_id": 3
     }

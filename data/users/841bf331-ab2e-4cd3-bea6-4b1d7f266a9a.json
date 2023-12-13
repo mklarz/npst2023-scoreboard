@@ -39,6 +39,16 @@
                 "valid_from": "2023-12-04T15:05:49.49+00:00",
                 "organization_id": 2
             }
+        },
+        {
+            "timestamp": "2023-12-13 11:15:54+00:00",
+            "data": {
+                "id": "841bf331-ab2e-4cd3-bea6-4b1d7f266a9a",
+                "updated_at": "2023-12-04T13:18:48.384517+00:00",
+                "username": "[CISK] Gollemitt",
+                "valid_from": "2023-12-13T11:14:58.694+00:00",
+                "organization_id": 2
+            }
         }
     ],
     "scoreboard": [
@@ -81,12 +91,22 @@
                 "num_solves": 4,
                 "latest_solve_time": "2023-12-11T12:10:45.594192+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-13 11:15:54+00:00",
+            "data": {
+                "user_id": "841bf331-ab2e-4cd3-bea6-4b1d7f266a9a",
+                "username": "[CISK] Gollemitt",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-11T12:10:45.594192+00:00"
+            }
         }
     ],
     "current_info": {
         "score": 40,
         "num_solves": 4,
-        "username": "CISK7715",
+        "username": "[CISK] Gollemitt",
         "organization_id": 2
     }
 }

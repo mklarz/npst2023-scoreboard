@@ -1,0 +1,32 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-13 11:15:54+00:00",
+            "data": {
+                "id": "39f214a6-af35-4c15-884f-378ee109f7d7",
+                "updated_at": "2023-12-13T11:01:01.314556+00:00",
+                "username": "Brukernavn:",
+                "valid_from": "2023-12-13T11:02:14.151+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-13 11:15:54+00:00",
+            "data": {
+                "user_id": "39f214a6-af35-4c15-884f-378ee109f7d7",
+                "username": "Brukernavn:",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-13T11:12:32.673386+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 10,
+        "num_solves": 1,
+        "username": "Brukernavn:",
+        "organization_id": 1
+    }
+}
