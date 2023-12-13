@@ -31,11 +31,21 @@
                 "num_solves": 2,
                 "latest_solve_time": "2023-12-13T19:34:22.54775+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-13 20:15:56+00:00",
+            "data": {
+                "user_id": "c218b8ab-45cb-498c-9069-64ce124245b1",
+                "username": "SirHaXalot",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-13T20:14:47.764097+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 20,
-        "num_solves": 2,
+        "score": 30,
+        "num_solves": 3,
         "username": "SirHaXalot",
         "organization_id": 1
     }
