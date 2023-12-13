@@ -16084,5 +16084,19 @@
         "username": "\u00d8yvind",
         "valid_from": "2023-12-13T09:21:01.264+00:00",
         "organization_id": 3
+    },
+    {
+        "id": "70fd514c-57c8-40f7-bfbe-f2ee0f0e3806",
+        "updated_at": "2023-12-13T09:56:31.83462+00:00",
+        "username": null,
+        "valid_from": "2023-12-13T09:58:43.025+00:00",
+        "organization_id": 2
+    },
+    {
+        "id": "2098e829-d139-45d9-b974-8a3a6c2b9946",
+        "updated_at": "2023-12-13T09:59:09.767766+00:00",
+        "username": null,
+        "valid_from": "2023-12-13T09:59:22.444+00:00",
+        "organization_id": 2
     }
 ]
