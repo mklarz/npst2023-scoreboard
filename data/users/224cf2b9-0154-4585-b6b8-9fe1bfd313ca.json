@@ -11,10 +11,21 @@
             }
         }
     ],
-    "scoreboard": [],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-13 13:15:57+00:00",
+            "data": {
+                "user_id": "224cf2b9-0154-4585-b6b8-9fe1bfd313ca",
+                "username": "Bailfire",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-13T13:11:02.92794+00:00"
+            }
+        }
+    ],
     "current_info": {
-        "score": "?",
-        "num_solves": "?",
+        "score": 10,
+        "num_solves": 1,
         "username": "Bailfire",
         "organization_id": 1
     }

@@ -111,11 +111,21 @@
                 "num_solves": 9,
                 "latest_solve_time": "2023-12-10T14:12:05.628855+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-13 13:15:57+00:00",
+            "data": {
+                "user_id": "74eb8981-5fc2-474e-b3cd-38dc16d6cc62",
+                "username": "rikke",
+                "score": 100,
+                "num_solves": 10,
+                "latest_solve_time": "2023-12-13T13:02:24.475343+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 90,
-        "num_solves": 9,
+        "score": 100,
+        "num_solves": 10,
         "username": "rikke",
         "organization_id": 2
     }
