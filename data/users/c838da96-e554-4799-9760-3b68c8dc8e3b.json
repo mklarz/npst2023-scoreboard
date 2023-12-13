@@ -1,0 +1,21 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-12 23:45:53+00:00",
+            "data": {
+                "id": "c838da96-e554-4799-9760-3b68c8dc8e3b",
+                "updated_at": "2023-12-12T23:31:36.727527+00:00",
+                "username": "Mexio",
+                "valid_from": "2023-12-12T23:31:54.746+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [],
+    "current_info": {
+        "score": "?",
+        "num_solves": "?",
+        "username": "Mexio",
+        "organization_id": 1
+    }
+}
