@@ -606,6 +606,24 @@
         "user_id": "f4e461db-4c71-4715-8b67-dfc22dccdab8"
     },
     {
+        "username": "Carixo",
+        "difficulty": "Keiserpingvin",
+        "time": -10000000000.0,
+        "user_id": "14253a29-3526-400d-b1d9-ffdb47c7643f"
+    },
+    {
+        "username": "Carixo",
+        "difficulty": "Keiserpingvin",
+        "time": -1e+23,
+        "user_id": "14253a29-3526-400d-b1d9-ffdb47c7643f"
+    },
+    {
+        "username": "Carixo",
+        "difficulty": "Keiserpingvin",
+        "time": "Infinity",
+        "user_id": "14253a29-3526-400d-b1d9-ffdb47c7643f"
+    },
+    {
         "username": "ZinoX",
         "difficulty": "Dvergpingvin",
         "time": 51.91,
@@ -616,5 +634,35 @@
         "difficulty": "Keiserpingvin",
         "time": 1e+25,
         "user_id": "14253a29-3526-400d-b1d9-ffdb47c7643f"
+    },
+    {
+        "username": "Carixo",
+        "difficulty": "Keiserpingvin",
+        "time": -1e+36,
+        "user_id": "14253a29-3526-400d-b1d9-ffdb47c7643f"
+    },
+    {
+        "username": "Carixo",
+        "difficulty": "Keiserpingvin",
+        "time": "-Infinity",
+        "user_id": "14253a29-3526-400d-b1d9-ffdb47c7643f"
+    },
+    {
+        "username": "Carixo",
+        "difficulty": "Dvergpingvin",
+        "time": "-Infinity",
+        "user_id": "14253a29-3526-400d-b1d9-ffdb47c7643f"
+    },
+    {
+        "username": "Carixo",
+        "difficulty": "Kongepingvin",
+        "time": "-Infinity",
+        "user_id": "14253a29-3526-400d-b1d9-ffdb47c7643f"
+    },
+    {
+        "username": "nordbo",
+        "difficulty": "Dvergpingvin",
+        "time": 142.52,
+        "user_id": "e1c8450d-3a7a-44f0-92de-93512cc192fb"
     }
 ]

@@ -16217,5 +16217,12 @@
         "username": "Julebukken",
         "valid_from": "2023-12-13T14:50:54.76+00:00",
         "organization_id": null
+    },
+    {
+        "id": "0ee9253c-ec4f-4877-a871-d11ac1a86f4a",
+        "updated_at": "2023-12-13T15:07:36.935008+00:00",
+        "username": null,
+        "valid_from": "2023-12-13T15:07:36.935008+00:00",
+        "organization_id": null
     }
 ]
