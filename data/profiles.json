@@ -16651,5 +16651,12 @@
         "username": null,
         "valid_from": "2023-12-14T21:02:02.684+00:00",
         "organization_id": 3
+    },
+    {
+        "id": "49c13a3c-ca1c-4879-9a8b-95d0d09648e4",
+        "updated_at": "2023-12-14T21:15:30.98638+00:00",
+        "username": "Vaskepulver",
+        "valid_from": "2023-12-14T21:15:52.815+00:00",
+        "organization_id": null
     }
 ]
