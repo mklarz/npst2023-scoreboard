@@ -101,11 +101,21 @@
                 "num_solves": 8,
                 "latest_solve_time": "2023-12-14T13:56:59.686414+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-14 14:16:00+00:00",
+            "data": {
+                "user_id": "3e769205-ba2d-453b-9d73-dd9e1c3fbfda",
+                "username": "Chris P. Bacon",
+                "score": 90,
+                "num_solves": 9,
+                "latest_solve_time": "2023-12-14T14:07:13.116315+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 80,
-        "num_solves": 8,
+        "score": 90,
+        "num_solves": 9,
         "username": "Chris P. Bacon",
         "organization_id": 1
     }
