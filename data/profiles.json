@@ -16490,5 +16490,12 @@
         "username": "msr",
         "valid_from": "2023-12-14T13:43:02.36+00:00",
         "organization_id": 2
+    },
+    {
+        "id": "ecda4d0a-f3c6-4596-84bb-42dba96638f9",
+        "updated_at": "2023-12-14T14:33:21.873842+00:00",
+        "username": "torebravo",
+        "valid_from": "2023-12-14T14:33:47.484+00:00",
+        "organization_id": null
     }
 ]
