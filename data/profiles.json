@@ -576,8 +576,8 @@
     {
         "id": "e836de2e-e36a-41de-9521-466785ced2fd",
         "updated_at": "2023-11-30T13:25:16.629301+00:00",
-        "username": null,
-        "valid_from": "2023-12-05T11:04:25.507+00:00",
+        "username": "\u9aed\u3061\u3083\u3093",
+        "valid_from": "2023-12-14T15:05:41+00:00",
         "organization_id": 1
     },
     {
@@ -16497,5 +16497,12 @@
         "username": "torebravo",
         "valid_from": "2023-12-14T14:33:47.484+00:00",
         "organization_id": null
+    },
+    {
+        "id": "d32588c0-5829-4e4d-85b2-7f198cd9d0ba",
+        "updated_at": "2023-12-14T15:11:37.09613+00:00",
+        "username": null,
+        "valid_from": "2023-12-14T15:12:11.895+00:00",
+        "organization_id": 2
     }
 ]
