@@ -16448,5 +16448,12 @@
         "username": "Neppe",
         "valid_from": "2023-12-14T10:38:54.705+00:00",
         "organization_id": null
+    },
+    {
+        "id": "20d94d2f-3b7b-4449-ab2f-d2cbf765bc3c",
+        "updated_at": "2023-12-14T12:54:47.279723+00:00",
+        "username": null,
+        "valid_from": "2023-12-14T12:54:47.279723+00:00",
+        "organization_id": null
     }
 ]
