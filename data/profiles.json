@@ -16504,5 +16504,19 @@
         "username": null,
         "valid_from": "2023-12-14T15:15:12.702+00:00",
         "organization_id": 2
+    },
+    {
+        "id": "fefbe69f-72dc-456e-8c6f-586fa5f78447",
+        "updated_at": "2023-12-14T16:05:13.180341+00:00",
+        "username": null,
+        "valid_from": "2023-12-14T16:05:13.180341+00:00",
+        "organization_id": null
+    },
+    {
+        "id": "6c3b65c4-1247-4731-a6b9-5e020fa7be85",
+        "updated_at": "2023-12-14T16:08:43.141383+00:00",
+        "username": "M\u00f8rkets fyrste fra nord",
+        "valid_from": "2023-12-14T16:11:23.799+00:00",
+        "organization_id": null
     }
 ]
