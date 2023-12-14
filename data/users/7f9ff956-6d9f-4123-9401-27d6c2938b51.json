@@ -91,11 +91,21 @@
                 "num_solves": 8,
                 "latest_solve_time": "2023-12-09T23:40:40.671+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-14 20:01:02+00:00",
+            "data": {
+                "user_id": "7f9ff956-6d9f-4123-9401-27d6c2938b51",
+                "username": "j.hod",
+                "score": 90,
+                "num_solves": 9,
+                "latest_solve_time": "2023-12-14T19:45:25.57064+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 80,
-        "num_solves": 8,
+        "score": 90,
+        "num_solves": 9,
         "username": "j.hod",
         "organization_id": 3
     }

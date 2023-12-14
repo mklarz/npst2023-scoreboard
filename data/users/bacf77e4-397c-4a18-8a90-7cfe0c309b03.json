@@ -1,0 +1,32 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-14 20:01:02+00:00",
+            "data": {
+                "id": "bacf77e4-397c-4a18-8a90-7cfe0c309b03",
+                "updated_at": "2023-12-14T19:46:48.056865+00:00",
+                "username": "browncastle",
+                "valid_from": "2023-12-14T19:48:53.464+00:00",
+                "organization_id": 2
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-14 20:01:02+00:00",
+            "data": {
+                "user_id": "bacf77e4-397c-4a18-8a90-7cfe0c309b03",
+                "username": "browncastle",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-14T19:55:55.861179+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 10,
+        "num_solves": 1,
+        "username": "browncastle",
+        "organization_id": 2
+    }
+}
