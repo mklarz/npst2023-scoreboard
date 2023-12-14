@@ -16630,5 +16630,12 @@
         "username": "Matdra",
         "valid_from": "2023-12-14T20:29:40.274+00:00",
         "organization_id": null
+    },
+    {
+        "id": "f985915b-91d0-45af-b131-99c0036e574e",
+        "updated_at": "2023-12-14T20:50:49.245139+00:00",
+        "username": null,
+        "valid_from": "2023-12-14T20:51:18.304+00:00",
+        "organization_id": 1
     }
 ]
