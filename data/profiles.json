@@ -8911,6 +8911,13 @@
         "organization_id": null
     },
     {
+        "id": "326fd5ce-0259-41e1-863c-66a5ec049de2",
+        "updated_at": "2023-12-04T10:43:03.571707+00:00",
+        "username": "mjau",
+        "valid_from": "2023-12-14T17:16:27.683+00:00",
+        "organization_id": 1
+    },
+    {
         "id": "0c69cba9-3b74-4a05-a6cd-2c46fc60f43b",
         "updated_at": "2023-12-03T21:28:08.128603+00:00",
         "username": "Mads",
@@ -9279,13 +9286,6 @@
         "updated_at": "2023-12-04T10:38:04.4517+00:00",
         "username": "CmdSS",
         "valid_from": "2023-12-04T10:38:13.523+00:00",
-        "organization_id": null
-    },
-    {
-        "id": "326fd5ce-0259-41e1-863c-66a5ec049de2",
-        "updated_at": "2023-12-04T10:43:03.571707+00:00",
-        "username": "mjau",
-        "valid_from": "2023-12-04T10:43:49.176+00:00",
         "organization_id": null
     },
     {
