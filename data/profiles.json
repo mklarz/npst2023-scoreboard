@@ -16658,5 +16658,12 @@
         "username": "Vaskepulver",
         "valid_from": "2023-12-14T21:15:52.815+00:00",
         "organization_id": null
+    },
+    {
+        "id": "5a6430e2-a49f-4102-8ad9-239d43e8ef71",
+        "updated_at": "2023-12-14T21:49:25.929027+00:00",
+        "username": null,
+        "valid_from": "2023-12-14T21:49:25.929027+00:00",
+        "organization_id": null
     }
 ]
