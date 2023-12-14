@@ -1050,6 +1050,13 @@
         "latest_solve_time": "2023-12-14T08:00:33.157495+00:00"
     },
     {
+        "user_id": "eab57ef4-1024-4af9-94de-6840756b9dbf",
+        "username": "ZeroChill",
+        "score": 100,
+        "num_solves": 10,
+        "latest_solve_time": "2023-12-14T10:48:02.109432+00:00"
+    },
+    {
         "user_id": "768362ad-8649-4718-811c-b54ee904b115",
         "username": "\ud83d\udc3b\ud83d\udc3c\ud83d\udc3b\u200d\u2744\ufe0f",
         "score": 92,
@@ -1083,13 +1090,6 @@
         "score": 90,
         "num_solves": 9,
         "latest_solve_time": "2023-12-10T15:09:31.767968+00:00"
-    },
-    {
-        "user_id": "eab57ef4-1024-4af9-94de-6840756b9dbf",
-        "username": "ZeroChill",
-        "score": 90,
-        "num_solves": 9,
-        "latest_solve_time": "2023-12-10T23:25:38.157906+00:00"
     },
     {
         "user_id": "c10ead93-0121-43be-b96e-9766881fa323",
@@ -3780,6 +3780,13 @@
         "latest_solve_time": "2023-12-13T20:41:32.717905+00:00"
     },
     {
+        "user_id": "f73d8a2f-f69e-4870-8cf5-f6ee010daaa4",
+        "username": "Brukerst\u00f8tteMannen",
+        "score": 30,
+        "num_solves": 3,
+        "latest_solve_time": "2023-12-14T10:51:22.200207+00:00"
+    },
+    {
         "user_id": "3bf28fbc-2c20-4213-8c11-201b5805dc62",
         "username": "Endre",
         "score": 20,
@@ -4758,13 +4765,6 @@
         "score": 20,
         "num_solves": 2,
         "latest_solve_time": "2023-12-14T08:17:22.858651+00:00"
-    },
-    {
-        "user_id": "f73d8a2f-f69e-4870-8cf5-f6ee010daaa4",
-        "username": "Brukerst\u00f8tteMannen",
-        "score": 20,
-        "num_solves": 2,
-        "latest_solve_time": "2023-12-14T10:25:08.46758+00:00"
     },
     {
         "user_id": "0b8013db-b443-406e-a468-07d54a175d8b",
@@ -8419,5 +8419,12 @@
         "score": 10,
         "num_solves": 1,
         "latest_solve_time": "2023-12-14T09:37:45.325204+00:00"
+    },
+    {
+        "user_id": "2734c52e-42ec-414d-8fb4-b59974a73fa5",
+        "username": "switchWitch",
+        "score": 10,
+        "num_solves": 1,
+        "latest_solve_time": "2023-12-14T10:54:14.159551+00:00"
     }
 ]
