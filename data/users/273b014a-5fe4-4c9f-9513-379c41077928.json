@@ -9,13 +9,34 @@
                 "valid_from": "2023-12-14T18:29:59.482945+00:00",
                 "organization_id": null
             }
+        },
+        {
+            "timestamp": "2023-12-14 18:46:01+00:00",
+            "data": {
+                "id": "273b014a-5fe4-4c9f-9513-379c41077928",
+                "updated_at": "2023-12-14T18:29:59.482945+00:00",
+                "username": "Hilland",
+                "valid_from": "2023-12-14T18:38:20.303+00:00",
+                "organization_id": 1
+            }
         }
     ],
-    "scoreboard": [],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-14 18:46:01+00:00",
+            "data": {
+                "user_id": "273b014a-5fe4-4c9f-9513-379c41077928",
+                "username": "Hilland",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-14T18:42:21.332105+00:00"
+            }
+        }
+    ],
     "current_info": {
-        "score": "?",
-        "num_solves": "?",
-        "username": null,
-        "organization_id": null
+        "score": 10,
+        "num_solves": 1,
+        "username": "Hilland",
+        "organization_id": 1
     }
 }
