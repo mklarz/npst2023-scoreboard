@@ -14,18 +14,18 @@
         "latest_solve_time": "2023-12-14T19:34:45.578553+00:00"
     },
     {
+        "user_id": "a60311f2-6687-4972-b108-8ca8c82ff5b0",
+        "username": "Arka",
+        "score": 145,
+        "num_solves": 19,
+        "latest_solve_time": "2023-12-14T20:41:57.877904+00:00"
+    },
+    {
         "user_id": "8e243236-4b34-442d-83c7-33ca221869c5",
         "username": "StateOfLimbo",
         "score": 144,
         "num_solves": 18,
         "latest_solve_time": "2023-12-14T20:10:48.703173+00:00"
-    },
-    {
-        "user_id": "a60311f2-6687-4972-b108-8ca8c82ff5b0",
-        "username": "Arka",
-        "score": 144,
-        "num_solves": 18,
-        "latest_solve_time": "2023-12-14T20:21:51.814644+00:00"
     },
     {
         "user_id": "a24056ea-dd4c-4c39-ad39-ceed6796deed",
@@ -1456,6 +1456,13 @@
         "latest_solve_time": "2023-12-14T20:11:16.112875+00:00"
     },
     {
+        "user_id": "6f4d0c8a-6f82-4d5b-bba9-6ece56473d1f",
+        "username": "Loldot",
+        "score": 90,
+        "num_solves": 9,
+        "latest_solve_time": "2023-12-14T20:34:59.794807+00:00"
+    },
+    {
         "user_id": "edbeaa0a-d222-4336-aa34-874646703628",
         "username": "TrossAlt",
         "score": 82,
@@ -1601,13 +1608,6 @@
         "score": 80,
         "num_solves": 8,
         "latest_solve_time": "2023-12-10T18:19:21.012954+00:00"
-    },
-    {
-        "user_id": "6f4d0c8a-6f82-4d5b-bba9-6ece56473d1f",
-        "username": "Loldot",
-        "score": 80,
-        "num_solves": 8,
-        "latest_solve_time": "2023-12-11T18:15:07.168024+00:00"
     },
     {
         "user_id": "4e539093-e9bd-4fed-b81a-354fd2caef82",
@@ -8461,5 +8461,12 @@
         "score": 10,
         "num_solves": 1,
         "latest_solve_time": "2023-12-14T20:23:20.448982+00:00"
+    },
+    {
+        "user_id": "15c90bb7-2033-43cc-b222-0d8d2e19ea92",
+        "username": "jensthi",
+        "score": 10,
+        "num_solves": 1,
+        "latest_solve_time": "2023-12-14T20:38:43.517134+00:00"
     }
 ]
