@@ -91,11 +91,21 @@
                 "num_solves": 7,
                 "latest_solve_time": "2023-12-09T11:56:06.432257+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-14 13:01:03+00:00",
+            "data": {
+                "user_id": "e2015b67-3dd4-45eb-85b8-d80b381e76d3",
+                "username": "studyBitcoin",
+                "score": 80,
+                "num_solves": 8,
+                "latest_solve_time": "2023-12-14T12:47:21.46139+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 70,
-        "num_solves": 7,
+        "score": 80,
+        "num_solves": 8,
         "username": "studyBitcoin",
         "organization_id": 2
     }
