@@ -161,11 +161,21 @@
                 "num_solves": 14,
                 "latest_solve_time": "2023-12-13T11:14:21.273059+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-14 11:30:59+00:00",
+            "data": {
+                "user_id": "079cbb80-eb2f-494e-bd58-96151c93ffe7",
+                "username": "psi_psi",
+                "score": 141,
+                "num_solves": 15,
+                "latest_solve_time": "2023-12-14T11:22:32.835597+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 131,
-        "num_solves": 14,
+        "score": 141,
+        "num_solves": 15,
         "username": "psi_psi",
         "organization_id": 3
     }
