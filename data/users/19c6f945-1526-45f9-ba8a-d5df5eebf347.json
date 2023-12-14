@@ -51,11 +51,21 @@
                 "num_solves": 3,
                 "latest_solve_time": "2023-12-13T15:08:14.532183+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-14 13:31:01+00:00",
+            "data": {
+                "user_id": "19c6f945-1526-45f9-ba8a-d5df5eebf347",
+                "username": "IngenElskerNissegutt",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-14T13:29:43.06421+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 30,
-        "num_solves": 3,
+        "score": 40,
+        "num_solves": 4,
         "username": "IngenElskerNissegutt",
         "organization_id": 2
     }

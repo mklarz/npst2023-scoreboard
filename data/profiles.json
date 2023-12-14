@@ -16476,5 +16476,19 @@
         "username": "Arildm",
         "valid_from": "2023-12-14T13:12:31.873+00:00",
         "organization_id": 1
+    },
+    {
+        "id": "077c6f1a-3e9f-430a-88fc-09861ba5d70c",
+        "updated_at": "2023-12-14T13:41:07.961217+00:00",
+        "username": "metamanil",
+        "valid_from": "2023-12-14T13:42:30.417+00:00",
+        "organization_id": 2
+    },
+    {
+        "id": "2edf3b52-f294-4b41-9e28-e969945b15a9",
+        "updated_at": "2023-12-14T13:41:31.80454+00:00",
+        "username": "msr",
+        "valid_from": "2023-12-14T13:43:02.36+00:00",
+        "organization_id": 2
     }
 ]
