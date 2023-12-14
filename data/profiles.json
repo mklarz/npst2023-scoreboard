@@ -16516,7 +16516,14 @@
         "id": "6c3b65c4-1247-4731-a6b9-5e020fa7be85",
         "updated_at": "2023-12-14T16:08:43.141383+00:00",
         "username": "M\u00f8rkets fyrste fra nord",
-        "valid_from": "2023-12-14T16:11:23.799+00:00",
+        "valid_from": "2023-12-14T16:22:04.664+00:00",
+        "organization_id": 1
+    },
+    {
+        "id": "e9f24813-26b6-4057-9af1-dc299f248911",
+        "updated_at": "2023-12-14T16:26:11.603706+00:00",
+        "username": "jonmjauu",
+        "valid_from": "2023-12-14T16:26:25.261+00:00",
         "organization_id": null
     }
 ]
