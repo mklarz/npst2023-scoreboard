@@ -9,6 +9,16 @@
                 "valid_from": "2023-12-04T10:43:49.176+00:00",
                 "organization_id": null
             }
+        },
+        {
+            "timestamp": "2023-12-14 17:31:01+00:00",
+            "data": {
+                "id": "326fd5ce-0259-41e1-863c-66a5ec049de2",
+                "updated_at": "2023-12-04T10:43:03.571707+00:00",
+                "username": "mjau",
+                "valid_from": "2023-12-14T17:16:27.683+00:00",
+                "organization_id": 1
+            }
         }
     ],
     "scoreboard": [],
@@ -16,6 +26,6 @@
         "score": "?",
         "num_solves": "?",
         "username": "mjau",
-        "organization_id": null
+        "organization_id": 1
     }
 }
