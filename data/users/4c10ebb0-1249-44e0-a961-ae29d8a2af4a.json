@@ -11,10 +11,21 @@
             }
         }
     ],
-    "scoreboard": [],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-14 09:45:59+00:00",
+            "data": {
+                "user_id": "4c10ebb0-1249-44e0-a961-ae29d8a2af4a",
+                "username": "AcidBurn92",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-14T09:37:45.325204+00:00"
+            }
+        }
+    ],
     "current_info": {
-        "score": "?",
-        "num_solves": "?",
+        "score": 10,
+        "num_solves": 1,
         "username": "AcidBurn92",
         "organization_id": 2
     }

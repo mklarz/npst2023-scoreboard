@@ -21,10 +21,21 @@
             }
         }
     ],
-    "scoreboard": [],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-14 09:45:59+00:00",
+            "data": {
+                "user_id": "02653211-5b35-4293-bcb5-0e468cd73d71",
+                "username": "Eastofwest",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-14T09:36:54.161302+00:00"
+            }
+        }
+    ],
     "current_info": {
-        "score": "?",
-        "num_solves": "?",
+        "score": 10,
+        "num_solves": 1,
         "username": "Eastofwest",
         "organization_id": 3
     }
