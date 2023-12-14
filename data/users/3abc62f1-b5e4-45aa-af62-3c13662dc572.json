@@ -1,0 +1,21 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-14 13:16:01+00:00",
+            "data": {
+                "id": "3abc62f1-b5e4-45aa-af62-3c13662dc572",
+                "updated_at": "2023-12-14T13:09:13.350962+00:00",
+                "username": "kriped",
+                "valid_from": "2023-12-14T13:10:16.716+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [],
+    "current_info": {
+        "score": "?",
+        "num_solves": "?",
+        "username": "kriped",
+        "organization_id": 1
+    }
+}
