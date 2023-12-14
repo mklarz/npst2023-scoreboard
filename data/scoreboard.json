@@ -560,6 +560,13 @@
         "latest_solve_time": "2023-12-13T23:43:58.575757+00:00"
     },
     {
+        "user_id": "65178d71-6308-4ea2-b447-ea5374b9ab56",
+        "username": "cer",
+        "score": 120,
+        "num_solves": 12,
+        "latest_solve_time": "2023-12-14T08:16:39.68783+00:00"
+    },
+    {
         "user_id": "f13f8e80-b939-4d52-8c6f-4dcd2c995180",
         "username": "svtm",
         "score": 111,
@@ -740,13 +747,6 @@
         "score": 110,
         "num_solves": 11,
         "latest_solve_time": "2023-12-14T06:55:39.066755+00:00"
-    },
-    {
-        "user_id": "65178d71-6308-4ea2-b447-ea5374b9ab56",
-        "username": "cer",
-        "score": 110,
-        "num_solves": 11,
-        "latest_solve_time": "2023-12-14T08:04:53.091699+00:00"
     },
     {
         "user_id": "04ac52ef-3233-4c16-bf9c-a174fb1bb218",
@@ -4753,6 +4753,13 @@
         "latest_solve_time": "2023-12-14T01:24:24.673543+00:00"
     },
     {
+        "user_id": "0f938a7e-9232-4ec0-ba53-18e8f9f76375",
+        "username": "T06y",
+        "score": 20,
+        "num_solves": 2,
+        "latest_solve_time": "2023-12-14T08:17:22.858651+00:00"
+    },
+    {
         "user_id": "0b8013db-b443-406e-a468-07d54a175d8b",
         "username": "0x90ro",
         "score": 11,
@@ -5493,13 +5500,6 @@
         "score": 10,
         "num_solves": 1,
         "latest_solve_time": "2023-12-01T13:01:02.461068+00:00"
-    },
-    {
-        "user_id": "0f938a7e-9232-4ec0-ba53-18e8f9f76375",
-        "username": "T06y",
-        "score": 10,
-        "num_solves": 1,
-        "latest_solve_time": "2023-12-01T13:03:00.889419+00:00"
     },
     {
         "user_id": "c863f56a-adb1-417a-92d5-664fba7aad0c",
@@ -8384,5 +8384,12 @@
         "score": 10,
         "num_solves": 1,
         "latest_solve_time": "2023-12-13T21:52:55.101064+00:00"
+    },
+    {
+        "user_id": "d86dd65f-cd68-47ec-8675-8269a472d346",
+        "username": "Uglesafari",
+        "score": 10,
+        "num_solves": 1,
+        "latest_solve_time": "2023-12-14T08:16:44.431932+00:00"
     }
 ]
