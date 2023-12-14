@@ -51,11 +51,21 @@
                 "num_solves": 3,
                 "latest_solve_time": "2023-12-12T14:55:24.310044+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-14 09:30:59+00:00",
+            "data": {
+                "user_id": "f3b32e6c-d694-46cb-826c-e2f3483063be",
+                "username": "MrAdonexus",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-14T09:19:18.181512+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 30,
-        "num_solves": 3,
+        "score": 40,
+        "num_solves": 4,
         "username": "MrAdonexus",
         "organization_id": 1
     }

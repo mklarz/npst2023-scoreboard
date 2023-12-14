@@ -11,10 +11,21 @@
             }
         }
     ],
-    "scoreboard": [],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-14 09:30:59+00:00",
+            "data": {
+                "user_id": "ab33be87-e4a4-4efa-ad05-bf296717b039",
+                "username": "NissefarInn",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-14T09:16:04.384853+00:00"
+            }
+        }
+    ],
     "current_info": {
-        "score": "?",
-        "num_solves": "?",
+        "score": 10,
+        "num_solves": 1,
         "username": "NissefarInn",
         "organization_id": 3
     }
