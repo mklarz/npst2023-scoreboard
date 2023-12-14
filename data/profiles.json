@@ -16399,5 +16399,19 @@
         "username": "Uglesafari",
         "valid_from": "2023-12-14T08:03:57.017+00:00",
         "organization_id": 2
+    },
+    {
+        "id": "f73d8a2f-f69e-4870-8cf5-f6ee010daaa4",
+        "updated_at": "2023-12-14T08:51:48.305426+00:00",
+        "username": "Brukerst\u00f8tteMannen",
+        "valid_from": "2023-12-14T08:56:44.318+00:00",
+        "organization_id": 1
+    },
+    {
+        "id": "02653211-5b35-4293-bcb5-0e468cd73d71",
+        "updated_at": "2023-12-14T08:57:06.489494+00:00",
+        "username": "Eastofwest",
+        "valid_from": "2023-12-14T08:57:27.814+00:00",
+        "organization_id": null
     }
 ]
