@@ -211,11 +211,21 @@
                 "num_solves": 15,
                 "latest_solve_time": "2023-12-15T13:23:12.646599+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-15 15:01:06+00:00",
+            "data": {
+                "user_id": "072195fb-2c78-4cc8-91c6-072183d5b3da",
+                "username": "Ninja Turtle (\ud83e\udd77\ud83d\udc22)",
+                "score": 142,
+                "num_solves": 16,
+                "latest_solve_time": "2023-12-15T14:48:54.525316+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 141,
-        "num_solves": 15,
+        "score": 142,
+        "num_solves": 16,
         "username": "Ninja Turtle (\ud83e\udd77\ud83d\udc22)",
         "organization_id": 3
     }
