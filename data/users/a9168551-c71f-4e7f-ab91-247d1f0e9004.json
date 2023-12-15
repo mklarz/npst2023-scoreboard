@@ -261,11 +261,21 @@
                 "num_solves": 15,
                 "latest_solve_time": "2023-12-14T18:38:03.118101+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-15 12:31:05+00:00",
+            "data": {
+                "user_id": "a9168551-c71f-4e7f-ab91-247d1f0e9004",
+                "username": "nitrobit",
+                "score": 142,
+                "num_solves": 16,
+                "latest_solve_time": "2023-12-15T12:25:14.294972+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 132,
-        "num_solves": 15,
+        "score": 142,
+        "num_solves": 16,
         "username": "nitrobit",
         "organization_id": 1
     }
