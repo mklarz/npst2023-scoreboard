@@ -16800,17 +16800,17 @@
         "organization_id": 1
     },
     {
-        "id": "4ef2bfd4-981e-4f78-ac19-8bc844548b9e",
-        "updated_at": "2023-12-15T10:37:44.670678+00:00",
-        "username": null,
-        "valid_from": "2023-12-15T10:37:44.670678+00:00",
-        "organization_id": null
-    },
-    {
         "id": "140884d5-9cde-47f8-8129-a445d154614a",
         "updated_at": "2023-12-15T10:44:02.403791+00:00",
         "username": "Anonym deltaker Vetle",
         "valid_from": "2023-12-15T10:48:54.468+00:00",
         "organization_id": 2
+    },
+    {
+        "id": "4ef2bfd4-981e-4f78-ac19-8bc844548b9e",
+        "updated_at": "2023-12-15T10:37:44.670678+00:00",
+        "username": "BJORNEOMA",
+        "valid_from": "2023-12-15T11:10:00.324+00:00",
+        "organization_id": null
     }
 ]
