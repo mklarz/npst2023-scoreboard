@@ -9,13 +9,34 @@
                 "valid_from": "2023-12-15T08:08:41.139+00:00",
                 "organization_id": null
             }
+        },
+        {
+            "timestamp": "2023-12-15 18:46:07+00:00",
+            "data": {
+                "id": "3583a0b3-779e-4aba-86bc-5245799b4f03",
+                "updated_at": "2023-12-15T08:05:05.086432+00:00",
+                "username": "Zytec",
+                "valid_from": "2023-12-15T18:31:48.674+00:00",
+                "organization_id": 3
+            }
         }
     ],
-    "scoreboard": [],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-15 18:46:07+00:00",
+            "data": {
+                "user_id": "3583a0b3-779e-4aba-86bc-5245799b4f03",
+                "username": "Zytec",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-15T18:43:15.075358+00:00"
+            }
+        }
+    ],
     "current_info": {
-        "score": "?",
-        "num_solves": "?",
-        "username": "Eklatrer",
-        "organization_id": null
+        "score": 10,
+        "num_solves": 1,
+        "username": "Zytec",
+        "organization_id": 3
     }
 }
