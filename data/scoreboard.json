@@ -14,6 +14,13 @@
         "latest_solve_time": "2023-12-15T14:43:45.531818+00:00"
     },
     {
+        "user_id": "14253a29-3526-400d-b1d9-ffdb47c7643f",
+        "username": "Carixo",
+        "score": 155,
+        "num_solves": 20,
+        "latest_solve_time": "2023-12-15T16:25:17.913752+00:00"
+    },
+    {
         "user_id": "038d3802-8dbd-4ee7-b49d-4d39dfa25b20",
         "username": "Bop",
         "score": 154,
@@ -117,13 +124,6 @@
         "score": 145,
         "num_solves": 19,
         "latest_solve_time": "2023-12-14T20:58:13.280835+00:00"
-    },
-    {
-        "user_id": "14253a29-3526-400d-b1d9-ffdb47c7643f",
-        "username": "Carixo",
-        "score": 145,
-        "num_solves": 19,
-        "latest_solve_time": "2023-12-14T22:37:28.916079+00:00"
     },
     {
         "user_id": "efa5311a-79d2-4a2d-9b45-089bb8dd3974",
@@ -462,6 +462,13 @@
         "latest_solve_time": "2023-12-15T15:19:07.459306+00:00"
     },
     {
+        "user_id": "9bc2e101-e361-40ae-b049-c9c956e60320",
+        "username": "andreas0",
+        "score": 130,
+        "num_solves": 13,
+        "latest_solve_time": "2023-12-15T16:21:05.170645+00:00"
+    },
+    {
         "user_id": "690923b8-6b78-405b-973e-c02f83be72b8",
         "username": "n0k0",
         "score": 122,
@@ -747,13 +754,6 @@
         "score": 120,
         "num_solves": 12,
         "latest_solve_time": "2023-12-15T07:47:32.315181+00:00"
-    },
-    {
-        "user_id": "9bc2e101-e361-40ae-b049-c9c956e60320",
-        "username": "andreas0",
-        "score": 120,
-        "num_solves": 12,
-        "latest_solve_time": "2023-12-15T15:50:02.807936+00:00"
     },
     {
         "user_id": "20d3112b-bb49-4416-8548-2ca12ac7c35d",
@@ -3864,6 +3864,13 @@
         "latest_solve_time": "2023-12-15T12:54:30.912213+00:00"
     },
     {
+        "user_id": "d1d68bcf-424f-4763-9580-baeec6e93a20",
+        "username": "\u2605\u30df\u2605\u30df",
+        "score": 30,
+        "num_solves": 3,
+        "latest_solve_time": "2023-12-15T16:18:39.011331+00:00"
+    },
+    {
         "user_id": "8c9e8d00-13d6-466e-bfe1-4b73a6e6913f",
         "username": "boom",
         "score": 21,
@@ -3974,13 +3981,6 @@
         "score": 20,
         "num_solves": 2,
         "latest_solve_time": "2023-12-02T16:55:40.280324+00:00"
-    },
-    {
-        "user_id": "d1d68bcf-424f-4763-9580-baeec6e93a20",
-        "username": "\u2605\u30df\u2605\u30df",
-        "score": 20,
-        "num_solves": 2,
-        "latest_solve_time": "2023-12-02T16:59:08.850012+00:00"
     },
     {
         "user_id": "c76d28df-1a73-4fc9-a605-0a86ebcc6e40",
@@ -8531,5 +8531,12 @@
         "score": 10,
         "num_solves": 1,
         "latest_solve_time": "2023-12-15T14:34:08.726963+00:00"
+    },
+    {
+        "user_id": "5328f8ce-f98d-4079-ac4b-60d5366abffc",
+        "username": "WarSpore",
+        "score": 10,
+        "num_solves": 1,
+        "latest_solve_time": "2023-12-15T16:21:51.582596+00:00"
     }
 ]
