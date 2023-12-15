@@ -161,11 +161,21 @@
                 "num_solves": 13,
                 "latest_solve_time": "2023-12-14T14:24:09.621492+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-15 14:16:05+00:00",
+            "data": {
+                "user_id": "7128567b-7e7b-4ff6-828d-7b4beefe80a4",
+                "username": "linkedin.com/in/knut-egil",
+                "score": 140,
+                "num_solves": 14,
+                "latest_solve_time": "2023-12-15T14:05:01.322216+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 130,
-        "num_solves": 13,
+        "score": 140,
+        "num_solves": 14,
         "username": "linkedin.com/in/knut-egil",
         "organization_id": 3
     }
