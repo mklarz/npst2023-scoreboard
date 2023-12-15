@@ -91,11 +91,21 @@
                 "num_solves": 7,
                 "latest_solve_time": "2023-12-15T20:58:07.216598+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-15 21:31:06+00:00",
+            "data": {
+                "user_id": "996b12bf-d04f-48fc-b090-33a05228ffa7",
+                "username": "[CISK] Fossekallen",
+                "score": 80,
+                "num_solves": 8,
+                "latest_solve_time": "2023-12-15T21:16:03.516159+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 70,
-        "num_solves": 7,
+        "score": 80,
+        "num_solves": 8,
         "username": "[CISK] Fossekallen",
         "organization_id": 1
     }
