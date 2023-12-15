@@ -16672,5 +16672,19 @@
         "username": "BobuSumisu",
         "valid_from": "2023-12-14T23:41:13.789+00:00",
         "organization_id": 2
+    },
+    {
+        "id": "8dadcf62-179b-4c5e-b29b-7b2e042f4e56",
+        "updated_at": "2023-12-15T00:09:38.113634+00:00",
+        "username": null,
+        "valid_from": "2023-12-15T00:10:34.669+00:00",
+        "organization_id": 1
+    },
+    {
+        "id": "9ff7a16d-85bf-49e7-a2be-7e6d6c41cf89",
+        "updated_at": "2023-12-15T00:11:20.566834+00:00",
+        "username": null,
+        "valid_from": "2023-12-15T00:12:06.053+00:00",
+        "organization_id": 1
     }
 ]
