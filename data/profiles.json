@@ -16917,5 +16917,12 @@
         "username": "Persson ",
         "valid_from": "2023-12-15T15:24:18.722+00:00",
         "organization_id": null
+    },
+    {
+        "id": "14d8cd08-725d-437d-a23d-79d3aa751cd9",
+        "updated_at": "2023-12-15T16:06:56.549116+00:00",
+        "username": null,
+        "valid_from": "2023-12-15T16:14:18.077+00:00",
+        "organization_id": 2
     }
 ]
