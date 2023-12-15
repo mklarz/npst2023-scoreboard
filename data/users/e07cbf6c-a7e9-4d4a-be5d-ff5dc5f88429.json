@@ -81,11 +81,21 @@
                 "num_solves": 6,
                 "latest_solve_time": "2023-12-14T23:07:39.077954+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-15 08:01:03+00:00",
+            "data": {
+                "user_id": "e07cbf6c-a7e9-4d4a-be5d-ff5dc5f88429",
+                "username": "Jeanette",
+                "score": 61,
+                "num_solves": 7,
+                "latest_solve_time": "2023-12-15T07:49:56.875901+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 60,
-        "num_solves": 6,
+        "score": 61,
+        "num_solves": 7,
         "username": "Jeanette",
         "organization_id": 3
     }
