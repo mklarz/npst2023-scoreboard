@@ -11,10 +11,21 @@
             }
         }
     ],
-    "scoreboard": [],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-15 10:01:07+00:00",
+            "data": {
+                "user_id": "c31310ca-dcc6-40c7-9282-88ba92252684",
+                "username": "Bennyw",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-15T09:52:10.202086+00:00"
+            }
+        }
+    ],
     "current_info": {
-        "score": "?",
-        "num_solves": "?",
+        "score": 10,
+        "num_solves": 1,
         "username": "Bennyw",
         "organization_id": 2
     }
