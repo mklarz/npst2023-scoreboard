@@ -9,13 +9,34 @@
                 "valid_from": "2023-12-12T15:13:09.438+00:00",
                 "organization_id": 1
             }
+        },
+        {
+            "timestamp": "2023-12-15 12:46:02+00:00",
+            "data": {
+                "id": "58fbcd3b-33ef-4ad9-a116-c09743485082",
+                "updated_at": "2023-12-12T15:10:11.789351+00:00",
+                "username": "NPST",
+                "valid_from": "2023-12-15T12:43:32.196+00:00",
+                "organization_id": 1
+            }
         }
     ],
-    "scoreboard": [],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-15 12:46:02+00:00",
+            "data": {
+                "user_id": "58fbcd3b-33ef-4ad9-a116-c09743485082",
+                "username": "NPST",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-15T12:30:19.135998+00:00"
+            }
+        }
+    ],
     "current_info": {
-        "score": "?",
-        "num_solves": "?",
-        "username": null,
+        "score": 10,
+        "num_solves": 1,
+        "username": "NPST",
         "organization_id": 1
     }
 }
