@@ -16966,5 +16966,19 @@
         "username": "jakobrs",
         "valid_from": "2023-12-15T18:33:51.038+00:00",
         "organization_id": 2
+    },
+    {
+        "id": "94c9c074-5f95-4417-accf-7c71971f80db",
+        "updated_at": "2023-12-15T19:06:29.707783+00:00",
+        "username": "Sol",
+        "valid_from": "2023-12-15T19:08:10.952+00:00",
+        "organization_id": 1
+    },
+    {
+        "id": "971ccbb3-67c0-483a-8d0c-8d4e5e679da9",
+        "updated_at": "2023-12-15T19:11:58.461153+00:00",
+        "username": "Kuwait",
+        "valid_from": "2023-12-15T19:12:18.362+00:00",
+        "organization_id": null
     }
 ]
