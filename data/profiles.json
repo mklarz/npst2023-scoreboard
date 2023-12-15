@@ -16854,5 +16854,19 @@
         "username": "holm",
         "valid_from": "2023-12-15T13:29:14.63+00:00",
         "organization_id": 1
+    },
+    {
+        "id": "1eddb04b-1645-4ce5-9fdb-8631a3a42e44",
+        "updated_at": "2023-12-15T13:37:56.212946+00:00",
+        "username": "oyvind.reigstad@gmail.com",
+        "valid_from": "2023-12-15T13:39:36.224+00:00",
+        "organization_id": null
+    },
+    {
+        "id": "cc3877f6-fd28-4e2e-8233-966071aa734a",
+        "updated_at": "2023-12-15T13:41:06.318089+00:00",
+        "username": null,
+        "valid_from": "2023-12-15T13:41:22.563+00:00",
+        "organization_id": 1
     }
 ]
