@@ -151,11 +151,21 @@
                 "num_solves": 13,
                 "latest_solve_time": "2023-12-14T14:54:32.109061+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-15 10:46:05+00:00",
+            "data": {
+                "user_id": "227a0897-ef51-4156-b303-c1eeb763f9ca",
+                "username": "admin",
+                "score": 140,
+                "num_solves": 14,
+                "latest_solve_time": "2023-12-15T10:32:51.429232+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 130,
-        "num_solves": 13,
+        "score": 140,
+        "num_solves": 14,
         "username": "admin",
         "organization_id": 2
     }
