@@ -16952,5 +16952,19 @@
         "username": "sofia",
         "valid_from": "2023-12-15T17:02:48.658+00:00",
         "organization_id": 2
+    },
+    {
+        "id": "caab1ee9-dfc3-4f44-be66-333dec7b26e6",
+        "updated_at": "2023-12-15T18:20:49.548187+00:00",
+        "username": "SerinaHolmes",
+        "valid_from": "2023-12-15T18:23:28.156+00:00",
+        "organization_id": null
+    },
+    {
+        "id": "8b59b7d8-c1d0-4753-89f6-d8cfdac516f2",
+        "updated_at": "2023-12-15T18:28:27.880395+00:00",
+        "username": null,
+        "valid_from": "2023-12-15T18:28:27.880395+00:00",
+        "organization_id": null
     }
 ]
