@@ -16693,5 +16693,12 @@
         "username": "Skygge",
         "valid_from": "2023-12-15T01:35:36.046+00:00",
         "organization_id": 1
+    },
+    {
+        "id": "0aa24ad9-67ed-483e-bac3-2e6cb711707f",
+        "updated_at": "2023-12-15T05:52:48.996761+00:00",
+        "username": null,
+        "valid_from": "2023-12-15T05:53:15.268+00:00",
+        "organization_id": 1
     }
 ]
