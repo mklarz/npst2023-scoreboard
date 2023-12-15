@@ -16812,5 +16812,12 @@
         "username": "BJORNEOMA",
         "valid_from": "2023-12-15T11:10:00.324+00:00",
         "organization_id": null
+    },
+    {
+        "id": "a8f3be6e-10fd-41e6-b199-8852060ee7e7",
+        "updated_at": "2023-12-15T11:20:54.348091+00:00",
+        "username": null,
+        "valid_from": "2023-12-15T11:20:54.348091+00:00",
+        "organization_id": null
     }
 ]
