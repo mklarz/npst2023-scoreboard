@@ -19,6 +19,16 @@
                 "valid_from": "2023-12-15T13:56:11.374+00:00",
                 "organization_id": 1
             }
+        },
+        {
+            "timestamp": "2023-12-15 14:31:08+00:00",
+            "data": {
+                "id": "1eddb04b-1645-4ce5-9fdb-8631a3a42e44",
+                "updated_at": "2023-12-15T13:37:56.212946+00:00",
+                "username": "oyvind.reigstad@gmail.com",
+                "valid_from": "2023-12-15T14:29:13.45+00:00",
+                "organization_id": 1
+            }
         }
     ],
     "scoreboard": [
