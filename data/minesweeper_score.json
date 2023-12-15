@@ -4822,5 +4822,29 @@
         "difficulty": "Dvergpingvin",
         "time": 126.16,
         "user_id": "fbfaec9d-8d14-457a-9bc4-dfb09c1f7f9e"
+    },
+    {
+        "username": "ExHausteD",
+        "difficulty": "Keiserpingvin",
+        "time": 1,
+        "user_id": "7b042ed7-7c6f-4fa9-adb9-8b2554eed5e9"
+    },
+    {
+        "username": "ExHausteD",
+        "difficulty": "Keiserpingvin",
+        "time": -1e+38,
+        "user_id": "7b042ed7-7c6f-4fa9-adb9-8b2554eed5e9"
+    },
+    {
+        "username": "ExHausteD",
+        "difficulty": "Pen GWYN",
+        "time": -1e+38,
+        "user_id": "7b042ed7-7c6f-4fa9-adb9-8b2554eed5e9"
+    },
+    {
+        "username": "ExHausteD",
+        "difficulty": "Dvergpingvin",
+        "time": 0,
+        "user_id": "7b042ed7-7c6f-4fa9-adb9-8b2554eed5e9"
     }
 ]
