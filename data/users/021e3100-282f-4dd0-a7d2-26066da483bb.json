@@ -21,10 +21,21 @@
             }
         }
     ],
-    "scoreboard": [],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-15 09:01:06+00:00",
+            "data": {
+                "user_id": "021e3100-282f-4dd0-a7d2-26066da483bb",
+                "username": "Pingu",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-15T08:50:01.888507+00:00"
+            }
+        }
+    ],
     "current_info": {
-        "score": "?",
-        "num_solves": "?",
+        "score": 10,
+        "num_solves": 1,
         "username": "Pingu",
         "organization_id": 3
     }
