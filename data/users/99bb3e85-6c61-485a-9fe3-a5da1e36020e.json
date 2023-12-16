@@ -29,13 +29,34 @@
                 "valid_from": "2023-12-15T22:52:07.877+00:00",
                 "organization_id": 3
             }
+        },
+        {
+            "timestamp": "2023-12-16 00:01:06+00:00",
+            "data": {
+                "id": "99bb3e85-6c61-485a-9fe3-a5da1e36020e",
+                "updated_at": "2023-12-13T17:14:49.053067+00:00",
+                "username": "jathux",
+                "valid_from": "2023-12-15T23:52:52.404+00:00",
+                "organization_id": 1
+            }
         }
     ],
-    "scoreboard": [],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-16 00:01:06+00:00",
+            "data": {
+                "user_id": "99bb3e85-6c61-485a-9fe3-a5da1e36020e",
+                "username": "jathux",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-15T23:48:03.31567+00:00"
+            }
+        }
+    ],
     "current_info": {
-        "score": "?",
-        "num_solves": "?",
+        "score": 10,
+        "num_solves": 1,
         "username": "jathux",
-        "organization_id": 3
+        "organization_id": 1
     }
 }
