@@ -121,11 +121,21 @@
                 "num_solves": 10,
                 "latest_solve_time": "2023-12-14T16:14:53.440318+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-16 02:01:07+00:00",
+            "data": {
+                "user_id": "a131fc75-f094-4e1c-85da-fca388ab27d9",
+                "username": "RuterKnekt",
+                "score": 110,
+                "num_solves": 11,
+                "latest_solve_time": "2023-12-16T01:53:12.390324+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 100,
-        "num_solves": 10,
+        "score": 110,
+        "num_solves": 11,
         "username": "RuterKnekt",
         "organization_id": 3
     }
