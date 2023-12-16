@@ -17148,5 +17148,12 @@
         "username": "krklkh",
         "valid_from": "2023-12-16T19:26:54.381+00:00",
         "organization_id": 1
+    },
+    {
+        "id": "7759f321-54ca-4caf-a5a3-27b8d9eb8289",
+        "updated_at": "2023-12-16T20:45:23.134185+00:00",
+        "username": null,
+        "valid_from": "2023-12-16T20:46:05.618+00:00",
+        "organization_id": 1
     }
 ]
