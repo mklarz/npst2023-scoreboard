@@ -17113,5 +17113,12 @@
         "username": "martja",
         "valid_from": "2023-12-16T18:09:54.368+00:00",
         "organization_id": null
+    },
+    {
+        "id": "cc618bf9-8271-41d6-9c44-17b3ed473846",
+        "updated_at": "2023-12-16T18:19:28.305168+00:00",
+        "username": null,
+        "valid_from": "2023-12-16T18:22:19.043+00:00",
+        "organization_id": 3
     }
 ]
