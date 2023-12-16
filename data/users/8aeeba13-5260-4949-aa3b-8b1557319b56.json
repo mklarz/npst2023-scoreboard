@@ -29,6 +29,16 @@
                 "valid_from": "2023-12-04T19:53:08.533+00:00",
                 "organization_id": 1
             }
+        },
+        {
+            "timestamp": "2023-12-16 12:31:11+00:00",
+            "data": {
+                "id": "8aeeba13-5260-4949-aa3b-8b1557319b56",
+                "updated_at": "2023-11-30T13:18:52.826684+00:00",
+                "username": "Joey",
+                "valid_from": "2023-12-16T12:24:58.919+00:00",
+                "organization_id": 1
+            }
         }
     ],
     "scoreboard": [
