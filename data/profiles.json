@@ -17078,5 +17078,12 @@
         "username": null,
         "valid_from": "2023-12-16T10:10:54.76+00:00",
         "organization_id": 3
+    },
+    {
+        "id": "1451b3d3-4958-43be-b98b-95c20eb44829",
+        "updated_at": "2023-12-16T12:03:48.385375+00:00",
+        "username": "smogi",
+        "valid_from": "2023-12-16T12:04:07.703+00:00",
+        "organization_id": null
     }
 ]
