@@ -11,10 +11,21 @@
             }
         }
     ],
-    "scoreboard": [],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-16 14:16:10+00:00",
+            "data": {
+                "user_id": "e67bc715-eb3d-48ec-a852-2fae72463d80",
+                "username": "Foxy_Mulder",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-16T14:02:41.118123+00:00"
+            }
+        }
+    ],
     "current_info": {
-        "score": "?",
-        "num_solves": "?",
+        "score": 10,
+        "num_solves": 1,
         "username": "Foxy_Mulder",
         "organization_id": 2
     }
