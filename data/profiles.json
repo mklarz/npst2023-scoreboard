@@ -17120,5 +17120,26 @@
         "username": null,
         "valid_from": "2023-12-16T18:22:19.043+00:00",
         "organization_id": 3
+    },
+    {
+        "id": "799e43a1-cf49-44f4-ab72-75dedea0a73c",
+        "updated_at": "2023-12-16T18:32:50.018143+00:00",
+        "username": null,
+        "valid_from": "2023-12-16T18:32:50.018143+00:00",
+        "organization_id": null
+    },
+    {
+        "id": "af03fc14-238a-4c94-b0cf-c3224243faba",
+        "updated_at": "2023-12-16T18:37:14.993227+00:00",
+        "username": "Totti78",
+        "valid_from": "2023-12-16T18:38:07.272+00:00",
+        "organization_id": 3
+    },
+    {
+        "id": "fc077e12-cd91-4575-9079-6b48fba6429a",
+        "updated_at": "2023-12-16T18:44:43.754234+00:00",
+        "username": null,
+        "valid_from": "2023-12-16T18:44:43.754234+00:00",
+        "organization_id": null
     }
 ]
