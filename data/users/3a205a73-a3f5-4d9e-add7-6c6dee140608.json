@@ -51,11 +51,21 @@
                 "num_solves": 9,
                 "latest_solve_time": "2023-12-13T20:59:11.41454+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-16 14:01:10+00:00",
+            "data": {
+                "user_id": "3a205a73-a3f5-4d9e-add7-6c6dee140608",
+                "username": "danseband",
+                "score": 100,
+                "num_solves": 10,
+                "latest_solve_time": "2023-12-16T13:55:00.064475+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 90,
-        "num_solves": 9,
+        "score": 100,
+        "num_solves": 10,
         "username": "danseband",
         "organization_id": 1
     }
