@@ -211,11 +211,21 @@
                 "num_solves": 20,
                 "latest_solve_time": "2023-12-15T16:33:14.224929+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-16 11:31:09+00:00",
+            "data": {
+                "user_id": "8e243236-4b34-442d-83c7-33ca221869c5",
+                "username": "StateOfLimbo",
+                "score": 166,
+                "num_solves": 22,
+                "latest_solve_time": "2023-12-16T11:25:05.023625+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 155,
-        "num_solves": 20,
+        "score": 166,
+        "num_solves": 22,
         "username": "StateOfLimbo",
         "organization_id": 2
     }
