@@ -301,11 +301,21 @@
                 "num_solves": 19,
                 "latest_solve_time": "2023-12-16T20:53:47.425444+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-16 22:16:09+00:00",
+            "data": {
+                "user_id": "a9168551-c71f-4e7f-ab91-247d1f0e9004",
+                "username": "nitrobit",
+                "score": 155,
+                "num_solves": 20,
+                "latest_solve_time": "2023-12-16T22:03:13.429547+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 154,
-        "num_solves": 19,
+        "score": 155,
+        "num_solves": 20,
         "username": "nitrobit",
         "organization_id": 1
     }
