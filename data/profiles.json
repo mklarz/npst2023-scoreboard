@@ -17043,5 +17043,12 @@
         "username": null,
         "valid_from": "2023-12-16T06:57:41.047+00:00",
         "organization_id": 3
+    },
+    {
+        "id": "f1358eaf-43b0-428d-8018-35dd7a84a800",
+        "updated_at": "2023-12-16T08:42:16.359543+00:00",
+        "username": "Nizz",
+        "valid_from": "2023-12-16T08:43:00.286+00:00",
+        "organization_id": 1
     }
 ]
