@@ -17036,5 +17036,12 @@
         "username": "GrazoGroz",
         "valid_from": "2023-12-16T01:55:30.911+00:00",
         "organization_id": 1
+    },
+    {
+        "id": "7a29bfad-b194-4a64-9f13-2414ec621a79",
+        "updated_at": "2023-12-16T06:57:00.651675+00:00",
+        "username": null,
+        "valid_from": "2023-12-16T06:57:41.047+00:00",
+        "organization_id": 3
     }
 ]
