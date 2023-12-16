@@ -161,11 +161,21 @@
                 "num_solves": 14,
                 "latest_solve_time": "2023-12-14T06:32:01.181513+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-16 17:16:10+00:00",
+            "data": {
+                "user_id": "d39a7a39-6946-4ee0-9071-ea116247cceb",
+                "username": "tronderhack",
+                "score": 123,
+                "num_solves": 15,
+                "latest_solve_time": "2023-12-16T17:05:52.742763+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 122,
-        "num_solves": 14,
+        "score": 123,
+        "num_solves": 15,
         "username": "tronderhack",
         "organization_id": 1
     }
