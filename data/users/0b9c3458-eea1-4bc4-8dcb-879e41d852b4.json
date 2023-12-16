@@ -11,10 +11,21 @@
             }
         }
     ],
-    "scoreboard": [],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-16 16:31:11+00:00",
+            "data": {
+                "user_id": "0b9c3458-eea1-4bc4-8dcb-879e41d852b4",
+                "username": "Lufteluke",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-16T16:23:20.554058+00:00"
+            }
+        }
+    ],
     "current_info": {
-        "score": "?",
-        "num_solves": "?",
+        "score": 10,
+        "num_solves": 1,
         "username": "Lufteluke",
         "organization_id": 2
     }
