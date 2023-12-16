@@ -17015,5 +17015,12 @@
         "username": "Spitfish",
         "valid_from": "2023-12-15T23:34:55.747+00:00",
         "organization_id": 2
+    },
+    {
+        "id": "2803e633-6202-44ec-a573-f1278b95e53a",
+        "updated_at": "2023-12-16T00:30:32.86416+00:00",
+        "username": null,
+        "valid_from": "2023-12-16T00:30:32.86416+00:00",
+        "organization_id": null
     }
 ]
