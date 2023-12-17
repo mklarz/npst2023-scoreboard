@@ -171,11 +171,21 @@
                 "num_solves": 15,
                 "latest_solve_time": "2023-12-16T12:10:31.551629+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-17 21:01:24+00:00",
+            "data": {
+                "user_id": "e679dfdf-23c8-46de-9e89-79666f7e8b86",
+                "username": "PizzaGutt",
+                "score": 160,
+                "num_solves": 16,
+                "latest_solve_time": "2023-12-17T20:52:35.113683+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 150,
-        "num_solves": 15,
+        "score": 160,
+        "num_solves": 16,
         "username": "PizzaGutt",
         "organization_id": 1
     }
