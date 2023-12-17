@@ -17197,5 +17197,12 @@
         "username": "Viktor",
         "valid_from": "2023-12-17T01:34:50.35+00:00",
         "organization_id": 2
+    },
+    {
+        "id": "7a1eda28-057a-4ced-9a59-90922848299e",
+        "updated_at": "2023-12-17T03:57:34.781794+00:00",
+        "username": "Ring aystem",
+        "valid_from": "2023-12-17T03:59:49.437+00:00",
+        "organization_id": null
     }
 ]
