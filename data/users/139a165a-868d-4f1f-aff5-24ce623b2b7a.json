@@ -19,6 +19,16 @@
                 "valid_from": "2023-12-17T09:54:05.354+00:00",
                 "organization_id": 1
             }
+        },
+        {
+            "timestamp": "2023-12-17 11:16:15+00:00",
+            "data": {
+                "id": "139a165a-868d-4f1f-aff5-24ce623b2b7a",
+                "updated_at": "2023-12-17T09:43:49.405629+00:00",
+                "username": "danny_olive",
+                "valid_from": "2023-12-17T11:02:43.559+00:00",
+                "organization_id": 1
+            }
         }
     ],
     "scoreboard": [
