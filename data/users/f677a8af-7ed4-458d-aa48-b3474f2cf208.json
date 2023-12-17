@@ -131,11 +131,21 @@
                 "num_solves": 16,
                 "latest_solve_time": "2023-12-15T10:41:20.220169+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-17 07:31:10+00:00",
+            "data": {
+                "user_id": "f677a8af-7ed4-458d-aa48-b3474f2cf208",
+                "username": "ciphr",
+                "score": 162,
+                "num_solves": 18,
+                "latest_solve_time": "2023-12-17T07:21:15.207049+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 142,
-        "num_solves": 16,
+        "score": 162,
+        "num_solves": 18,
         "username": "ciphr",
         "organization_id": 1
     }
