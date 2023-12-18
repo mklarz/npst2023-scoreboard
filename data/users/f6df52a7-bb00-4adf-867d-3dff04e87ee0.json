@@ -161,11 +161,21 @@
                 "num_solves": 14,
                 "latest_solve_time": "2023-12-16T14:38:43.332324+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-18 09:31:24+00:00",
+            "data": {
+                "user_id": "f6df52a7-bb00-4adf-867d-3dff04e87ee0",
+                "username": "[EFFERA] Kago",
+                "score": 141,
+                "num_solves": 15,
+                "latest_solve_time": "2023-12-18T09:19:01.457586+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 140,
-        "num_solves": 14,
+        "score": 141,
+        "num_solves": 15,
         "username": "[EFFERA] Kago",
         "organization_id": 1
     }
