@@ -191,11 +191,21 @@
                 "num_solves": 17,
                 "latest_solve_time": "2023-12-17T20:32:11.620141+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-18 20:16:28+00:00",
+            "data": {
+                "user_id": "d4eb9090-ded7-40a2-9a0e-ebb3540c3821",
+                "username": "marrekanin",
+                "score": 153,
+                "num_solves": 18,
+                "latest_solve_time": "2023-12-18T20:06:28.141301+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 143,
-        "num_solves": 17,
+        "score": 153,
+        "num_solves": 18,
         "username": "marrekanin",
         "organization_id": 1
     }
