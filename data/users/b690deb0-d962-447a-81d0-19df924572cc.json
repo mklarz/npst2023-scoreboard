@@ -19,13 +19,23 @@
                 "valid_from": "2023-12-15T09:39:23.25+00:00",
                 "organization_id": 1
             }
+        },
+        {
+            "timestamp": "2023-12-18 12:46:28+00:00",
+            "data": {
+                "id": "b690deb0-d962-447a-81d0-19df924572cc",
+                "updated_at": "2023-12-15T09:27:07.233036+00:00",
+                "username": null,
+                "valid_from": "2023-12-15T09:39:23.25+00:00",
+                "organization_id": 1
+            }
         }
     ],
     "scoreboard": [],
     "current_info": {
         "score": "?",
         "num_solves": "?",
-        "username": "sirmoffa",
+        "username": null,
         "organization_id": 1
     }
 }

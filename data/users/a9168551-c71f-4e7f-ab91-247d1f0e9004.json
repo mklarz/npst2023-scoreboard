@@ -69,6 +69,16 @@
                 "valid_from": "2023-12-13T07:19:32.224+00:00",
                 "organization_id": 1
             }
+        },
+        {
+            "timestamp": "2023-12-18 12:46:28+00:00",
+            "data": {
+                "id": "a9168551-c71f-4e7f-ab91-247d1f0e9004",
+                "updated_at": "2023-11-30T23:21:26.557821+00:00",
+                "username": "\u0274\u0456\u03c4\u0433\u043e\u042c\u0456\u03c4",
+                "valid_from": "2023-12-18T12:40:17.129+00:00",
+                "organization_id": 1
+            }
         }
     ],
     "scoreboard": [
@@ -321,12 +331,22 @@
                 "num_solves": 21,
                 "latest_solve_time": "2023-12-17T17:22:52.98108+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-18 12:46:28+00:00",
+            "data": {
+                "user_id": "a9168551-c71f-4e7f-ab91-247d1f0e9004",
+                "username": "\u0274\u0456\u03c4\u0433\u043e\u042c\u0456\u03c4",
+                "score": 165,
+                "num_solves": 21,
+                "latest_solve_time": "2023-12-17T17:22:52.98108+00:00"
+            }
         }
     ],
     "current_info": {
         "score": 165,
         "num_solves": 21,
-        "username": "nitrobit",
+        "username": "\u0274\u0456\u03c4\u0433\u043e\u042c\u0456\u03c4",
         "organization_id": 1
     }
 }
