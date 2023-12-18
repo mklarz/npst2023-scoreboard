@@ -497,6 +497,13 @@
         "latest_solve_time": "2023-12-17T21:49:38.15508+00:00"
     },
     {
+        "user_id": "74eb8981-5fc2-474e-b3cd-38dc16d6cc62",
+        "username": "rikke",
+        "score": 141,
+        "num_solves": 15,
+        "latest_solve_time": "2023-12-18T09:10:32.361601+00:00"
+    },
+    {
         "user_id": "ed83c646-b8bd-41bc-b952-80f1fba1068e",
         "username": "7h3dr3am",
         "score": 140,
@@ -523,13 +530,6 @@
         "score": 140,
         "num_solves": 14,
         "latest_solve_time": "2023-12-16T14:38:43.332324+00:00"
-    },
-    {
-        "user_id": "74eb8981-5fc2-474e-b3cd-38dc16d6cc62",
-        "username": "rikke",
-        "score": 140,
-        "num_solves": 14,
-        "latest_solve_time": "2023-12-17T14:08:33.56763+00:00"
     },
     {
         "user_id": "a334fe45-a23d-4345-925d-94446fcda87d",
@@ -882,6 +882,20 @@
         "latest_solve_time": "2023-12-17T22:07:32.493921+00:00"
     },
     {
+        "user_id": "5328f8ce-f98d-4079-ac4b-60d5366abffc",
+        "username": "WarSpore",
+        "score": 120,
+        "num_solves": 12,
+        "latest_solve_time": "2023-12-18T09:13:12.688731+00:00"
+    },
+    {
+        "user_id": "14d8cd08-725d-437d-a23d-79d3aa751cd9",
+        "username": "Uny49",
+        "score": 120,
+        "num_solves": 12,
+        "latest_solve_time": "2023-12-18T09:14:15.087855+00:00"
+    },
+    {
         "user_id": "9ed099a0-8a13-4ba2-ba0c-41109bc428b3",
         "username": "clorin",
         "score": 112,
@@ -1083,20 +1097,6 @@
         "score": 110,
         "num_solves": 11,
         "latest_solve_time": "2023-12-17T15:39:39.467196+00:00"
-    },
-    {
-        "user_id": "14d8cd08-725d-437d-a23d-79d3aa751cd9",
-        "username": "Uny49",
-        "score": 110,
-        "num_solves": 11,
-        "latest_solve_time": "2023-12-17T19:15:16.711392+00:00"
-    },
-    {
-        "user_id": "5328f8ce-f98d-4079-ac4b-60d5366abffc",
-        "username": "WarSpore",
-        "score": 110,
-        "num_solves": 11,
-        "latest_solve_time": "2023-12-17T19:15:25.978288+00:00"
     },
     {
         "user_id": "9d8fd4a6-b71f-446c-9b67-0373b3669e19",
