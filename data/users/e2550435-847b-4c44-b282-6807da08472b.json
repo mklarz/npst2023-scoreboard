@@ -41,11 +41,21 @@
                 "num_solves": 3,
                 "latest_solve_time": "2023-12-17T22:52:11.032051+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-18 11:16:26+00:00",
+            "data": {
+                "user_id": "e2550435-847b-4c44-b282-6807da08472b",
+                "username": "adam123",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-18T11:07:53.021497+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 30,
-        "num_solves": 3,
+        "score": 40,
+        "num_solves": 4,
         "username": "adam123",
         "organization_id": 2
     }
