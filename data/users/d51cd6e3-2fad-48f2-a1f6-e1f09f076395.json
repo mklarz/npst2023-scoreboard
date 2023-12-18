@@ -41,11 +41,21 @@
                 "num_solves": 2,
                 "latest_solve_time": "2023-12-18T21:52:00.762135+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-18 22:31:26+00:00",
+            "data": {
+                "user_id": "d51cd6e3-2fad-48f2-a1f6-e1f09f076395",
+                "username": "kiwislice557",
+                "score": 30,
+                "num_solves": 3,
+                "latest_solve_time": "2023-12-18T22:15:06.847781+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 20,
-        "num_solves": 2,
+        "score": 30,
+        "num_solves": 3,
         "username": "kiwislice557",
         "organization_id": 2
     }
