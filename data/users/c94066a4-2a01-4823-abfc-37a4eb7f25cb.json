@@ -19,13 +19,34 @@
                 "valid_from": "2023-12-18T09:25:00.505+00:00",
                 "organization_id": 1
             }
+        },
+        {
+            "timestamp": "2023-12-18 10:01:26+00:00",
+            "data": {
+                "id": "c94066a4-2a01-4823-abfc-37a4eb7f25cb",
+                "updated_at": "2023-12-01T10:10:35.06305+00:00",
+                "username": "elPedro",
+                "valid_from": "2023-12-18T09:46:27.438+00:00",
+                "organization_id": 1
+            }
         }
     ],
-    "scoreboard": [],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-18 10:01:26+00:00",
+            "data": {
+                "user_id": "c94066a4-2a01-4823-abfc-37a4eb7f25cb",
+                "username": "elPedro",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-18T09:44:10.919715+00:00"
+            }
+        }
+    ],
     "current_info": {
-        "score": "?",
-        "num_solves": "?",
-        "username": null,
+        "score": 10,
+        "num_solves": 1,
+        "username": "elPedro",
         "organization_id": 1
     }
 }
