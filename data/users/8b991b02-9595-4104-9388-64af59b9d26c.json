@@ -201,11 +201,21 @@
                 "num_solves": 19,
                 "latest_solve_time": "2023-12-18T19:49:07.443234+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-18 21:16:24+00:00",
+            "data": {
+                "user_id": "8b991b02-9595-4104-9388-64af59b9d26c",
+                "username": "ladabolle",
+                "score": 182,
+                "num_solves": 20,
+                "latest_solve_time": "2023-12-18T21:01:33.744066+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 181,
-        "num_solves": 19,
+        "score": 182,
+        "num_solves": 20,
         "username": "ladabolle",
         "organization_id": 1
     }
