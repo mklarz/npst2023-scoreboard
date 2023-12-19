@@ -11,10 +11,21 @@
             }
         }
     ],
-    "scoreboard": [],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-19 13:31:32+00:00",
+            "data": {
+                "user_id": "a69590cb-e520-45a6-923f-ec5912b4c25f",
+                "username": "mitball",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-19T13:25:58.239496+00:00"
+            }
+        }
+    ],
     "current_info": {
-        "score": "?",
-        "num_solves": "?",
+        "score": 10,
+        "num_solves": 1,
         "username": "mitball",
         "organization_id": 3
     }
