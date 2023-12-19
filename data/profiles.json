@@ -17549,13 +17549,6 @@
         "organization_id": null
     },
     {
-        "id": "f00114d2-584f-4118-848f-a315a146a5f6",
-        "updated_at": "2023-12-19T22:37:56.396428+00:00",
-        "username": "HackerGoblin",
-        "valid_from": "2023-12-19T22:55:28.877+00:00",
-        "organization_id": 2
-    },
-    {
         "id": "c2f45b83-240e-42f2-b510-1724d959f5fd",
         "updated_at": "2023-12-19T21:31:24.154427+00:00",
         "username": "clueless1337",
@@ -17582,6 +17575,20 @@
         "username": "bug.ge",
         "valid_from": "2023-12-19T22:57:01.426+00:00",
         "organization_id": 1
+    },
+    {
+        "id": "f00114d2-584f-4118-848f-a315a146a5f6",
+        "updated_at": "2023-12-19T22:37:56.396428+00:00",
+        "username": "HackerGoblin",
+        "valid_from": "2023-12-19T23:19:05.844+00:00",
+        "organization_id": 2
+    },
+    {
+        "id": "7a7cc289-2775-4a17-9c5c-aa40bd2d3067",
+        "updated_at": "2023-12-19T23:20:03.092166+00:00",
+        "username": "Myggfritt",
+        "valid_from": "2023-12-19T23:21:15.359+00:00",
+        "organization_id": 2
     },
     {
         "id": "8c1a5b3a-8253-429f-89a9-06d24336fecb",
