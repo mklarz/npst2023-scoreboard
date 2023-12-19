@@ -1,0 +1,32 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-19 16:31:32+00:00",
+            "data": {
+                "id": "c0457132-6f48-489c-a51f-138539202928",
+                "updated_at": "2023-12-19T16:19:17.201571+00:00",
+                "username": "DenGladeAmat\u00f8r",
+                "valid_from": "2023-12-19T16:20:09.833+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-19 16:31:32+00:00",
+            "data": {
+                "user_id": "c0457132-6f48-489c-a51f-138539202928",
+                "username": "DenGladeAmat\u00f8r",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-19T16:24:16.474434+00:00"
+            }
+        }
+    ],
+    "current_info": {
+        "score": 10,
+        "num_solves": 1,
+        "username": "DenGladeAmat\u00f8r",
+        "organization_id": 1
+    }
+}

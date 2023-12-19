@@ -17528,17 +17528,17 @@
         "organization_id": 2
     },
     {
-        "id": "cc1ee09f-bab0-4dde-be83-59193c3b02cc",
-        "updated_at": "2023-12-19T16:03:06.146952+00:00",
-        "username": "Burton",
-        "valid_from": "2023-12-19T16:07:07.909+00:00",
-        "organization_id": 1
-    },
-    {
         "id": "c0457132-6f48-489c-a51f-138539202928",
         "updated_at": "2023-12-19T16:19:17.201571+00:00",
         "username": "DenGladeAmat\u00f8r",
         "valid_from": "2023-12-19T16:20:09.833+00:00",
+        "organization_id": 1
+    },
+    {
+        "id": "cc1ee09f-bab0-4dde-be83-59193c3b02cc",
+        "updated_at": "2023-12-19T16:03:06.146952+00:00",
+        "username": "Burton",
+        "valid_from": "2023-12-19T16:31:54.805+00:00",
         "organization_id": 1
     },
     {
