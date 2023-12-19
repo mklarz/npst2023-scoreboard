@@ -1,0 +1,21 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-19 12:01:30+00:00",
+            "data": {
+                "id": "a69590cb-e520-45a6-923f-ec5912b4c25f",
+                "updated_at": "2023-12-19T11:49:26.205643+00:00",
+                "username": "mitball",
+                "valid_from": "2023-12-19T11:49:54.296+00:00",
+                "organization_id": 3
+            }
+        }
+    ],
+    "scoreboard": [],
+    "current_info": {
+        "score": "?",
+        "num_solves": "?",
+        "username": "mitball",
+        "organization_id": 3
+    }
+}

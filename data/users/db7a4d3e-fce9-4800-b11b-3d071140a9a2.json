@@ -241,11 +241,21 @@
                 "num_solves": 17,
                 "latest_solve_time": "2023-12-18T20:27:28.281385+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-19 12:01:30+00:00",
+            "data": {
+                "user_id": "db7a4d3e-fce9-4800-b11b-3d071140a9a2",
+                "username": "Dr. Bation \ud83e\uddfb",
+                "score": 171,
+                "num_solves": 18,
+                "latest_solve_time": "2023-12-19T11:53:47.071064+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 161,
-        "num_solves": 17,
+        "score": 171,
+        "num_solves": 18,
         "username": "Dr. Bation \ud83e\uddfb",
         "organization_id": 3
     }

@@ -351,11 +351,21 @@
                 "num_solves": 22,
                 "latest_solve_time": "2023-12-18T16:56:06.427203+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-19 12:01:30+00:00",
+            "data": {
+                "user_id": "a9168551-c71f-4e7f-ab91-247d1f0e9004",
+                "username": "\u0274\u0456\u03c4\u0433\u043e\u042c\u0456\u03c4",
+                "score": 185,
+                "num_solves": 23,
+                "latest_solve_time": "2023-12-19T11:46:39.167326+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 175,
-        "num_solves": 22,
+        "score": 185,
+        "num_solves": 23,
         "username": "\u0274\u0456\u03c4\u0433\u043e\u042c\u0456\u03c4",
         "organization_id": 1
     }
