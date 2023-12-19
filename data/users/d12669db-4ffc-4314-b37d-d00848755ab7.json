@@ -9,13 +9,34 @@
                 "valid_from": "2023-12-19T14:12:22.744+00:00",
                 "organization_id": 1
             }
+        },
+        {
+            "timestamp": "2023-12-19 23:01:31+00:00",
+            "data": {
+                "id": "d12669db-4ffc-4314-b37d-d00848755ab7",
+                "updated_at": "2023-12-19T14:11:12.924709+00:00",
+                "username": "bug.ge",
+                "valid_from": "2023-12-19T22:57:01.426+00:00",
+                "organization_id": 1
+            }
         }
     ],
-    "scoreboard": [],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-19 23:01:31+00:00",
+            "data": {
+                "user_id": "d12669db-4ffc-4314-b37d-d00848755ab7",
+                "username": "bug.ge",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-19T14:20:19.142918+00:00"
+            }
+        }
+    ],
     "current_info": {
-        "score": "?",
-        "num_solves": "?",
-        "username": null,
+        "score": 10,
+        "num_solves": 1,
+        "username": "bug.ge",
         "organization_id": 1
     }
 }

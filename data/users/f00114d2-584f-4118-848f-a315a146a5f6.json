@@ -9,13 +9,34 @@
                 "valid_from": "2023-12-19T22:42:02.896+00:00",
                 "organization_id": null
             }
+        },
+        {
+            "timestamp": "2023-12-19 23:01:31+00:00",
+            "data": {
+                "id": "f00114d2-584f-4118-848f-a315a146a5f6",
+                "updated_at": "2023-12-19T22:37:56.396428+00:00",
+                "username": "HackerGoblin",
+                "valid_from": "2023-12-19T22:55:28.877+00:00",
+                "organization_id": 2
+            }
         }
     ],
-    "scoreboard": [],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-19 23:01:31+00:00",
+            "data": {
+                "user_id": "f00114d2-584f-4118-848f-a315a146a5f6",
+                "username": "HackerGoblin",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-19T22:53:31.599618+00:00"
+            }
+        }
+    ],
     "current_info": {
-        "score": "?",
-        "num_solves": "?",
+        "score": 10,
+        "num_solves": 1,
         "username": "HackerGoblin",
-        "organization_id": null
+        "organization_id": 2
     }
 }
