@@ -121,11 +121,21 @@
                 "num_solves": 9,
                 "latest_solve_time": "2023-12-18T19:31:28.822595+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-19 14:16:30+00:00",
+            "data": {
+                "user_id": "757cc917-2dae-4b1c-b55a-2817d4e26add",
+                "username": "iSagen",
+                "score": 100,
+                "num_solves": 10,
+                "latest_solve_time": "2023-12-19T14:13:13.083848+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 90,
-        "num_solves": 9,
+        "score": 100,
+        "num_solves": 10,
         "username": "iSagen",
         "organization_id": 1
     }
