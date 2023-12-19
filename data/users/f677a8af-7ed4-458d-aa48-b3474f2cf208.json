@@ -151,11 +151,21 @@
                 "num_solves": 19,
                 "latest_solve_time": "2023-12-17T18:32:52.352853+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-19 19:46:31+00:00",
+            "data": {
+                "user_id": "f677a8af-7ed4-458d-aa48-b3474f2cf208",
+                "username": "ciphr",
+                "score": 194,
+                "num_solves": 23,
+                "latest_solve_time": "2023-12-19T19:32:34.421347+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 163,
-        "num_solves": 19,
+        "score": 194,
+        "num_solves": 23,
         "username": "ciphr",
         "organization_id": 1
     }

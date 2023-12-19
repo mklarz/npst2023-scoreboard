@@ -1,0 +1,21 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-19 19:46:31+00:00",
+            "data": {
+                "id": "86229cb9-28a6-48b0-a208-af4865fc1b52",
+                "updated_at": "2023-12-19T19:43:36.021637+00:00",
+                "username": "TheMechanic",
+                "valid_from": "2023-12-19T19:44:04.452+00:00",
+                "organization_id": 2
+            }
+        }
+    ],
+    "scoreboard": [],
+    "current_info": {
+        "score": "?",
+        "num_solves": "?",
+        "username": "TheMechanic",
+        "organization_id": 2
+    }
+}
