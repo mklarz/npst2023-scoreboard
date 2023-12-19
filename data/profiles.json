@@ -17412,7 +17412,14 @@
         "id": "8cc9f474-f8b1-41ca-966d-58284ed4e74f",
         "updated_at": "2023-12-19T10:29:45.42049+00:00",
         "username": null,
-        "valid_from": "2023-12-19T10:29:45.42049+00:00",
+        "valid_from": "2023-12-19T10:30:05.967+00:00",
+        "organization_id": 1
+    },
+    {
+        "id": "a4edd9cc-dc17-41e5-9a6b-46118acf36f3",
+        "updated_at": "2023-12-19T10:36:46.888709+00:00",
+        "username": "jansov",
+        "valid_from": "2023-12-19T10:37:14.091+00:00",
         "organization_id": null
     },
     {
