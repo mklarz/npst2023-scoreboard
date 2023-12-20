@@ -17601,8 +17601,15 @@
         "id": "4f301751-b1b6-4140-baed-838527068eef",
         "updated_at": "2023-12-19T23:45:59.950584+00:00",
         "username": "kallemann",
-        "valid_from": "2023-12-19T23:46:50.981+00:00",
-        "organization_id": 1
+        "valid_from": "2023-12-20T00:35:30.075+00:00",
+        "organization_id": 2
+    },
+    {
+        "id": "ea913e87-9d15-4451-964b-05537466d293",
+        "updated_at": "2023-12-20T00:42:27.881012+00:00",
+        "username": "zemandriz",
+        "valid_from": "2023-12-20T00:42:45.164+00:00",
+        "organization_id": null
     },
     {
         "id": "8c1a5b3a-8253-429f-89a9-06d24336fecb",
