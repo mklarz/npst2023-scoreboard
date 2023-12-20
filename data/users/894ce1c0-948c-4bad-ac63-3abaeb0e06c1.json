@@ -11,10 +11,21 @@
             }
         }
     ],
-    "scoreboard": [],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-20 22:01:33+00:00",
+            "data": {
+                "user_id": "894ce1c0-948c-4bad-ac63-3abaeb0e06c1",
+                "username": "hack4ramen",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-20T21:57:50.440143+00:00"
+            }
+        }
+    ],
     "current_info": {
-        "score": "?",
-        "num_solves": "?",
+        "score": 10,
+        "num_solves": 1,
         "username": "hack4ramen",
         "organization_id": 1
     }
