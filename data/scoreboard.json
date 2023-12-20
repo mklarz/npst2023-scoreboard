@@ -70,6 +70,13 @@
         "latest_solve_time": "2023-12-20T21:34:20.767076+00:00"
     },
     {
+        "user_id": "172b74d8-2390-4338-bd22-6c015caa18aa",
+        "username": "Gulla",
+        "score": 205,
+        "num_solves": 25,
+        "latest_solve_time": "2023-12-20T21:46:10.44491+00:00"
+    },
+    {
         "user_id": "f677a8af-7ed4-458d-aa48-b3474f2cf208",
         "username": "ciphr",
         "score": 204,
@@ -138,13 +145,6 @@
         "score": 195,
         "num_solves": 24,
         "latest_solve_time": "2023-12-20T12:27:58.906312+00:00"
-    },
-    {
-        "user_id": "172b74d8-2390-4338-bd22-6c015caa18aa",
-        "username": "Gulla",
-        "score": 195,
-        "num_solves": 24,
-        "latest_solve_time": "2023-12-20T21:33:03.302204+00:00"
     },
     {
         "user_id": "b61420c7-1cb8-4833-90f3-cca4ce2b0133",
@@ -735,6 +735,13 @@
         "latest_solve_time": "2023-12-20T16:46:22.846058+00:00"
     },
     {
+        "user_id": "65a6c349-9bff-48f7-8f20-17a3f931d50e",
+        "username": "npit",
+        "score": 141,
+        "num_solves": 15,
+        "latest_solve_time": "2023-12-20T21:58:36.417607+00:00"
+    },
+    {
         "user_id": "713a8e52-5e7f-47dc-84be-d16f69a5b59f",
         "username": "Danzi",
         "score": 140,
@@ -796,13 +803,6 @@
         "score": 131,
         "num_solves": 14,
         "latest_solve_time": "2023-12-19T20:33:30.618762+00:00"
-    },
-    {
-        "user_id": "65a6c349-9bff-48f7-8f20-17a3f931d50e",
-        "username": "npit",
-        "score": 131,
-        "num_solves": 14,
-        "latest_solve_time": "2023-12-20T18:36:27.035727+00:00"
     },
     {
         "user_id": "1686cd23-10b4-400e-9e6d-d71b700f9b78",
@@ -8895,5 +8895,12 @@
         "score": 10,
         "num_solves": 1,
         "latest_solve_time": "2023-12-20T19:55:00.874004+00:00"
+    },
+    {
+        "user_id": "894ce1c0-948c-4bad-ac63-3abaeb0e06c1",
+        "username": "hack4ramen",
+        "score": 10,
+        "num_solves": 1,
+        "latest_solve_time": "2023-12-20T21:57:50.440143+00:00"
     }
 ]
