@@ -49,6 +49,16 @@
                 "valid_from": "2023-12-19T17:52:11.744+00:00",
                 "organization_id": 3
             }
+        },
+        {
+            "timestamp": "2023-12-20 01:01:34+00:00",
+            "data": {
+                "id": "56ea4f2f-f8b3-4205-8ba2-6164b6b313cc",
+                "updated_at": "2023-12-01T20:36:26.8237+00:00",
+                "username": "naustet",
+                "valid_from": "2023-12-20T00:58:56.25+00:00",
+                "organization_id": 3
+            }
         }
     ],
     "scoreboard": [
@@ -261,12 +271,22 @@
                 "num_solves": 20,
                 "latest_solve_time": "2023-12-18T15:07:37.35691+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-20 01:01:34+00:00",
+            "data": {
+                "user_id": "56ea4f2f-f8b3-4205-8ba2-6164b6b313cc",
+                "username": "naustet",
+                "score": 192,
+                "num_solves": 21,
+                "latest_solve_time": "2023-12-20T00:47:09.059153+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 182,
-        "num_solves": 20,
-        "username": "\ud83d\udc0c\ud83d\udc0c\ud83d\udc0c",
+        "score": 192,
+        "num_solves": 21,
+        "username": "naustet",
         "organization_id": 3
     }
 }
