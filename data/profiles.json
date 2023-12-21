@@ -14301,13 +14301,6 @@
         "organization_id": 2
     },
     {
-        "id": "d99a9501-8e45-40da-8233-d546db98fea4",
-        "updated_at": "2023-12-12T09:40:32.772156+00:00",
-        "username": null,
-        "valid_from": "2023-12-12T09:40:32.772156+00:00",
-        "organization_id": null
-    },
-    {
         "id": "7475a87a-0243-4ab5-8a7f-13247f3d65ff",
         "updated_at": "2023-12-12T09:19:46.720822+00:00",
         "username": "tilchristina",
@@ -17792,6 +17785,13 @@
         "username": "anders.drangeid",
         "valid_from": "2023-12-20T23:40:38.281+00:00",
         "organization_id": null
+    },
+    {
+        "id": "d99a9501-8e45-40da-8233-d546db98fea4",
+        "updated_at": "2023-12-12T09:40:32.772156+00:00",
+        "username": null,
+        "valid_from": "2023-12-21T12:55:00.929+00:00",
+        "organization_id": 1
     },
     {
         "id": "8c1a5b3a-8253-429f-89a9-06d24336fecb",
