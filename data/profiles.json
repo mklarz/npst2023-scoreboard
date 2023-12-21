@@ -5698,13 +5698,6 @@
         "organization_id": null
     },
     {
-        "id": "8d53da1e-2879-4201-a06e-a2a8e4ab92e4",
-        "updated_at": "2023-12-01T13:05:23.743278+00:00",
-        "username": "Hjelper1",
-        "valid_from": "2023-12-01T13:06:31.252+00:00",
-        "organization_id": null
-    },
-    {
         "id": "fa8f992a-fba2-487f-939c-ed4546590893",
         "updated_at": "2023-12-01T13:08:40.164596+00:00",
         "username": "jonas",
@@ -17997,6 +17990,13 @@
         "organization_id": null
     },
     {
+        "id": "8d53da1e-2879-4201-a06e-a2a8e4ab92e4",
+        "updated_at": "2023-12-01T13:05:23.743278+00:00",
+        "username": "Hjelper1",
+        "valid_from": "2023-12-21T16:51:40.17+00:00",
+        "organization_id": 1
+    },
+    {
         "id": "56cb9440-e217-4906-8b9f-dd68f310b679",
         "updated_at": "2023-12-17T07:04:51.199001+00:00",
         "username": null,
@@ -18191,5 +18191,12 @@
         "username": "GeirHelge",
         "valid_from": "2023-12-21T16:06:49.869+00:00",
         "organization_id": null
+    },
+    {
+        "id": "c4627086-e61b-4568-a039-4297afac68a8",
+        "updated_at": "2023-12-21T16:49:06.720944+00:00",
+        "username": "ImasM",
+        "valid_from": "2023-12-21T16:57:24.626+00:00",
+        "organization_id": 2
     }
 ]
