@@ -1,0 +1,21 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-21 23:16:37+00:00",
+            "data": {
+                "id": "2c9439d9-7f74-4967-8abc-51d1c56a7914",
+                "updated_at": "2023-12-21T23:05:10.163413+00:00",
+                "username": "Mini man",
+                "valid_from": "2023-12-21T23:08:03.019+00:00",
+                "organization_id": 2
+            }
+        }
+    ],
+    "scoreboard": [],
+    "current_info": {
+        "score": "?",
+        "num_solves": "?",
+        "username": "Mini man",
+        "organization_id": 2
+    }
+}
