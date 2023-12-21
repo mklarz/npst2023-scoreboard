@@ -1,0 +1,21 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-21 10:01:37+00:00",
+            "data": {
+                "id": "7e4d9a01-c5e4-4b6f-be42-193c026c9e5b",
+                "updated_at": "2023-12-21T09:57:00.627396+00:00",
+                "username": "Gabbeh",
+                "valid_from": "2023-12-21T09:57:57.857+00:00",
+                "organization_id": 3
+            }
+        }
+    ],
+    "scoreboard": [],
+    "current_info": {
+        "score": "?",
+        "num_solves": "?",
+        "username": "Gabbeh",
+        "organization_id": 3
+    }
+}
