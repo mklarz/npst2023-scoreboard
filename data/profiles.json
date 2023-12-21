@@ -1610,13 +1610,6 @@
         "organization_id": 1
     },
     {
-        "id": "ee03d771-7aaf-4335-a9be-26fafd4b4af3",
-        "updated_at": "2023-11-30T17:51:37.309232+00:00",
-        "username": "johems",
-        "valid_from": "2023-11-30T17:52:00.367+00:00",
-        "organization_id": null
-    },
-    {
         "id": "cabb6d95-ae06-4ebb-ad7e-4cb4a011f4be",
         "updated_at": "2023-11-30T23:39:11.710924+00:00",
         "username": "zup",
@@ -16618,6 +16611,13 @@
         "organization_id": null
     },
     {
+        "id": "ee03d771-7aaf-4335-a9be-26fafd4b4af3",
+        "updated_at": "2023-11-30T17:51:37.309232+00:00",
+        "username": "johems",
+        "valid_from": "2023-12-21T11:37:04.824+00:00",
+        "organization_id": 1
+    },
+    {
         "id": "467833d3-b353-4662-ae6b-6bbd5461b3e7",
         "updated_at": "2023-12-15T15:23:58.609018+00:00",
         "username": "Persson ",
@@ -17913,6 +17913,13 @@
         "organization_id": 1
     },
     {
+        "id": "bc177999-8c84-46dc-854a-c8e5ad231943",
+        "updated_at": "2023-12-21T11:33:41.81081+00:00",
+        "username": null,
+        "valid_from": "2023-12-21T11:34:15.854+00:00",
+        "organization_id": 3
+    },
+    {
         "id": "8b1ffe92-7802-42ff-88a0-5e262f67cdc6",
         "updated_at": "2023-12-18T09:11:54.337125+00:00",
         "username": "Saue1",
@@ -17946,6 +17953,20 @@
         "username": null,
         "valid_from": "2023-12-18T12:22:00.162+00:00",
         "organization_id": 1
+    },
+    {
+        "id": "82aa183e-f048-4f98-bc99-01103ff98c69",
+        "updated_at": "2023-12-21T11:43:24.252303+00:00",
+        "username": "koltbein",
+        "valid_from": "2023-12-21T11:44:06.839+00:00",
+        "organization_id": null
+    },
+    {
+        "id": "6be3086d-3975-4b8a-a76e-4cab8cc7d194",
+        "updated_at": "2023-12-21T11:44:57.888708+00:00",
+        "username": null,
+        "valid_from": "2023-12-21T11:44:57.888708+00:00",
+        "organization_id": null
     },
     {
         "id": "56cb9440-e217-4906-8b9f-dd68f310b679",
