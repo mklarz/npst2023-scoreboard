@@ -9,13 +9,23 @@
                 "valid_from": "2023-12-21T11:44:57.888708+00:00",
                 "organization_id": null
             }
+        },
+        {
+            "timestamp": "2023-12-21 12:01:38+00:00",
+            "data": {
+                "id": "6be3086d-3975-4b8a-a76e-4cab8cc7d194",
+                "updated_at": "2023-12-21T11:44:57.888708+00:00",
+                "username": "Xn00tn00tx",
+                "valid_from": "2023-12-21T11:46:57.902+00:00",
+                "organization_id": 2
+            }
         }
     ],
     "scoreboard": [],
     "current_info": {
         "score": "?",
         "num_solves": "?",
-        "username": null,
-        "organization_id": null
+        "username": "Xn00tn00tx",
+        "organization_id": 2
     }
 }
