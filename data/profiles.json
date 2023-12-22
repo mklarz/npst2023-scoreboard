@@ -11620,13 +11620,6 @@
         "organization_id": 1
     },
     {
-        "id": "dd190730-5474-478b-8ec4-fb5bd8c92ee2",
-        "updated_at": "2023-12-01T11:05:31.641611+00:00",
-        "username": "Alv_Hjelper_Evergreen",
-        "valid_from": "2023-12-04T12:59:11.412+00:00",
-        "organization_id": 1
-    },
-    {
         "id": "3b12f3af-2f2d-470d-ac09-6b1c770fee20",
         "updated_at": "2023-12-04T18:43:08.137477+00:00",
         "username": "tobmordt",
@@ -18029,6 +18022,13 @@
         "updated_at": "2023-12-01T13:05:23.743278+00:00",
         "username": "Hjelper1",
         "valid_from": "2023-12-21T16:51:40.17+00:00",
+        "organization_id": 1
+    },
+    {
+        "id": "dd190730-5474-478b-8ec4-fb5bd8c92ee2",
+        "updated_at": "2023-12-01T11:05:31.641611+00:00",
+        "username": null,
+        "valid_from": "2023-12-04T12:59:11.412+00:00",
         "organization_id": 1
     },
     {
