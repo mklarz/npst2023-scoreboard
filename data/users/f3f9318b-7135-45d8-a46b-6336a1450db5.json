@@ -341,11 +341,21 @@
                 "num_solves": 26,
                 "latest_solve_time": "2023-12-20T12:38:17.174885+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-22 12:01:40+00:00",
+            "data": {
+                "user_id": "f3f9318b-7135-45d8-a46b-6336a1450db5",
+                "username": "unblvr",
+                "score": 216,
+                "num_solves": 27,
+                "latest_solve_time": "2023-12-22T11:46:20.847316+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 206,
-        "num_solves": 26,
+        "score": 216,
+        "num_solves": 27,
         "username": "unblvr",
         "organization_id": 2
     }

@@ -21,11 +21,21 @@
                 "num_solves": 1,
                 "latest_solve_time": "2023-12-22T11:01:41.81919+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-22 12:01:40+00:00",
+            "data": {
+                "user_id": "ba0f8e24-a8b5-4947-84ea-ee0eae1fa80b",
+                "username": "idaHo",
+                "score": 20,
+                "num_solves": 2,
+                "latest_solve_time": "2023-12-22T11:45:29.091847+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 10,
-        "num_solves": 1,
+        "score": 20,
+        "num_solves": 2,
         "username": "idaHo",
         "organization_id": 3
     }
