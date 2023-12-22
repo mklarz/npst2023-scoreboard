@@ -221,11 +221,21 @@
                 "num_solves": 20,
                 "latest_solve_time": "2023-12-21T13:09:52.151682+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-22 12:31:40+00:00",
+            "data": {
+                "user_id": "26426716-b56f-453c-b584-113a8a0b1273",
+                "username": "Oda",
+                "score": 192,
+                "num_solves": 21,
+                "latest_solve_time": "2023-12-22T12:22:40.480661+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 182,
-        "num_solves": 20,
+        "score": 192,
+        "num_solves": 21,
         "username": "Oda",
         "organization_id": 1
     }
