@@ -18492,5 +18492,12 @@
         "username": "a-wild-sheep",
         "valid_from": "2023-12-23T17:31:33.125+00:00",
         "organization_id": 2
+    },
+    {
+        "id": "5217249c-067e-4dba-b0c8-1cf5fd4d27c2",
+        "updated_at": "2023-12-23T18:33:00.171696+00:00",
+        "username": null,
+        "valid_from": "2023-12-23T18:36:01.352+00:00",
+        "organization_id": 2
     }
 ]

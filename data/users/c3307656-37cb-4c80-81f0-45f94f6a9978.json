@@ -1,0 +1,21 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-23 17:46:43+00:00",
+            "data": {
+                "id": "c3307656-37cb-4c80-81f0-45f94f6a9978",
+                "updated_at": "2023-12-23T17:30:48.924621+00:00",
+                "username": "a-wild-sheep",
+                "valid_from": "2023-12-23T17:31:33.125+00:00",
+                "organization_id": 2
+            }
+        }
+    ],
+    "scoreboard": [],
+    "current_info": {
+        "score": "?",
+        "num_solves": "?",
+        "username": "a-wild-sheep",
+        "organization_id": 2
+    }
+}
