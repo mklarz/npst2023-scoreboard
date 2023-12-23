@@ -1,0 +1,21 @@
+{
+    "profile": [
+        {
+            "timestamp": "2023-12-23 00:01:40+00:00",
+            "data": {
+                "id": "ccd63a75-4103-4458-b481-4333bd44743c",
+                "updated_at": "2023-12-22T23:49:32.618664+00:00",
+                "username": "Graver",
+                "valid_from": "2023-12-22T23:52:12.359+00:00",
+                "organization_id": 1
+            }
+        }
+    ],
+    "scoreboard": [],
+    "current_info": {
+        "score": "?",
+        "num_solves": "?",
+        "username": "Graver",
+        "organization_id": 1
+    }
+}
