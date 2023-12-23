@@ -18401,5 +18401,12 @@
         "username": "gandalv",
         "valid_from": "2023-12-23T09:25:56.579+00:00",
         "organization_id": 1
+    },
+    {
+        "id": "21b60a01-bbfb-4382-b230-9d973fc30a1d",
+        "updated_at": "2023-12-23T10:42:00.633444+00:00",
+        "username": null,
+        "valid_from": "2023-12-23T10:42:35.483+00:00",
+        "organization_id": 1
     }
 ]
