@@ -51,11 +51,21 @@
                 "num_solves": 3,
                 "latest_solve_time": "2023-12-06T19:59:25.295419+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-23 18:46:44+00:00",
+            "data": {
+                "user_id": "421f9708-1619-4f02-bd1d-f09c7db96056",
+                "username": "updht",
+                "score": 40,
+                "num_solves": 4,
+                "latest_solve_time": "2023-12-23T18:35:33.726729+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 30,
-        "num_solves": 3,
+        "score": 40,
+        "num_solves": 4,
         "username": "updht",
         "organization_id": 1
     }
