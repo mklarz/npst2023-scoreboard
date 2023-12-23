@@ -311,11 +311,21 @@
                 "num_solves": 27,
                 "latest_solve_time": "2023-12-22T12:30:35.995025+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-23 13:01:42+00:00",
+            "data": {
+                "user_id": "27fd74cc-51a6-4e38-8d3b-ac9b7b209f18",
+                "username": "Gondolf",
+                "score": 226,
+                "num_solves": 28,
+                "latest_solve_time": "2023-12-23T11:13:02.048388+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 216,
-        "num_solves": 27,
+        "score": 226,
+        "num_solves": 28,
         "username": "Gondolf",
         "organization_id": 1
     }

@@ -351,11 +351,21 @@
                 "num_solves": 27,
                 "latest_solve_time": "2023-12-22T11:46:20.847316+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-23 13:01:42+00:00",
+            "data": {
+                "user_id": "f3f9318b-7135-45d8-a46b-6336a1450db5",
+                "username": "unblvr",
+                "score": 226,
+                "num_solves": 28,
+                "latest_solve_time": "2023-12-23T11:07:39.072908+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 216,
-        "num_solves": 27,
+        "score": 226,
+        "num_solves": 28,
         "username": "unblvr",
         "organization_id": 2
     }
