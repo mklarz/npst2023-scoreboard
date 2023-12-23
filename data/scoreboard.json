@@ -497,6 +497,13 @@
         "latest_solve_time": "2023-12-23T12:52:11.961602+00:00"
     },
     {
+        "user_id": "38ba5872-7b46-4009-b364-2cabb6aeba20",
+        "username": "memfrob",
+        "score": 181,
+        "num_solves": 19,
+        "latest_solve_time": "2023-12-23T15:00:10.977511+00:00"
+    },
+    {
         "user_id": "ed83c646-b8bd-41bc-b952-80f1fba1068e",
         "username": "7h3dr3am",
         "score": 180,
@@ -546,6 +553,13 @@
         "latest_solve_time": "2023-12-23T04:55:21.485453+00:00"
     },
     {
+        "user_id": "9394378f-f68a-4e81-be10-5a53b47345cc",
+        "username": "roys",
+        "score": 172,
+        "num_solves": 19,
+        "latest_solve_time": "2023-12-23T15:07:03.425079+00:00"
+    },
+    {
         "user_id": "2308d77f-2a9f-434f-b586-a0fb0da7f128",
         "username": "E-Team",
         "score": 171,
@@ -558,13 +572,6 @@
         "score": 171,
         "num_solves": 18,
         "latest_solve_time": "2023-12-19T22:58:24.821648+00:00"
-    },
-    {
-        "user_id": "38ba5872-7b46-4009-b364-2cabb6aeba20",
-        "username": "memfrob",
-        "score": 171,
-        "num_solves": 18,
-        "latest_solve_time": "2023-12-23T14:44:52.637666+00:00"
     },
     {
         "user_id": "7a0a3a0a-6d9a-4336-8fdc-79085cc09063",
@@ -586,13 +593,6 @@
         "score": 170,
         "num_solves": 17,
         "latest_solve_time": "2023-12-22T10:33:25.205238+00:00"
-    },
-    {
-        "user_id": "9394378f-f68a-4e81-be10-5a53b47345cc",
-        "username": "roys",
-        "score": 162,
-        "num_solves": 18,
-        "latest_solve_time": "2023-12-17T09:24:55.413774+00:00"
     },
     {
         "user_id": "84799e1e-6288-47d5-98ac-28e05449e26d",
@@ -8951,5 +8951,12 @@
         "score": 10,
         "num_solves": 1,
         "latest_solve_time": "2023-12-23T09:48:44.902579+00:00"
+    },
+    {
+        "user_id": "81426bc5-21eb-4be1-9189-218b1105cae9",
+        "username": "Grinchen2",
+        "score": 10,
+        "num_solves": 1,
+        "latest_solve_time": "2023-12-23T15:06:45.24826+00:00"
     }
 ]
