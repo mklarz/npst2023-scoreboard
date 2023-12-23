@@ -201,11 +201,21 @@
                 "num_solves": 18,
                 "latest_solve_time": "2023-12-23T14:23:31.021435+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-23 16:16:44+00:00",
+            "data": {
+                "user_id": "f4e461db-4c71-4715-8b67-dfc22dccdab8",
+                "username": "zigkill",
+                "score": 172,
+                "num_solves": 19,
+                "latest_solve_time": "2023-12-23T16:02:00.782237+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 162,
-        "num_solves": 18,
+        "score": 172,
+        "num_solves": 19,
         "username": "zigkill",
         "organization_id": 2
     }
