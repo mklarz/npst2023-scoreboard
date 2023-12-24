@@ -6052,5 +6052,47 @@
         "difficulty": "Dvergpingvin",
         "time": 15.87,
         "user_id": "a131fc75-f094-4e1c-85da-fca388ab27d9"
+    },
+    {
+        "username": "RuterKnekt",
+        "difficulty": "Dvergpingvin",
+        "time": 9,
+        "user_id": "a131fc75-f094-4e1c-85da-fca388ab27d9"
+    },
+    {
+        "username": "RuterKnekt",
+        "difficulty": "Dvergpingvin",
+        "time": -9000000000.0,
+        "user_id": "a131fc75-f094-4e1c-85da-fca388ab27d9"
+    },
+    {
+        "username": "RuterKnekt",
+        "difficulty": "Dvergpingvin",
+        "time": "-Infinity",
+        "user_id": "a131fc75-f094-4e1c-85da-fca388ab27d9"
+    },
+    {
+        "username": "RuterKnekt",
+        "difficulty": "Dvergpingvin",
+        "time": "NaN",
+        "user_id": "a131fc75-f094-4e1c-85da-fca388ab27d9"
+    },
+    {
+        "username": "RuterKnekt",
+        "difficulty": "Kongepingvin",
+        "time": "-Infinity",
+        "user_id": "a131fc75-f094-4e1c-85da-fca388ab27d9"
+    },
+    {
+        "username": "RuterKnekt",
+        "difficulty": "Keiserpingvin",
+        "time": "-Infinity",
+        "user_id": "a131fc75-f094-4e1c-85da-fca388ab27d9"
+    },
+    {
+        "username": "RuterKnekt",
+        "difficulty": "Keiserpingvin",
+        "time": "-Infinity",
+        "user_id": "a131fc75-f094-4e1c-85da-fca388ab27d9"
     }
 ]
