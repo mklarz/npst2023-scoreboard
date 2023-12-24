@@ -18569,5 +18569,40 @@
         "username": "haga",
         "valid_from": "2023-12-24T10:40:33.613+00:00",
         "organization_id": 2
+    },
+    {
+        "id": "d63ca874-89f4-432c-a476-cc98de0ec6b1",
+        "updated_at": "2023-12-24T11:00:45.668442+00:00",
+        "username": null,
+        "valid_from": "2023-12-24T11:00:51.606+00:00",
+        "organization_id": 1
+    },
+    {
+        "id": "88dafafc-0779-455e-ac4b-e701c5fc87cb",
+        "updated_at": "2023-12-24T11:01:19.934689+00:00",
+        "username": null,
+        "valid_from": "2023-12-24T11:01:25.575+00:00",
+        "organization_id": 2
+    },
+    {
+        "id": "6188ad15-9dcc-4c5b-8b17-1c489b467ff1",
+        "updated_at": "2023-12-24T11:04:10.346804+00:00",
+        "username": null,
+        "valid_from": "2023-12-24T11:04:27.207+00:00",
+        "organization_id": 1
+    },
+    {
+        "id": "9b7c2622-2d32-4290-8fc1-0da1785ee9e4",
+        "updated_at": "2023-12-24T11:04:58.929198+00:00",
+        "username": null,
+        "valid_from": "2023-12-24T11:05:06.105+00:00",
+        "organization_id": 2
+    },
+    {
+        "id": "65a91bd3-4c7a-4efe-a7e5-4e0f299fb916",
+        "updated_at": "2023-12-24T11:05:59.911341+00:00",
+        "username": null,
+        "valid_from": "2023-12-24T11:06:24.876+00:00",
+        "organization_id": 3
     }
 ]
