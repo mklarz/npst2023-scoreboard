@@ -18562,5 +18562,12 @@
         "username": null,
         "valid_from": "2023-12-23T20:53:24.869635+00:00",
         "organization_id": null
+    },
+    {
+        "id": "6dbd9b61-199f-4546-8d42-3d460d731dec",
+        "updated_at": "2023-12-24T10:39:24.547091+00:00",
+        "username": "haga",
+        "valid_from": "2023-12-24T10:40:33.613+00:00",
+        "organization_id": 2
     }
 ]
