@@ -321,11 +321,21 @@
                 "num_solves": 28,
                 "latest_solve_time": "2023-12-23T11:32:12.707662+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-24 21:46:47+00:00",
+            "data": {
+                "user_id": "a60311f2-6687-4972-b108-8ca8c82ff5b0",
+                "username": "Arka",
+                "score": 236,
+                "num_solves": 29,
+                "latest_solve_time": "2023-12-24T21:35:38.856815+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 226,
-        "num_solves": 28,
+        "score": 236,
+        "num_solves": 29,
         "username": "Arka",
         "organization_id": 3
     }
