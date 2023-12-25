@@ -361,11 +361,21 @@
                 "num_solves": 28,
                 "latest_solve_time": "2023-12-23T11:07:39.072908+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-24 23:01:54+00:00",
+            "data": {
+                "user_id": "f3f9318b-7135-45d8-a46b-6336a1450db5",
+                "username": "unblvr",
+                "score": 236,
+                "num_solves": 29,
+                "latest_solve_time": "2023-12-24T22:51:36.929024+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 226,
-        "num_solves": 28,
+        "score": 236,
+        "num_solves": 29,
         "username": "unblvr",
         "organization_id": 2
     }
