@@ -21,10 +21,21 @@
             }
         }
     ],
-    "scoreboard": [],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-25 15:01:49+00:00",
+            "data": {
+                "user_id": "79138bee-2d10-46ec-92bf-8a865c8a4e8d",
+                "username": "Gaahl",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-25T14:52:47.986962+00:00"
+            }
+        }
+    ],
     "current_info": {
-        "score": "?",
-        "num_solves": "?",
+        "score": 10,
+        "num_solves": 1,
         "username": "Gaahl",
         "organization_id": 1
     }
