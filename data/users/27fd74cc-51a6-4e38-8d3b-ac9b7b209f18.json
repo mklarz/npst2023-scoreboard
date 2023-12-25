@@ -331,11 +331,21 @@
                 "num_solves": 29,
                 "latest_solve_time": "2023-12-25T00:11:45.595556+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-25 14:31:49+00:00",
+            "data": {
+                "user_id": "27fd74cc-51a6-4e38-8d3b-ac9b7b209f18",
+                "username": "Gondolf",
+                "score": 237,
+                "num_solves": 30,
+                "latest_solve_time": "2023-12-25T14:20:07.054713+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 236,
-        "num_solves": 29,
+        "score": 237,
+        "num_solves": 30,
         "username": "Gondolf",
         "organization_id": 1
     }
