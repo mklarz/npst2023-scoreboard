@@ -18646,5 +18646,19 @@
         "username": "Gaahl",
         "valid_from": "2023-12-25T14:37:46.666+00:00",
         "organization_id": 1
+    },
+    {
+        "id": "2c35357e-f4be-4d3b-ac5e-0895474e46a5",
+        "updated_at": "2023-12-25T15:15:38.530488+00:00",
+        "username": "bahner",
+        "valid_from": "2023-12-25T15:16:37+00:00",
+        "organization_id": 2
+    },
+    {
+        "id": "e89f96c1-2516-49ad-925c-41b821f5bd88",
+        "updated_at": "2023-12-25T15:18:28.614757+00:00",
+        "username": "dyar",
+        "valid_from": "2023-12-25T15:18:45.609+00:00",
+        "organization_id": null
     }
 ]
