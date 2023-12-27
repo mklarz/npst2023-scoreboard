@@ -271,11 +271,21 @@
                 "num_solves": 22,
                 "latest_solve_time": "2023-12-20T19:52:51.761579+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-27 15:46:58+00:00",
+            "data": {
+                "user_id": "65178d71-6308-4ea2-b447-ea5374b9ab56",
+                "username": "cer",
+                "score": 194,
+                "num_solves": 23,
+                "latest_solve_time": "2023-12-27T15:41:45.079992+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 184,
-        "num_solves": 22,
+        "score": 194,
+        "num_solves": 23,
         "username": "cer",
         "organization_id": 1
     }
