@@ -3318,13 +3318,6 @@
         "organization_id": 1
     },
     {
-        "id": "fa558e53-aee7-493f-9e2f-5b1fa1dd9b78",
-        "updated_at": "2023-12-01T11:22:26.397196+00:00",
-        "username": "Tjommi",
-        "valid_from": "2023-12-01T11:23:12.628+00:00",
-        "organization_id": null
-    },
-    {
         "id": "aff37574-47b3-468a-ac65-31adef0b450e",
         "updated_at": "2023-12-01T11:21:18.440305+00:00",
         "username": "Saraloekken",
@@ -16616,6 +16609,13 @@
         "username": "Revolverpin",
         "valid_from": "2023-12-26T10:14:29.155+00:00",
         "organization_id": null
+    },
+    {
+        "id": "fa558e53-aee7-493f-9e2f-5b1fa1dd9b78",
+        "updated_at": "2023-12-01T11:22:26.397196+00:00",
+        "username": "Tjommi",
+        "valid_from": "2023-12-27T11:18:54.613+00:00",
+        "organization_id": 3
     },
     {
         "id": "467833d3-b353-4662-ae6b-6bbd5461b3e7",
