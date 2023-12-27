@@ -411,11 +411,21 @@
                 "num_solves": 28,
                 "latest_solve_time": "2023-12-26T09:33:52.430456+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-27 20:16:53+00:00",
+            "data": {
+                "user_id": "a9168551-c71f-4e7f-ab91-247d1f0e9004",
+                "username": "\u0274\u0456\u03c4\u0433\u043e\u042c\u0456\u03c4",
+                "score": 236,
+                "num_solves": 29,
+                "latest_solve_time": "2023-12-27T20:08:21.9277+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 235,
-        "num_solves": 28,
+        "score": 236,
+        "num_solves": 29,
         "username": "\u0274\u0456\u03c4\u0433\u043e\u042c\u0456\u03c4",
         "organization_id": 1
     }
