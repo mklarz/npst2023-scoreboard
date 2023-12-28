@@ -1526,13 +1526,6 @@
         "organization_id": null
     },
     {
-        "id": "a9168551-c71f-4e7f-ab91-247d1f0e9004",
-        "updated_at": "2023-11-30T23:21:26.557821+00:00",
-        "username": "\u0274\u0456\u03c4\u0433\u043e\u042c\u0456\u03c4",
-        "valid_from": "2023-12-18T12:40:17.129+00:00",
-        "organization_id": 1
-    },
-    {
         "id": "02c05646-9a93-44f1-a421-0fc20e02d361",
         "updated_at": "2023-11-30T14:53:21.589119+00:00",
         "username": null,
@@ -1572,6 +1565,13 @@
         "updated_at": "2023-11-30T23:25:18.441596+00:00",
         "username": "Oda",
         "valid_from": "2023-12-04T12:36:06.356+00:00",
+        "organization_id": 1
+    },
+    {
+        "id": "a9168551-c71f-4e7f-ab91-247d1f0e9004",
+        "updated_at": "2023-11-30T23:21:26.557821+00:00",
+        "username": "nitrobit",
+        "valid_from": "2023-12-28T19:00:05.36+00:00",
         "organization_id": 1
     },
     {
