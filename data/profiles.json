@@ -18737,5 +18737,12 @@
         "username": "Kode knekkeren",
         "valid_from": "2023-12-28T09:11:47.722+00:00",
         "organization_id": null
+    },
+    {
+        "id": "edefa8e0-6a94-4b52-ad32-caf9267f99ed",
+        "updated_at": "2023-12-28T09:42:30.164821+00:00",
+        "username": null,
+        "valid_from": "2023-12-28T09:42:56.943+00:00",
+        "organization_id": 3
     }
 ]
