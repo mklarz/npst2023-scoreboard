@@ -18730,5 +18730,12 @@
         "username": "abacus",
         "valid_from": "2023-12-27T17:16:54.873+00:00",
         "organization_id": 2
+    },
+    {
+        "id": "f34f0466-7ee1-44d7-9712-a9525a0aafc9",
+        "updated_at": "2023-12-28T09:11:26.921056+00:00",
+        "username": "Kode knekkeren",
+        "valid_from": "2023-12-28T09:11:47.722+00:00",
+        "organization_id": null
     }
 ]
