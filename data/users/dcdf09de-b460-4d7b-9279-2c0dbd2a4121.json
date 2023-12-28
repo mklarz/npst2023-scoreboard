@@ -9,12 +9,33 @@
                 "valid_from": "2023-12-28T13:34:04.397+00:00",
                 "organization_id": 1
             }
+        },
+        {
+            "timestamp": "2023-12-28 14:01:55+00:00",
+            "data": {
+                "id": "dcdf09de-b460-4d7b-9279-2c0dbd2a4121",
+                "updated_at": "2023-12-28T13:31:39.022214+00:00",
+                "username": "Kode Knekkeren",
+                "valid_from": "2023-12-28T13:48:01.527+00:00",
+                "organization_id": 1
+            }
         }
     ],
-    "scoreboard": [],
+    "scoreboard": [
+        {
+            "timestamp": "2023-12-28 14:01:55+00:00",
+            "data": {
+                "user_id": "dcdf09de-b460-4d7b-9279-2c0dbd2a4121",
+                "username": "Kode Knekkeren",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2023-12-28T13:46:51.97842+00:00"
+            }
+        }
+    ],
     "current_info": {
-        "score": "?",
-        "num_solves": "?",
+        "score": 10,
+        "num_solves": 1,
         "username": "Kode Knekkeren",
         "organization_id": 1
     }
