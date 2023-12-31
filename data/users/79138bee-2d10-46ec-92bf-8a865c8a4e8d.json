@@ -61,11 +61,21 @@
                 "num_solves": 4,
                 "latest_solve_time": "2023-12-25T22:46:22.550622+00:00"
             }
+        },
+        {
+            "timestamp": "2023-12-31 00:16:53+00:00",
+            "data": {
+                "user_id": "79138bee-2d10-46ec-92bf-8a865c8a4e8d",
+                "username": "Gaahl",
+                "score": 50,
+                "num_solves": 5,
+                "latest_solve_time": "2023-12-31T00:14:27.988569+00:00"
+            }
         }
     ],
     "current_info": {
-        "score": 40,
-        "num_solves": 4,
+        "score": 50,
+        "num_solves": 5,
         "username": "Gaahl",
         "organization_id": 1
     }
