@@ -18746,6 +18746,13 @@
         "organization_id": 3
     },
     {
+        "id": "ffaa3ab2-1c8e-4b5e-b49e-7d161c48a45a",
+        "updated_at": "2023-12-31T15:41:10.177957+00:00",
+        "username": null,
+        "valid_from": "2023-12-31T15:41:16.072+00:00",
+        "organization_id": 2
+    },
+    {
         "id": "df6ff24f-d6a6-4d97-9d80-84c5410bab8e",
         "updated_at": "2023-12-24T20:35:07.842772+00:00",
         "username": "rotete",
@@ -18758,5 +18765,12 @@
         "username": "__hackhawk",
         "valid_from": "2023-12-29T13:33:04.84+00:00",
         "organization_id": 1
+    },
+    {
+        "id": "a2969ee2-c74a-44ba-8cc1-a70f3891337c",
+        "updated_at": "2023-12-31T15:39:20.555614+00:00",
+        "username": null,
+        "valid_from": "2023-12-31T15:39:31.965+00:00",
+        "organization_id": 3
     }
 ]
