@@ -18786,5 +18786,19 @@
         "username": null,
         "valid_from": "2024-01-02T18:59:49.846+00:00",
         "organization_id": 2
+    },
+    {
+        "id": "855ebc53-3114-4964-b9b7-93474014a7be",
+        "updated_at": "2024-01-02T19:00:42.691902+00:00",
+        "username": null,
+        "valid_from": "2024-01-02T19:00:42.691902+00:00",
+        "organization_id": null
+    },
+    {
+        "id": "e197ed34-e820-4ce5-9957-a27572d5646f",
+        "updated_at": "2024-01-02T19:02:07.017989+00:00",
+        "username": null,
+        "valid_from": "2024-01-02T19:02:11.447+00:00",
+        "organization_id": 3
     }
 ]
