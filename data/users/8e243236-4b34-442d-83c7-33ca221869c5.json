@@ -29,6 +29,16 @@
                 "valid_from": "2023-12-30T17:14:03.685+00:00",
                 "organization_id": 2
             }
+        },
+        {
+            "timestamp": "2024-01-02 03:16:55+00:00",
+            "data": {
+                "id": "8e243236-4b34-442d-83c7-33ca221869c5",
+                "updated_at": "2023-11-30T16:34:05.126717+00:00",
+                "username": "StateOfLimbo",
+                "valid_from": "2024-01-02T03:04:59.945+00:00",
+                "organization_id": 2
+            }
         }
     ],
     "scoreboard": [
@@ -316,7 +326,7 @@
     "current_info": {
         "score": 237,
         "num_solves": 30,
-        "username": null,
+        "username": "StateOfLimbo",
         "organization_id": 2
     }
 }
