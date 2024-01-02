@@ -18772,5 +18772,12 @@
         "username": null,
         "valid_from": "2023-12-31T15:39:31.965+00:00",
         "organization_id": 3
+    },
+    {
+        "id": "bff346db-2a28-466c-bf59-1e71ebfff153",
+        "updated_at": "2024-01-02T08:46:56.920023+00:00",
+        "username": "addeh",
+        "valid_from": "2024-01-02T08:47:28.609+00:00",
+        "organization_id": 1
     }
 ]
