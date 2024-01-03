@@ -11,10 +11,21 @@
             }
         }
     ],
-    "scoreboard": [],
+    "scoreboard": [
+        {
+            "timestamp": "2024-01-03 12:46:58+00:00",
+            "data": {
+                "user_id": "3971f1cd-7d25-4030-ab65-ed08630f0a27",
+                "username": "otberger",
+                "score": 10,
+                "num_solves": 1,
+                "latest_solve_time": "2024-01-03T12:38:56.744098+00:00"
+            }
+        }
+    ],
     "current_info": {
-        "score": "?",
-        "num_solves": "?",
+        "score": 10,
+        "num_solves": 1,
         "username": "otberger",
         "organization_id": 2
     }
