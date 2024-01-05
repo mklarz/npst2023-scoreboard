@@ -19,6 +19,16 @@
                 "valid_from": "2024-01-03T12:57:07.339+00:00",
                 "organization_id": 2
             }
+        },
+        {
+            "timestamp": "2024-01-05 12:16:57+00:00",
+            "data": {
+                "id": "3971f1cd-7d25-4030-ab65-ed08630f0a27",
+                "updated_at": "2024-01-03T12:17:18.317349+00:00",
+                "username": "otberger",
+                "valid_from": "2024-01-05T12:02:41.034+00:00",
+                "organization_id": 2
+            }
         }
     ],
     "scoreboard": [
