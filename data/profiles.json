@@ -18828,5 +18828,12 @@
         "username": "otberger",
         "valid_from": "2024-01-05T12:02:41.034+00:00",
         "organization_id": 2
+    },
+    {
+        "id": "d4bf7af0-ef57-475f-9160-c9552b5d7865",
+        "updated_at": "2024-01-05T19:51:26.473171+00:00",
+        "username": null,
+        "valid_from": "2024-01-05T19:52:26.123+00:00",
+        "organization_id": 1
     }
 ]
